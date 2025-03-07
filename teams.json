@@ -18,10 +18,10 @@
         "not_lost": 2
     },
     "Liverpool": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 11
+        "not_lost": 12
     },
     "Everton": {
         "winstreak": 0,
@@ -228,10 +228,10 @@
         "not_lost": 8
     },
     "FC Bayern M\u00fcnchen": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 21
+        "not_lost": 22
     },
     "Holstein Kiel": {
         "winstreak": 2,
@@ -270,10 +270,10 @@
         "not_lost": 0
     },
     "SC Freiburg": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 12
+        "not_lost": 13
     },
     "1. FC Union Berlin": {
         "winstreak": 0,
@@ -307,8 +307,8 @@
     },
     "Paris Saint-Germain": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "AS Monaco": {
@@ -384,10 +384,10 @@
         "not_lost": 0
     },
     "Vit\u00f3ria SC": {
-        "winstreak": 2,
+        "winstreak": 0,
         "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 10
+        "not_won": 1,
+        "not_lost": 11
     },
     "AVS - Futebol SAD": {
         "winstreak": 2,
@@ -553,9 +553,9 @@
     },
     "Cercle Brugge": {
         "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 10,
-        "not_lost": 6
+        "losestreak": 1,
+        "not_won": 11,
+        "not_lost": 0
     },
     "Standard Li\u00e8ge": {
         "winstreak": 0,
@@ -576,10 +576,10 @@
         "not_lost": 4
     },
     "Panathinaikos": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "OFI Crete": {
         "winstreak": 8,
@@ -668,13 +668,13 @@
     "Cruz Azul": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 3,
-        "not_lost": 7
+        "not_won": 4,
+        "not_lost": 8
     },
     "Club Am\u00e9rica": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "FC Ju\u00e1rez": {
@@ -684,10 +684,10 @@
         "not_lost": 4
     },
     "CD Guadalajara": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Quer\u00e9taro FC": {
         "winstreak": 2,
@@ -710,8 +710,8 @@
     "CF Monterrey": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 3
+        "not_won": 2,
+        "not_lost": 4
     },
     "Club Necaxa": {
         "winstreak": 0,
@@ -739,8 +739,8 @@
     },
     "HNK Gorica": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 3,
+        "losestreak": 2,
+        "not_won": 4,
         "not_lost": 0
     },
     "HNK \u0160ibenik": {
@@ -750,10 +750,10 @@
         "not_lost": 0
     },
     "NK Slaven Belupo": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 11
+        "not_lost": 12
     },
     "NK Vara\u017edin": {
         "winstreak": 2,
@@ -990,10 +990,10 @@
         "not_lost": 10
     },
     "Burgos Club de F\u00fatbol": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Almer\u00eda": {
         "winstreak": 0,
@@ -1129,8 +1129,8 @@
     },
     "Corinthians": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "EC Noroeste": {
@@ -1429,38 +1429,38 @@
     },
     "\u00c7orum FK": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Band\u0131rmaspor": {
-        "winstreak": 4,
+        "winstreak": 5,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 4
+        "not_lost": 5
     },
     "Erzurumspor FK": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 9,
+        "losestreak": 2,
+        "not_won": 10,
         "not_lost": 0
     },
     "Kocaelispor": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 2,
-        "not_lost": 18
+        "not_won": 3,
+        "not_lost": 19
     },
     "Ke\u00e7i\u00f6reng\u00fcc\u00fc": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 2,
-        "not_lost": 7
+        "not_won": 3,
+        "not_lost": 8
     },
     "Yeni Malatyaspor": {
         "winstreak": 0,
-        "losestreak": 14,
-        "not_won": 14,
+        "losestreak": 15,
+        "not_won": 15,
         "not_lost": 0
     },
     "Gen\u00e7lerbirli\u011fi": {
@@ -1476,40 +1476,40 @@
         "not_lost": 10
     },
     "Pendikspor": {
+        "winstreak": 2,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 2
+    },
+    "Adanaspor": {
+        "winstreak": 4,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 8
+    },
+    "\u00dcmraniyespor": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 8,
+        "not_lost": 1
+    },
+    "MKE Ankarag\u00fcc\u00fc": {
         "winstreak": 1,
         "losestreak": 0,
         "not_won": 0,
         "not_lost": 1
     },
-    "Adanaspor": {
-        "winstreak": 3,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 7
-    },
-    "\u00dcmraniyespor": {
-        "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 7,
-        "not_lost": 0
-    },
-    "MKE Ankarag\u00fcc\u00fc": {
-        "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 4,
-        "not_lost": 0
-    },
     "\u015eanl\u0131urfaspor": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "\u0130stanbulspor": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "not_won": 2,
-        "not_lost": 6
+        "not_won": 0,
+        "not_lost": 7
     },
     "Auckland FC": {
         "winstreak": 0,
@@ -1524,10 +1524,10 @@
         "not_lost": 0
     },
     "Sydney FC": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 10
+        "not_lost": 11
     },
     "Adelaide United": {
         "winstreak": 2,
@@ -1632,10 +1632,10 @@
         "not_lost": 0
     },
     "Once Caldas": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Fortaleza CEIF": {
         "winstreak": 0,
@@ -1651,8 +1651,8 @@
     },
     "Millonarios": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Junior Barranquilla": {
@@ -1686,10 +1686,10 @@
         "not_lost": 6
     },
     "Ban\u00edk Ostrava": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 5
+        "not_lost": 6
     },
     "SK Dynamo \u010cesk\u00e9 Bud\u011bjovice": {
         "winstreak": 0,
@@ -1711,8 +1711,8 @@
     },
     "FK Pardubice": {
         "winstreak": 0,
-        "losestreak": 11,
-        "not_won": 11,
+        "losestreak": 12,
+        "not_won": 12,
         "not_lost": 0
     },
     "GKS Katowice": {
@@ -2083,15 +2083,15 @@
     },
     "Tala'ea El-Gaish": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 5,
+        "losestreak": 2,
+        "not_won": 6,
         "not_lost": 0
     },
     "Pyramids FC": {
-        "winstreak": 14,
+        "winstreak": 15,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 14
+        "not_lost": 15
     },
     "Zamalek SC": {
         "winstreak": 2,
@@ -2124,10 +2124,10 @@
         "not_lost": 6
     },
     "Petrojet": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Al-Ittihad Alexandria": {
         "winstreak": 0,
@@ -2143,8 +2143,8 @@
     },
     "Ghazl El Mahalla": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Mumbai City FC": {
@@ -2155,15 +2155,15 @@
     },
     "East Bengal FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 3,
+        "losestreak": 2,
+        "not_won": 4,
         "not_lost": 0
     },
     "Punjab FC": {
-        "winstreak": 0,
-        "losestreak": 8,
-        "not_won": 12,
-        "not_lost": 0
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
     },
     "Bengaluru FC": {
         "winstreak": 0,
@@ -2233,27 +2233,27 @@
     },
     "Al-Fateh": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "Al-Qadsiah": {
-        "winstreak": 2,
+        "winstreak": 0,
         "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 2
+        "not_won": 1,
+        "not_lost": 3
     },
     "Al-Ittihad": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 4,
-        "not_lost": 12
+        "not_won": 5,
+        "not_lost": 13
     },
     "Al-Kholood": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "FC Hermannstadt": {
         "winstreak": 0,
@@ -2329,8 +2329,8 @@
     },
     "FC Lugano": {
         "winstreak": 0,
-        "losestreak": 4,
-        "not_won": 4,
+        "losestreak": 5,
+        "not_won": 5,
         "not_lost": 0
     },
     "FC Sion": {
@@ -2352,10 +2352,10 @@
         "not_lost": 4
     },
     "Richards Bay FC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 10
+        "not_lost": 11
     },
     "Magesi FC": {
         "winstreak": 0,
@@ -2364,10 +2364,10 @@
         "not_lost": 0
     },
     "Orlando Pirates": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Kaizer Chiefs": {
         "winstreak": 2,
@@ -2383,8 +2383,8 @@
     },
     "Sekhukhune United": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Polokwane City": {
@@ -2395,21 +2395,21 @@
     },
     "Chippa United": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 5,
+        "losestreak": 2,
+        "not_won": 6,
         "not_lost": 0
     },
     "AmaZulu FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 5
+        "not_won": 2,
+        "not_lost": 6
     },
     "Supersport United": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 1
+        "not_won": 6,
+        "not_lost": 2
     },
     "Canberra United": {
         "winstreak": 0,
@@ -2546,8 +2546,8 @@
     "Al-Sharjah": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 3
+        "not_won": 2,
+        "not_lost": 4
     },
     "Dibba Al-Hisn": {
         "winstreak": 0,
@@ -2634,10 +2634,10 @@
         "not_lost": 2
     },
     "Olympique Lyonnais": {
-        "winstreak": 4,
+        "winstreak": 5,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 4
+        "not_lost": 5
     },
     "Stade de Reims": {
         "winstreak": 0,
@@ -2682,16 +2682,16 @@
         "not_lost": 0
     },
     "Inter": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 7
+        "not_lost": 8
     },
     "Fiorentina": {
         "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 2,
-        "not_lost": 4
+        "losestreak": 1,
+        "not_won": 3,
+        "not_lost": 0
     },
     "AS Roma": {
         "winstreak": 0,
@@ -2718,10 +2718,10 @@
         "not_lost": 0
     },
     "Eintracht Frankfurt": {
-        "winstreak": 0,
-        "losestreak": 5,
-        "not_won": 5,
-        "not_lost": 0
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
     },
     "Bayer Leverkusen": {
         "winstreak": 0,
@@ -2744,8 +2744,8 @@
     "Real Sociedad": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 6,
-        "not_lost": 1
+        "not_won": 7,
+        "not_lost": 2
     },
     "Deportivo Abanca": {
         "winstreak": 0,
@@ -2760,10 +2760,10 @@
         "not_lost": 4
     },
     "Barcelona": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 21
+        "not_lost": 22
     },
     "Levante UD": {
         "winstreak": 1,
@@ -2839,15 +2839,15 @@
     },
     "Olympique Akbou": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 8,
+        "losestreak": 3,
+        "not_won": 9,
         "not_lost": 0
     },
     "USM Alger": {
-        "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
     },
     "Barracas Central": {
         "winstreak": 0,
@@ -2922,10 +2922,10 @@
         "not_lost": 2
     },
     "K\u0259p\u0259z PFK": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Sabah FK": {
         "winstreak": 0,
@@ -2935,8 +2935,8 @@
     },
     "Neft\u00e7i Baku PFK": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "\u015eamax\u0131 FK": {
@@ -2970,10 +2970,10 @@
         "not_lost": 4
     },
     "Vasco da Gama": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Volta Redonda": {
         "winstreak": 0,
@@ -3007,8 +3007,8 @@
     },
     "Caxias": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Juventude": {
@@ -3024,15 +3024,15 @@
         "not_lost": 0
     },
     "Atl\u00e9tico Mineiro": {
-        "winstreak": 15,
+        "winstreak": 16,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 15
+        "not_lost": 16
     },
     "Athletic Club": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "Tombense": {
@@ -3067,8 +3067,8 @@
     },
     "Sousa EC": {
         "winstreak": 0,
-        "losestreak": 7,
-        "not_won": 11,
+        "losestreak": 8,
+        "not_won": 12,
         "not_lost": 0
     },
     "Pombal EC": {
@@ -3084,10 +3084,10 @@
         "not_lost": 8
     },
     "Sport Recife": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Dorense FC": {
         "winstreak": 4,
@@ -3097,21 +3097,21 @@
     },
     "Sergipe": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "AO Itabaiana": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 11
+        "not_lost": 12
     },
     "Falcon-SE FC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "San Marcos de Arica": {
         "winstreak": 0,
@@ -3133,8 +3133,8 @@
     },
     "Everton de Vi\u00f1a del Mar": {
         "winstreak": 0,
-        "losestreak": 5,
-        "not_won": 7,
+        "losestreak": 6,
+        "not_won": 8,
         "not_lost": 0
     },
     "San Luis de Quillota": {
@@ -3156,10 +3156,10 @@
         "not_lost": 2
     },
     "Uni\u00f3n Espa\u00f1ola": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Deportes Temuco": {
         "winstreak": 0,
@@ -3619,8 +3619,8 @@
     },
     "FC Carl Zeiss Jena": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 5,
+        "losestreak": 2,
+        "not_won": 6,
         "not_lost": 0
     },
     "Greifswalder FC": {
@@ -3649,15 +3649,15 @@
     },
     "Hertha Zehlendorf": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "BSG Chemie Leipzig": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "FSV Luckenwalde": {
         "winstreak": 0,
@@ -3690,10 +3690,10 @@
         "not_lost": 2
     },
     "FC G\u00fctersloh": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 10
+        "not_lost": 11
     },
     "KFC Uerdingen 05": {
         "winstreak": 0,
@@ -3763,8 +3763,8 @@
     },
     "Sportfreunde Lotte": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 3,
+        "losestreak": 2,
+        "not_won": 4,
         "not_lost": 0
     },
     "Turkspor Dortmund 2000": {
@@ -3871,14 +3871,14 @@
     },
     "CD Marquense": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 7,
+        "losestreak": 4,
+        "not_won": 8,
         "not_lost": 0
     },
     "Antigua GFC": {
         "winstreak": 0,
-        "losestreak": 7,
-        "not_won": 7,
+        "losestreak": 8,
+        "not_won": 8,
         "not_lost": 0
     },
     "Dempo SC": {
@@ -3894,10 +3894,10 @@
         "not_lost": 0
     },
     "Inter Kashi FC": {
-        "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
     },
     "Gokulam Kerala FC": {
         "winstreak": 0,
@@ -3912,10 +3912,10 @@
         "not_lost": 2
     },
     "Namdhari Football Club": {
-        "winstreak": 3,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 5
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "Real Kashmir": {
         "winstreak": 2,
@@ -3944,20 +3944,20 @@
     "Madura United FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 1
+        "not_won": 6,
+        "not_lost": 2
     },
     "Persis Solo": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 1,
+        "not_lost": 9
+    },
+    "Persib Bandung": {
         "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 8
-    },
-    "Persib Bandung": {
-        "winstreak": 1,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "PSM Makassar": {
         "winstreak": 4,
@@ -3967,8 +3967,8 @@
     },
     "Borneo FC Samarinda": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "PSS Sleman": {
@@ -3979,8 +3979,8 @@
     },
     "Semen Padang FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 5,
+        "losestreak": 2,
+        "not_won": 6,
         "not_lost": 0
     },
     "Malut United FC": {
@@ -4014,10 +4014,10 @@
         "not_lost": 0
     },
     "Gol Gohar Sirjan": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 4
+        "not_lost": 5
     },
     "Nassaji Mazandaran FC": {
         "winstreak": 2,
@@ -4034,8 +4034,8 @@
     "Sepahan S.C.": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 3,
-        "not_lost": 10
+        "not_won": 4,
+        "not_lost": 11
     },
     "Zob Ahan": {
         "winstreak": 3,
@@ -4044,10 +4044,10 @@
         "not_lost": 3
     },
     "Kheybar Khorramabad FC": {
-        "winstreak": 3,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 3
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "Chador Malu Yazd": {
         "winstreak": 0,
@@ -4417,8 +4417,8 @@
     },
     "CD Tapat\u00edo": {
         "winstreak": 0,
-        "losestreak": 7,
-        "not_won": 7,
+        "losestreak": 8,
+        "not_won": 8,
         "not_lost": 0
     },
     "Tepatitl\u00e1n FC": {
@@ -4482,10 +4482,10 @@
         "not_lost": 2
     },
     "Cerro Porte\u00f1o": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Nacional Asunci\u00f3n": {
         "winstreak": 2,
@@ -4651,8 +4651,8 @@
     },
     "Benfica": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Sporting CP": {
@@ -4682,8 +4682,8 @@
     "Livingston": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 3,
-        "not_lost": 14
+        "not_won": 4,
+        "not_lost": 15
     },
     "Airdrieonians": {
         "winstreak": 0,
@@ -4706,8 +4706,8 @@
     "Raith Rovers": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 1
+        "not_won": 6,
+        "not_lost": 2
     },
     "Hamilton Academical": {
         "winstreak": 0,
@@ -4896,16 +4896,16 @@
         "not_lost": 0
     },
     "NK Celje": {
-        "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
-    },
-    "NK Bravo": {
         "winstreak": 1,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 11
+        "not_lost": 1
+    },
+    "NK Bravo": {
+        "winstreak": 2,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 12
     },
     "NK Maribor": {
         "winstreak": 6,
@@ -4914,10 +4914,10 @@
         "not_lost": 6
     },
     "NK Dom\u017eale": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Paraguay U20": {
         "winstreak": 4,
@@ -5064,10 +5064,10 @@
         "not_lost": 2
     },
     "Cerro Largo": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 7
+        "not_lost": 8
     },
     "Juventud de Las Piedras": {
         "winstreak": 4,
@@ -5089,9 +5089,9 @@
     },
     "Danubio": {
         "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 8,
-        "not_lost": 8
+        "losestreak": 1,
+        "not_won": 9,
+        "not_lost": 0
     },
     "Liverpool UY": {
         "winstreak": 2,
@@ -5130,10 +5130,10 @@
         "not_lost": 0
     },
     "Academia Puerto Cabello": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Bala Town": {
         "winstreak": 0,
@@ -5245,9 +5245,9 @@
     },
     "FC Kryvbas Kryvyi Rih": {
         "winstreak": 0,
-        "losestreak": 6,
-        "not_won": 9,
-        "not_lost": 0
+        "losestreak": 0,
+        "not_won": 10,
+        "not_lost": 1
     },
     "Kalmar FF": {
         "winstreak": 0,
@@ -5316,10 +5316,10 @@
         "not_lost": 0
     },
     "Beltinci Klima Tratnjek": {
-        "winstreak": 7,
+        "winstreak": 8,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 7
+        "not_lost": 8
     },
     "USV Weindorf St. Anna am Aigen": {
         "winstreak": 2,
@@ -5364,10 +5364,10 @@
         "not_lost": 0
     },
     "Molde FK": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "St. Patrick's Athletic": {
         "winstreak": 4,
@@ -5545,9 +5545,9 @@
     },
     "FC K\u00f8benhavn": {
         "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 2,
-        "not_lost": 8
+        "losestreak": 1,
+        "not_won": 3,
+        "not_lost": 0
     },
     "Brentford": {
         "winstreak": 0,
@@ -5557,15 +5557,15 @@
     },
     "Tottenham Hotspur": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "Manchester United": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
+        "losestreak": 0,
+        "not_won": 3,
+        "not_lost": 1
     },
     "Crystal Palace": {
         "winstreak": 6,
@@ -5605,9 +5605,9 @@
     },
     "Real Betis": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
-        "not_lost": 0
+        "losestreak": 0,
+        "not_won": 2,
+        "not_lost": 1
     },
     "Genoa": {
         "winstreak": 0,
@@ -5616,10 +5616,10 @@
         "not_lost": 2
     },
     "Roma": {
-        "winstreak": 8,
+        "winstreak": 9,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 13
+        "not_lost": 14
     },
     "VfL Wolfsburg": {
         "winstreak": 2,
@@ -5629,8 +5629,8 @@
     },
     "Bayer 04 Leverkusen": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "TSG Hoffenheim": {
@@ -5700,15 +5700,15 @@
         "not_lost": 6
     },
     "AFC Ajax": {
-        "winstreak": 4,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 4
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "Feyenoord": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 3,
+        "losestreak": 2,
+        "not_won": 4,
         "not_lost": 0
     },
     "Go Ahead Eagles": {
@@ -5742,10 +5742,10 @@
         "not_lost": 0
     },
     "AZ Alkmaar": {
-        "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
-        "not_lost": 0
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
     },
     "G\u00f6ztepe": {
         "winstreak": 0,
@@ -5760,10 +5760,10 @@
         "not_lost": 0
     },
     "Fenerbah\u00e7e": {
-        "winstreak": 4,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 18
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "\u00c7aykur Rizespor": {
         "winstreak": 3,
@@ -5826,10 +5826,10 @@
         "not_lost": 0
     },
     "Olympiacos FC": {
-        "winstreak": 8,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 14
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "Athens Kallithea FC": {
         "winstreak": 0,
@@ -5880,10 +5880,10 @@
         "not_lost": 4
     },
     "Rangers": {
-        "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
     },
     "Ross County": {
         "winstreak": 2,
@@ -6151,8 +6151,8 @@
     },
     "Sakaryaspor": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 6,
+        "losestreak": 3,
+        "not_won": 7,
         "not_lost": 0
     },
     "Manisa FK": {
@@ -6163,21 +6163,21 @@
     },
     "Fatih Karag\u00fcmr\u00fck": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Esenler Erokspor": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 10,
-        "not_lost": 8
+        "not_won": 11,
+        "not_lost": 9
     },
     "Boluspor": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 4
+        "not_lost": 5
     },
     "Hapoel Haifa": {
         "winstreak": 6,
@@ -6276,10 +6276,10 @@
         "not_lost": 0
     },
     "Jagiellonia Bia\u0142ystok": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "Radomiak Radom": {
         "winstreak": 0,
@@ -6288,10 +6288,10 @@
         "not_lost": 4
     },
     "Legia Warszawa": {
-        "winstreak": 4,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 4
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "MKS Korona Kielce": {
         "winstreak": 2,
@@ -6313,8 +6313,8 @@
     },
     "Ceramica Cleopatra": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Smouha": {
@@ -6330,15 +6330,15 @@
         "not_lost": 0
     },
     "Al Ahly FC": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 13
+        "not_lost": 14
     },
     "Jamshedpur FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 3,
+        "losestreak": 2,
+        "not_won": 4,
         "not_lost": 0
     },
     "FC Goa": {
@@ -6361,9 +6361,9 @@
     },
     "FCSB": {
         "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 2,
-        "not_lost": 16
+        "losestreak": 1,
+        "not_won": 3,
+        "not_lost": 0
     },
     "CFR 1907 Cluj": {
         "winstreak": 0,
@@ -6410,26 +6410,26 @@
     "TS Galaxy": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 3
+        "not_won": 2,
+        "not_lost": 4
     },
     "Cape Town City FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 13,
-        "not_lost": 1
+        "not_won": 14,
+        "not_lost": 2
     },
     "Mamelodi Sundowns": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 9
+        "not_won": 2,
+        "not_lost": 10
     },
     "Lamontville Golden Arrows": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 9,
-        "not_lost": 1
+        "not_won": 10,
+        "not_lost": 2
     },
     "Khon Kaen United": {
         "winstreak": 0,
@@ -6458,8 +6458,8 @@
     "Manchester City W.F.C.": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 5
+        "not_won": 2,
+        "not_lost": 6
     },
     "Arsenal Women": {
         "winstreak": 6,
@@ -6487,8 +6487,8 @@
     },
     "Leicester City WFC": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Liverpool FC Women": {
@@ -6500,8 +6500,8 @@
     "West Ham Women": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 3,
-        "not_lost": 1
+        "not_won": 4,
+        "not_lost": 2
     },
     "Aston Villa WFC": {
         "winstreak": 0,
@@ -6510,10 +6510,10 @@
         "not_lost": 0
     },
     "Chelsea FC Women": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 7
+        "not_lost": 8
     },
     "Tottenham FC Women": {
         "winstreak": 0,
@@ -6570,10 +6570,10 @@
         "not_lost": 0
     },
     "Lazio": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 5
+        "not_lost": 6
     },
     "FC Levante Badalona": {
         "winstreak": 0,
@@ -6606,16 +6606,16 @@
         "not_lost": 4
     },
     "ES Mostaganem": {
-        "winstreak": 2,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 2
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "MC Alger": {
-        "winstreak": 8,
+        "winstreak": 9,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 10
+        "not_lost": 11
     },
     "San Lorenzo": {
         "winstreak": 2,
@@ -6625,8 +6625,8 @@
     },
     "River Plate": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Boca Juniors": {
@@ -6733,27 +6733,27 @@
     },
     "Nova Igua\u00e7u": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 3,
+        "losestreak": 2,
+        "not_won": 4,
         "not_lost": 0
     },
     "Fluminense": {
-        "winstreak": 9,
+        "winstreak": 10,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 15
+        "not_lost": 16
     },
     "Gr\u00eamio Esportivo Brasil": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "EC S\u00e3o Jos\u00e9": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Guarany de Bag\u00e9": {
         "winstreak": 2,
@@ -6763,8 +6763,8 @@
     },
     "EC Pelotas": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 17,
+        "losestreak": 2,
+        "not_won": 18,
         "not_lost": 0
     },
     "Internacional": {
@@ -6775,8 +6775,8 @@
     },
     "EC Avenida": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "EC Democrata": {
@@ -6859,8 +6859,8 @@
     },
     "N\u00e1utico": {
         "winstreak": 0,
-        "losestreak": 6,
-        "not_won": 6,
+        "losestreak": 7,
+        "not_won": 7,
         "not_lost": 0
     },
     "Petrolina SFC": {
@@ -6876,15 +6876,15 @@
         "not_lost": 2
     },
     "Am\u00e9rica-SE": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 7
+        "not_lost": 8
     },
     "AA Guarany": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Confian\u00e7a": {
@@ -6895,8 +6895,8 @@
     },
     "Lagarto FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Cobreloa": {
@@ -6984,10 +6984,10 @@
         "not_lost": 8
     },
     "Herediano": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 19
+        "not_lost": 20
     },
     "Sporting FC": {
         "winstreak": 2,
@@ -6996,10 +6996,10 @@
         "not_lost": 2
     },
     "Puntarenas FC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 13
+        "not_lost": 14
     },
     "Municipal P\u00e9rez Zeled\u00f3n": {
         "winstreak": 2,
@@ -7015,8 +7015,8 @@
     },
     "CS Cartagin\u00e9s": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Ethnikos Achnas": {
@@ -7291,33 +7291,33 @@
     },
     "Comunicaciones FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Deportivo Achuapa": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Deportivo Mixco": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "CSD Xelaj\u00fa MC": {
         "winstreak": 0,
-        "losestreak": 5,
-        "not_won": 7,
+        "losestreak": 6,
+        "not_won": 8,
         "not_lost": 0
     },
     "Xinabajul Huehue": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Churchill Brothers SC": {
         "winstreak": 3,
@@ -7332,16 +7332,16 @@
         "not_lost": 0
     },
     "Persija Jakarta": {
+        "winstreak": 2,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 2
+    },
+    "PSBS Biak": {
         "winstreak": 1,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
-    },
-    "PSBS Biak": {
-        "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 10,
-        "not_lost": 4
+        "not_lost": 5
     },
     "Arema FC": {
         "winstreak": 0,
@@ -7352,8 +7352,8 @@
     "Bali United FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 6,
-        "not_lost": 2
+        "not_won": 7,
+        "not_lost": 3
     },
     "Aluminium Arak": {
         "winstreak": 0,
@@ -7536,10 +7536,10 @@
         "not_lost": 2
     },
     "Venados": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Atlante FC": {
         "winstreak": 4,
@@ -7615,15 +7615,15 @@
     },
     "NK Olimpija Ljubljana": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "ND Primorje": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 9,
-        "not_lost": 1
+        "not_won": 10,
+        "not_lost": 2
     },
     "N\u0160 Mura": {
         "winstreak": 0,
@@ -7632,10 +7632,10 @@
         "not_lost": 2
     },
     "NK Nafta Lendava 1903": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 5
+        "not_lost": 6
     },
     "Kalcer Radomlje": {
         "winstreak": 0,
@@ -7646,8 +7646,8 @@
     "FC Koper": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 3,
-        "not_lost": 5
+        "not_won": 4,
+        "not_lost": 6
     },
     "Avenir Sportif De Gabes": {
         "winstreak": 0,
@@ -7747,15 +7747,15 @@
     },
     "Montevideo Wanderers": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 9,
+        "losestreak": 4,
+        "not_won": 10,
         "not_lost": 0
     },
     "Racing de Montevideo": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Zamora": {
         "winstreak": 0,
@@ -7830,10 +7830,10 @@
         "not_lost": 0
     },
     "Chelsea": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "West Ham United": {
         "winstreak": 4,
@@ -7933,8 +7933,8 @@
     },
     "Racing de Ferrol": {
         "winstreak": 0,
-        "losestreak": 9,
-        "not_won": 9,
+        "losestreak": 10,
+        "not_won": 10,
         "not_lost": 0
     },
     "Jong AZ Alkmaar": {
@@ -7992,10 +7992,10 @@
         "not_lost": 2
     },
     "Viktoria Plze\u0148": {
-        "winstreak": 4,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 4
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "\u015al\u0105sk Wroc\u0142aw": {
         "winstreak": 0,
@@ -8010,10 +8010,10 @@
         "not_lost": 2
     },
     "Odisha FC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "NorthEast United": {
         "winstreak": 2,
@@ -8035,15 +8035,15 @@
     },
     "MC Oran": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "CR Belouizdad": {
-        "winstreak": 2,
+        "winstreak": 0,
         "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 2
+        "not_won": 1,
+        "not_lost": 3
     },
     "Defensa y Justicia": {
         "winstreak": 2,
@@ -8076,10 +8076,10 @@
         "not_lost": 8
     },
     "Club Atl\u00e9tico Uni\u00f3n de Santa Fe": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Argentinos Juniors": {
         "winstreak": 2,
@@ -8214,10 +8214,10 @@
         "not_lost": 0
     },
     "Pafos FC": {
-        "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
     },
     "ALS Omonia": {
         "winstreak": 0,
@@ -8269,15 +8269,15 @@
     },
     "PSIS Semarang": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 9,
+        "losestreak": 2,
+        "not_won": 10,
         "not_lost": 0
     },
     "Dewa United FC": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 5
+        "not_lost": 6
     },
     "Pro Vercelli": {
         "winstreak": 0,
@@ -8329,15 +8329,15 @@
     },
     "CS 2 de Mayo": {
         "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 10,
-        "not_lost": 8
+        "losestreak": 1,
+        "not_won": 11,
+        "not_lost": 0
     },
     "Guaran\u00ed": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "Olimpia": {
         "winstreak": 0,
@@ -8383,8 +8383,8 @@
     },
     "Metropolitanos": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "SKN St. P\u00f6lten": {
@@ -8395,8 +8395,8 @@
     },
     "KF Shk\u00ebndija": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Playford City": {
@@ -8462,8 +8462,8 @@
     "Shabab Al-Ahli Dubai": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 13
+        "not_won": 2,
+        "not_lost": 14
     },
     "Godoy Cruz": {
         "winstreak": 2,
@@ -8472,10 +8472,10 @@
         "not_lost": 2
     },
     "Talleres": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Atl\u00e9tico Tucum\u00e1n": {
         "winstreak": 0,
@@ -8484,10 +8484,10 @@
         "not_lost": 0
     },
     "Deportivo Riestra": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 5
+        "not_lost": 6
     },
     "Al-Gharafa": {
         "winstreak": 0,
@@ -8502,27 +8502,27 @@
         "not_lost": 4
     },
     "Fortaleza": {
+        "winstreak": 2,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 2
+    },
+    "Vit\u00f3ria": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 2,
+        "not_lost": 10
+    },
+    "Sampaio Corr\u00eaa": {
         "winstreak": 1,
         "losestreak": 0,
         "not_won": 0,
         "not_lost": 1
     },
-    "Vit\u00f3ria": {
-        "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 9
-    },
-    "Sampaio Corr\u00eaa": {
-        "winstreak": 0,
-        "losestreak": 6,
-        "not_won": 8,
-        "not_lost": 0
-    },
     "Am\u00e9rica-RN": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "Ludogorets": {
@@ -8604,10 +8604,10 @@
         "not_lost": 2
     },
     "Benfica U23": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "Torreense U23": {
         "winstreak": 0,
@@ -8695,8 +8695,8 @@
     },
     "Besa 1976": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 7,
+        "losestreak": 2,
+        "not_won": 8,
         "not_lost": 0
     },
     "Bregalnica \u0160tip": {
@@ -8870,25 +8870,25 @@
     "AA Altos": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 1
+        "not_won": 6,
+        "not_lost": 2
     },
     "CRB": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Moto Club": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Ferrovi\u00e1rio": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Juazeirense": {
@@ -8904,10 +8904,10 @@
         "not_lost": 8
     },
     "Cear\u00e1": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 6
+        "not_lost": 7
     },
     "CSA": {
         "winstreak": 6,
@@ -8916,10 +8916,10 @@
         "not_lost": 6
     },
     "Deportivo Guastatoya": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Johor Darul Ta'zim": {
         "winstreak": 0,
@@ -8941,8 +8941,8 @@
     },
     "Famalic\u00e3o U23": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "Unia Skierniewice": {
@@ -8964,10 +8964,10 @@
         "not_lost": 0
     },
     "KF Gostivar": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Kickers Emden": {
         "winstreak": 0,
@@ -9067,9 +9067,9 @@
     },
     "Al-Raed": {
         "winstreak": 0,
-        "losestreak": 0,
-        "not_won": 4,
-        "not_lost": 2
+        "losestreak": 1,
+        "not_won": 5,
+        "not_lost": 0
     },
     "Cibao FC": {
         "winstreak": 0,
@@ -9104,8 +9104,8 @@
     "A'Ali FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 1
+        "not_won": 6,
+        "not_lost": 2
     },
     "Al Khalidiyah": {
         "winstreak": 4,
@@ -9115,8 +9115,8 @@
     },
     "Al-Ahli Club": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 5,
+        "losestreak": 2,
+        "not_won": 6,
         "not_lost": 0
     },
     "Al-Shabab Manama": {
@@ -9138,22 +9138,22 @@
         "not_lost": 0
     },
     "Shanghai Shenhua": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 8
+        "not_lost": 9
     },
     "Persik Kediri": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 9,
+        "losestreak": 4,
+        "not_won": 10,
         "not_lost": 0
     },
     "Esteghlal Khuzestan": {
         "winstreak": 0,
-        "losestreak": 5,
-        "not_won": 5,
-        "not_lost": 0
+        "losestreak": 0,
+        "not_won": 6,
+        "not_lost": 1
     },
     "Kuching City": {
         "winstreak": 4,
@@ -9186,10 +9186,10 @@
         "not_lost": 0
     },
     "Dynamo Kyiv": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "not_won": 2,
-        "not_lost": 8
+        "not_won": 0,
+        "not_lost": 9
     },
     "Hammarby IF": {
         "winstreak": 4,
@@ -9211,8 +9211,8 @@
     },
     "LNZ Cherkasy": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "AFC Metalul Buz\u0103u": {
@@ -9235,8 +9235,8 @@
     },
     "Hyderabad FC": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 6,
+        "losestreak": 3,
+        "not_won": 7,
         "not_lost": 0
     },
     "Sport Huancayo": {
@@ -9258,10 +9258,10 @@
         "not_lost": 4
     },
     "Al-Wehda": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "not_won": 10,
-        "not_lost": 2
+        "not_won": 0,
+        "not_lost": 3
     },
     "Al-Ahli Doha": {
         "winstreak": 0,
@@ -9301,8 +9301,8 @@
     },
     "San Telmo": {
         "winstreak": 0,
-        "losestreak": 5,
-        "not_won": 7,
+        "losestreak": 6,
+        "not_won": 8,
         "not_lost": 0
     },
     "Chaco For Ever": {
@@ -9372,16 +9372,16 @@
         "not_lost": 8
     },
     "Vissel Kobe": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "Sanfrecce Hiroshima": {
-        "winstreak": 4,
+        "winstreak": 5,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 18
+        "not_lost": 19
     },
     "Kelantan Darul Naim": {
         "winstreak": 0,
@@ -9654,10 +9654,10 @@
         "not_lost": 0
     },
     "SK Rapid Wien": {
-        "winstreak": 2,
+        "winstreak": 0,
         "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 2
+        "not_won": 1,
+        "not_lost": 3
     },
     "Chennaiyin FC": {
         "winstreak": 0,
@@ -9667,8 +9667,8 @@
     },
     "Melgar": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Universidad T\u00e9cnica de Cajamarca": {
@@ -9781,8 +9781,8 @@
     },
     "Colegiales": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 9,
+        "losestreak": 4,
+        "not_won": 10,
         "not_lost": 0
     },
     "Alvarado": {
@@ -9846,16 +9846,16 @@
         "not_lost": 0
     },
     "Bahrain SC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Sitra Club": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 1
+        "not_won": 6,
+        "not_lost": 2
     },
     "Al Najma Manama": {
         "winstreak": 0,
@@ -10069,8 +10069,8 @@
     },
     "Lion City Sailors": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "CD Olimpia": {
@@ -10406,14 +10406,14 @@
     "Malkiya Club": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 3,
-        "not_lost": 5
+        "not_won": 4,
+        "not_lost": 6
     },
     "East Riffa": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 3
+        "not_won": 6,
+        "not_lost": 4
     },
     "Al-Muharraq": {
         "winstreak": 6,
@@ -10537,8 +10537,8 @@
     },
     "Atalanta U19": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "Jong Ajax": {
@@ -10591,8 +10591,8 @@
     },
     "Kawasaki Frontale": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Beroe Stara Zagora": {
@@ -10650,10 +10650,10 @@
         "not_lost": 0
     },
     "AZ Alkmaar U19": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Benfica U19": {
         "winstreak": 0,
@@ -10662,10 +10662,10 @@
         "not_lost": 0
     },
     "VfB Stuttgart U19": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Liverpool U19": {
         "winstreak": 0,
@@ -10674,10 +10674,10 @@
         "not_lost": 0
     },
     "Inter U19": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Lille U19": {
         "winstreak": 0,
@@ -10693,14 +10693,14 @@
     },
     "Bayern M\u00fcnchen U19": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "TSG Hoffenheim U19": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Shakhtar Donetsk U19": {
@@ -10717,8 +10717,8 @@
     },
     "SK Sturm Graz U19": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "NK Bjelovar": {
@@ -10734,16 +10734,16 @@
         "not_lost": 6
     },
     "Paradou AC": {
-        "winstreak": 0,
-        "losestreak": 6,
-        "not_won": 6,
-        "not_lost": 0
-    },
-    "MC El Bayadh": {
-        "winstreak": 2,
+        "winstreak": 1,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 6
+        "not_lost": 1
+    },
+    "MC El Bayadh": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 1,
+        "not_lost": 7
     },
     "ES S\u00e9tif": {
         "winstreak": 0,
@@ -10759,8 +10759,8 @@
     },
     "Gwangju FC": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "Yokohama F. Marinos": {
@@ -10908,10 +10908,10 @@
         "not_lost": 0
     },
     "Manchester City U19": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Red Bull Salzburg U19": {
         "winstreak": 4,
@@ -10927,8 +10927,8 @@
     },
     "Sporting U19": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "AS Monaco U19": {
@@ -10938,10 +10938,10 @@
         "not_lost": 0
     },
     "Olympiacos U19": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Girona U19": {
         "winstreak": 0,
@@ -10963,8 +10963,8 @@
     },
     "Real Madrid U19": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Borussia Dortmund U19": {
@@ -10974,10 +10974,10 @@
         "not_lost": 0
     },
     "Trabzonspor U19": {
-        "winstreak": 4,
+        "winstreak": 5,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 4
+        "not_lost": 5
     },
     "Juventus U19": {
         "winstreak": 0,
@@ -11112,10 +11112,10 @@
         "not_lost": 2
     },
     "Bod\u00f8/Glimt": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "Shamrock Rovers": {
         "winstreak": 0,
@@ -11130,10 +11130,10 @@
         "not_lost": 0
     },
     "FK Borac Banja Luka": {
-        "winstreak": 6,
+        "winstreak": 0,
         "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 10
+        "not_won": 1,
+        "not_lost": 11
     },
     "Gamba Osaka": {
         "winstreak": 2,
@@ -11161,8 +11161,8 @@
     },
     "Jeonbuk Hyundai Motors": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 5,
+        "losestreak": 4,
+        "not_won": 6,
         "not_lost": 0
     },
     "South Korea U20": {
@@ -11197,15 +11197,15 @@
     },
     "FC Torpedo Kutaisi": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Kety Emmi Bistrica": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "NK \u0160martno 1928": {
         "winstreak": 0,
@@ -11232,10 +11232,10 @@
         "not_lost": 2
     },
     "Barcelona SC": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 11
+        "not_lost": 12
     },
     "Cork City": {
         "winstreak": 0,
@@ -11677,8 +11677,8 @@
     },
     "Orense SC": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Kerala Blasters": {
@@ -11780,8 +11780,8 @@
     "SSV Jeddeloh": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 1
+        "not_won": 6,
+        "not_lost": 2
     },
     "Eintracht Trier": {
         "winstreak": 0,
@@ -11940,10 +11940,10 @@
         "not_lost": 6
     },
     "\u00d6rebro SK": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "Karlbergs BK": {
         "winstreak": 2,
@@ -12144,57 +12144,57 @@
         "not_lost": 6
     },
     "FK Pelister Bitola": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "AP Brera Strumica": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "FK Sileks Kratovo": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Tikve\u0161 Kavadarci": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "FK Vardar Skopje": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 7
+        "not_lost": 8
     },
     "FC Struga Trim & Lum": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "KF Shkupi": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "FK Rabotni\u010dki Skopje": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 3,
+        "losestreak": 2,
+        "not_won": 4,
         "not_lost": 0
     },
     "Voska Sport": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "G\u00f3rnik \u0141\u0119czna": {
@@ -12295,8 +12295,8 @@
     },
     "Djurg\u00e5rdens IF": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 4,
+        "losestreak": 3,
+        "not_won": 5,
         "not_lost": 0
     },
     "Sandvikens IF": {
@@ -12372,10 +12372,10 @@
         "not_lost": 4
     },
     "Mushuc Runa": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "Delf\u00edn": {
         "winstreak": 0,
@@ -12476,8 +12476,8 @@
     "Seattle Sounders FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 3,
-        "not_lost": 1
+        "not_won": 4,
+        "not_lost": 2
     },
     "Sporting Kansas City": {
         "winstreak": 0,
@@ -12553,8 +12553,8 @@
     },
     "Manaus": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "ASA": {
@@ -12572,8 +12572,8 @@
     "Vancouver Whitecaps": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 7
+        "not_won": 2,
+        "not_lost": 8
     },
     "Rio Branco de Venda Nova": {
         "winstreak": 2,
@@ -12722,8 +12722,8 @@
     "Neman Grodno": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 4
+        "not_won": 2,
+        "not_lost": 5
     },
     "Dinamo Minsk": {
         "winstreak": 0,
@@ -13153,8 +13153,8 @@
     },
     "Chornomorets Odesa": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Veres Rivne": {
@@ -13596,10 +13596,10 @@
         "not_lost": 3
     },
     "Polissya Zhytomyr": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 6
+        "not_lost": 7
     },
     "Obolon Kyiv": {
         "winstreak": 0,
@@ -13610,8 +13610,8 @@
     "Vorskla Poltava": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 6,
-        "not_lost": 3
+        "not_won": 7,
+        "not_lost": 4
     },
     "Aalesunds FK": {
         "winstreak": 2,
@@ -13705,8 +13705,8 @@
     },
     "LA Galaxy": {
         "winstreak": 0,
-        "losestreak": 5,
-        "not_won": 5,
+        "losestreak": 6,
+        "not_won": 6,
         "not_lost": 0
     },
     "San Diego FC": {
@@ -13760,8 +13760,8 @@
     "SC Weiche Flensburg 08": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 5,
-        "not_lost": 3
+        "not_won": 6,
+        "not_lost": 4
     },
     "1. FSV Mainz 05 II U23": {
         "winstreak": 0,
@@ -13796,8 +13796,8 @@
     "Karpaty Lviv": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 3
+        "not_won": 2,
+        "not_lost": 4
     },
     "Lunds BK": {
         "winstreak": 0,
@@ -13818,10 +13818,10 @@
         "not_lost": 4
     },
     "Shakhtar Donetsk": {
-        "winstreak": 4,
+        "winstreak": 0,
         "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 4
+        "not_won": 1,
+        "not_lost": 5
     },
     "FC Livyi Bereh Kyiv": {
         "winstreak": 2,
@@ -13860,10 +13860,10 @@
         "not_lost": 0
     },
     "Maring\u00e1 FC": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "Oper\u00e1rio-MS": {
         "winstreak": 0,
@@ -14046,10 +14046,10 @@
         "not_lost": 0
     },
     "Uni\u00e3o-TO": {
-        "winstreak": 2,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 2
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "GAS": {
         "winstreak": 0,
@@ -14244,16 +14244,16 @@
         "not_lost": 0
     },
     "FC Iberia 1999": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 3
+        "not_lost": 4
     },
     "FC Telavi": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "SpVgg Bayreuth": {
         "winstreak": 2,
@@ -14443,9 +14443,9 @@
     },
     "FC Gagra": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
+        "losestreak": 0,
+        "not_won": 3,
+        "not_lost": 1
     },
     "FC W\u00fcrzburger Kickers": {
         "winstreak": 2,
@@ -14804,26 +14804,26 @@
     "Belgrano U20": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 3
+        "not_won": 2,
+        "not_lost": 4
     },
     "Universitario de Deportes U20": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Metropolitanos FC U20": {
         "winstreak": 0,
-        "losestreak": 3,
-        "not_won": 3,
+        "losestreak": 4,
+        "not_won": 4,
         "not_lost": 0
     },
     "Fortaleza U20": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 3
+        "not_won": 2,
+        "not_lost": 4
     },
     "FC Sochi": {
         "winstreak": 0,
@@ -14851,27 +14851,27 @@
     },
     "Independiente del Valle U20": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
+        "losestreak": 0,
+        "not_won": 3,
+        "not_lost": 1
     },
     "Cerro Porte\u00f1o U20": {
-        "winstreak": 2,
-        "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 2
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
     },
     "Palmeiras U20": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 2
+        "not_lost": 3
     },
     "Blooming U20": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
-        "not_lost": 0
+        "losestreak": 0,
+        "not_won": 3,
+        "not_lost": 1
     },
     "V\u00e5lerenga IF": {
         "winstreak": 0,
@@ -14905,83 +14905,155 @@
     },
     "\u00d6stersunds FK": {
         "winstreak": 0,
-        "losestreak": 2,
-        "not_won": 2,
+        "losestreak": 3,
+        "not_won": 3,
         "not_lost": 0
     },
     "Club Aurora": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "San Jos\u00e9": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Arkadag FK": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Al-Arabi Kuwait": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "not_won": 0,
-        "not_lost": 1
+        "not_lost": 2
     },
     "Al Seeb": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "Taiwan Steel": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 1
+        "not_won": 2,
+        "not_lost": 2
     },
     "FC Isloch Minsk Region": {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 1,
-        "not_lost": 1
+        "not_won": 2,
+        "not_lost": 2
     },
     "FC Kolkheti-1913 Poti": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "FK Auda": {
         "winstreak": 0,
-        "losestreak": 1,
-        "not_won": 1,
+        "losestreak": 2,
+        "not_won": 2,
         "not_lost": 0
     },
     "RFS": {
+        "winstreak": 2,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 2
+    },
+    "NK Ra\u010de": {
+        "winstreak": 0,
+        "losestreak": 2,
+        "not_won": 2,
+        "not_lost": 0
+    },
+    "NK \u010carda Martjanci": {
+        "winstreak": 0,
+        "losestreak": 2,
+        "not_won": 2,
+        "not_lost": 0
+    },
+    "NK Dobrovce": {
+        "winstreak": 0,
+        "losestreak": 2,
+        "not_won": 2,
+        "not_lost": 0
+    },
+    "Svay Rieng FC": {
         "winstreak": 1,
         "losestreak": 0,
         "not_won": 0,
         "not_lost": 1
     },
-    "NK Ra\u010de": {
+    "Shan United": {
         "winstreak": 0,
         "losestreak": 1,
         "not_won": 1,
         "not_lost": 0
     },
-    "NK \u010carda Martjanci": {
+    "FC Dila Gori": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 1,
+        "not_lost": 1
+    },
+    "Dinamo Tbilisi": {
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
+    },
+    "FC Samgurali Tskhaltubo": {
         "winstreak": 0,
         "losestreak": 1,
         "not_won": 1,
         "not_lost": 0
     },
-    "NK Dobrovce": {
+    "Gareji": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 1,
+        "not_lost": 1
+    },
+    "Dinamo Batumi": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 1,
+        "not_lost": 1
+    },
+    "Grobi\u0146as SC": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 1,
+        "not_lost": 1
+    },
+    "FS Jelgava": {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 1,
+        "not_lost": 1
+    },
+    "Riga FC": {
+        "winstreak": 1,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 1
+    },
+    "SK Super Nova": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "not_won": 1,
+        "not_lost": 0
+    },
+    "NK Bela krajina": {
         "winstreak": 0,
         "losestreak": 1,
         "not_won": 1,

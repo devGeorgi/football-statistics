@@ -1,7 +1,7 @@
 import json
 import requests
 
-url = "https://sportapi7.p.rapidapi.com/api/v1/sport/football/scheduled-events/2025-03-05"
+url = "https://sportapi7.p.rapidapi.com/api/v1/sport/football/scheduled-events/2025-03-06"
 headers = json.load(open("headers.json"))
 
 answer = requests.get(url, headers=headers)
