@@ -1,0 +1,845 @@
+West Ham United, 2
+Leicester City, 0
+
+Real Valladolid, 1
+Las Palmas, 1
+
+Bologna, 2
+Milan, 1
+
+Fiorentina, 1
+Lecce, 0
+
+VfB Stuttgart, 1
+FC Bayern München, 3
+
+AS Monaco, 3
+Stade de Reims, 0
+
+Cerro Porteño, 3
+Monagas, 1
+
+Melgar, 1
+Deportes Tolima, 0
+
+RKC Waalwijk, 1
+Fortuna Sittard, 2
+
+RC Sporting Charleroi, 1
+KRC Genk, 1
+
+Aston Villa, 2
+Cardiff City, 0
+
+Heracles Almelo, 5
+AZ Alkmaar, 6
+
+Botafogo, 0
+Racing Club, 2
+
+Mazatlán FC, 1
+Cruz Azul, 1
+
+NK Istra 1961, 3
+NK Lokomotiva Zagreb, 2
+
+FK Napredak Kruševac, 1
+FK Tekstilac Odžaci, 1
+
+FK Radnički 1923, 2
+FK Novi Pazar, 0
+
+FK TSC Bačka Topola, 2
+FK Čukarički, 1
+
+Sheffield Wednesday, 1
+Sunderland, 2
+
+FC Cartagena, 0
+Eibar, 2
+
+FC Schalke 04, 1
+Preußen Münster, 0
+
+Fortuna Düsseldorf, 1
+SpVgg Greuther Fürth, 2
+
+Südtirol, 1
+Spezia, 1
+
+Annecy FC, 2
+Paris FC, 3
+
+Clermont Foot, 0
+Caen, 1
+
+Pau FC, 1
+Grenoble Foot 38, 0
+
+Stade Lavallois, 0
+FC Martigues, 1
+
+Troyes, 2
+Bastia, 0
+
+FC Dordrecht, 3
+FC Emmen, 0
+
+FC Volendam, 3
+Helmond Sport, 1
+
+Jong FC Utrecht Youth, 1
+Jong Ajax, 2
+
+Jong PSV Eindhoven, 1
+De Graafschap, 2
+
+SC Cambuur, 5
+VVV-Venlo, 0
+
+Gençlerbirliği, 3
+Manisa FK, 0
+
+Esenler Erokspor, 1
+Amed Sportif Faaliyetler, 1
+
+Yeni Malatyaspor, 1
+Şanlıurfaspor, 4
+
+Wellington Phoenix, 0
+Melbourne City, 1
+
+Central Coast Mariners, 1
+Western United, 3
+
+Auckland FC, 4
+Adelaide United, 4
+
+Brisbane Roar, 1
+Melbourne Victory, 1
+
+Macarthur FC, 0
+Sydney FC, 2
+
+Shandong Taishan, 4
+Dalian Yingbo FC, 1
+
+Shanghai Port, 2
+Changchun Yatai, 0
+
+Qingdao Hainiu, 0
+Shenzhen Peng City, 1
+
+Meizhou Hakka, 2
+Henan Songshan Longmen, 1
+
+Shanghai Shenhua, 2
+Beijing Guoan, 2
+
+Deportes Limache, 1
+Coquimbo Unido, 2
+
+Independiente Medellín, 3
+Llaneros FC, 0
+
+Envigado FC, 1
+Independiente Santa Fe, 7
+
+Boyacá Chicó FC, 1
+Rionegro Águilas Doradas, 1
+
+Radomiak Radom, 1
+Widzew Łódź, 1
+
+Górnik Zabrze, 0
+Cracovia, 1
+
+Randers FC, 1
+AGF, 1
+
+Barrow, 0
+Carlisle United, 1
+
+Emelec, 0
+Macará, 0
+
+Smouha, 0
+Al-Masry, 3
+
+Tala'ea El-Gaish, 2
+National Bank of Egypt, 2
+
+Zamalek SC, 1
+ZED FC, 1
+
+Ghazl El Mahalla, 3
+ENPPI, 0
+
+Al-Ittihad Alexandria, 1
+Pyramids FC, 3
+
+Ceramica Cleopatra, 4
+Petrojet, 1
+
+Punjab FC, 0
+FC Goa, 1
+
+Odisha FC, 0
+Mohammedan SC, 0
+
+Mumbai City FC, 2
+Mohun Bagan Super Giant, 2
+
+Cork City, 2
+Bohemian FC, 1
+
+Derry City, 1
+Waterford FC, 2
+
+Drogheda United, 1
+Galway United, 1
+
+Shelbourne, 1
+Shamrock Rovers, 1
+
+St. Patrick's Athletic, 4
+Sligo Rovers, 3
+
+Yokohama F. Marinos, 1
+Shonan Bellmare, 1
+
+Kashima Antlers, 2
+FC Tokyo, 0
+
+Kawasaki Frontale, 0
+Kyoto Sanga FC, 1
+
+Vissel Kobe, 0
+Avispa Fukuoka, 1
+
+Los Chankas CYC, 0
+Cienciano, 0
+
+Asociación Deportiva Tarma, 2
+Sport Boys, 2
+
+Deportivo Garcilaso, 2
+Club Atlético Grau, 0
+
+Al-Hilal, 2
+Al-Ahli, 3
+
+Al-Orobah, 2
+Al-Nassr, 1
+
+Al-Shabab, 2
+Damac FC, 0
+
+AFC Unirea 04 Slobozia, 0
+SC Oțelul Galați, 1
+
+Sepsi OSK, 1
+CFR 1907 Cluj, 1
+
+Stellenbosch, 1
+Polokwane City, 1
+
+Vancouver Whitecaps, 2
+Deportivo Saprissa, 0
+
+Central Coast Mariners, 1
+Western Sydney Wanderers, 2
+
+Canberra United, 1
+Melbourne City, 1
+
+Newcastle Jets, 2
+Perth Glory, 1
+
+Western United, 1
+Melbourne Victory, 2
+
+Dinamo Makhachkala, 1
+Lokomotiv Moscow, 1
+
+Pari Nizhny Novgorod, 2
+Akron Togliatti, 1
+
+Ulsan HD, 1
+Jeonbuk Hyundai Motors, 0
+
+Gwangju FC, 2
+FC Anyang, 1
+
+Pohang Steelers, 0
+Daegu FC, 0
+
+Incheon United, 2
+Suwon Samsung Bluewings, 0
+
+Ansan Greeners FC, 0
+Gimpo FC, 2
+
+Seoul E-Land FC, 1
+Jeonnam Dragons, 1
+
+Al-Gharafa, 0
+Al-Sadd, 4
+
+Al Khor, 1
+Al-Wakrah, 3
+
+Al-Rayyan, 2
+Al-Arabi SC, 1
+
+Al-Ahli Doha, 1
+Al Shamal SC, 1
+
+Al Duhail, 2
+Al-Shahaniya, 1
+
+Qatar SC, 2
+Umm-Salal SC, 2
+
+Nongbua Pitchaya, 1
+Rayong FC, 1
+
+Uthai Thani FC, 0
+Buriram United, 0
+
+Al Bataeh, 0
+Al-Ittihad Kalba, 0
+
+Ajman, 2
+Al-Nasr Dubai, 1
+
+Al-Wahda FC, 2
+Al-Ain, 1
+
+Al-Jazira, 1
+Dibba Al-Hisn, 0
+
+Al-Orooba, 0
+Al-Sharjah, 1
+
+Shabab Al-Ahli Dubai, 2
+Baniyas, 0
+
+RAAL La Louvière, 2
+KAS Eupen, 0
+
+SK Beveren, 3
+SV Zulte Waregem, 2
+
+Lazio, 3
+Sampdoria, 0
+
+MC El Bayadh, 2
+USM Alger, 1
+
+JS Saoura, 2
+Olympique Akbou, 1
+
+JS Kabylie, 2
+Paradou AC, 1
+
+MC Alger, 2
+CS Constantine, 1
+
+Boca Juniors, 1
+Rosario Central, 0
+
+Central Córdoba, 0
+Deportivo Riestra, 0
+
+San Martín de San Juan, 3
+Belgrano, 1
+
+Godoy Cruz, 0
+Excursionistas, 1
+
+Arsenal de Sarandí, 1
+Atlanta, 1
+
+Colegiales, 0
+Los Andes, 1
+
+Estudiantes de Río Cuarto, 1
+San Telmo, 0
+
+Australia U20, 6
+Saudi Arabia U20, 5
+
+First Vienna, 3
+SV Stripfing, 1
+
+Rapid Wien II, 2
+SC Austria Lustenau, 0
+
+SKU Amstetten, 0
+SKN St. Pölten, 0
+
+SV Horn, 2
+ASK Voitsberg, 1
+
+SV Lafnitz, 1
+Admira Wacker, 1
+
+SV Ried, 2
+Floridsdorfer AC, 0
+
+FC Mauerwerk, 1
+Sportunion Mauer, 2
+
+SV Gloggnitz, 0
+SV Oberwart, 0
+
+FCM Traiskirchen, 2
+SV Leobendorf, 2
+
+Favoritner AC, 0
+SC Neusiedl 1919, 2
+
+Wiener Sport-Club, 1
+SC Krems, 1
+
+Dinamo Minsk, 0
+Neman Grodno, 2
+
+GOŠK Gabela, 0
+Igman Konjic, 2
+
+Ceilândia, 6
+Coritiba, 4
+
+Sousa EC, 5
+Red Bull Bragantino, 6
+
+Rio Branco-ES, 1
+Novorizontino, 3
+
+Portuguesa, 4
+Botafogo-PB, 5
+
+Inter de Limeira, 6
+Vila Nova FC, 7
+
+FK Krumovgrad, 0
+Lokomotiv Sofia, 2
+
+Ludogorets, 4
+Botev Plovdiv, 2
+
+Deportes Recoleta, 3
+Deportes Santa Cruz, 2
+
+Santiago Morning, 2
+Deportes Temuco, 1
+
+Universidad de Concepción, 2
+Deportes Magallanes, 1
+
+Patriotas Boyacá, 0
+Orsomarso, 0
+
+Atlético Cali, 0
+Atlético Huila, 3
+
+San Carlos, 1
+Municipal Liberia, 0
+
+LD Alajuelense, 0
+Puntarenas FC, 0
+
+Ethnikos Achnas, 0
+Apollon Limassol, 1
+
+AEL Limassol, 2
+Enosis Neon Paralimniou, 1
+
+Anorthosis Famagusta, 1
+Karmiotissa Polemidion, 2
+
+FC Sellier & Bellot Vlašim, 0
+MFK Vyškov, 0
+
+Viktoria Plzeň, 4
+FC Zlín, 1
+
+Hvidovre, 1
+FC Fredericia, 0
+
+HB Køge, 0
+Esbjerg, 2
+
+Vendsyssel FF, 3
+AC Horsens, 4
+
+FCI Levadia Tallinn, 5
+Harju Jalgpallikool, 0
+
+Pärnu JK Vaprus, 0
+Nõmme Kalju, 3
+
+Aubagne FC, 1
+Dijon, 2
+
+FC Rouen, 4
+US Concarneau, 3
+
+Le Mans, 2
+Quevilly - Rouen Métropole, 1
+
+Nancy, 0
+US Boulogne Côte-d'Opale, 2
+
+Nîmes Olympique, 1
+FC Villefranche Beaujolais, 0
+
+Paris 13 Atletico, 0
+Bourg-en-Bresse, 1
+
+US Orléans, 4
+Sochaux, 2
+
+Valenciennes, 0
+FC Versailles 78, 0
+
+FC Iberia 1999, 2
+FC Telavi, 0
+
+FC Samgurali Tskhaltubo, 0
+FC Kolkheti-1913 Poti, 0
+
+FC Viktoria Köln, 1
+1. FC Saarbrücken, 2
+
+SV Werder Bremen II U23, 1
+VfB Oldenburg, 2
+
+SSV Jeddeloh, 0
+SV Meppen, 0
+
+Berliner FC Dynamo, 1
+Greifswalder FC, 4
+
+FC Carl Zeiss Jena, 2
+VSG Altglienicke, 2
+
+FSV Zwickau, 2
+1. FC Lokomotive Leipzig, 1
+
+Borussia Mönchengladbach II U23, 0
+FC Schalke 04 II U23, 0
+
+SC Rot-Weiß Oberhausen, 2
+KFC Uerdingen 05, 2
+
+Sportfreunde Lotte, 3
+Fortuna Düsseldorf II U23, 3
+
+TSV Steinbach Haiger, 3
+SG Barockstadt Fulda-Lehnerz, 3
+
+SpVgg Bayreuth, 3
+SV Viktoria Aschaffenburg, 0
+
+AO Kavala, 1
+PAOK B, 0
+
+Ethnikos Neou Keramidiou, 1
+Niki Volou, 1
+
+Comunicaciones FC, 2
+CSD Xelajú MC, 1
+
+Churchill Brothers SC, 3
+Rajasthan United FC, 1
+
+Tractor FC, 0
+Sepahan S.C., 0
+
+Esteghlal Khuzestan, 1
+Malavan Bandar Anzali FC, 2
+
+Mes Rafsanjan FC, 1
+Chador Malu Yazd, 0
+
+Persepolis FC, 2
+Esteghlal FC, 1
+
+Kheybar Khorramabad FC, 1
+Aluminium Arak, 0
+
+Zob Ahan, 3
+Foolad Khuzestan, 0
+
+Havadar Tehran, 0
+Gol Gohar Sirjan, 1
+
+Nassaji Mazandaran FC, 1
+Shams Azar Qazvin, 0
+
+Kerry FC, 0
+Dundalk FC, 1
+
+Treaty United FC, 3
+Finn Harps, 1
+
+University College Dublin, 1
+Cobh Ramblers FC, 1
+
+Wexford FC, 2
+Bray Wanderers, 0
+
+Alcione Milano, 2
+Union Clodiense Chioggia, 0
+
+Giana Erminio, 1
+Lumezzane, 1
+
+Giugliano, 3
+Turris, 1
+
+Roma U20, 0
+Cremonese U20, 0
+
+Udinese U20, 0
+Lecce U20, 0
+
+Atalanta U20, 0
+Bologna U20, 1
+
+Inter U20, 2
+Fiorentina U20, 1
+
+Vegalta Sendai, 2
+Oita Trinita, 0
+
+Fujieda MYFC, 2
+Blaublitz Akita, 1
+
+JEF United Chiba, 3
+Montedio Yamagata, 2
+
+Sagan Tosu, 1
+FC Imabari, 4
+
+V-Varen Nagasaki, 1
+Jubilo Iwata, 0
+
+Atyrau, 2
+Yelimay Semey, 1
+
+FC Ordabasy, 0
+FK Aktobe, 0
+
+Dainava Alytus, 1
+FK Kauno Žalgiris, 3
+
+Selangor Football Club, 0
+Sabah FC, 0
+
+Sri Pahang FC, 1
+Terengganu, 5
+
+Alebrijes de Oaxaca, 0
+Correcaminos UAT, 1
+
+Tepatitlán FC, 1
+Leones Negros, 1
+
+Club Atletico La Paz, 4
+CD Tapatío, 1
+
+Ittihad Tanger, 1
+Jeunesse Sportive Soualem, 0
+
+SC Chabab Mohammédia, 0
+Moghreb Atlético Tetuán, 2
+
+CODM Meknès, 1
+Hassania d'Agadir, 0
+
+Difaâ Hassani El-Jadidi, 1
+Union Touarga Sport, 0
+
+Fath Union Sport, 3
+Renaissance Zemamra, 0
+
+Raja Club Athletic, 0
+MAS de Fès, 0
+
+Olympic Safi, 1
+AS FAR Rabat, 1
+
+RS Berkane, 0
+Wydad Casablanca, 0
+
+Recoleta FC, 1
+Sportivo Ameliano, 1
+
+Libertad, 3
+Sportivo Luqueño, 0
+
+Manila Digger FC, 7
+PFF Development Club Youth, 1
+
+DH Cebu FC, 1
+Kaya-Iloilo, 2
+
+Mendiola FC, 0
+Stallion Laguna, 6
+
+Pogoń Siedlce, 1
+Wisła Płock, 3
+
+MZKS Arka Gdynia, 2
+Wisła Kraków, 2
+
+Polonia Warszawa, 1
+Puszcza Niepołomice, 2
+
+Chaves, 1
+Benfica B U21, 2
+
+Académico Viseu FC, 0
+Felgueiras, 0
+
+Lusitânia Lourosa, 2
+Amarante FC, 1
+
+Gil Vicente, 0
+Sporting, 1
+
+CSM Ceahlăul Piatra Neamţ, 1
+Steaua București, 1
+
+AFC Câmpulung Muscel, 0
+CSM Reşiţa, 3
+
+CS Afumați, 1
+FC Bihor Oradea, 2
+
+CSC 1599 Șelimbăr, 2
+CSM Slatina, 1
+
+CS Unirea Ungheni 2018, 1
+FK Csíkszereda Miercurea Ciuc, 0
+
+Chindia Târgoviște, 1
+Concordia Chiajna, 1
+
+FC Metaloglobus București, 0
+CS Mioveni, 0
+
+FC Voluntari, 0
+CSM Focșani 2007, 0
+
+Viitorul Pandurii Târgu Jiu, 0
+CSC Dumbrăviţa, 0
+
+FC Argeș Pitești, 0
+AFC Metalul Buzău, 0
+
+Enisey Krasnoyarsk, 1
+Alania Vladikavkaz, 0
+
+Chernomorets Novorossijsk, 2
+Torpedo Moscow, 0
+
+Partick Thistle, 1
+Livingston, 1
+
+Albirex Niigata Singapore, 4
+Balestier Khalsa, 0
+
+Geylang International, 5
+Tanjong Pagar United, 0
+
+Hougang United, 0
+Young Lions, 3
+
+AIK, 2
+IFK Värnamo, 0
+
+Degerfors IF, 0
+Trelleborgs FF, 1
+
+FC Stade-Lausanne-Ouchy, 2
+FC Wil 1900, 1
+
+FC Thun, 2
+Stade Nyonnais, 2
+
+FC Zürich, 2
+Young Boys, 3
+
+Olympique Béja, 1
+CS Sfaxien, 2
+
+Stade Tunisien, 1
+US Ben Guerdane, 0
+
+US Monastir, 1
+Club Africain, 0
+
+US Tataouine, 0
+EGS Gafsa, 1
+
+Erzurumspor FK, 0
+İstanbulspor, 3
+
+Gaziantep FK, 1
+Fenerbahçe, 4
+
+Kasımpaşa, 0
+Göztepe, 5
+
+Eyüpspor, 0
+Başakşehir FK, 0
+
+Galatasaray, 0
+Konyaspor, 0
+
+Obolon Kyiv, 0
+Polissya Zhytomyr, 0
+
+Vorskla Poltava, 1
+Dynamo Kyiv, 1
+
+Karpaty Lviv, 1
+LNZ Cherkasy, 0
+
+Rayo Zuliano, 1
+Portuguesa FC, 0
+
+Quảng Nam, 1
+Hải Phòng, 2
+
+Hồng Lĩnh Hà Tĩnh, 0
+Đông Á Thanh Hóa, 0
+
+Thể Công - Viettel, 0
+Nam Định, 2
+
+Quy Nhơn Bình Định FC, 0
+Becamex Bình Dương, 1
+
+Sông Lam Nghệ An, 1
+Công An Hà Nội, 1
+
+Aberystwyth Town, 0
+The New Saints, 1
+
+SC Röthis, 2
+RW Rankweil, 1
+
+IK Start, 3
+Jerv, 1
+
+Ariana FC, 1
+FC Rosengård, 3
+
+SK Lisen B, 3
+FC Sparta Brno, 3

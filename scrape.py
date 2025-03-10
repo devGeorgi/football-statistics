@@ -1,83 +1,151 @@
-from selenium import webdriver
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.common.by import By
-from selenium.webdriver.support import expected_conditions as EC
-from selenium.webdriver.support.ui import WebDriverWait
-from webdriver_manager.chrome import ChromeDriverManager
+import requests
+import json
+import os
+from datetime import datetime
 
-# Set up Chrome WebDriver
-service = Service(ChromeDriverManager().install())
-driver = webdriver.Chrome(service=service)
+# Configuration - Edit these dates as needed
+DATES = ["2025-03-10"]  # Add/remove dates here
+BASE_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}"
+HEADERS = {
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
+}
+OUTPUT_DIR = "match_stats"
 
-url = "https://www.sofascore.com/football/2025-03-06"
+def initialize_team():
+    """Return a new team structure with default values"""
+    return {
+        "winstreak": 0,
+        "losestreak": 0,
+        "not_won": 0,
+        "not_lost": 0
+    }
 
-try:
-    driver.get(url)
+def create_directory():
+    """Create output directory if it doesn't exist"""
+    if not os.path.exists(OUTPUT_DIR):
+        os.makedirs(OUTPUT_DIR)
+
+def get_matches(date):
+    """Fetch matches for a specific date"""
+    try:
+        url = BASE_URL.format(date=date)
+        response = requests.get(url, headers=HEADERS, timeout=10)
+        response.raise_for_status()
+        return response.json().get('events', [])
+    except Exception as e:
+        print(f"Error fetching {date}: {str(e)}")
+        return []
+
+def process_matches(date, events, teams):
+    """Process matches and update team statistics"""
+    match_records = []
     
-    # Wait for page to load completely
-    WebDriverWait(driver, 10).until(
-        lambda d: d.execute_script("return document.readyState") == "complete"
-    )
-    
-    # Find main tag within body
-    main_element = WebDriverWait(driver, 10).until(
-        EC.presence_of_element_located((By.TAG_NAME, "main"))
-    )
-    
-    # Initial div traversal path
-    div_path = [0, 2, 1, 0, 0, 1, 0]
-    current_element = main_element
-    for index in div_path:
-        children = WebDriverWait(current_element, 10).until(
-            lambda e: e.find_elements(By.XPATH, "./div")
-        )
-        current_element = children[index]
-    
-    # Process blocks
-    all_bdi_contents = []
-    blocks = WebDriverWait(current_element, 10).until(
-        EC.presence_of_all_elements_located((By.XPATH, "./div"))
-    )
-    
-    for block in blocks:
+    for event in events:
         try:
-            # Start with <a> tag in block
-            a_element = WebDriverWait(block, 10).until(
-                EC.presence_of_element_located((By.TAG_NAME, "a"))
-            )
-            
-            # Traverse path: 0 → 0 → 3 → 0 → 0 → 1
-            path = [0, 0, 3, 0, 0, 1]
-            current_node = a_element
-            for idx in path:
-                children = WebDriverWait(current_node, 10).until(
-                    lambda e: e.find_elements(By.XPATH, "./*")
-                )
-                current_node = children[idx]
-            
-            # Handle both 0 and 1 indices
-            final_nodes = []
-            for final_idx in [0, 1]:
-                children = WebDriverWait(current_node, 10).until(
-                    lambda e: e.find_elements(By.XPATH, "./*")
-                )
-                final_nodes.append(children[final_idx])
-            
-            # Collect bdi elements
-            for node in final_nodes:
-                bdi_element = WebDriverWait(node, 10).until(
-                    EC.presence_of_element_located((By.TAG_NAME, "bdi"))
-                )
-                all_bdi_contents.append(bdi_element.get_attribute("innerHTML"))
-                
-        except Exception as e:
-            print(f"Error processing block: {str(e)}")
-            continue
-    
-    # Save results
-    with open("bdi_contents.txt", "w", encoding="utf-8") as f:
-        f.write("\n".join(all_bdi_contents))
-    print(f"Saved {len(all_bdi_contents)} bdi elements")
+            ht = event['homeTeam']['name']
+            at = event['awayTeam']['name']
+            hsc = event.get('homeScore', {}).get('current', 0)
+            asc = event.get('awayScore', {}).get('current', 0)
 
-finally:
-    driver.quit()
+            # Initialize teams if they don't exist
+            if ht not in teams:
+                teams[ht] = initialize_team()
+            if at not in teams:
+                teams[at] = initialize_team()
+
+            # Update home team stats
+            if hsc > asc:
+                teams[ht]["winstreak"] += 1
+                teams[ht]["losestreak"] = 0
+                teams[ht]["not_won"] = 0
+                teams[ht]["not_lost"] += 1
+            elif hsc < asc:
+                teams[ht]["losestreak"] += 1
+                teams[ht]["winstreak"] = 0
+                teams[ht]["not_won"] += 1
+                teams[ht]["not_lost"] = 0
+            else:
+                teams[ht]["winstreak"] = 0
+                teams[ht]["losestreak"] = 0
+                teams[ht]["not_won"] += 1
+                teams[ht]["not_lost"] += 1
+
+            # Update away team stats
+            if asc > hsc:
+                teams[at]["winstreak"] += 1
+                teams[at]["losestreak"] = 0
+                teams[at]["not_won"] = 0
+                teams[at]["not_lost"] += 1
+            elif asc < hsc:
+                teams[at]["losestreak"] += 1
+                teams[at]["winstreak"] = 0
+                teams[at]["not_won"] += 1
+                teams[at]["not_lost"] = 0
+            else:
+                teams[at]["winstreak"] = 0
+                teams[at]["losestreak"] = 0
+                teams[at]["not_won"] += 1
+                teams[at]["not_lost"] += 1
+
+            # Create match record for output file
+            match_records.append(f"{ht}, {hsc}\n{at}, {asc}")
+            
+            # Print match details
+            print(f"Match: {ht} {hsc} - {asc} {at}")
+            print(f"{ht} stats: {json.dumps(teams[ht], indent=2)}")
+            print(f"{at} stats: {json.dumps(teams[at], indent=2)}")
+            print("-" * 40)
+
+        except KeyError as e:
+            print(f"Error processing match: Missing key {e}")
+        except Exception as e:
+            print(f"Error processing match: {e}")
+    
+    return match_records
+
+def save_data(date, match_records, teams):
+    """Save match results and team statistics"""
+    # Save match results
+    if match_records:
+        filename = f"scores_{date}.txt"
+        file_path = os.path.join(OUTPUT_DIR, filename)
+        try:
+            with open(file_path, 'w', encoding='utf-8') as f:
+                f.write('\n\n'.join(match_records))
+            print(f"Saved match results to {filename}")
+        except Exception as e:
+            print(f"Error saving {filename}: {str(e)}")
+    
+    # Save team statistics
+    try:
+        with open("teams.json", 'w', encoding='utf-8') as f:
+            json.dump(teams, f, indent=4, ensure_ascii=False)
+        print("Team statistics updated in teams.json")
+    except Exception as e:
+        print(f"Error saving teams.json: {str(e)}")
+
+def main():
+    """Main program execution"""
+    # Load existing team data
+    try:
+        with open("teams.json", 'r', encoding='utf-8') as f:
+            teams = json.load(f)
+    except FileNotFoundError:
+        teams = {}
+        print("Created new teams database")
+
+    create_directory()
+
+    for date in DATES:
+        print(f"\nProcessing {date}...")
+        events = get_matches(date)
+        
+        if not events:
+            print(f"No matches found for {date}")
+            continue
+            
+        match_records = process_matches(date, events, teams)
+        save_data(date, match_records, teams)
+
+if __name__ == "__main__":
+    main()
