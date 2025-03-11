@@ -1,0 +1,197 @@
+AS Monaco, 1
+Aston Villa, 0
+
+Atalanta, 5
+SK Sturm Graz, 0
+
+Atlético Madrid, 2
+Bayer 04 Leverkusen, 1
+
+Benfica, 4
+Barcelona, 5
+
+Bologna, 2
+Borussia Dortmund, 1
+
+Club Brugge KV, 0
+Juventus, 0
+
+FK Crvena zvezda, 2
+PSV Eindhoven, 3
+
+Liverpool, 2
+Lille, 1
+
+ŠK Slovan Bratislava, 1
+VfB Stuttgart, 3
+
+Galatasaray, 3
+Dynamo Kyiv, 3
+
+Blackburn Rovers, 0
+Coventry City, 2
+
+Derby County, 0
+Sunderland, 1
+
+Hull City, 1
+Queens Park Rangers, 2
+
+Middlesbrough, 2
+West Bromwich Albion, 0
+
+Oxford United, 3
+Luton Town, 2
+
+Swansea City, 1
+Sheffield United, 2
+
+Watford, 1
+Preston North End, 2
+
+Millwall, 2
+Cardiff City, 2
+
+Novorizontino, 1
+Inter de Limeira, 1
+
+Adelaide United, 2
+Auckland FC, 2
+
+Bolton Wanderers, 1
+Charlton Athletic, 2
+
+Peterborough United, 1
+Exeter City, 1
+
+Wigan Athletic, 1
+Burton Albion, 2
+
+Fleetwood Town, 2
+Milton Keynes Dons, 1
+
+Harrogate Town, 0
+Colchester United, 0
+
+El Gouna FC, 1
+National Bank of Egypt, 2
+
+Ghazl El Mahalla, 0
+Haras El Hedoud, 1
+
+ENPPI, 0
+Tala'ea El-Gaish, 1
+
+Ismaily, 1
+Smouha, 0
+
+Chennaiyin FC, 0
+Mohun Bagan Super Giant, 0
+
+Al-Khaleej, 1
+Al-Nassr, 3
+
+Al-Riyadh, 1
+Al-Taawoun, 0
+
+Al-Hilal, 4
+Al-Wehda, 1
+
+AmaZulu FC, 0
+Stellenbosch, 0
+
+Leyton Orient, 0
+Stevenage, 1
+
+Khor Fakkan, 0
+Ajman, 2
+
+Shabab Al-Ahli Dubai, 2
+Al-Jazira, 1
+
+Al-Ain, 4
+Al-Nasr Dubai, 1
+
+CR Belouizdad, 1
+JS Kabylie, 1
+
+CSA, 2
+Confiança, 1
+
+Santos de Guápiles, 0
+Herediano, 0
+
+Omonia Aradippou, 1
+ALS Omonia, 0
+
+FC Hradec Kralove B, 3
+FC Sellier & Bellot Vlašim, 4
+
+Oldham Athletic, 0
+York City, 2
+
+Deportivo Guastatoya, 0
+Comunicaciones FC, 0
+
+Zob Ahan, 0
+Persepolis FC, 0
+
+Foolad Khuzestan, 1
+Nassaji Mazandaran FC, 0
+
+Potenza Calcio, 3
+Benevento, 0
+
+Juventus U20, 0
+Sampdoria U20, 2
+
+Lazio U20, 2
+Torino U20, 1
+
+Monza U20, 2
+Cagliari U20, 1
+
+Udinese U20, 1
+Empoli U20, 1
+
+Estrela Amadora U23, 0
+Torreense U23, 1
+
+Santa Clara U23, 0
+SC Farense U23, 2
+
+CD Mafra U23, 1
+Académico Viseu U23, 2
+
+SC Braga U23, 3
+Leixoes SC U23, 0
+
+Queen of The South, 3
+Inverness Caledonian Thistle, 2
+
+Bonnyrigg Rose, 2
+The Spartans FC, 2
+
+SV Stripfing, 3
+Vysočina Jihlava, 2
+
+Hammarby IF, 3
+Diósgyőri VTK, 1
+
+FC 1980 Wien, 1
+Young Violets Austria Wien, 8
+
+Racing de Montevideo, 2
+Club Atletico Colón, 4
+
+Defensor Sporting, 5
+Instituto De Córdoba, 6
+
+MFK Vyškov, 1
+MFK Skalica, 2
+
+Chrobry Głogów, 3
+Unia Swarzędz, 2
+
+Slezský FC Opava, 2
+Dukla Banská Bystrica, 3

@@ -1,0 +1,182 @@
+West Ham United, 0
+Newcastle United, 1
+
+Espanyol, 1
+Girona FC, 1
+
+Lazio, 1
+Udinese, 1
+
+Famalicão, 1
+Rio Ave, 0
+
+Beşiktaş, 1
+Gaziantep FK, 2
+
+Al-Nassr, 3
+Esteghlal FC, 0
+
+Al-Sadd, 3
+Al Wasl, 1
+
+Yokohama F. Marinos, 4
+Shanghai Port, 1
+
+Burgos Club de Fútbol, 1
+Albacete Balompié, 0
+
+Rodez AF, 5
+USL Dunkerque, 1
+
+Excelsior, 3
+FC Den Bosch, 1
+
+Jong FC Utrecht Youth, 0
+Vitesse, 2
+
+Jong PSV Eindhoven, 2
+TOP Oss, 2
+
+SC Cambuur, 1
+FC Dordrecht, 0
+
+Boluspor, 1
+İstanbulspor, 0
+
+Pendikspor, 0
+Amed Sportif Faaliyetler, 1
+
+Kocaelispor, 1
+MKE Ankaragücü, 1
+
+Beitar Jerusalem, 1
+Hapoel Be'er Sheva, 1
+
+Unión Española, 0
+Universidad de Chile, 0
+
+Deportivo Cali, 0
+Boyacá Chicó FC, 0
+
+Deportes Tolima, 2
+Once Caldas, 0
+
+Motor Lublin, 3
+Legia Warszawa, 3
+
+Randers FC, 4
+Brøndby IF, 2
+
+Orense SC, 2
+Técnico Universitario, 1
+
+Mohammedan SC, 2
+Punjab FC, 2
+
+Club Atlético Grau, 2
+Los Chankas CYC, 1
+
+Deportivo Binacional, 2
+ADC Juan Pablo II, 0
+
+FC Botoșani, 1
+AFC Unirea 04 Slobozia, 0
+
+UTA Arad, 0
+FC Dinamo București, 2
+
+FC Como, 3
+Sassuolo, 0
+
+SV Werder Bremen, 1
+TSG Hoffenheim, 0
+
+Gimnasia y Esgrima, 1
+Deportivo Riestra, 1
+
+Independiente Rivadavia, 2
+Club Atlético Unión de Santa Fe, 0
+
+Talleres, 0
+Rosario Central, 0
+
+San Telmo, 1
+Talleres Remedios de Escalada, 0
+
+Nueva Chicago, 0
+Defensores de Belgrano, 0
+
+Sumqayıt FK, 3
+Kəpəz PFK, 0
+
+Neftçi Baku PFK, 1
+Turan Tovuz, 1
+
+Palmeiras, 1
+São Paulo, 0
+
+FK Septemvri Sofia, 6
+FK Hebar Pazardzhik, 1
+
+Santiago Wanderers, 4
+Antofagasta, 0
+
+Bogotá FC, 2
+Atlético Huila, 3
+
+FC Silon Táborsko, 0
+Vysočina Jihlava, 1
+
+FC Dila Gori, 0
+FC Iberia 1999, 1
+
+Dinamo Batumi, 2
+FC Gagra, 1
+
+Nsoatreman FC, 0
+Samartex, 1
+
+Dewa United FC, 0
+Borneo FC Samarinda, 1
+
+Semen Padang FC, 1
+Persib Bandung, 4
+
+Riga FC, 2
+FK Auda, 2
+
+CODM Meknès, 1
+Raja Club Athletic, 2
+
+Hassania d'Agadir, 1
+Difaâ Hassani El-Jadidi, 1
+
+FK Rabotnički Skopje, 1
+Tikveš Kavadarci, 0
+
+Sportivo Luqueño, 2
+Nacional Asunción, 1
+
+Sportivo Ameliano, 2
+Guaraní, 0
+
+Wisła Płock, 3
+Bruk-Bet Termalica Nieciecza, 0
+
+Leixões SC, 0
+Tondela, 1
+
+Portimonense U23, 1
+Leixoes SC U23, 0
+
+Livingston, 0
+St. Johnstone, 1
+
+Malmö FF, 1
+IF Elfsborg, 0
+
+Oleksandria, 2
+Obolon Kyiv, 0
+
+Montevideo Wanderers, 3
+Cerro Largo, 0

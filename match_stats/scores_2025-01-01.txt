@@ -1,0 +1,170 @@
+Brentford, 1
+Arsenal, 3
+
+Plymouth Argyle, 2
+Bristol City, 2
+
+Queens Park Rangers, 3
+Watford, 1
+
+Millwall, 0
+Oxford United, 1
+
+Burnley, 0
+Stoke City, 0
+
+Cardiff City, 1
+Coventry City, 1
+
+Leeds United, 1
+Blackburn Rovers, 1
+
+Luton Town, 0
+Norwich City, 1
+
+Portsmouth, 4
+Swansea City, 0
+
+Sheffield Wednesday, 4
+Derby County, 2
+
+West Bromwich Albion, 3
+Preston North End, 1
+
+Hull City, 0
+Middlesbrough, 1
+
+Sunderland, 2
+Sheffield United, 1
+
+Hapoel Jerusalem, 1
+Hapoel Haifa, 0
+
+Maccabi Netanya, 3
+Beitar Jerusalem, 0
+
+Hapoel Be'er Sheva, 2
+Maccabi Tel Aviv, 2
+
+Barnsley, 2
+Wrexham, 1
+
+Blackpool, 1
+Shrewsbury Town, 1
+
+Bristol Rovers, 2
+Leyton Orient, 3
+
+Burton Albion, 2
+Peterborough United, 2
+
+Cambridge United, 1
+Reading, 3
+
+Crawley Town, 0
+Charlton Athletic, 0
+
+Lincoln City, 0
+Rotherham United, 1
+
+Mansfield Town, 2
+Bolton Wanderers, 1
+
+Northampton Town, 0
+Stevenage, 0
+
+Stockport County, 1
+Birmingham City, 1
+
+Wycombe Wanderers, 2
+Exeter City, 1
+
+Accrington Stanley, 3
+Grimsby Town, 2
+
+Barrow, 2
+Bradford City, 2
+
+Chesterfield, 1
+Milton Keynes Dons, 2
+
+Crewe Alexandra, 3
+Carlisle United, 2
+
+Doncaster Rovers, 2
+Fleetwood Town, 1
+
+Harrogate Town, 0
+Salford City, 2
+
+Morecambe, 2
+Tranmere Rovers, 0
+
+Notts County, 1
+Walsall, 2
+
+Port Vale, 0
+Cheltenham Town, 0
+
+Swindon Town, 3
+Colchester United, 2
+
+Modern Sport FC, 0
+Ismaily, 3
+
+Ghazl El Mahalla, 0
+National Bank of Egypt, 1
+
+Paradou AC, 2
+US Biskra, 1
+
+Eastleigh, 1
+Barnet, 1
+
+Ebbsfleet United, 0
+Dagenham & Redbridge, 2
+
+FC Halifax Town, 0
+AFC Fylde, 0
+
+Forest Green Rovers, 2
+Yeovil Town, 1
+
+Hartlepool United, 2
+Oldham Athletic, 1
+
+Rochdale, 0
+Altrincham, 0
+
+Sutton United, 1
+Aldershot Town, 1
+
+Woking, 3
+Maidenhead United, 1
+
+York City, 1
+Gateshead, 0
+
+Braintree Town, 0
+Southend United, 1
+
+Medeama, 1
+Karela United, 0
+
+Havadar Tehran, 0
+Persepolis FC, 5
+
+Aluminium Arak, 3
+Shams Azar Qazvin, 0
+
+Kheybar Khorramabad FC, 1
+Mes Rafsanjan FC, 2
+
+Zob Ahan, 0
+Nassaji Mazandaran FC, 0
+
+Flint Town United, 2
+Newtown AFC, 0
+
+Haverfordwest County AFC, 1
+Aberystwyth Town, 0

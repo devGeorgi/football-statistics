@@ -1,0 +1,92 @@
+Fiorentina, 1
+Udinese, 2
+
+Inter, 2
+Como, 0
+
+Benfica, 3
+Estoril Praia, 0
+
+Vitória SC, 2
+CD Nacional, 2
+
+CF Estrela Amadora, 1
+Rio Ave, 0
+
+Başakşehir FK, 2
+Kasımpaşa, 2
+
+Hatayspor, 1
+Adana Demirspor, 3
+
+Asteras Aktor, 2
+Aris Thessaloniki, 1
+
+OFI Crete, 4
+NPS Volos, 0
+
+OFK Beograd, 2
+FK TSC Bačka Topola, 2
+
+Jong Ajax, 3
+Roda JC Kerkrade, 1
+
+Amed Sportif Faaliyetler, 2
+Ümraniyespor, 0
+
+Gençlerbirliği, 0
+Adanaspor, 2
+
+Beitar Jerusalem, 1
+Ironi Tiberias, 1
+
+Crawley Town, 0
+Birmingham City, 1
+
+CDT Real Oruro, 3
+Royal Pari Sion, 0
+
+Hyderabad FC, 2
+NorthEast United, 5
+
+UTA Arad, 2
+FC Botoșani, 0
+
+ACSM Politehnica Iași, 0
+FCSB, 2
+
+Ethnikos Achnas, 2
+APOEL Nicosia, 2
+
+Aduana Stars FC, 0
+Accra Lions FC, 0
+
+Chania F.C., 3
+AO Egaleo, 0
+
+Trapani, 0
+Foggia, 0
+
+Cagliari U20, 2
+Fiorentina U20, 0
+
+Torino U20, 1
+Bologna U20, 0
+
+Renaissance Zemamra, 0
+Wydad Casablanca, 0
+
+Fath Union Sport, 5
+CODM Meknès, 1
+
+Dungannon Swifts, 0
+Larne FC, 1
+
+Al-Wahda FC, 1
+Al-Sharjah, 0
+
+Shabab Al-Ahli Dubai, 2
+Al-Nasr Dubai, 0
+
+Botafogo-PB, 0
+Retrô, 0

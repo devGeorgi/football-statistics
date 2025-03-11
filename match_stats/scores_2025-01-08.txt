@@ -1,0 +1,116 @@
+Athletic Club, 0
+Barcelona, 2
+
+Celtic, 2
+Dundee United, 0
+
+Kilmarnock, 0
+Motherwell, 0
+
+Tottenham Hotspur, 1
+Liverpool, 0
+
+FC Goa, 1
+Hyderabad FC, 1
+
+AmaZulu FC, 0
+Sekhukhune United, 2
+
+Cape Town City FC, 1
+Orlando Pirates, 0
+
+Kaizer Chiefs, 2
+Stellenbosch, 1
+
+Western Sydney Wanderers, 0
+Wellington Phoenix, 3
+
+Port FC, 2
+Lamphun Warrior, 1
+
+Le Havre AC, 0
+Paris FC, 2
+
+Nantes, 2
+EA Guingamp, 1
+
+Saint-Étienne, 0
+Stade de Reims, 3
+
+Strasbourg, 1
+Montpellier HSC, 2
+
+Olympique Lyonnais, 2
+Dijon FCO, 0
+
+Real Madrid, 6
+Levante UD, 0
+
+Royal Antwerp FC, 5
+Royale Union Saint-Gilloise, 1
+
+Ferroviário, 2
+Treze, 0
+
+Juazeirense, 4
+ASA, 3
+
+Botafogo-PB, 0
+Moto Club, 1
+
+CSA, 1
+Maracanã, 0
+
+ALS Omonia, 1
+Karmiotissa Polemidion, 2
+
+Ethnikos Achnas, 2
+AEK Larnaca, 2
+
+Nea Salamina Famagusta, 1
+APOEL Nicosia, 1
+
+Al-Masry, 0
+Wadi Degla, 0
+
+Pyramids FC, 0
+El Mansoura, 0
+
+Forest Green Rovers, 1
+Dagenham & Redbridge, 1
+
+Nsoatreman FC, 1
+Medeama, 1
+
+Asteras Aktor, 2
+GSS Panionios, 0
+
+Panathinaikos, 2
+Atromitos Athens, 1
+
+Rajasthan United FC, 2
+SC Bengaluru, 1
+
+Benfica, 3
+Sporting Braga, 0
+
+Famalicão U23, 3
+Benfica U23, 1
+
+Edinburgh City F.C., 2
+East Fife, 4
+
+Trabzonspor, 3
+Alanyaspor, 0
+
+Erzurumspor FK, 0
+Göztepe, 1
+
+Eyüpspor, 1
+Boluspor, 0
+
+Galatasaray, 2
+Başakşehir FK, 2
+
+SK Sturm Graz, 2
+FC Lugano, 1

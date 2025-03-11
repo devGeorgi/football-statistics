@@ -28,8 +28,13 @@ def get_daily_teams(date):
         
         teams = set()
         for event in events:
-            teams.add(event["homeTeam"]["name"])
-            teams.add(event["awayTeam"]["name"])
+            event_date = event["startTimestamp"]
+            event_date_str = datetime.utcfromtimestamp(event_date).strftime('%Y-%m-%d')
+            if event_date_str == date:
+                teams.add(event["homeTeam"]["name"])
+                teams.add(event["awayTeam"]["name"])
+        
+        print(f"Teams playing on {date}: {teams}")  # Debug print
         return list(teams)
     
     except Exception as e:
@@ -40,12 +45,14 @@ def analyze_date(date):
     """Analyze teams playing on specific date"""
     # Get teams playing that day
     daily_teams = get_daily_teams(date)
+    print(f"Daily teams: {daily_teams}")  # Debug print
     
     # Load all team stats
     all_teams = load_team_data()
     
     # Filter to only teams playing that day
     filtered_teams = {team: all_teams[team] for team in daily_teams if team in all_teams}
+    print(f"Filtered teams: {filtered_teams}")  # Debug print
     
     if not filtered_teams:
         print(f"No team data available for matches on {date}")
@@ -55,8 +62,8 @@ def analyze_date(date):
     categories = {
         "winstreak": "Current Win Streak",
         "losestreak": "Current Lose Streak", 
-        "not_won": "Matches Without Win",
-        "not_lost": "Matches Without Loss"
+        "games_without_win": "Matches Without Win",
+        "games_without_loss": "Matches Without Loss"
     }
     
     print(f"\nTop performers for {date} matches:")
@@ -86,8 +93,10 @@ def show_team_stats(team_name):
     print(f"\nStatistics for {team_name.title()}:")
     print(f"- Current win streak: {team_stats['winstreak']}")
     print(f"- Current lose streak: {team_stats['losestreak']}")
-    print(f"- Matches without win: {team_stats['not_won']}")
-    print(f"- Matches without loss: {team_stats['not_lost']}")
+    print(f"- Matches without win: {team_stats['games_without_win']}")
+    print(f"- Matches without loss: {team_stats['games_without_loss']}")
+    print(f"- Last matches: {' '.join(team_stats['last_matches'])}")
+    print(f"- Last matches with opponents: {' | '.join(team_stats['last_matches_with_opponents'])}")
 
 def main():
     parser = argparse.ArgumentParser(description="Team Statistics Analyzer")

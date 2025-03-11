@@ -1,10 +1,13 @@
 import requests
 import json
 import os
-from datetime import datetime
+from datetime import datetime, timedelta
 
 # Configuration - Edit these dates as needed
-DATES = ["2025-03-10"]  # Add/remove dates here
+start_date = datetime.now() - timedelta(days=90)
+end_date = datetime.now() - timedelta(days=1)
+DATES = [(start_date + timedelta(days=i)).strftime("%Y-%m-%d") for i in range((end_date - start_date).days + 1)]
+
 BASE_URL = "https://api.sofascore.com/api/v1/sport/football/scheduled-events/{date}"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
@@ -16,8 +19,9 @@ def initialize_team():
     return {
         "winstreak": 0,
         "losestreak": 0,
-        "not_won": 0,
-        "not_lost": 0
+        "games_without_win": 0,
+        "games_without_loss": 0,
+        "last_matches_with_opponents": []
     }
 
 def create_directory():
@@ -36,7 +40,7 @@ def get_matches(date):
         print(f"Error fetching {date}: {str(e)}")
         return []
 
-def process_matches(date, events, teams):
+def process_matches(date, events, teams, processed_matches):
     """Process matches and update team statistics"""
     match_records = []
     
@@ -46,6 +50,12 @@ def process_matches(date, events, teams):
             at = event['awayTeam']['name']
             hsc = event.get('homeScore', {}).get('current', 0)
             asc = event.get('awayScore', {}).get('current', 0)
+            match_id = (ht, at, hsc, asc)
+
+            # Skip if match already processed
+            if match_id in processed_matches:
+                continue
+            processed_matches.add(match_id)
 
             # Initialize teams if they don't exist
             if ht not in teams:
@@ -53,39 +63,60 @@ def process_matches(date, events, teams):
             if at not in teams:
                 teams[at] = initialize_team()
 
+            # Determine match result
+            if hsc > asc:
+                ht_result = 'w'
+                at_result = 'l'
+            elif hsc < asc:
+                ht_result = 'l'
+                at_result = 'w'
+            else:
+                ht_result = 'd'
+                at_result = 'd'
+
             # Update home team stats
             if hsc > asc:
                 teams[ht]["winstreak"] += 1
                 teams[ht]["losestreak"] = 0
-                teams[ht]["not_won"] = 0
-                teams[ht]["not_lost"] += 1
+                teams[ht]["games_without_win"] = 0
+                teams[ht]["games_without_loss"] += 1
             elif hsc < asc:
                 teams[ht]["losestreak"] += 1
                 teams[ht]["winstreak"] = 0
-                teams[ht]["not_won"] += 1
-                teams[ht]["not_lost"] = 0
+                teams[ht]["games_without_win"] += 1
+                teams[ht]["games_without_loss"] = 0
             else:
                 teams[ht]["winstreak"] = 0
                 teams[ht]["losestreak"] = 0
-                teams[ht]["not_won"] += 1
-                teams[ht]["not_lost"] += 1
+                teams[ht]["games_without_win"] += 1
+                teams[ht]["games_without_loss"] += 1
 
             # Update away team stats
             if asc > hsc:
                 teams[at]["winstreak"] += 1
                 teams[at]["losestreak"] = 0
-                teams[at]["not_won"] = 0
-                teams[at]["not_lost"] += 1
+                teams[at]["games_without_win"] = 0
+                teams[at]["games_without_loss"] += 1
             elif asc < hsc:
                 teams[at]["losestreak"] += 1
                 teams[at]["winstreak"] = 0
-                teams[at]["not_won"] += 1
-                teams[at]["not_lost"] = 0
+                teams[at]["games_without_win"] += 1
+                teams[at]["games_without_loss"] = 0
             else:
                 teams[at]["winstreak"] = 0
                 teams[at]["losestreak"] = 0
-                teams[at]["not_won"] += 1
-                teams[at]["not_lost"] += 1
+                teams[at]["games_without_win"] += 1
+                teams[at]["games_without_loss"] += 1
+
+            # Update last matches with opponents
+            teams[ht]["last_matches_with_opponents"].append(f"{ht_result} vs {at}")
+            teams[at]["last_matches_with_opponents"].append(f"{at_result} vs {ht}")
+            teams[ht]["last_matches_with_opponents"] = teams[ht]["last_matches_with_opponents"][-max(teams[ht]["games_without_win"], teams[ht]["games_without_loss"], 1):]
+            teams[at]["last_matches_with_opponents"] = teams[at]["last_matches_with_opponents"][-max(teams[at]["games_without_win"], teams[at]["games_without_loss"], 1):]
+
+            # Ensure no duplicate entries for the same match
+            teams[ht]["last_matches_with_opponents"] = list(dict.fromkeys(teams[ht]["last_matches_with_opponents"]))
+            teams[at]["last_matches_with_opponents"] = list(dict.fromkeys(teams[at]["last_matches_with_opponents"]))
 
             # Create match record for output file
             match_records.append(f"{ht}, {hsc}\n{at}, {asc}")
@@ -135,6 +166,7 @@ def main():
         print("Created new teams database")
 
     create_directory()
+    processed_matches = set()
 
     for date in DATES:
         print(f"\nProcessing {date}...")
@@ -144,7 +176,7 @@ def main():
             print(f"No matches found for {date}")
             continue
             
-        match_records = process_matches(date, events, teams)
+        match_records = process_matches(date, events, teams, processed_matches)
         save_data(date, match_records, teams)
 
 if __name__ == "__main__":

@@ -1,6 +1,3 @@
-Rayo Vallecano, 1
-Real Valladolid, 0
-
 Celta Vigo, 3
 Real Betis, 2
 
@@ -13,9 +10,6 @@ Villarreal, 2
 Real Madrid, 1
 Atlético Madrid, 1
 
-Como, 1
-Juventus, 2
-
 Hellas Verona, 0
 Atalanta, 5
 
@@ -27,9 +21,6 @@ Genoa, 1
 
 Venezia, 0
 Roma, 1
-
-FC Bayern München, 3
-SV Werder Bremen, 0
 
 1. FSV Mainz 05, 0
 FC Augsburg, 0
@@ -49,12 +40,6 @@ Bayer 04 Leverkusen, 0
 Borussia M'gladbach, 1
 Eintracht Frankfurt, 1
 
-Nantes, 0
-Stade Brestois, 2
-
-Paris Saint-Germain, 4
-AS Monaco, 1
-
 Nice, 2
 RC Lens, 0
 
@@ -63,9 +48,6 @@ Le Havre, 2
 
 Saint-Étienne, 0
 Stade Rennais, 2
-
-FC Porto, 1
-Sporting, 1
 
 AVS - Futebol SAD, 1
 Santa Clara, 2
@@ -91,9 +73,6 @@ Sparta Rotterdam, 0
 FC Utrecht, 0
 Almere City FC, 1
 
-Samsunspor, 2
-Hatayspor, 0
-
 Kayserispor, 3
 Konyaspor, 2
 
@@ -102,9 +81,6 @@ Beşiktaş, 2
 
 Kasımpaşa, 3
 Çaykur Rizespor, 2
-
-KV Mechelen, 3
-KAA Gent, 3
 
 Club Brugge KV, 1
 Oud-Heverlee Leuven, 0
@@ -120,9 +96,6 @@ Panetolikos, 1
 
 OFI Crete, 0
 PAOK, 5
-
-Manchester United, 2
-Leicester City, 1
 
 Leeds United, 0
 Millwall, 2
@@ -160,15 +133,6 @@ Newcastle United, 3
 Brighton & Hove Albion, 2
 Chelsea, 1
 
-Club Necaxa, 3
-Santos Laguna, 2
-
-Querétaro FC, 1
-Atlético San Luis, 0
-
-Club Puebla, 1
-Club América, 2
-
 Club León, 3
 CD Toluca, 3
 
@@ -181,17 +145,11 @@ CF Monterrey, 1
 Cruz Azul, 2
 CF Pachuca, 1
 
-GNK Dinamo Zagreb, 3
-HNK Šibenik, 0
-
 HNK Gorica, 1
 NK Osijek, 0
 
 HNK Hajduk Split, 1
 NK Varaždin, 0
-
-FK Tekstilac Odžaci, 0
-FK Čukarički, 1
 
 FK Mladost Lučani, 4
 FK TSC Bačka Topola, 1
@@ -214,9 +172,6 @@ Derby County, 1
 Sheffield United, 2
 Portsmouth, 1
 
-Albacete Balompié, 2
-Real Zaragoza, 1
-
 Racing de Ferrol, 1
 CD Castellón, 3
 
@@ -228,12 +183,6 @@ Levante UD, 1
 
 Sporting Gijón, 0
 Eibar, 0
-
-Preußen Münster, 1
-Hamburger SV, 2
-
-SpVgg Greuther Fürth, 2
-SSV Jahn Regensburg, 1
 
 1. FC Magdeburg, 3
 1. FC Nürnberg, 4
@@ -247,9 +196,6 @@ SC Paderborn 07, 2
 Hertha BSC, 0
 1. FC Kaiserslautern, 1
 
-Portuguesa, 2
-Inter de Limeira, 0
-
 Botafogo-SP, 1
 AE Velo Clube, 0
 
@@ -258,9 +204,6 @@ EC Noroeste, 1
 
 Red Bull Bragantino, 1
 São Paulo, 0
-
-Brescia, 0
-Salernitana, 0
 
 Cosenza, 1
 Carrarese, 0
@@ -277,21 +220,6 @@ Cittadella, 1
 U.C Sampdoria, 1
 Modena, 0
 
-FC Martigues, 1
-Troyes, 2
-
-Grenoble Foot 38, 0
-Red Star FC, 0
-
-Paris FC, 3
-Pau FC, 1
-
-Rodez AF, 0
-Bastia, 2
-
-Stade Lavallois, 0
-Annecy FC, 1
-
 Ajaccio, 0
 Guingamp, 3
 
@@ -304,32 +232,11 @@ USL Dunkerque, 0
 Metz, 3
 Clermont Foot, 1
 
-De Graafschap, 1
-FC Den Bosch, 0
-
-FC Eindhoven, 3
-TOP Oss, 0
-
-FC Volendam, 1
-ADO Den Haag, 2
-
-Roda JC Kerkrade, 3
-Jong AZ Alkmaar, 3
-
 Helmond Sport, 0
 FC Dordrecht, 1
 
 VVV-Venlo, 0
 MVV Maastricht, 0
-
-Gençlerbirliği, 1
-Esenler Erokspor, 1
-
-Iğdır FK, 1
-Pendikspor, 0
-
-Yeni Malatyaspor, 0
-Erzurumspor FK, 7
 
 Adanaspor, 2
 Manisa FK, 1
@@ -346,20 +253,8 @@ Bandırmaspor, 3
 Boluspor, 1
 Keçiörengücü, 1
 
-Perth Glory, 1
-Central Coast Mariners, 1
-
-Newcastle Jets, 3
-Melbourne Victory, 0
-
-Sydney FC, 3
-Western Sydney Wanderers, 3
-
 Macarthur FC, 2
 Western United, 2
-
-SK Sturm Graz, 2
-Austria Wien, 2
 
 SC Rheindorf Altach, 1
 Grazer AK 1902, 2
@@ -381,12 +276,6 @@ Maccabi Petach Tikva, 2
 
 Ashdod SC, 0
 Hapoel Be'er Sheva, 2
-
-Rionegro Águilas Doradas, 0
-Independiente Santa Fe, 0
-
-Deportes Tolima, 3
-Alianza Valledupar FC, 1
 
 Boyacá Chicó FC, 2
 Llaneros FC, 2
@@ -412,12 +301,6 @@ SK Slavia Praha, 2
 Viktoria Plzeň, 3
 FC Slovan Liberec, 2
 
-Stal Mielec, 2
-Jagiellonia Białystok, 1
-
-Pogoń Szczecin, 3
-Górnik Zabrze, 0
-
 Radomiak Radom, 1
 Śląsk Wrocław, 1
 
@@ -429,9 +312,6 @@ Legia Warszawa, 0
 
 MKS Korona Kielce, 1
 Motor Lublin, 0
-
-Mansfield Town, 0
-Northampton Town, 1
 
 Charlton Athletic, 2
 Stevenage, 0
@@ -496,35 +376,14 @@ Morecambe, 0
 Salford City, 2
 Tranmere Rovers, 0
 
-Haras El Hedoud, 1
-ENPPI, 0
-
-Smouha, 0
-Pyramids FC, 1
-
-Tala'ea El-Gaish, 0
-El Gouna FC, 0
-
-Zamalek SC, 2
-Ismaily, 0
-
 Al-Ittihad Alexandria, 1
 Al-Masry, 2
 
 National Bank of Egypt, 1
 ZED FC, 1
 
-NorthEast United, 0
-Mumbai City FC, 2
-
-Hyderabad FC, 3
-Mohammedan SC, 1
-
 East Bengal FC, 0
 Chennaiyin FC, 3
-
-Sport Huancayo, 2
-Alianza Atlético de Sullana, 1
 
 Melgar, 3
 Universidad Técnica de Cajamarca, 0
@@ -535,15 +394,6 @@ Ayacucho, 0
 Alianza Lima, 3
 Cusco FC, 0
 
-Al-Orobah, 4
-Al-Wehda, 2
-
-Al-Nassr, 3
-Al-Fayha, 0
-
-Al-Ahli, 2
-Al-Fateh, 0
-
 Al-Kholood, 3
 Al-Riyadh, 2
 
@@ -552,9 +402,6 @@ Al-Ettifaq, 2
 
 Damac FC, 2
 Al-Hilal, 2
-
-FC Botoșani, 1
-FC Dinamo București, 1
 
 AFC Unirea 04 Slobozia, 0
 Universitatea Craiova, 1
@@ -571,12 +418,6 @@ Grasshopper Club Zürich, 1
 Young Boys, 5
 FC Sion, 1
 
-AmaZulu FC, 2
-Marumo Gallants FC, 0
-
-Stellenbosch, 0
-Kaizer Chiefs, 1
-
 Magesi FC, 2
 Cape Town City FC, 0
 
@@ -589,15 +430,6 @@ Polokwane City, 0
 TS Galaxy, 1
 Chippa United, 0
 
-Wellington Phoenix, 1
-Melbourne Victory, 1
-
-Canberra United, 1
-Central Coast Mariners, 1
-
-Newcastle Jets, 0
-Melbourne City, 2
-
 Sydney FC, 1
 Western United, 2
 
@@ -606,15 +438,6 @@ Brisbane Roar, 1
 
 Chile, 6
 Panama, 1
-
-Al-Ahli Doha, 0
-Qatar SC, 3
-
-Al Duhail, 2
-Al-Wakrah, 0
-
-Umm-Salal SC, 0
-Al-Sadd, 1
 
 Al Shamal SC, 1
 Al-Gharafa, 2
@@ -625,12 +448,6 @@ Al-Rayyan, 1
 Al Khor, 3
 Al-Arabi SC, 4
 
-True Bangkok United, 2
-Rayong FC, 2
-
-Muang Thong United, 2
-Chiangrai United, 1
-
 Nakhon Ratchasima Mazda FC, 1
 Ratchaburi, 1
 
@@ -640,9 +457,6 @@ Sukhothai, 0
 Nakhon Pathom United, 2
 Khon Kaen United, 1
 
-Al-Orooba, 4
-Al-Jazira, 5
-
 Al-Ain, 2
 Al Bataeh, 1
 
@@ -651,12 +465,6 @@ Khor Fakkan, 1
 
 Shabab Al-Ahli Dubai, 3
 Ajman, 1
-
-SV Zulte Waregem, 0
-KMSK Deinze, 0
-
-Lommel SK, 0
-Club NXT U23, 2
 
 RFC Liège, 0
 Royal Francs Borains, 1
@@ -673,23 +481,8 @@ Inter, 4
 Sampdoria, 0
 Sassuolo, 2
 
-1. FC Köln, 0
-VfL Wolfsburg, 0
-
-Bayer Leverkusen, 1
-SGS Essen, 1
-
 SV Werder Bremen, 1
 RB Leipzig, 4
-
-Atlético Madrid, 1
-Sevilla, 0
-
-FC Levante Badalona, 0
-Granada, 2
-
-SD Eibar, 1
-Madrid CFF, 2
 
 Levante UD, 1
 Real Madrid, 2
@@ -702,9 +495,6 @@ Barcelona, 2
 
 Valencia, 1
 Costa Adeje Tenerife, 2
-
-MTK Budapest, 0
-Debreceni VSC, 2
 
 Nyiregyháza Spartacus, 0
 Kecskemét TE, 0
@@ -727,47 +517,8 @@ FK Železiarne Podbrezová, 2
 MŠK Žilina, 0
 FC Košice, 2
 
-CS Constantine, 0
-ASO Chlef, 0
-
-ES Sétif, 0
-CR Belouizdad, 0
-
-MC Oran, 0
-ES Mostaganem, 0
-
-Olympique Akbou, 0
-JS Kabylie, 0
-
-Paradou AC, 0
-MC Alger, 0
-
-US Biskra, 0
-MC El Bayadh, 0
-
-USM Alger, 0
-NC Magra, 0
-
-USM Khenchela, 0
-JS Saoura, 0
-
 MC Alger, 6
 CR Belouizdad, 5
-
-Banfield, 1
-Belgrano, 1
-
-Central Córdoba, 2
-Newell's Old Boys, 0
-
-Huracán, 2
-Tigre, 0
-
-Club Atlético Unión de Santa Fe, 0
-Argentinos Juniors, 1
-
-Independiente Rivadavia, 2
-Estudiantes de La Plata, 2
 
 Vélez Sarsfield, 0
 San Lorenzo, 0
@@ -780,9 +531,6 @@ CA Independiente, 0
 
 Racing Club, 2
 Boca Juniors, 0
-
-Arsenal de Sarandí, 0
-All Boys, 0
 
 Almagro, 0
 San Martín de Tucumán, 0
@@ -798,12 +546,6 @@ Gimnasia y Tiro de Salta, 1
 
 San Miguel, 2
 Tristán Suárez, 1
-
-Nueva Chicago, 0
-San Telmo, 2
-
-Chaco For Ever, 0
-Estudiantes de Buenos Aires, 1
 
 Gimnasia y Esgrima Mendoza, 1
 Estudiantes de Río Cuarto, 1
@@ -847,9 +589,6 @@ Treze, 1
 Sousa EC, 3
 Nacional de Patos, 0
 
-AD Jaguar, 0
-Santa Cruz, 4
-
 Sport Recife, 5
 Maguary, 0
 
@@ -858,12 +597,6 @@ AA Guarany, 2
 
 Lagarto FC, 0
 AO Itabaiana, 1
-
-Arda Kardzhali, 2
-FK Spartak Varna, 2
-
-FK Septemvri Sofia, 2
-Botev Vratsa, 2
 
 Cherno More Varna, 1
 Lokomotiv Plovdiv, 2
@@ -889,23 +622,11 @@ Universidad de Concepción, 1
 Ñublense, 2
 Deportes Santa Cruz, 2
 
-Shanghai Port, 2
-Shanghai Shenhua, 3
-
-Real Cundinamarca, 0
-Patriotas Boyacá, 0
-
-Municipal Pérez Zeledón, 1
-San Carlos, 0
-
 Santos de Guápiles, 2
 Municipal Santa Ana, 3
 
 Herediano, 2
 Municipal Liberia, 1
-
-ALS Omonia, 2
-Omonia Nicosia, 3
 
 APOEL Nicosia, 0
 Apollon Limassol, 0
@@ -967,32 +688,11 @@ KuPS, 0
 VPS, 2
 AC Oulu, 1
 
-Bourg-en-Bresse, 1
-Quevilly - Rouen Métropole, 1
-
-Châteauroux, 1
-Valenciennes, 2
-
-FC Rouen, 1
-Nîmes Olympique, 0
-
-FC Villefranche Beaujolais, 2
-Nancy, 0
-
-Sochaux, 0
-Paris 13 Atletico, 0
-
-US Concarneau, 1
-US Orléans, 2
-
 Dijon, 0
 Le Mans, 5
 
 FC Versailles 78, 2
 Aubagne FC, 0
-
-SV Sandhausen, 1
-Arminia Bielefeld, 0
 
 1. FC Saarbrücken, 2
 SV Waldhof Mannheim, 1
@@ -1011,15 +711,6 @@ SG Dynamo Dresden, 1
 
 TSV 1860 München, 1
 FC Ingolstadt 04, 1
-
-Berliner FC Dynamo, 2
-BSG Chemie Leipzig, 0
-
-FC Rot-Weiß Erfurt, 0
-Hertha BSC II U23, 0
-
-FSV Luckenwalde, 0
-FC Eilenburg, 2
 
 1. FC Lokomotive Leipzig, 1
 Viktoria Berlin, 0
@@ -1063,26 +754,8 @@ Deportivo Mixco, 1
 CSD Xelajú MC, 1
 Deportivo Guastatoya, 0
 
-Churchill Brothers SC, 2
-Gokulam Kerala FC, 1
-
-Inter Kashi FC, 0
-Dempo SC, 2
-
-Delhi FC, 0
-SC Bengaluru, 1
-
 Shillong Lajong FC, 3
 Namdhari Football Club, 2
-
-Persis Solo, 2
-Persebaya Surabaya, 1
-
-Madura United FC, 0
-PSBS Biak, 0
-
-PS Barito Putera, 2
-Semen Padang FC, 1
 
 Dewa United FC, 2
 Persija Jakarta, 1
@@ -1090,26 +763,11 @@ Persija Jakarta, 1
 PSS Sleman, 1
 Bali United FC, 2
 
-Kheybar Khorramabad FC, 2
-Foolad Khuzestan, 0
-
-Malavan Bandar Anzali FC, 1
-Sepahan S.C., 1
-
-Nassaji Mazandaran FC, 0
-Chador Malu Yazd, 0
-
-Mes Rafsanjan FC, 0
-Esteghlal FC, 0
-
 Havadar Tehran, 2
 Aluminium Arak, 1
 
 Persepolis FC, 1
 Gol Gohar Sirjan, 0
-
-Shelbourne, 2
-Drogheda United, 0
 
 Atalanta U23, 0
 Virtus Verona, 3
@@ -1123,17 +781,11 @@ Giana Erminio, 1
 Arzignano Valchiampo, 1
 Lumezzane, 1
 
-Perugia, 0
-Vis Pesaro, 1
-
 Milan Futuro, 0
 Lucchese, 2
 
 Rimini, 2
 Ascoli, 0
-
-Latina, 1
-Cavese, 0
 
 Messina, 0
 AZ Picerno, 0
@@ -1156,15 +808,6 @@ Giugliano, 1
 Juventus Next Gen U23, 2
 Benevento, 0
 
-Sampdoria U20, 2
-Monza U20, 3
-
-Atalanta U20, 1
-Udinese U20, 0
-
-Inter U20, 3
-Lecce U20, 0
-
 Juventus U20, 0
 Milan U20, 3
 
@@ -1173,15 +816,6 @@ Lazio U20, 0
 
 Cagliari U20, 1
 Cesena U20, 0
-
-Vissel Kobe, 0
-Sanfrecce Hiroshima, 2
-
-Kuching City, 1
-Perak FC, 1
-
-Kelantan Darul Naim, 1
-Penang, 6
 
 Selangor Football Club, 2
 Sri Pahang FC, 0
@@ -1198,12 +832,6 @@ Hibernians, 4
 Melita FC, 2
 Sliema Wanderers, 4
 
-CD Tapatío, 1
-Dorados de Sinaloa, 0
-
-Venados, 2
-Club Atletico La Paz, 1
-
 Atlante FC, 1
 Tepatitlán FC, 0
 
@@ -1219,12 +847,6 @@ Alebrijes de Oaxaca, 1
 CDS Tampico Madero, 0
 Cancún FC, 2
 
-Moghreb Atlético Tetuán, 1
-Union Touarga Sport, 1
-
-Jeunesse Sportive Soualem, 1
-SC Chabab Mohammédia, 1
-
 MAS de Fès, 1
 CODM Meknès, 3
 
@@ -1233,9 +855,6 @@ Ittihad Tanger, 2
 
 Olympic Safi, 0
 Difaâ Hassani El-Jadidi, 0
-
-Ballymena United, 2
-Linfield FC, 2
 
 Carrick Rangers, 0
 Coleraine FC, 1
@@ -1255,26 +874,11 @@ Nacional Asunción, 0
 Sportivo Trinidense, 1
 Cerro Porteño, 0
 
-Davao Aguilas, 0
-Loyola FC, 1
-
-DH Cebu FC, 3
-Mendiola FC, 1
-
-Stallion Laguna, 0
-Maharlika Manila FC, 0
-
 Kaya-Iloilo, 4
 PFF Development Club Youth, 1
 
 Taguig FC, 0
 Manila Digger FC, 1
-
-Benfica B U21, 0
-Feirense, 1
-
-Leixões SC, 1
-UD Oliveirense, 2
 
 Felgueiras, 1
 Tondela, 0
@@ -1288,35 +892,17 @@ Paços de Ferreira, 2
 CD Mafra, 0
 Chaves, 0
 
-Sporting CP B, 1
-Lusitânia Lourosa, 0
-
-C.F. Os Belenenses, 1
-Atletico CP, 1
-
 Varzim SC, 1
 Amarante FC, 2
 
 AD Fafe, 3
 1º Dezembro, 1
 
-SC Braga, 1
-Estoril Praia, 2
-
-Clube de Albergaria, 2
-Famalicão, 2
-
-Marítimo, 0
-Benfica, 1
-
 Racing Power Football Club, 3
 Damaiense, 0
 
 Sporting CP, 1
 SCU Torreense, 2
-
-Sporting U23, 0
-Vizela U23, 0
 
 Falkirk FC, 5
 Partick Thistle, 2
@@ -1351,9 +937,6 @@ Elgin City, 1
 The Spartans FC, 0
 East Fife, 1
 
-Ayr United, 0
-Hibernian, 1
-
 Dundee FC, 4
 Airdrieonians, 0
 
@@ -1366,23 +949,11 @@ Hamilton Academical, 0
 Celtic, 5
 Raith Rovers, 0
 
-Brunei DPMM FC, 2
-Balestier Khalsa, 3
-
-Young Lions, 1
-Tampines Rovers, 5
-
 Albirex Niigata Singapore, 1
 Geylang International, 1
 
 Lion City Sailors, 4
 Tanjong Pagar United, 1
-
-NK Bravo, 3
-ND Primorje, 1
-
-NK Nafta Lendava 1903, 2
-Kalcer Radomlje, 1
 
 NK Domžale, 0
 NŠ Mura, 1
@@ -1392,24 +963,6 @@ NK Maribor, 2
 
 FC Koper, 1
 NK Olimpija Ljubljana, 2
-
-Colombia U20, 0
-Brazil U20, 1
-
-Uruguay U20, 3
-Argentina U20, 4
-
-Paraguay U20, 2
-Chile U20, 1
-
-Stade Nyonnais, 0
-Schaffhausen, 1
-
-FC Stade-Lausanne-Ouchy, 2
-FC Aarau, 4
-
-Étoile Carouge FC, 2
-Neuchâtel Xamax, 1
 
 AS Soliman, 0
 CA Bizertin, 2
@@ -1426,12 +979,6 @@ Etoile Sportive Du Sahel, 2
 CD Olimpia, 0
 Inter Miami CF, 5
 
-Cerro Largo, 4
-Progreso, 1
-
-Plaza Colonia, 2
-Montevideo Wanderers, 0
-
 Liverpool UY, 2
 Miramar Misiones, 1
 
@@ -1441,9 +988,6 @@ Cerro, 1
 River Plate UY, 0
 Defensor Sporting, 1
 
-Portuguesa FC, 2
-Zamora, 1
-
 Rayo Zuliano, 1
 Deportivo La Guaira, 1
 
@@ -1452,9 +996,6 @@ Universidad Central, 0
 
 Academia Puerto Cabello, 1
 Carabobo, 3
-
-Quy Nhơn Bình Định FC, 1
-SHB Đà Nẵng, 2
 
 Hải Phòng, 2
 Hồ Chí Minh City, 0
@@ -1474,71 +1015,11 @@ Haverfordwest County AFC, 1
 Cardiff Met FC, 2
 Bala Town, 1
 
-Flint Town United, 2
-Aberystwyth Town, 0
-
 Connah's Quay Nomads, 0
 Briton Ferry Llansawel AFC, 1
 
 Newtown AFC, 1
 Barry Town, 1
-
-AaB, 2
-LNZ Cherkasy, 4
-
-AFC Metalul Buzău, 2
-AFC Progresul 1944 Spartac, 1
-
-FC Nordsjælland, 0
-AIK, 1
-
-FK Sloboda Tuzla, 1
-FK Tuzla City, 1
-
-NK Dubrava Tim Kabel, 2
-NK Jarun, 0
-
-Fredrikstad FK, 0
-BK Häcken, 1
-
-IF Elfsborg, 2
-Sandefjord Fotball, 1
-
-KS Górnik Polkowice, 2
-MKP Carina Gubin, 1
-
-Weinland Gamlitz, 0
-SV Wildon, 7
-
-Kjelsås, 3
-Gjøvik-Lyn, 2
-
-Playford City, 1
-White City Woodville, 0
-
-Adelaide Comets, 5
-Adelaide Olympic, 0
-
-AS Makedonikos Neapolis, 1
-Kampaniakos, 0
-
-SK Lisen B, 0
-Tatran Brno Bohunice, 3
-
-FC Nagykanizsa, 1
-BFC Siófok, 2
-
-FC Vsetin, 2
-TJ Sokol Lanzhot, 0
-
-Kalsdorf, 5
-Kohfidisch, 3
-
-Eskilsminne IF, 0
-Hässleholms IF, 3
-
-Oppsal, 1
-Grorud, 1
 
 Beltinci Klima Tratnjek, 3
 ND Slovan, 0

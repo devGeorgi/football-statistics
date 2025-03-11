@@ -1,0 +1,95 @@
+CD Eldense, 0
+Valencia, 2
+
+Arsenal, 0
+Newcastle United, 2
+
+CD Tenerife, 0
+Levante UD, 3
+
+Sydney FC, 3
+Perth Glory, 0
+
+Wycombe Wanderers, 0
+Huddersfield Town, 1
+
+Al Ahly FC, 2
+Smouha, 0
+
+TS Galaxy, 0
+Mamelodi Sundowns, 0
+
+Newcastle Jets, 3
+Adelaide United, 3
+
+Brisbane Roar, 2
+Melbourne Victory, 0
+
+Port Vale, 0
+Wrexham, 0
+
+FC Fleury 91, 0
+Paris Saint-Germain, 0
+
+Club Brugge KV, 3
+Oud-Heverlee Leuven, 0
+
+Sint-Truidense VV, 0
+KRC Genk, 4
+
+Omonia Aradippou, 2
+Enosis Neon Paralimniou, 0
+
+Apollon Limassol, 1
+Aris Limassol, 1
+
+Omonia Nicosia, 0
+Anorthosis Famagusta, 2
+
+Eastleigh, 2
+Oldham Athletic, 2
+
+Wealdstone, 0
+Tamworth, 0
+
+Delhi FC, 0
+Gokulam Kerala FC, 5
+
+Churchill Brothers SC, 0
+Namdhari Football Club, 1
+
+Bali United FC, 1
+Persib Bandung, 1
+
+Crusaders FC, 1
+Larne FC, 3
+
+Sporting, 1
+FC Porto, 0
+
+Al-Taawoun, 0
+Al-Qadsiah, 3
+
+Al-Hilal, 3
+Al-Ittihad, 5
+
+Fatih Karagümrük, 1
+Çaykur Rizespor, 0
+
+Sivasspor, 0
+Beşiktaş, 1
+
+Antalyaspor, 3
+Kocaelispor, 1
+
+Kırklarelispor, 4
+Bodrum FK, 4
+
+Al-Safa Beirut, 2
+Al Ahli Nabatiya, 0
+
+Karlsruher SC, 1
+FC St. Gallen 1879, 2
+
+Servette FC, 2
+NAC Breda, 3

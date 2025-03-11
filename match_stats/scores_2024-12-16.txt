@@ -1,0 +1,110 @@
+Bournemouth, 1
+West Ham United, 1
+
+Lazio, 0
+Inter, 6
+
+Sporting Braga, 3
+Famalicão, 3
+
+FC Porto, 2
+CF Estrela Amadora, 0
+
+Rio Ave, 2
+Vitória SC, 2
+
+Adana Demirspor, 2
+Beşiktaş, 1
+
+Galatasaray, 4
+Trabzonspor, 3
+
+Athens Kallithea FC, 1
+Olympiacos FC, 1
+
+Atlético Tucumán, 2
+Central Córdoba, 0
+
+Independiente Rivadavia, 0
+Deportivo Riestra, 0
+
+FK Radnički 1923, 2
+FK Spartak Subotica, 0
+
+FK Partizan, 1
+FK IMT Beograd, 1
+
+USL Dunkerque, 3
+Caen, 1
+
+Hapoel Jerusalem, 2
+Maccabi Tel Aviv, 3
+
+Fleetwood Town, 1
+Accrington Stanley, 1
+
+FC Rapid București, 2
+FC Gloria Buzău, 0
+
+TS Galaxy, 1
+Kaizer Chiefs, 1
+
+1. FC Köln, 1
+RB Leipzig, 3
+
+Cambodia, 2
+East Timor, 1
+
+Qarabağ, 5
+Sumqayıt FK, 0
+
+The Strongest, 6
+Oriente Petrolero, 2
+
+FC CSKA 1948 Sofia, 2
+Ludogorets, 3
+
+Nea Salamina Famagusta, 0
+Pafos FC, 2
+
+AaB, 1
+Silkeborg IF, 2
+
+FC Gagra, 9
+Sioni Bolnisi, 8
+
+PAOK B, 1
+Kampaniakos, 3
+
+Asteras B Aktor, 1
+GS Ilioupolis, 1
+
+Persis Solo, 1
+PSBS Biak, 1
+
+Malut United FC, 2
+PSM Makassar, 2
+
+Malavan Bandar Anzali FC, 0
+Tractor FC, 2
+
+Esteghlal FC, 0
+Gol Gohar Sirjan, 0
+
+AlbinoLeffe, 3
+Virtus Verona, 1
+
+Latina, 0
+Audace Cerignola, 1
+
+Kuala Lumpur City FC, 2
+Negeri Sembilan, 1
+
+Académico Viseu FC, 2
+UD Oliveirense, 1
+
+FC Metaloglobus București, 0
+CSM Slatina, 1
+
+Eyüpspor, 4
+Etimesgut Belediyespor, 1

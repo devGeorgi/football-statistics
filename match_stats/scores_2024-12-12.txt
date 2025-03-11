@@ -1,0 +1,176 @@
+Ludogorets, 2
+AZ Alkmaar, 2
+
+Malmö FF, 2
+Galatasaray, 2
+
+Olympiacos FC, 0
+FC Twente, 0
+
+PAOK, 5
+Ferencváros TC, 0
+
+Roma, 3
+Sporting Braga, 0
+
+Royale Union Saint-Gilloise, 2
+Nice, 1
+
+TSG Hoffenheim, 0
+FCSB, 0
+
+Viktoria Plzeň, 1
+Manchester United, 2
+
+AFC Ajax, 1
+Lazio, 3
+
+Bodø/Glimt, 2
+Beşiktaş, 1
+
+FC Porto, 2
+FC Midtjylland, 0
+
+IF Elfsborg, 1
+Qarabağ, 0
+
+Maccabi Tel Aviv, 2
+RFS, 1
+
+Olympique Lyonnais, 3
+Eintracht Frankfurt, 2
+
+Rangers, 1
+Tottenham Hotspur, 1
+
+Real Sociedad, 3
+Dynamo Kyiv, 0
+
+SK Slavia Praha, 1
+RSC Anderlecht, 2
+
+Víkingur Reykjavík, 1
+Djurgårdens IF, 2
+
+Astana, 1
+Chelsea, 3
+
+Başakşehir FK, 3
+1. FC Heidenheim, 1
+
+Dinamo Minsk, 2
+Larne FC, 0
+
+FC København, 2
+Heart of Midlothian, 0
+
+FC Noah, 1
+APOEL Nicosia, 3
+
+FC Petrocub Hîncesti, 0
+Real Betis, 1
+
+Fiorentina, 7
+LASK, 0
+
+HJK, 2
+Molde FK, 2
+
+Legia Warszawa, 1
+FC Lugano, 2
+
+NK Olimpija Ljubljana, 1
+Cercle Brugge, 4
+
+FC St. Gallen 1879, 1
+Vitória SC, 4
+
+KAA Gent, 3
+FK TSC Bačka Topola, 0
+
+Mladá Boleslav, 1
+Jagiellonia Białystok, 0
+
+Omonia Nicosia, 3
+SK Rapid Wien, 1
+
+Pafos FC, 2
+NK Celje, 0
+
+Shamrock Rovers, 3
+FK Borac Banja Luka, 0
+
+The New Saints, 0
+Panathinaikos, 2
+
+Club América, 2
+CF Monterrey, 1
+
+FK Spartak Subotica, 2
+FK Partizan, 1
+
+Al Ahly FC, 0
+CR Belouizdad, 0
+
+FC Bayern München, 4
+Juventus, 0
+
+Vålerenga, 1
+Arsenal Women, 3
+
+Hammarby IF, 0
+Barcelona, 3
+
+Manchester City W.F.C., 2
+SKN St. Pölten, 0
+
+Central Coast Mariners, 0
+Adelaide United, 4
+
+East Bengal FC, 1
+Odisha FC, 2
+
+Melbourne Victory, 1
+Wellington Phoenix, 1
+
+Jong KRC Genk U23, 0
+Patro Eisden Maasmechelen, 0
+
+KAS Eupen, 0
+KMSK Deinze, 0
+
+RFC Liège, 0
+KSC Lokeren-Temse, 0
+
+RSCA Futures U23, 0
+Royal Francs Borains, 0
+
+RWD Molenbeek, 0
+Club NXT U23, 0
+
+Indonesia, 3
+Laos, 3
+
+San Antonio Bulo-Bulo, 3
+Independiente Petrolero, 1
+
+OFC Lokomotiv Mezdra, 0
+Botev Vratsa, 1
+
+FC Telavi, 2
+FC Rustavi, 1
+
+SC Bengaluru, 2
+Delhi FC, 2
+
+Dewa United FC, 1
+PS Barito Putera, 1
+
+PSM Makassar, 1
+PSS Sleman, 1
+
+Wisła Kraków, 1
+Miedź Legnica, 1
+
+Clube de Albergaria, 2
+Vilaverdense FC, 1

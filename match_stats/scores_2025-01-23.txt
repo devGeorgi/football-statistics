@@ -1,0 +1,200 @@
+AZ Alkmaar, 1
+Roma, 0
+
+Bodø/Glimt, 3
+Maccabi Tel Aviv, 1
+
+FC Porto, 0
+Olympiacos FC, 1
+
+Fenerbahçe, 0
+Olympique Lyonnais, 0
+
+Malmö FF, 2
+FC Twente, 3
+
+Qarabağ, 2
+FCSB, 3
+
+TSG Hoffenheim, 2
+Tottenham Hotspur, 3
+
+Viktoria Plzeň, 2
+RSC Anderlecht, 0
+
+Eintracht Frankfurt, 2
+Ferencváros TC, 0
+
+IF Elfsborg, 1
+Nice, 0
+
+Lazio, 3
+Real Sociedad, 1
+
+Ludogorets, 0
+FC Midtjylland, 2
+
+Manchester United, 2
+Rangers, 1
+
+PAOK, 2
+SK Slavia Praha, 0
+
+RFS, 1
+AFC Ajax, 0
+
+Royale Union Saint-Gilloise, 2
+Sporting Braga, 1
+
+São Bernardo, 1
+Mirassol, 2
+
+São Paulo, 1
+Guarani, 0
+
+Melbourne Victory, 2
+Sydney FC, 0
+
+Wrexham, 1
+Birmingham City, 1
+
+Petrojet, 2
+Al-Masry, 1
+
+Modern Sport FC, 1
+Zamalek SC, 0
+
+Hyderabad FC, 3
+Jamshedpur FC, 2
+
+AmaZulu FC, 0
+Stellenbosch, 5
+
+Royal AM, 0
+Orlando Pirates, 0
+
+Al-Sadd, 0
+Qatar SC, 1
+
+Al-Rayyan, 0
+Al Duhail, 0
+
+Al-Orooba, 1
+Dibba Al-Hisn, 2
+
+Al-Wahda FC, 0
+Al Bataeh, 2
+
+Godoy Cruz, 0
+Rosario Central, 3
+
+Tigre, 3
+Vélez Sarsfield, 0
+
+Defensa y Justicia, 0
+Banfield, 1
+
+Lanús, 0
+Deportivo Riestra, 2
+
+Newell's Old Boys, 0
+Independiente Rivadavia, 1
+
+Şamaxı FK, 1
+Zirə FK, 2
+
+Boavista, 1
+Sampaio Corrêa-RJ, 1
+
+Portuguesa-RJ, 1
+Fluminense, 3
+
+Vasco da Gama, 2
+Madureira, 0
+
+Monsoon, 0
+Caxias, 1
+
+América Mineiro, 7
+Pouso Alegre, 0
+
+AA Guarany, 0
+AD Barra, 0
+
+AD Barra, 0
+Lagarto FC, 5
+
+Fortaleza, 2
+Moto Club, 0
+
+Sousa EC, 2
+AA Altos, 1
+
+Bahia, 4
+Sampaio Corrêa, 0
+
+AD Guanacasteca, 0
+Municipal Pérez Zeledón, 1
+
+Sporting FC, 0
+LD Alajuelense, 0
+
+CS Cartaginés, 2
+San Carlos, 1
+
+CSD Xelajú MC, 5
+Antigua GFC, 1
+
+SC Bengaluru, 1
+Sreenidi Deccan FC, 0
+
+Arema FC, 1
+Persib Bandung, 3
+
+Cesena U20, 4
+Roma U20, 5
+
+Fiorentina U20, 2
+Cremonese U20, 0
+
+CODM Meknès, 2
+AS FAR Rabat, 2
+
+Raja Club Athletic, 1
+Ittihad Tanger, 1
+
+RS Berkane, 2
+Olympic Safi, 2
+
+Sporting U23, 2
+Benfica U23, 2
+
+Peru U20, 1
+Paraguay U20, 2
+
+Venezuela U20, 1
+Chile U20, 2
+
+Hồng Lĩnh Hà Tĩnh, 1
+Hải Phòng, 1
+
+Quy Nhơn Bình Định FC, 0
+Nam Định, 0
+
+TSV Hartberg, 1
+Rukh Lviv, 1
+
+Kalmar FF, 1
+Hillerød, 1
+
+First Vienna, 7
+TWL Elektra, 1
+
+Adelaide Croatia Raiders, 2
+Salisbury United, 0
+
+RFK Grafičar Beograd, 7
+FK Prva Iskra Barič, 0
+
+India U20, 1
+Syria U20, 6

@@ -1,0 +1,170 @@
+Juventus, 4
+Cagliari, 0
+
+PSV Eindhoven, 8
+Koninklijke HFC, 0
+
+FC Eindhoven, 1
+Excelsior, 3
+
+Quick Boys, 3
+Fortuna Sittard, 1
+
+RKC Waalwijk, 4
+SC Cambuur, 1
+
+MVV Maastricht, 1
+Feyenoord, 2
+
+KRC Genk U19, 7
+Puskás Akadémia FC U19, 7
+
+AS Roma, 3
+Galatasaray Istanbul, 0
+
+Olympique Lyonnais, 1
+VfL Wolfsburg, 0
+
+FC Twente Vrouwen, 3
+Celtic LFC, 0
+
+Real Madrid, 1
+Chelsea FC Women, 2
+
+Albacete Balompié, 0
+Levante UD, 0
+
+Granada, 4
+FC Cartagena, 1
+
+Córdoba, 2
+Eibar, 1
+
+Real Zaragoza, 2
+Real Oviedo, 3
+
+East Bengal FC, 4
+Punjab FC, 2
+
+Blackpool, 18
+Aston Villa U21, 19
+
+Peterborough United, 3
+Northampton Town, 0
+
+Shabab Al-Ahli Dubai, 3
+Al Wasl, 0
+
+CR Belouizdad, 3
+JS Saoura, 0
+
+ES Sétif, 1
+Paradou AC, 2
+
+JS Kabylie, 3
+MC El Bayadh, 0
+
+Singapore, 2
+Thailand, 4
+
+Myanmar, 3
+Laos, 2
+
+San José, 6
+Blooming, 0
+
+Club Aurora, 1
+Nacional Potosí, 1
+
+Independiente Petrolero, 3
+Club Always Ready, 7
+
+Guabirá, 0
+Royal Pari Sion, 0
+
+Rochdale, 3
+Tamworth, 0
+
+Churchill Brothers SC, 2
+Dempo SC, 0
+
+PSS Sleman, 2
+PSIS Semarang, 1
+
+Lecce U20, 1
+Torino U20, 0
+
+Cesena U20, 1
+Lazio U20, 1
+
+Roma U20, 3
+Sampdoria U20, 0
+
+Perak FC, 1
+Selangor Football Club, 2
+
+Sri Pahang FC, 1
+Johor Darul Ta'zim, 3
+
+Ħamrun Spartans FC, 1
+Mosta FC, 2
+
+Floriana FC, 1
+Sliema Wanderers, 0
+
+Dungannon Swifts, 0
+Linfield FC, 1
+
+Glenavon, 3
+Crusaders FC, 1
+
+Benfica U23, 7
+Estrela Amadora U23, 0
+
+Estoril Praia U23, 1
+SC Farense U23, 0
+
+Santa Clara U23, 2
+CD Mafra U23, 1
+
+Sporting U23, 2
+Portimonense U23, 1
+
+Airdrieonians, 0
+Livingston, 3
+
+Kelty Hearts F.C., 3
+Arbroath, 2
+
+Elgin City, 4
+Clyde FC, 2
+
+Forfar Athletic, 1
+Peterhead, 1
+
+Konyaspor, 1
+Karacabey Belediye Spor, 0
+
+Çaykur Rizespor, 6
+Vanspor FK, 0
+
+Alanyaspor, 3
+Amed Sportif Faaliyetler, 2
+
+Boluspor, 4
+1461 Trabzon, 0
+
+Esenler Erokspor, 1
+İstanbulspor, 2
+
+Kastamonuspor, 1
+Bodrum FK, 6
+
+Keçiörengücü, 1
+Sivasspor, 4
+
+Muş 1984 Muşspor, 4
+Antalyaspor, 5
+
+Çorluspor 1947, 2
+Kocaelispor, 3

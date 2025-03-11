@@ -1,0 +1,206 @@
+AFC Ajax, 2
+Galatasaray, 1
+
+Athletic Club, 3
+Viktoria Plzeň, 1
+
+Dynamo Kyiv, 1
+RFS, 0
+
+FC Midtjylland, 2
+Fenerbahçe, 2
+
+FCSB, 0
+Manchester United, 2
+
+FC Twente, 1
+Beşiktaş, 0
+
+Ferencváros TC, 4
+AZ Alkmaar, 3
+
+Maccabi Tel Aviv, 0
+FC Porto, 1
+
+Nice, 1
+Bodø/Glimt, 1
+
+Olympiacos FC, 3
+Qarabağ, 0
+
+Olympique Lyonnais, 1
+Ludogorets, 1
+
+RSC Anderlecht, 3
+TSG Hoffenheim, 4
+
+Rangers, 2
+Royale Union Saint-Gilloise, 1
+
+Real Sociedad, 2
+PAOK, 0
+
+Roma, 2
+Eintracht Frankfurt, 0
+
+SK Slavia Praha, 2
+Malmö FF, 2
+
+Sporting Braga, 1
+Lazio, 0
+
+Tottenham Hotspur, 3
+IF Elfsborg, 0
+
+Brisbane Roar, 0
+Western Sydney Wanderers, 1
+
+Chennaiyin FC, 1
+Kerala Blasters, 3
+
+Al-Orobah, 0
+Al-Ahli, 2
+
+Al-Riyadh, 1
+Al-Wehda, 0
+
+Al-Raed, 1
+Al-Nassr, 2
+
+Sydney FC, 2
+Adelaide United, 3
+
+Western United, 4
+Western Sydney Wanderers, 1
+
+Qatar SC, 2
+Al Shamal SC, 1
+
+Al-Arabi SC, 1
+Al-Sadd, 3
+
+Al Bataeh, 1
+Shabab Al-Ahli Dubai, 3
+
+Khor Fakkan, 2
+Al-Ain, 2
+
+Al Wasl, 1
+Al-Ittihad Kalba, 1
+
+CR Belouizdad, 0
+CS Constantine, 2
+
+Aldosivi, 0
+Defensa y Justicia, 5
+
+Racing Club, 4
+Belgrano, 0
+
+Argentinos Juniors, 1
+Tigre, 0
+
+Central Córdoba, 2
+Atlético Tucumán, 0
+
+Nova Iguaçu, 1
+Bangu Atlético Clube, 1
+
+Boavista, 0
+Madureira, 0
+
+Flamengo, 2
+Sampaio Corrêa-RJ, 0
+
+EC Pelotas, 1
+EC Avenida, 0
+
+Itabirito FC, 1
+Cruzeiro, 4
+
+Treze, 3
+EC Patos, 0
+
+Decisão Sertânia, 3
+Petrolina SFC, 0
+
+Náutico, 2
+Maguary, 0
+
+Colo Colo, 2
+Deportes Limache, 2
+
+Patriotas Boyacá, 2
+Cúcuta Deportivo, 0
+
+Municipal Pérez Zeledón, 0
+Herediano, 1
+
+APOEL Nicosia, 5
+Pafos FC, 6
+
+Deportivo Guastatoya, 4
+Cobán Imperial, 0
+
+Xinabajul Huehue, 2
+Deportivo Achuapa, 1
+
+Aizawl FC, 1
+Shillong Lajong FC, 3
+
+Persik Kediri, 1
+PS Barito Putera, 1
+
+Esteghlal FC, 2
+Esteghlal Khuzestan, 0
+
+Correcaminos UAT, 2
+CDS Tampico Madero, 1
+
+Raja Club Athletic, 1
+Olympic Safi, 1
+
+RS Berkane, 2
+AS FAR Rabat, 0
+
+Guaraní, 2
+General Caballero, 1
+
+Sportivo Ameliano, 2
+Olimpia, 2
+
+Colombia U20, 3
+Bolivia U20, 2
+
+Ecuador U20, 2
+Brazil U20, 3
+
+Monagas, 1
+Deportivo Táchira, 4
+
+Raufoss, 1
+HamKam, 3
+
+FC Spartak Moscow, 3
+FK Krasnodar, 2
+
+Alianza Lima, 2
+Aucas, 0
+
+Adelaide City, 0
+Modbury Jets, 2
+
+Croydon Kings, 3
+Adelaide Croatia Raiders, 2
+
+FK Železiarne Podbrezová, 3
+MFK Tatran Liptovský Mikuláš, 2
+
+SK Líšeň, 1
+MFK Chrudim, 1
+
+Portugal U19, 2
+Finland U19, 0
+
+Indonesia U20, 4
+India U20, 0

@@ -1,0 +1,74 @@
+Inter, 2
+Atalanta, 0
+
+Aberdeen, 1
+Ross County, 2
+
+Heart of Midlothian, 1
+Motherwell, 0
+
+Kilmarnock, 2
+St. Mirren, 0
+
+Rangers, 3
+Celtic, 0
+
+St. Johnstone, 1
+Hibernian, 1
+
+Dundee FC, 1
+Dundee United, 2
+
+Al-Hilal Omdurman, 0
+MC Alger, 0
+
+Melbourne City, 2
+Wellington Phoenix, 0
+
+Brisbane Roar, 1
+Central Coast Mariners, 3
+
+Perth Glory, 2
+Western United, 3
+
+Maccabi Haifa, 2
+Maccabi Bney Reine, 0
+
+Gillingham, 0
+Bromley, 3
+
+Newport County, 1
+AFC Wimbledon, 2
+
+Mohun Bagan Super Giant, 3
+Hyderabad FC, 0
+
+Yverdon-Sport FC, 0
+FC Winterthur, 0
+
+Western United, 2
+Newcastle Jets, 0
+
+Vietnam, 2
+Thailand, 1
+
+AEL Limassol, 0
+Apollon Limassol, 1
+
+Anorthosis Famagusta, 0
+Pafos FC, 2
+
+Petrojet, 3
+Al-Mokawloon, 4
+
+ZED FC, 3
+Dayrout SC, 1
+
+Foolad Khuzestan, 2
+Malavan Bandar Anzali FC, 1
+
+Tractor FC, 3
+Esteghlal Khuzestan, 0
+
+Esteghlal FC, 1
+Sepahan S.C., 1

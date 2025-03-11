@@ -1,0 +1,257 @@
+Aston Villa, 4
+Celtic, 2
+
+Barcelona, 2
+Atalanta, 2
+
+Bayer 04 Leverkusen, 2
+AC Sparta Praha, 0
+
+Borussia Dortmund, 3
+Shakhtar Donetsk, 1
+
+FC Bayern München, 3
+ŠK Slovan Bratislava, 1
+
+GNK Dinamo Zagreb, 2
+Milan, 1
+
+Girona FC, 1
+Arsenal, 2
+
+Inter, 3
+AS Monaco, 0
+
+Juventus, 0
+Benfica, 2
+
+Lille, 6
+Feyenoord, 1
+
+Manchester City, 3
+Club Brugge KV, 1
+
+PSV Eindhoven, 3
+Liverpool, 2
+
+Red Bull Salzburg, 1
+Atlético Madrid, 4
+
+SK Sturm Graz, 1
+RB Leipzig, 0
+
+Sporting, 1
+Bologna, 1
+
+Stade Brestois, 0
+Real Madrid, 3
+
+VfB Stuttgart, 1
+Paris Saint-Germain, 4
+
+Young Boys, 0
+FK Crvena zvezda, 1
+
+Atlas FC, 3
+CF Monterrey, 3
+
+Querétaro FC, 0
+CF Pachuca, 1
+
+FC Juárez, 1
+Santos Laguna, 0
+
+Pumas UNAM, 1
+CD Toluca, 1
+
+Mirassol, 3
+Guarani, 2
+
+São Bernardo, 3
+Santos, 1
+
+EC Noroeste, 2
+Inter de Limeira, 2
+
+Ponte Preta, 0
+Corinthians, 1
+
+Botafogo-SP, 1
+Água Santa, 1
+
+Portuguesa, 1
+São Paulo, 2
+
+Barrow, 1
+Doncaster Rovers, 3
+
+NorthEast United, 4
+Hyderabad FC, 1
+
+Al-Rayyan, 2
+Al-Gharafa, 2
+
+Al Khor, 0
+Al-Ahli Doha, 1
+
+Lommel SK, 1
+Royal Francs Borains, 2
+
+MC Alger, 1
+JS Saoura, 0
+
+Gimnasia y Esgrima, 0
+San Lorenzo, 2
+
+Talleres, 2
+CA Independiente, 3
+
+Club Atlético Unión de Santa Fe, 1
+Boca Juniors, 1
+
+Huracán, 0
+Estudiantes de La Plata, 0
+
+River Plate, 1
+Instituto De Córdoba, 0
+
+Maricá FC, 0
+Vasco da Gama, 1
+
+Volta Redonda, 2
+Portuguesa-RJ, 1
+
+Botafogo, 2
+Fluminense, 1
+
+Ypiranga FC, 1
+São Luiz, 1
+
+Caxias, 4
+Grêmio Esportivo Brasil, 2
+
+Monsoon, 0
+Grêmio, 3
+
+Tombense, 1
+Pouso Alegre, 1
+
+SC Aymorés, 1
+Uberlândia EC, 1
+
+Athletic Club, 6
+Villa Nova AC, 1
+
+Betim Futebol, 1
+EC Democrata, 1
+
+Atlético Mineiro, 1
+América Mineiro, 1
+
+AD Picuiense, 0
+Pombal EC, 1
+
+Botafogo-PB, 1
+Serra Branca EC, 1
+
+Sousa EC, 2
+Campinense, 0
+
+Afogados da Ingazeira FC, 1
+Central SC, 1
+
+Sport Recife, 4
+AD Jaguar, 1
+
+América-SE, 1
+Confiança, 1
+
+Deportes Recoleta, 1
+Universidad de Chile, 6
+
+Atlético Nacional, 1
+Atlético Bucaramanga, 1
+
+AD Guanacasteca, 1
+Puntarenas FC, 1
+
+San Carlos, 0
+LD Alajuelense, 0
+
+Deportivo Saprissa, 1
+Santos de Guápiles, 0
+
+Enosis Neon Paralimniou, 0
+AEK Larnaca, 3
+
+Anorthosis Famagusta, 1
+Apollon Limassol, 3
+
+Baník Ostrava B, 1
+AS Trenčín, 1
+
+Antigua GFC, 2
+CSD Municipal, 1
+
+Deportivo Malacateco, 2
+CSD Xelajú MC, 1
+
+Comunicaciones FC, 1
+CD Marquense, 1
+
+Gokulam Kerala FC, 2
+SC Bengaluru, 0
+
+Churchill Brothers SC, 3
+Real Kashmir, 1
+
+Sportivo Luqueño, 1
+Cerro Porteño, 1
+
+Nacional Asunción, 0
+Libertad, 3
+
+Torreense U23, 2
+Estoril Praia U23, 1
+
+Benfica U23, 0
+Estrela Amadora U23, 0
+
+Uruguay U20, 2
+Peru U20, 0
+
+Paraguay U20, 1
+Venezuela U20, 0
+
+CS Sfaxien, 1
+Avenir Sportif De Gabes, 0
+
+US Tataouine, 0
+Espérance Tunis, 2
+
+HNK Orijent, 1
+NK Radnik Križevci, 2
+
+NK Opatija, 0
+FK Sarajevo, 3
+
+Favoritner AC, 1
+FC Stadlau, 1
+
+Wiener Viktoria, 1
+FC 1980 Wien, 0
+
+SV Rot-Weiss Walldorf, 1
+FSV Frankfurt, 2
+
+Universitario, 4
+Inter Miami CF, 5
+
+West Adelaide SC, 3
+Playford City, 4
+
+FK Žalgiris, 2
+FC Hegelmann, 3
+
+Syria U20, 2
+Jordan U20, 1

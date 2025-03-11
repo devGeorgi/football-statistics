@@ -1,0 +1,188 @@
+Espanyol, 1
+Valencia, 1
+
+Villarreal, 1
+Rayo Vallecano, 1
+
+Real Madrid, 3
+CF Pachuca, 0
+
+AS Monaco, 2
+Paris Saint-Germain, 4
+
+Arsenal, 3
+Crystal Palace, 2
+
+Newcastle United, 3
+Brentford, 1
+
+Southampton, 1
+Liverpool, 2
+
+Atalanta, 6
+Cesena, 1
+
+Roma, 4
+U.C Sampdoria, 1
+
+VV Katwijk, 2
+FC Twente, 3
+
+ASWH, 0
+SC Heerenveen, 1
+
+Amsterdamsche FC, 0
+FC Utrecht, 8
+
+Heracles Almelo, 1
+NEC Nijmegen, 0
+
+Sparta Rotterdam, 5
+Go Ahead Eagles, 6
+
+AZ Alkmaar, 3
+FC Groningen, 1
+
+FK Jedinstvo Ub, 0
+FK Crvena zvezda, 4
+
+Arsenal Women, 3
+FC Bayern München, 2
+
+Juventus, 3
+Vålerenga, 0
+
+Barcelona, 3
+Manchester City W.F.C., 0
+
+SKN St. Pölten, 1
+Hammarby IF, 2
+
+Racing de Ferrol, 1
+Almería, 4
+
+Mirandés, 1
+Sporting Gijón, 1
+
+Málaga, 3
+CD Eldense, 0
+
+Deportes Tolima, 1
+Atlético Nacional, 1
+
+Stellenbosch, 0
+Mamelodi Sundowns, 1
+
+Valencia, 0
+Deportivo Abanca, 2
+
+Philippines, 1
+Vietnam, 1
+
+Şamaxı FK, 0
+Qarabağ, 1
+
+CD Real Santa Cruz, 1
+CD Real Tomayapo, 5
+
+FC Universitario de Vinto, 1
+Jorge Wilstermann, 1
+
+Oriente Petrolero, 1
+Bolívar, 4
+
+The Strongest, 8
+San Antonio Bulo-Bulo, 0
+
+Deportivo Saprissa, 2
+Herediano, 0
+
+OFI Crete, 5
+GE Panachaiki, 0
+
+GSS Panionios, 0
+Asteras Aktor, 2
+
+AEK Athens, 1
+PAOK, 0
+
+Aizawl FC, 1
+Real Kashmir, 1
+
+Delhi FC, 3
+Shillong Lajong FC, 1
+
+PS Barito Putera, 1
+Persib Bandung, 2
+
+Union Clodiense Chioggia, 1
+Padova, 2
+
+Milan Futuro, 0
+Caldiero Terme, 2
+
+Giana Erminio, 3
+Avellino, 0
+
+Arezzo, 0
+Trapani, 1
+
+Team Altamura, 1
+Rimini, 2
+
+Cremonese U20, 2
+Monza U20, 1
+
+Inter U20, 1
+Udinese U20, 1
+
+Genoa U20, 0
+Empoli U20, 1
+
+Sassuolo U20, 2
+Milan U20, 4
+
+Juventus U20, 1
+Cagliari U20, 0
+
+PDRM FC, 5
+Kelantan Darul Naim, 0
+
+Kedah, 1
+Penang, 0
+
+Terengganu, 0
+Kuching City, 0
+
+Sporting, 2
+Santa Clara, 1
+
+Académico Viseu U23, 4
+Vizela U23, 2
+
+Famalicão U23, 1
+Leixoes SC U23, 1
+
+Rio Ave U23, 0
+Gil Vicente U23, 3
+
+Torreense U23, 1
+SC Braga U23, 0
+
+Erzurumspor FK, 2
+Sakaryaspor, 0
+
+Ümraniyespor, 1
+Fatih Karagümrük, 2
+
+Menemen FK, 2
+MKE Ankaragücü, 3
+
+Gaziantep FK, 2
+52 Orduspor, 0
+
+İskenderun A.Ş., 1
+Hatayspor, 0
+
+Kırklarelispor, 2
+Adana Demirspor, 0

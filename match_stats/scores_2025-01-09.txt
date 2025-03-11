@@ -1,0 +1,95 @@
+Real Madrid, 3
+Mallorca, 0
+
+Dundee FC, 1
+Rangers, 1
+
+Sheffield United, 0
+Cardiff City, 1
+
+Everton, 2
+Peterborough United, 0
+
+Fulham, 4
+Watford, 1
+
+Melbourne Victory, 3
+Western United, 4
+
+Chennaiyin FC, 2
+Odisha FC, 2
+
+Al-Fateh, 1
+Al-Wehda, 2
+
+Al-Riyadh, 2
+Al-Khaleej, 2
+
+Al-Nassr, 3
+Al-Okhdood, 1
+
+Perth Glory, 1
+Sydney FC, 1
+
+Al-Ahli Club, 3
+East Riffa, 2
+
+Sitra Club, 0
+Malkiya Club, 1
+
+K. Beerschot V.A., 0
+RSC Anderlecht, 1
+
+Zamalek SC, 2
+Abu Qair Semad, 0
+
+GE Panachaiki, 1
+OFI Crete, 2
+
+PAOK, 1
+AEK Athens, 1
+
+Aizawl FC, 3
+Sreenidi Deccan FC, 4
+
+Dempo SC, 0
+Inter Kashi FC, 1
+
+Malut United FC, 0
+Madura United FC, 1
+
+PS Barito Putera, 2
+Persija Jakarta, 3
+
+Kelantan Darul Naim, 0
+Kedah, 1
+
+Estoril Praia U23, 1
+Estrela Amadora U23, 2
+
+Gil Vicente U23, 2
+Torreense U23, 2
+
+Leixoes SC U23, 1
+Portimonense U23, 0
+
+Gaziantep FK, 4
+İstanbulspor, 0
+
+Kasımpaşa, 0
+Fenerbahçe, 3
+
+Çorum FK, 0
+Konyaspor, 1
+
+FC Zürich, 0
+FC Schalke 04, 3
+
+Hannover 96, 0
+1. FC Magdeburg, 3
+
+Brisbane Knights, 4
+Brisbane City, 4
+
+Young Boys, 1
+Hannover 96, 2

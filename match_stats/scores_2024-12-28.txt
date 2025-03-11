@@ -1,0 +1,134 @@
+Empoli, 1
+Genoa, 2
+
+Parma, 2
+Monza, 1
+
+Cagliari, 0
+Inter, 3
+
+Lazio, 1
+Atalanta, 1
+
+Udinese, 2
+Torino, 2
+
+AVS - Futebol SAD, 1
+CF Estrela Amadora, 1
+
+Estoril Praia, 2
+Moreirense, 2
+
+FC Porto, 4
+Boavista, 0
+
+Cremonese, 1
+Brescia, 1
+
+Western United, 1
+Brisbane Roar, 0
+
+Chennaiyin FC, 2
+Bengaluru FC, 4
+
+Lamontville Golden Arrows, 0
+Polokwane City, 0
+
+Richards Bay FC, 0
+Mamelodi Sundowns, 2
+
+Sekhukhune United, 1
+Marumo Gallants FC, 0
+
+Supersport United, 1
+Stellenbosch, 1
+
+Canberra United, 0
+Newcastle Jets, 0
+
+Western United, 2
+Brisbane Roar, 8
+
+ASO Chlef, 1
+JS Kabylie, 0
+
+MC El Bayadh, 1
+USM Khenchela, 2
+
+Bahrain, 1
+Yemen, 2
+
+Iraq, 1
+Saudi Arabia, 3
+
+Bali United FC, 2
+Persebaya Surabaya, 0
+
+Persita Tangerang, 2
+PSM Makassar, 1
+
+Ittihad Tanger, 1
+Hassania d'Agadir, 0
+
+Renaissance Zemamra, 3
+CODM Meknès, 2
+
+Fath Union Sport, 2
+Union Touarga Sport, 0
+
+Wydad Casablanca, 1
+MAS de Fès, 4
+
+Penafiel, 1
+Benfica B U21, 1
+
+Ayr United, 0
+Greenock Morton, 0
+
+Hamilton Academical, 3
+Airdrieonians, 2
+
+Partick Thistle, 2
+Queen's Park FC, 1
+
+Raith Rovers, 2
+Livingston, 1
+
+Alloa Athletic, 1
+Stenhousemuir, 3
+
+Arbroath, 3
+Montrose, 0
+
+Dumbarton, 2
+Kelty Hearts F.C., 0
+
+Inverness Caledonian Thistle, 1
+Cove Rangers, 4
+
+Queen of The South, 1
+Annan Athletic, 1
+
+Elgin City, 2
+Peterhead, 0
+
+Forfar Athletic, 2
+Stirling Albion, 2
+
+Stranraer, 1
+Clyde FC, 1
+
+The Spartans FC, 1
+Edinburgh City F.C., 0
+
+ES Zarzis, 2
+US Ben Guerdane, 2
+
+JS Omrane, 2
+Avenir Sportif De Gabes, 2
+
+US Tataouine, 0
+AS Soliman, 3
+
+Club Africain, 1
+CA Bizertin, 0

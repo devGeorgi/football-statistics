@@ -1,0 +1,158 @@
+Chelsea, 3
+Wolverhampton, 1
+
+Villarreal, 4
+Mallorca, 0
+
+Como, 4
+Udinese, 1
+
+Boavista, 2
+Casa Pia, 3
+
+Trabzonspor, 4
+Sivasspor, 0
+
+MGS Panserraikos, 2
+PAS Lamia 1964, 0
+
+CF Pachuca, 2
+Santos Laguna, 1
+
+Mirandés, 3
+Málaga, 2
+
+Botafogo-SP, 0
+São Paulo, 0
+
+Troyes, 0
+Annecy FC, 1
+
+Jong Ajax, 4
+Jong PSV Eindhoven, 0
+
+Jong FC Utrecht Youth, 1
+De Graafschap, 1
+
+Roda JC Kerkrade, 0
+SC Cambuur, 1
+
+Gençlerbirliği, 1
+Kocaelispor, 0
+
+Hapoel Hadera, 1
+Ironi Tiberias, 2
+
+Hapoel Haifa, 2
+Ashdod SC, 1
+
+Al-Fayha, 1
+Al-Kholood, 0
+
+Al-Raed, 0
+Al-Okhdood, 2
+
+Al-Ettifaq, 1
+Al-Ahli, 2
+
+FC Farul Constanța, 1
+UTA Arad, 1
+
+FC Rapid București, 2
+ACSM Politehnica Iași, 1
+
+Western United, 4
+Perth Glory, 1
+
+True Bangkok United, 1
+Nakhon Pathom United, 1
+
+Serra Branca EC, 2
+Pombal EC, 1
+
+Petrolina SFC, 0
+Maguary, 1
+
+Falcon-SE FC, 4
+AD Barra, 0
+
+San Carlos, 0
+Sporting FC, 1
+
+AEK Larnaca, 2
+APOEL Nicosia, 1
+
+FK Teplice, 1
+MFK Chrudim, 2
+
+Iraklis 1908, 2
+Niki Volou, 1
+
+Asteras B Aktor, 0
+AO Egaleo, 0
+
+PSIS Semarang, 1
+Persis Solo, 2
+
+Esteghlal FC, 0
+Shams Azar Qazvin, 1
+
+Gol Gohar Sirjan, 1
+Malavan Bandar Anzali FC, 0
+
+Chador Malu Yazd, 1
+Sepahan S.C., 2
+
+Tractor FC, 5
+Mes Rafsanjan FC, 1
+
+Gubbio, 1
+Perugia, 0
+
+Messina, 0
+Crotone, 2
+
+Turris, 1
+Casertana, 2
+
+UD Oliveirense, 2
+Penafiel, 2
+
+Gil Vicente U23, 0
+Famalicão U23, 3
+
+Vizela U23, 4
+Estoril Praia U23, 1
+
+Portimonense U23, 0
+Rio Ave U23, 2
+
+Triglav Kranj, 1
+TSV Hartberg, 1
+
+AIK, 1
+Molde FK, 0
+
+Puskás Akadémia, 3
+Hammarby IF, 2
+
+CR Temouchent, 0
+ES Mostaganem, 0
+
+NK Olimpija Ljubljana, 2
+Śląsk Wrocław, 0
+
+FK Tekstilac Odžaci, 0
+Kalcer Radomlje, 2
+
+Club Nacional, 3
+Peñarol, 1
+
+Baník Ostrava, 1
+Vorskla Poltava, 1
+
+West Adelaide SC, 3
+Adelaide Olympic, 3
+
+Fehérvár FC, 2
+Kalcer Radomlje, 1

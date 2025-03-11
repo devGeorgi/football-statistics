@@ -1,0 +1,239 @@
+Brentford, 2
+Manchester City, 2
+
+Chelsea, 2
+Bournemouth, 2
+
+West Ham United, 3
+Fulham, 2
+
+Nottingham Forest, 1
+Liverpool, 1
+
+Como, 1
+Milan, 2
+
+Atalanta, 1
+Juventus, 1
+
+Holstein Kiel, 4
+Borussia Dortmund, 2
+
+Bayer 04 Leverkusen, 1
+1. FSV Mainz 05, 0
+
+Eintracht Frankfurt, 4
+SC Freiburg, 1
+
+VfL Wolfsburg, 5
+Borussia M'gladbach, 1
+
+Ourense CF, 0
+Valencia, 2
+
+Dundee FC, 3
+Celtic, 3
+
+Leyton Orient, 7
+Derby County, 6
+
+Mansfield Town, 0
+Wigan Athletic, 2
+
+Preston North End, 2
+Charlton Athletic, 1
+
+Bastia, 0
+Nice, 1
+
+Guingamp, 11
+Sochaux, 10
+
+Haguenau, 0
+USL Dunkerque, 0
+
+Le Mans, 5
+Valenciennes, 4
+
+SU Dives Cabourg, 1
+Le Puy Foot 43 Auvergne, 0
+
+Stade de Reims, 4
+AS Monaco, 2
+
+Olympique de Marseille, 4
+Lille, 5
+
+AZ Alkmaar, 2
+AFC Ajax, 0
+
+vv Noordwijk, 1
+BVV Barendrecht, 0
+
+PSV Eindhoven, 5
+Excelsior, 4
+
+Cardiff City, 1
+Watford, 1
+
+Plymouth Argyle, 1
+Oxford United, 1
+
+Wellington Phoenix, 0
+Sydney FC, 0
+
+Exeter City, 0
+Mansfield Town, 0
+
+NorthEast United, 1
+FC Goa, 1
+
+Sydney FC, 2
+Canberra United, 0
+
+Cheltenham Town, 2
+Colchester United, 1
+
+Chesterfield, 3
+Rotherham United, 4
+
+Leyton Orient, 0
+Stevenage, 0
+
+Lincoln City, 0
+Bolton Wanderers, 1
+
+Aston Villa U21, 1
+Bradford City, 3
+
+Swindon Town, 1
+Birmingham City, 2
+
+Peterborough United, 4
+Walsall, 2
+
+Nakhon Pathom United, 1
+Nongbua Pitchaya, 1
+
+PT Prachuap FC, 1
+Sukhothai, 1
+
+Port FC, 1
+Khon Kaen United, 2
+
+Botafogo, 2
+Portuguesa-RJ, 0
+
+Sport Recife, 1
+Decisão Sertânia, 1
+
+América-SE, 1
+Dorense FC, 0
+
+Municipal Liberia, 1
+LD Alajuelense, 3
+
+FK Viktoria Žižkov, 2
+FK Pardubice, 4
+
+Baník Ostrava B, 1
+SK Sigma Olomouc B, 0
+
+Aldershot Town, 2
+Braintree Town, 2
+
+Altrincham, 4
+Maidenhead United, 0
+
+Dagenham & Redbridge, 0
+Woking, 0
+
+Ebbsfleet United, 1
+Yeovil Town, 1
+
+Forest Green Rovers, 0
+Barnet, 0
+
+Gateshead, 1
+FC Halifax Town, 3
+
+Hartlepool United, 0
+Tamworth, 0
+
+Solihull Moors, 0
+Eastleigh, 1
+
+Aubagne FC, 2
+Nancy, 1
+
+Borneo FC Samarinda, 1
+Semen Padang FC, 3
+
+SC Farense, 1
+Benfica, 3
+
+Vizela U23, 1
+Famalicão U23, 1
+
+CD Mafra U23, 2
+SC Farense U23, 0
+
+Portimonense U23, 0
+Académico Viseu U23, 3
+
+Dunfermline Athletic, 0
+Ayr United, 2
+
+Livingston, 2
+Airdrieonians, 1
+
+Peterhead, 1
+Stranraer, 0
+
+Barry Town, 1
+Haverfordwest County AFC, 1
+
+Caernarfon Town, 3
+Flint Town United, 0
+
+Cardiff Met FC, 0
+The New Saints, 2
+
+Connah's Quay Nomads, 3
+Bala Town, 0
+
+Newtown AFC, 1
+Penybont, 2
+
+Mladá Boleslav, 5
+Dukla Praha, 2
+
+Austria Klagenfurt, 13
+SGA Sirnitz, 0
+
+Újpest, 2
+HNK Hajduk Split, 1
+
+FC Buderich 02, 0
+Fortuna Düsseldorf II U23, 0
+
+Simmeringer SC, 0
+SC Krems, 6
+
+SV Rot-Weiss Walldorf, 4
+Eintracht Frankfurt II, 3
+
+Universidad Católica, 3
+Atlético Tucumán, 2
+
+CA Independiente, 0
+Olimpia, 0
+
+Moreton City Excelsior FC, 1
+Peninsula Power, 3
+
+NK Dubrava Tim Kabel, 0
+NK Sesvete, 4
+
+NK Osijek, 2
+HNK Orijent, 0

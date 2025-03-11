@@ -1,0 +1,110 @@
+Real Sociedad, 1
+Villarreal, 0
+
+Monza, 2
+Fiorentina, 1
+
+Göztepe, 5
+Kasımpaşa, 0
+
+Konyaspor, 2
+Fenerbahçe, 3
+
+Asteras Aktor, 2
+Panetolikos, 0
+
+OFI Crete, 0
+APO Levadiakos, 0
+
+Millwall, 3
+Dagenham & Redbridge, 0
+
+CD Eldense, 1
+Eibar, 3
+
+Pisa, 2
+Carrarese, 1
+
+Jong AZ Alkmaar, 2
+Jong Ajax, 1
+
+Çorum FK, 3
+İstanbulspor, 1
+
+Manisa FK, 0
+Ümraniyespor, 3
+
+Perth Glory, 1
+Western Sydney Wanderers, 2
+
+Kerala Blasters, 3
+Odisha FC, 2
+
+Lamphun Warrior, 3
+Nakhon Ratchasima Mazda FC, 0
+
+AD Picuiense, 0
+Sousa EC, 2
+
+Confiança, 5
+AA Guarany, 1
+
+Karmiotissa Polemidion, 3
+Omonia Aradippou, 1
+
+Anorthosis Famagusta, 2
+Ethnikos Achnas, 1
+
+Niki Volou, 2
+Ethnikos Neou Keramidiou, 2
+
+PAS Giannina, 1
+PAOK B, 0
+
+Real Kashmir, 2
+Sreenidi Deccan FC, 2
+
+Dempo SC, 0
+Gokulam Kerala FC, 1
+
+Persis Solo, 0
+PSM Makassar, 1
+
+Audace Cerignola, 1
+Avellino, 1
+
+Cavese, 1
+Giugliano, 0
+
+Monopoli, 1
+Foggia, 0
+
+Torino U20, 2
+Roma U20, 4
+
+Sampdoria U20, 1
+Genoa U20, 2
+
+Inter U20, 2
+Sassuolo U20, 1
+
+Rio Ave U23, 4
+Santa Clara U23, 5
+
+Brunei DPMM FC, 2
+Lion City Sailors, 4
+
+Đông Á Thanh Hóa, 1
+Nam Định, 1
+
+Dynamo Kyiv, 1
+Widzew Łódź, 1
+
+Racing de Montevideo, 3
+Defensa y Justicia, 2
+
+Club Nacional, 0
+San Lorenzo, 1
+
+NK Osijek, 2
+NK Domžale, 1

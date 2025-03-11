@@ -1,0 +1,122 @@
+Valencia, 1
+Real Madrid, 2
+
+Nice, 3
+Stade Rennais, 2
+
+Granada, 0
+Getafe, 1
+
+Pontevedra CF, 3
+Mallorca, 0
+
+Racing de Ferrol, 1
+Rayo Vallecano, 3
+
+Juventus, 1
+Milan, 2
+
+Vitória SC, 4
+Sporting, 4
+
+Alanyaspor, 2
+Konyaspor, 1
+
+Çaykur Rizespor, 1
+Beşiktaş, 1
+
+Adana Demirspor, 0
+Başakşehir FK, 1
+
+CR Belouizdad, 1
+Al Ahly FC, 0
+
+Ajaccio, 1
+Annecy FC, 2
+
+Amiens SC, 0
+Troyes, 3
+
+Caen, 0
+Clermont Foot, 1
+
+Grenoble Foot 38, 3
+Bastia, 2
+
+Paris FC, 1
+FC Martigues, 2
+
+Rodez AF, 0
+Red Star FC, 2
+
+Kocaelispor, 3
+Iğdır FK, 0
+
+Yeni Malatyaspor, 2
+Boluspor, 4
+
+Şanlıurfaspor, 0
+Çorum FK, 0
+
+Newcastle Jets, 2
+Sydney FC, 2
+
+Melbourne Victory, 2
+Western Sydney Wanderers, 2
+
+NorthEast United, 0
+Mohammedan SC, 0
+
+Odisha FC, 2
+FC Goa, 4
+
+Wellington Phoenix, 2
+Perth Glory, 0
+
+Central Coast Mariners, 0
+Adelaide United, 1
+
+Brisbane Roar, 1
+Canberra United, 2
+
+Enosis Neon Paralimniou, 2
+ALS Omonia, 1
+
+Aris Limassol, 2
+Omonia Aradippou, 0
+
+AEK Larnaca, 0
+Omonia Nicosia, 3
+
+El Gouna FC, 2
+Canal SC, 0
+
+Pharco FC, 3
+Tersana SC, 1
+
+ENPPI, 1
+Haras El Hedoud, 0
+
+Tala'ea El-Gaish, 6
+Al Olympi, 5
+
+Accra Hearts of Oak, 1
+Legon Cities, 0
+
+Cesena U20, 2
+Torino U20, 1
+
+Lecce U20, 3
+Cagliari U20, 0
+
+Milan U20, 0
+Lazio U20, 0
+
+SC Chabab Mohammédia, 0
+Fath Union Sport, 2
+
+Portimonense, 1
+FC Alverca, 0
+
+Airdrieonians, 0
+Falkirk FC, 0

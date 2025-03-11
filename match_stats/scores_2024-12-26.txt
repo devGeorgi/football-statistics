@@ -1,0 +1,323 @@
+Manchester City, 1
+Everton, 1
+
+Bournemouth, 0
+Crystal Palace, 0
+
+Chelsea, 1
+Fulham, 2
+
+Newcastle United, 3
+Aston Villa, 0
+
+Nottingham Forest, 1
+Tottenham Hotspur, 0
+
+Southampton, 0
+West Ham United, 1
+
+Wolverhampton, 2
+Manchester United, 0
+
+Liverpool, 3
+Leicester City, 1
+
+Royal Antwerp FC, 2
+KRC Genk, 2
+
+Club Brugge KV, 4
+KVC Westerlo, 3
+
+KV Kortrijk, 0
+RC Sporting Charleroi, 1
+
+KV Mechelen, 0
+Standard Liège, 0
+
+KAA Gent, 1
+Royale Union Saint-Gilloise, 3
+
+Heart of Midlothian, 1
+Hibernian, 2
+
+Celtic, 4
+Motherwell, 0
+
+Dundee FC, 0
+Ross County, 3
+
+Kilmarnock, 4
+Aberdeen, 0
+
+St. Johnstone, 1
+Dundee United, 2
+
+St. Mirren, 2
+Rangers, 1
+
+FK IMT Beograd, 0
+FK TSC Bačka Topola, 2
+
+Blackburn Rovers, 2
+Sunderland, 2
+
+Bristol City, 1
+Luton Town, 0
+
+Coventry City, 4
+Plymouth Argyle, 0
+
+Middlesbrough, 3
+Sheffield Wednesday, 3
+
+Norwich City, 2
+Millwall, 1
+
+Oxford United, 3
+Cardiff City, 2
+
+Preston North End, 1
+Hull City, 0
+
+Sheffield United, 0
+Burnley, 2
+
+Swansea City, 3
+Queens Park Rangers, 0
+
+Watford, 2
+Portsmouth, 1
+
+Derby County, 2
+West Bromwich Albion, 1
+
+Stoke City, 0
+Leeds United, 2
+
+Brescia, 3
+Modena, 3
+
+Cesena, 0
+Cremonese, 1
+
+Cosenza, 1
+Catanzaro, 1
+
+Frosinone, 2
+Salernitana, 0
+
+Reggiana, 2
+Juve Stabia, 1
+
+Spezia, 1
+Mantova, 1
+
+Südtirol, 1
+Cittadella, 2
+
+Palermo, 1
+Bari, 0
+
+U.C Sampdoria, 1
+Carrarese, 1
+
+Adelaide United, 2
+Western Sydney Wanderers, 3
+
+Perth Glory, 0
+Macarthur FC, 3
+
+Leyton Orient, 3
+Crawley Town, 0
+
+Birmingham City, 2
+Burton Albion, 0
+
+Bolton Wanderers, 1
+Barnsley, 2
+
+Charlton Athletic, 2
+Cambridge United, 1
+
+Exeter City, 3
+Bristol Rovers, 1
+
+Huddersfield Town, 1
+Stockport County, 0
+
+Peterborough United, 0
+Mansfield Town, 3
+
+Reading, 4
+Northampton Town, 1
+
+Rotherham United, 0
+Wigan Athletic, 1
+
+Shrewsbury Town, 1
+Lincoln City, 0
+
+Stevenage, 0
+Wycombe Wanderers, 3
+
+Wrexham, 2
+Blackpool, 1
+
+AFC Wimbledon, 1
+Swindon Town, 1
+
+Bradford City, 2
+Port Vale, 1
+
+Bromley, 5
+Newport County, 2
+
+Carlisle United, 0
+Morecambe, 1
+
+Cheltenham Town, 2
+Crewe Alexandra, 1
+
+Colchester United, 2
+Gillingham, 0
+
+Fleetwood Town, 2
+Chesterfield, 0
+
+Grimsby Town, 2
+Harrogate Town, 1
+
+Milton Keynes Dons, 0
+Notts County, 2
+
+Salford City, 3
+Barrow, 0
+
+Walsall, 2
+Doncaster Rovers, 0
+
+National Bank of Egypt, 1
+Ceramica Cleopatra, 2
+
+Smouha, 2
+Ghazl El Mahalla, 4
+
+Al-Masry, 0
+Al Ahly FC, 2
+
+Petrojet, 1
+El Gouna FC, 0
+
+Punjab FC, 1
+Mohun Bagan Super Giant, 3
+
+Adelaide United, 1
+Western Sydney Wanderers, 0
+
+Perth Glory, 0
+Central Coast Mariners, 1
+
+NC Magra, 1
+MC Alger, 2
+
+ES Mostaganem, 0
+Paradou AC, 2
+
+USM Alger, 3
+MC Oran, 0
+
+Singapore, 0
+Vietnam, 2
+
+AFC Fylde, 1
+Rochdale, 3
+
+Aldershot Town, 2
+Woking, 2
+
+Altrincham, 0
+FC Halifax Town, 0
+
+Barnet, 3
+Sutton United, 3
+
+Boston United, 0
+Solihull Moors, 1
+
+Dagenham & Redbridge, 2
+Braintree Town, 4
+
+Gateshead, 4
+Hartlepool United, 3
+
+Maidenhead United, 3
+Wealdstone, 1
+
+Southend United, 4
+Ebbsfleet United, 0
+
+Tamworth, 1
+Forest Green Rovers, 1
+
+Yeovil Town, 2
+Eastleigh, 2
+
+Oldham Athletic, 0
+York City, 0
+
+Basake Holy Stars FC, 3
+Bechem United, 0
+
+Heart of Lions, 1
+Young Apostles FC, 0
+
+Legon Cities, 0
+Aduana Stars FC, 1
+
+Semen Padang FC, 1
+Arema FC, 2
+
+Esteghlal Khuzestan, 0
+Foolad Khuzestan, 0
+
+Chador Malu Yazd, 0
+Esteghlal FC, 0
+
+Coleraine FC, 2
+Ballymena United, 2
+
+Crusaders FC, 2
+Cliftonville FC, 0
+
+Dungannon Swifts, 2
+Loughgall, 1
+
+Glenavon, 2
+Portadown FC, 0
+
+Glentoran FC, 0
+Linfield FC, 0
+
+Larne FC, 0
+Carrick Rangers, 0
+
+CS Sfaxien, 1
+Stade Tunisien, 2
+
+Barry Town, 1
+Penybont, 2
+
+Cardiff Met FC, 1
+Briton Ferry Llansawel AFC, 3
+
+Aberystwyth Town, 0
+Bala Town, 0
+
+Caernarfon Town, 2
+The New Saints, 5
+
+Connah's Quay Nomads, 7
+Flint Town United, 2
+
+Newtown AFC, 0
+Haverfordwest County AFC, 2

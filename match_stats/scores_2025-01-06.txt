@@ -1,0 +1,107 @@
+Wolverhampton, 0
+Nottingham Forest, 3
+
+Deportiva Minera, 0
+Real Madrid, 5
+
+Inter, 2
+Milan, 3
+
+Gil Vicente, 1
+Rio Ave, 1
+
+Panetolikos, 0
+Olympiacos FC, 2
+
+Queens Park Rangers, 2
+Luton Town, 1
+
+Sakaryaspor, 0
+Gençlerbirliği, 0
+
+Melbourne City, 2
+Western United, 0
+
+Brisbane Roar, 0
+Newcastle Jets, 1
+
+Maccabi Haifa, 1
+Beitar Jerusalem, 3
+
+East Bengal FC, 2
+Mumbai City FC, 3
+
+Khor Fakkan, 5
+Baniyas, 2
+
+Al-Wahda FC, 4
+Dibba Al-Hisn, 1
+
+Al Wasl, 6
+Al-Orooba, 0
+
+Pafos FC, 4
+AEL Limassol, 0
+
+1. SK Prostějov, 1
+SK Sigma Olomouc B, 3
+
+Aurora Pro Patria, 1
+Giana Erminio, 2
+
+Pro Vercelli, 3
+Lumezzane, 3
+
+L.R. Vicenza, 2
+Pergolettese, 0
+
+Arezzo, 0
+Vis Pesaro, 0
+
+Pianese, 1
+Ascoli, 1
+
+Virtus Entella, 2
+Rimini, 1
+
+Ternana, 0
+Pontedera, 0
+
+AZ Picerno, 0
+Trapani, 0
+
+Foggia, 0
+Team Altamura, 2
+
+AS Roma, 3
+Fiorentina, 1
+
+Birkirkara FC, 5
+Balzan F.C., 2
+
+Benfica B U21, 2
+FC Porto B, 1
+
+SCU Torreense, 2
+Clube de Albergaria, 0
+
+Estrela Amadora U23, 4
+Vizela U23, 2
+
+Al-Raed, 5
+Al-Jabalain, 4
+
+Al-Shabab, 2
+Al-Fayha, 1
+
+MKE Ankaragücü, 1
+İskenderun A.Ş., 1
+
+FC Aarau, 1
+FC Schalke 04, 3
+
+Hannover 96, 0
+SV Waldhof Mannheim, 1
+
+Red Bull Salzburg, 0
+FC Bayern München, 6
