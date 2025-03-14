@@ -1,0 +1,221 @@
+Germany, 2
+Hungary, 0
+
+Scotland, 1
+Switzerland, 1
+
+Croatia, 2
+Albania, 2
+
+Atlético Goianiense, 1
+Criciúma, 2
+
+Botafogo, 1
+Athletico, 1
+
+Fortaleza, 1
+Grêmio, 0
+
+Juventude, 2
+Vasco da Gama, 0
+
+São Paulo, 0
+Cuiabá, 1
+
+Cruzeiro, 2
+Fluminense, 0
+
+Internacional, 1
+Corinthians, 0
+
+CF Montréal, 2
+New York Red Bulls, 2
+
+Charlotte FC, 2
+Orlando City SC, 2
+
+DC United, 0
+Atlanta United, 1
+
+Inter Miami CF, 2
+Columbus Crew, 1
+
+Toronto FC, 1
+Nashville SC, 2
+
+FC Cincinnati, 4
+Philadelphia Union, 3
+
+Austin FC, 1
+Los Angeles FC, 1
+
+FC Dallas, 5
+Minnesota United, 3
+
+Houston Dynamo, 2
+Seattle Sounders FC, 2
+
+Sporting Kansas City, 3
+Real Salt Lake, 4
+
+St.Louis City, 0
+Colorado Rapids, 3
+
+LA Galaxy, 2
+New York City FC, 0
+
+San Jose Earthquakes, 1
+Portland Timbers, 2
+
+Santos, 2
+Goiás, 0
+
+Botafogo-SP, 2
+Ponte Preta, 0
+
+Brusque, 0
+Avaí, 0
+
+Coritiba, 1
+América Mineiro, 0
+
+Baladiyet El Mahallah, 0
+Pyramids FC, 2
+
+Ceramica Cleopatra, 0
+Modern Sport FC, 1
+
+Richards Bay FC, 4
+Baroka FC, 0
+
+York United FC, 2
+Pacific FC, 0
+
+Pittsburgh Riverhounds, 0
+Louisville City FC, 1
+
+Birmingham Legion FC, 3
+San Antonio FC, 0
+
+FC Tulsa, 2
+Miami FC, 1
+
+Oakland Roots SC, 2
+El Paso Locomotive FC, 1
+
+Greenville Triumph SC, 2
+Charlotte Independence, 0
+
+NJ/NY Gotham FC, 2
+San Diego Wave FC, 1
+
+Angel City FC, 3
+Racing Louisville, 2
+
+Boca Juniors, 2
+Almirante Brown, 1
+
+FSK Miory, 0
+Dinamo Minsk, 8
+
+Uni X Labs Minsk, 0
+Neman Grodno, 2
+
+Ferroviário, 3
+EC São José, 2
+
+CD Concón National, 3
+Santiago Wanderers, 5
+
+Llaneros FC, 6
+Orsomarso, 5
+
+FC Nõmme United, 0
+FCI Levadia Tallinn, 6
+
+Narva Trans, 0
+FC Kuressaare, 1
+
+Flora Tallinn, 3
+Tartu JK Tammeka, 1
+
+EIF, 1
+IFK Mariehamn, 2
+
+FC Haka, 0
+Inter Turku, 0
+
+FC Lahti, 3
+IF Gnistan, 3
+
+HJK, 3
+KuPS, 1
+
+Ilves, 2
+SJK, 2
+
+VPS, 1
+AC Oulu, 1
+
+JIPPO Joensuu, 0
+MP, 0
+
+KäPa, 0
+FF Jaro, 3
+
+SalPa, 1
+JäPS, 3
+
+TPS, 2
+PK-35, 2
+
+Breidablik Kópavogur, 2
+KA Akureyri, 1
+
+FK Transinvest, 3
+FK Panevėžys, 0
+
+FK Banga Gargždai, 0
+FC Hegelmann, 0
+
+Džiugas Telšiai, 0
+FK Žalgiris, 4
+
+FK Sūduva Marijampolė, 2
+FK Kauno Žalgiris, 2
+
+Torns IF, 4
+Ängelholms FF, 1
+
+Torslanda IK, 1
+Norrby IF, 1
+
+Club Africain, 0
+Etoile Sportive Du Sahel, 0
+
+US Monastir, 1
+Stade Tunisien, 1
+
+Thể Công - Viettel, 0
+Hồ Chí Minh City, 0
+
+Becamex Bình Dương, 0
+Hoàng Anh Gia Lai, 1
+
+Nam Định, 1
+Hồng Lĩnh Hà Tĩnh, 0
+
+Quy Nhơn Bình Định FC, 4
+Hà Nội, 2
+
+Ludogorets, 5
+ND Primorje, 0
+
+NK Celje, 2
+FK Borac Banja Luka, 2
+
+Sepsi OSK, 1
+AFC Unirea 04 Slobozia, 1
+
+Lillestrøm SK, 2
+IFK Göteborg, 0

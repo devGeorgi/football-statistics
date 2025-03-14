@@ -1,0 +1,161 @@
+Barcelona, 3
+SK Brann Kvinner, 1
+
+Paris Saint-Germain, 3
+BK Häcken FF, 0
+
+Rosario Central, 1
+Barracas Central, 2
+
+Instituto De Córdoba, 1
+Argentinos Juniors, 2
+
+Adelaide United, 4
+Western United, 1
+
+Shenzhen Peng City, 2
+Cangzhou Mighty Lions, 2
+
+Audax Italiano, 0
+Coquimbo Unido, 1
+
+O'Higgins, 0
+Deportes Iquique, 3
+
+LDU, 5
+Imbabura Sporting Club, 0
+
+Tokyo Verdy, 2
+Kyoto Sanga FC, 2
+
+Deportivo Garcilaso, 1
+Comerciantes Unidos, 2
+
+Alianza Lima, 3
+Los Chankas CYC, 0
+
+Adelaide United, 0
+Newcastle Jets, 8
+
+Charlotte Independence, 2
+Spokane Velocity FC, 1
+
+Al-Nasr Dubai, 1
+Hatta, 0
+
+Emirates Club, 1
+Baniyas, 2
+
+San José, 1
+Club Always Ready, 0
+
+Blooming, 1
+Club Aurora, 0
+
+Athletic Club, 3
+Pouso Alegre, 0
+
+Palmeiras, 1
+Novorizontino, 0
+
+Fremad Amager, 1
+Middelfart, 3
+
+HIK, 4
+FA 2000, 2
+
+Aarhus Fremad, 0
+Skive, 1
+
+Esbjerg, 4
+FC Roskilde, 2
+
+AB, 2
+Nykøbing FC, 3
+
+Thisted, 0
+Brabrand, 1
+
+SC Spelle-Venhaus, 0
+Eintracht Norderstedt, 2
+
+SC Weiche Flensburg 08, 2
+SV Drochtersen/Assel, 2
+
+FC Rot-Weiß Erfurt, 1
+Greifswalder FC, 1
+
+FSV Luckenwalde, 2
+Berliner FC Dynamo, 0
+
+SC Rot-Weiß Oberhausen, 2
+1. FC Düren, 2
+
+FC-Astoria Walldorf, 2
+FC 08 Homburg, 0
+
+FSV Frankfurt, 3
+TuS Koblenz, 1
+
+SG Barockstadt Fulda-Lehnerz, 2
+TSV Steinbach Haiger, 3
+
+1. FC Schweinfurt 05, 0
+Bayern München II, 0
+
+Bayern München II, 2
+1. FC Schweinfurt 05, 0
+
+CSD Zacapa, 1
+CSD Xelajú MC, 1
+
+CSD Municipal, 2
+Cobán Imperial, 1
+
+Deportivo Guastatoya, 0
+Coatepeque FC, 0
+
+Aizawl FC, 4
+Churchill Brothers SC, 0
+
+Persib Bandung, 0
+Bhayangkara Presisi Indonesia FC, 0
+
+Persik Kediri, 5
+Persikabo 1973, 2
+
+Padova, 2
+Pergolettese, 1
+
+Carrarese, 1
+Perugia, 0
+
+Fermana, 3
+Rimini, 2
+
+Gubbio, 1
+Torres, 0
+
+Vis Pesaro, 1
+Lucchese, 3
+
+Catania, 2
+Giugliano, 3
+
+Club Atlético Morelia, 3
+Venados, 4
+
+Dorados de Sinaloa, 0
+Atlante FC, 3
+
+C.F. Os Belenenses, 3
+Feirense, 1
+
+Deportivo Táchira, 2
+Metropolitanos, 0
+
+Arendal, 5
+FK Mandalskameratene, 1
+
+Beşiktaş, 1
+Fatih Karagümrük, 1

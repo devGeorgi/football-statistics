@@ -16,9 +16,6 @@ Club Tijuana, 0
 Club Necaxa, 1
 Cruz Azul, 3
 
-Portsmouth, 0
-Millwall, 1
-
 Palmeiras, 0
 Red Bull Bragantino, 0
 
@@ -30,9 +27,6 @@ Central Coast Mariners, 2
 
 Bolton Wanderers, 3
 Northampton Town, 1
-
-Burton Albion, 3
-Reading, 2
 
 Charlton Athletic, 2
 Bristol Rovers, 0
@@ -75,9 +69,6 @@ Bromley, 0
 
 Colchester United, 0
 Port Vale, 0
-
-Crewe Alexandra, 1
-AFC Wimbledon, 1
 
 Fleetwood Town, 2
 Walsall, 0
@@ -166,9 +157,6 @@ Hartlepool United, 0
 Southend United, 2
 AFC Fylde, 0
 
-Greifswalder FC, 4
-Viktoria Berlin, 1
-
 VFC Plauen, 1
 Hallescher FC, 2
 
@@ -177,9 +165,6 @@ Delhi FC, 0
 
 Bali United FC, 3
 Borneo FC Samarinda, 2
-
-Larne FC, 0
-Portadown FC, 0
 
 Linfield FC, 2
 Crusaders FC, 1

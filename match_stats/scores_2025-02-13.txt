@@ -43,9 +43,6 @@ NK Olimpija Ljubljana, 0
 KAA Gent, 0
 Real Betis, 3
 
-Omonia Nicosia, 1
-Pafos FC, 1
-
 El Nacional, 6
 Blooming, 4
 
@@ -79,9 +76,6 @@ Once Caldas, 0
 Port Vale, 1
 Notts County, 0
 
-Modern Sport FC, 0
-Tala'ea El-Gaish, 0
-
 ENPPI, 1
 Al-Ittihad Alexandria, 1
 
@@ -103,23 +97,14 @@ Al-Nassr, 3
 Pumas UNAM, 2
 Cavalry FC, 0
 
-Western Sydney Wanderers, 4
-Newcastle Jets, 1
-
 Khor Fakkan, 3
 Al-Orooba, 0
-
-Al-Ain, 3
-Al-Ittihad Kalba, 1
 
 ES Mostaganem, 0
 CS Constantine, 0
 
 MC Alger, 3
 JS Kabylie, 2
-
-Lanús, 0
-Gimnasia y Esgrima, 0
 
 San Lorenzo, 2
 Platense, 1

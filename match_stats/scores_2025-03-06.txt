@@ -133,9 +133,6 @@ Sampaio Corrêa-RJ, 0
 Ceará, 1
 América-RN, 0
 
-Sampaio Corrêa, 1
-Náutico, 1
-
 Juazeirense, 2
 CSA, 2
 
@@ -168,9 +165,6 @@ Bali United FC, 2
 
 Gol Gohar Sirjan, 2
 Kheybar Khorramabad FC, 0
-
-Sepahan S.C., 1
-Esteghlal Khuzestan, 1
 
 Grobiņas SC, 1
 FS Jelgava, 1

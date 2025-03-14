@@ -1,0 +1,212 @@
+Athletic Club, 1
+Getafe, 1
+
+Real Betis, 1
+Girona FC, 1
+
+Nacional, 0
+São Paulo, 0
+
+Flamengo, 2
+Bolívar, 0
+
+Lincoln Red Imps, 2
+Dinamo Minsk, 1
+
+SK Rapid Wien, 2
+Trabzonspor, 0
+
+IF Elfsborg, 2
+HNK Rijeka, 0
+
+Viktoria Plzeň, 1
+FC Kryvbas Kryvyi Rih, 0
+
+Cercle Brugge, 1
+Molde FK, 0
+
+AFC Ajax, 13
+Panathinaikos, 13
+
+FC Lugano, 2
+FK Partizan, 2
+
+Maccabi Tel Aviv, 3
+FK Panevėžys, 0
+
+Servette FC, 1
+Sporting Braga, 2
+
+FK Borac Banja Luka, 3
+Klaksvíkar Ítróttarfelag, 1
+
+Shamrock Rovers, 3
+NK Celje, 1
+
+Flora Tallinn, 1
+Víkingur Reykjavík, 2
+
+Legia Warszawa, 1
+Brøndby IF, 1
+
+Pyunik Yerevan, 1
+FC Ordabasy, 0
+
+Sabah FK, 0
+St. Patrick's Athletic, 1
+
+Zirə FK, 4
+NK Osijek, 3
+
+Baník Ostrava, 2
+FC København, 2
+
+CFR 1907 Cluj, 1
+Maccabi Petach Tikva, 0
+
+Djurgårdens IF, 3
+Ilves, 1
+
+Hapoel Be'er Sheva, 2
+Mladá Boleslav, 4
+
+Pafos FC, 4
+FC CSKA 1948 Sofia, 0
+
+SK Brann, 3
+St. Mirren, 1
+
+Sheriff Tiraspol, 0
+NK Olimpija Ljubljana, 1
+
+Tromsø IL, 0
+Kilmarnock, 1
+
+AEK Athens, 1
+FC Noah, 0
+
+Başakşehir FK, 2
+FC Iberia 1999, 0
+
+FC Drita, 3
+FK Auda, 1
+
+FK Vojvodina, 3
+NK Maribor, 4
+
+HŠK Zrinjski Mostar, 2
+Botev Plovdiv, 0
+
+KAA Gent, 3
+Silkeborg IF, 2
+
+Wisła Kraków, 15
+FC Spartak Trnava, 12
+
+Śląsk Wrocław, 3
+FC St. Gallen 1879, 2
+
+FK Dečić Tuzi, 5
+HJK, 5
+
+HNK Hajduk Split, 0
+MFK Ružomberok, 1
+
+Larne FC, 4
+KF Ballkani, 2
+
+Puskás Akadémia, 3
+FC Ararat-Armenia, 3
+
+Vitória SC, 2
+FC Zürich, 0
+
+Athletico, 2
+Belgrano, 1
+
+Libertad, 1
+Sportivo Ameliano, 1
+
+Boca Juniors, 1
+Cruzeiro, 0
+
+FK Čukarički, 1
+FK Crvena zvezda, 4
+
+Granada, 1
+Albacete Balompié, 2
+
+Operário-PR, 1
+Ituano, 2
+
+Henan Songshan Longmen, 0
+Cangzhou Mighty Lions, 2
+
+Tianjin Jinmen Tiger, 1
+Wuhan Three Towns, 0
+
+Hokkaido Consadole Sapporo, 5
+Sagan Tosu, 3
+
+Alianza Atlético de Sullana, 1
+Cusco FC, 1
+
+Comerciantes Unidos, 1
+Universidad Técnica de Cajamarca, 1
+
+Daegu FC, 3
+Gimcheon Sangmu FC, 0
+
+FC Seoul, 1
+Jeju SK, 0
+
+Talleres Remedios de Escalada, 5
+Banfield, 4
+
+Chaco For Ever, 0
+San Telmo, 0
+
+Valur Reykjavík, 0
+Breidablik Kópavogur, 2
+
+Malut United FC, 0
+Persebaya Surabaya, 0
+
+PSBS Biak, 1
+PSM Makassar, 2
+
+Persepolis FC, 1
+Zob Ahan, 1
+
+Malavan Bandar Anzali FC, 1
+Gol Gohar Sirjan, 0
+
+Esteghlal Khuzestan, 0
+Aluminium Arak, 0
+
+CDS Tampico Madero, 0
+Correcaminos UAT, 0
+
+Angostura FC, 1
+Carabobo, 2
+
+Caracas F.C., 2
+Estudiantes de Mérida, 3
+
+Villarreal B, 3
+Espanyol B, 0
+
+CD Unión Sur Yaiza, 5
+San Bartolome CF, 4
+
+AD Alcorcón, 2
+AD Unión Adarve, 0
+
+Quy Nhơn Bình Định FC, 0
+Quảng Nam, 2
+
+SHB Đà Nẵng, 3
+Hồng Lĩnh Hà Tĩnh, 1
+
+Lebanon U20, 0
+Syria U20, 2

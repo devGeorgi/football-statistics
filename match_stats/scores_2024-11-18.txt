@@ -1,0 +1,146 @@
+Croatia, 1
+Portugal, 1
+
+Poland, 1
+Scotland, 2
+
+Serbia, 0
+Denmark, 0
+
+Spain, 3
+Switzerland, 2
+
+Kosovo, 1
+Lithuania, 0
+
+Romania, 4
+Cyprus, 1
+
+Bulgaria, 1
+Belarus, 1
+
+Luxembourg, 2
+Northern Ireland, 2
+
+Liechtenstein, 1
+San Marino, 3
+
+Comoros, 1
+Madagascar, 0
+
+Tunisia, 0
+Gambia, 1
+
+Central African Republic, 0
+Gabon, 1
+
+Morocco, 7
+Lesotho, 0
+
+Libya, 0
+Benin, 0
+
+Nigeria, 1
+Rwanda, 2
+
+Ghana, 1
+Niger, 2
+
+Sudan, 0
+Angola, 0
+
+Malawi, 3
+Burkina Faso, 0
+
+Banfield, 0
+Tigre, 1
+
+Defensa y Justicia, 1
+Deportivo Riestra, 1
+
+Platense, 1
+Godoy Cruz, 0
+
+Atlético Tucumán, 4
+Huracán, 2
+
+Instituto De Córdoba, 1
+Argentinos Juniors, 0
+
+Botafogo-SP, 1
+Avaí, 3
+
+Ceará, 1
+América Mineiro, 0
+
+Singapore, 2
+Chinese Taipei, 3
+
+India, 1
+Malaysia, 1
+
+1. FC Köln, 1
+SV Werder Bremen, 4
+
+Deportes Quindío, 0
+Orsomarso, 2
+
+Real Cartagena, 1
+Llaneros FC, 0
+
+Niki Volou, 0
+AS Makedonikos Neapolis, 3
+
+Kampaniakos, 3
+Iraklis 1908, 3
+
+Monopoli, 1
+Audace Cerignola, 1
+
+Grenada, 0
+Saint Martin, 3
+
+Curaçao, 4
+Saint Lucia, 1
+
+Aruba, 0
+Sint Maarten, 1
+
+Haiti, 3
+Puerto Rico, 0
+
+USA, 4
+Jamaica, 2
+
+Panama, 2
+Costa Rica, 2
+
+Cuba, 4
+Saint Kitts and Nevis, 0
+
+Progreso, 2
+Fénix, 2
+
+Cerro, 0
+Boston River, 0
+
+Cerro Largo, 4
+Montevideo Wanderers, 0
+
+Quảng Nam, 1
+Hà Nội, 1
+
+Sông Lam Nghệ An, 0
+Thể Công - Viettel, 5
+
+USA U20, 2
+France U20, 1
+
+Slovakia U21, 1
+Portugal U21, 3
+
+Netherlands U21, 1
+England U21, 1
+
+United Arab Emirates U23, 3
+Tajikistan U23, 0

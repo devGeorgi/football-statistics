@@ -1,0 +1,125 @@
+Romania, 0
+Netherlands, 3
+
+Austria, 1
+Türkiye, 2
+
+Brazil, 1
+Colombia, 1
+
+Costa Rica, 2
+Paraguay, 1
+
+Goiás, 2
+América Mineiro, 1
+
+Novorizontino, 1
+Mirassol, 1
+
+National Bank of Egypt, 0
+Smouha, 0
+
+ENPPI, 2
+Al-Mokawloon, 2
+
+Pyramids FC, 0
+ZED FC, 0
+
+Smouha, 2
+Pyramids FC, 3
+
+Yokohama F. Marinos, 0
+Sagan Tosu, 1
+
+VOCEM U23, 1
+Mirassol, 1
+
+Valmiera FC, 2
+Riga FC, 2
+
+FK Auda, 0
+Grobiņas SC, 1
+
+1. FC Magdeburg, 3
+Berliner FC Dynamo, 0
+
+Zenit St. Petersburg, 5
+FC Sochi, 2
+
+Young Boys, 4
+Neuchâtel Xamax, 0
+
+SC Rheindorf Altach, 0
+VfB Stuttgart II U21, 0
+
+Slezský FC Opava, 1
+Bruk-Bet Termalica Nieciecza, 1
+
+Zorya Luhansk, 1
+MTK Budapest, 1
+
+SVG Reichenau, 1
+FC Botoșani, 3
+
+FC Blau Weiss Linz, 1
+TSV 1860 München, 1
+
+FC Winterthur, 1
+Eintracht Braunschweig, 0
+
+NK Olimpija Ljubljana, 1
+FK Sarajevo, 0
+
+SC Verl, 3
+SC Rot-Weiß Oberhausen, 2
+
+SKN St. Pölten, 2
+Sparta Praha B U21, 0
+
+SV Allerheiligen, 0
+ASK Mochart Koflach, 1
+
+SV Wildon, 1
+Sturm Graz II, 3
+
+SpVgg Bayreuth, 2
+SpVgg Greuther Fürth, 4
+
+FC Thun, 10
+FC Baden, 0
+
+ASK Voitsberg, 5
+SV Tillmitsch, 0
+
+SV Viktoria Aschaffenburg, 1
+SV Rot-Weiss Walldorf, 0
+
+Independiente Petrolero, 2
+Nacional Potosí, 1
+
+BKV Előre SC, 0
+Budaörsi SC, 5
+
+BVSC-Zugló, 5
+ESMTK, 2
+
+Bicskei TC, 1
+Soroksár SC, 0
+
+Mladá Boleslav, 5
+FC Sellier & Bellot Vlašim, 0
+
+Jagiellonia Białystok, 3
+Miedź Legnica, 1
+
+OKS Odra Opole, 1
+Rekord Bielsko-Biała, 1
+
+Wisła Płock, 2
+Znicz Pruszków, 0
+
+FK Železiarne Podbrezová, 4
+KFC Komárno, 1
+
+Costa Rica U20, 2
+El Salvador U20, 2

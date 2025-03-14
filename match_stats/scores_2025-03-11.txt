@@ -1,0 +1,329 @@
+Barcelona, 3
+Benfica, 1
+
+Bayer 04 Leverkusen, 0
+FC Bayern München, 2
+
+Inter, 2
+Feyenoord, 1
+
+Liverpool, 1
+Paris Saint-Germain, 5
+
+Alianza Lima, 1
+Deportes Iquique, 1
+
+Johor Darul Ta'zim, 0
+Buriram United, 1
+
+Al-Ahli, 2
+Al-Rayyan, 0
+
+Al-Hilal, 4
+Pakhtakor Tashkent, 0
+
+Gwangju FC, 3
+Vissel Kobe, 0
+
+Kawasaki Frontale, 4
+Shanghai Shenhua, 0
+
+Burnley, 1
+West Bromwich Albion, 1
+
+Cardiff City, 1
+Luton Town, 2
+
+Derby County, 2
+Coventry City, 0
+
+Middlesbrough, 2
+Queens Park Rangers, 1
+
+Norwich City, 2
+Sheffield Wednesday, 3
+
+Sunderland, 1
+Preston North End, 1
+
+Sheffield United, 1
+Bristol City, 1
+
+ADO Den Haag, 0
+Jong AZ Alkmaar, 3
+
+FC Volendam, 3
+SC Telstar, 0
+
+Jong Ajax, 0
+FC Emmen, 2
+
+Roda JC Kerkrade, 3
+Helmond Sport, 2
+
+Melbourne City, 0
+Newcastle Jets, 1
+
+Birmingham City, 2
+Stevenage, 1
+
+Blackpool, 2
+Cambridge United, 1
+
+Bristol Rovers, 3
+Bolton Wanderers, 2
+
+Crawley Town, 0
+Charlton Athletic, 1
+
+Exeter City, 2
+Mansfield Town, 0
+
+Reading, 2
+Wrexham, 0
+
+AFC Wimbledon, 1
+Cheltenham Town, 2
+
+Accrington Stanley, 5
+Newport County, 0
+
+Colchester United, 2
+Port Vale, 1
+
+Grimsby Town, 0
+Notts County, 2
+
+Salford City, 0
+Chesterfield, 4
+
+Haras El Hedoud, 1
+Petrojet, 2
+
+Zamalek SC, 3
+Al Ahly FC, 0
+
+El Gouna FC, 2
+Al-Ittihad Alexandria, 0
+
+Modern Sport FC, 2
+Smouha, 0
+
+Bengaluru FC, 0
+Mumbai City FC, 2
+
+Magesi FC, 1
+Richards Bay FC, 0
+
+Mamelodi Sundowns, 2
+AmaZulu FC, 0
+
+Stellenbosch, 0
+Orlando Pirates, 0
+
+TS Galaxy, 3
+Supersport United, 1
+
+Columbus Crew, 2
+Los Angeles FC, 1
+
+Cruz Azul, 4
+Seattle Sounders FC, 1
+
+Tigres UANL, 3
+FC Cincinnati, 1
+
+Banfield, 0
+Villa Mitre, 0
+
+Atlanta, 1
+Colegiales, 0
+
+Al-Taawoun, 6
+Tractor FC, 4
+
+Arkadag FK, 2
+East Bengal FC, 1
+
+HŠK Zrinjski Mostar, 0
+FK Sarajevo, 1
+
+Operário-MT, 0
+Novorizontino, 1
+
+Remo, 1
+Criciúma, 2
+
+Botafogo-PB, 4
+Concórdia AC, 0
+
+Red Bull Bragantino, 5
+EC São José, 3
+
+Real Cundinamarca, 5
+Atlético Cali, 2
+
+Leones FC, 1
+Internacional de Palmira, 2
+
+FC Hlučín, 1
+FK Teplice, 2
+
+Ceramica Cleopatra, 0
+El Gouna FC, 0
+
+Forest Green Rovers, 2
+Sutton United, 1
+
+Oldham Athletic, 2
+Eastleigh, 0
+
+Rochdale, 3
+Altrincham, 0
+
+Yeovil Town, 0
+Boston United, 3
+
+FC Samgurali Tskhaltubo, 3
+Gareji, 1
+
+Arminia Bielefeld, 3
+1. FC Saarbrücken, 1
+
+Energie Cottbus, 2
+Hannover 96 II U23, 2
+
+FC Ingolstadt 04, 0
+Alemannia Aachen, 3
+
+SpVgg Unterhaching, 1
+SC Verl, 2
+
+VfB Stuttgart II U21, 1
+VfL Osnabrück, 2
+
+Bali United FC, 0
+PSBS Biak, 2
+
+PSS Sleman, 1
+Persis Solo, 4
+
+Persik Kediri, 2
+PSM Makassar, 2
+
+Arezzo, 0
+Carpi, 1
+
+Legnago Salus, 1
+Rimini, 3
+
+Perugia, 1
+Torres, 0
+
+Pianese, 0
+SPAL, 1
+
+Pineto, 2
+Milan Futuro, 1
+
+Pontedera, 0
+Pescara, 3
+
+Lucchese, 2
+Virtus Entella, 2
+
+Ternana, 1
+Sestri Levante, 0
+
+US Campobasso 1919, 2
+Ascoli, 0
+
+Vis Pesaro, 1
+Gubbio, 1
+
+Grobiņas SC, 3
+BFC Daugava Daugavpils, 2
+
+RFS, 1
+FS Jelgava, 0
+
+Ballymena United, 1
+Larne FC, 2
+
+Taguig FC, 5
+Loyola FC, 1
+
+Manila Digger FC, 1
+Kaya-Iloilo, 0
+
+Estrela Amadora U23, 4
+Estoril Praia U23, 2
+
+Sporting U23, 1
+Torreense U23, 1
+
+Famalicão U23, 4
+Vizela U23, 1
+
+Santa Clara U23, 3
+Rio Ave U23, 0
+
+SC Braga U23, 0
+Académico Viseu U23, 0
+
+SC Farense U23, 0
+CD Mafra U23, 1
+
+Dinamo Makhachkala, 1
+Lokomotiv Moscow, 2
+
+FK Krasnodar, 1
+Akhmat Grozny, 2
+
+Queen's Park FC, 0
+Partick Thistle, 2
+
+Inverness Caledonian Thistle, 4
+Stenhousemuir, 1
+
+Kelty Hearts F.C., 0
+Cove Rangers, 4
+
+Elgin City, 0
+The Spartans FC, 2
+
+FC ViOn Zlaté Moravce, 1
+MFK Ružomberok, 2
+
+MŠK Žilina, 0
+FC Spartak Trnava, 2
+
+Kalcer Radomlje, 2
+NK Bravo, 0
+
+Dynamo Kyiv, 2
+Zorya Luhansk, 2
+
+Veres Rivne, 5
+Polissya Zhytomyr, 1
+
+Karpaty Lviv, 0
+Shakhtar Donetsk, 0
+
+Penybont, 0
+Cardiff Met FC, 0
+
+The New Saints, 2
+Caernarfon Town, 0
+
+Briton Ferry Llansawel AFC, 1
+Newtown AFC, 1
+
+Connah's Quay Nomads, 4
+Flint Town United, 0
+
+St Jakob Rosental, 2
+ATUS Velden, 5
+
+Lunds BK, 2
+FC Rosengård, 1

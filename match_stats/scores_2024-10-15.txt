@@ -1,0 +1,248 @@
+Poland, 3
+Croatia, 3
+
+Scotland, 0
+Portugal, 0
+
+Spain, 3
+Serbia, 0
+
+Switzerland, 2
+Denmark, 2
+
+Kosovo, 3
+Cyprus, 0
+
+Lithuania, 1
+Romania, 2
+
+Belarus, 1
+Luxembourg, 1
+
+Northern Ireland, 5
+Bulgaria, 0
+
+Colombia, 4
+Chile, 0
+
+Paraguay, 2
+Venezuela, 1
+
+Uruguay, 0
+Ecuador, 0
+
+Argentina, 6
+Bolivia, 0
+
+Brazil, 4
+Peru, 0
+
+Comoros, 1
+Tunisia, 1
+
+Lesotho, 0
+Gabon, 2
+
+Central African Republic, 0
+Morocco, 4
+
+Botswana, 1
+Cape Verde, 0
+
+Mauritania, 0
+Egypt, 1
+
+Rwanda, 2
+Benin, 1
+
+Libya, 0
+Nigeria, 3
+
+Sudan, 2
+Ghana, 0
+
+Niger, 0
+Angola, 1
+
+Chad, 0
+Zambia, 1
+
+Sierra Leone, 1
+Côte d'Ivoire, 0
+
+Tanzania, 0
+DR Congo, 2
+
+Ethiopia, 0
+Guinea, 3
+
+Guinea-Bissau, 0
+Mali, 0
+
+South Sudan, 1
+Uganda, 2
+
+Congo Republic, 1
+South Africa, 1
+
+Malawi, 0
+Senegal, 1
+
+Kyrgyzstan, 1
+North Korea, 0
+
+Uzbekistan, 1
+United Arab Emirates, 0
+
+Iran, 4
+Qatar, 1
+
+Jordan, 4
+Oman, 0
+
+Palestine, 2
+Kuwait, 2
+
+China, 2
+Indonesia, 1
+
+Saudi Arabia, 0
+Bahrain, 0
+
+Jaguares de Córdoba, 1
+Boyacá Chicó FC, 0
+
+One Knoxville SC, 2
+Central Valley Fuego, 1
+
+Canada, 2
+Panama, 1
+
+Mexico, 2
+USA, 0
+
+SC Krems, 3
+Sportunion Mauer, 0
+
+Italy U21, 1
+Ireland U21, 1
+
+Norway U21, 5
+Türkiye U21, 1
+
+San Marino U21, 0
+Latvia U21, 3
+
+Spain U21, 6
+Malta U21, 0
+
+Belgium U21, 0
+Hungary U21, 1
+
+Kazakhstan U21, 3
+Scotland U21, 2
+
+Georgia U21, 2
+North Macedonia U21, 1
+
+Estonia U21, 3
+Kosovo U21, 1
+
+Poland U21, 3
+Germany U21, 3
+
+Israel U21, 0
+Bulgaria U21, 1
+
+Albania U21, 1
+Armenia U21, 0
+
+Finland U21, 2
+Montenegro U21, 1
+
+Romania U21, 3
+Switzerland U21, 1
+
+England U21, 7
+Azerbaijan U21, 0
+
+Luxembourg U21, 0
+Northern Ireland U21, 0
+
+Serbia U21, 1
+Ukraine U21, 0
+
+Andorra U21, 1
+Portugal U21, 2
+
+Croatia U21, 3
+Greece U21, 2
+
+Faroe Islands U21, 1
+Belarus U21, 0
+
+Bosnia & Herzegovina U21, 1
+Cyprus U21, 3
+
+France U21, 1
+Austria U21, 2
+
+Czechia U21, 3
+Lithuania U21, 0
+
+Denmark U21, 2
+Iceland U21, 0
+
+SV Wacker Burghausen, 0
+Eintracht Bamberg 2010, 1
+
+Costa Rica, 3
+Guatemala, 0
+
+Martinique, 0
+Guadeloupe, 0
+
+Suriname, 5
+Guyana, 1
+
+Dominican Republic, 5
+Antigua and Barbuda, 0
+
+Bermuda, 3
+Dominica, 2
+
+Barbados, 6
+Bahamas, 2
+
+Belize, 3
+Turks and Caicos Islands, 0
+
+Saint Kitts and Nevis, 1
+Cayman Islands, 1
+
+Liverpool UY, 1
+Montevideo Wanderers, 1
+
+Bala Town, 0
+Connah's Quay Nomads, 0
+
+Briton Ferry Llansawel AFC, 1
+Haverfordwest County AFC, 2
+
+Caernarfon Town, 1
+Aberystwyth Town, 4
+
+Cardiff Met FC, 1
+Penybont, 1
+
+Newtown AFC, 2
+Barry Town, 4
+
+The New Saints, 5
+Flint Town United, 0
+
+Norway U19, 0
+Germany U19, 2
+
+Slovakia U21, 4
+Wales U21, 2

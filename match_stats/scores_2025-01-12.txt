@@ -19,9 +19,6 @@ Hellas Verona, 0
 RB Leipzig, 4
 SV Werder Bremen, 2
 
-FC Augsburg, 0
-VfB Stuttgart, 1
-
 Le Havre, 1
 RC Lens, 2
 
@@ -232,12 +229,6 @@ Zamalek SC, 3
 Enyimba, 1
 Al-Masry, 1
 
-Al-Ahli Club, 0
-Al Khalidiyah, 0
-
-Al Riffa, 0
-Sitra Club, 0
-
 Flamengo, 1
 Boavista, 2
 
@@ -370,9 +361,6 @@ Union Touarga Sport, 1
 FC Porto B, 1
 Portimonense, 2
 
-Leixões SC, 1
-Torreense, 1
-
 União Leiria, 1
 Chaves, 1
 
@@ -414,9 +402,6 @@ Moreirense, 0
 
 Damaiense, 1
 Valadares Gaia, 1
-
-Greenock Morton, 0
-Raith Rovers, 0
 
 EGS Gafsa, 2
 US Ben Guerdane, 1

@@ -1,0 +1,110 @@
+Corinthians, 2
+Cruzeiro, 1
+
+Athletico, 2
+Atlético Goianiense, 0
+
+Criciúma, 0
+Vitória, 1
+
+Red Bull Bragantino, 1
+São Paulo, 1
+
+Bahia, 1
+Palmeiras, 2
+
+Cuiabá, 1
+Flamengo, 2
+
+Grêmio, 2
+Juventude, 2
+
+Atlético Mineiro, 0
+Botafogo, 0
+
+Newell's Old Boys, 2
+Central Córdoba, 3
+
+Estudiantes de La Plata, 1
+Rosario Central, 1
+
+Vélez Sarsfield, 0
+Lanús, 0
+
+Boca Juniors, 1
+Club Atlético Unión de Santa Fe, 0
+
+VfL Wolfsburg, 5
+Galatasaray Istanbul, 0
+
+Olympique Lyonnais, 4
+AS Roma, 1
+
+FC Twente Vrouwen, 2
+Real Madrid, 3
+
+Chelsea FC Women, 3
+Celtic LFC, 0
+
+CD Eldense, 2
+Huesca, 1
+
+Millonarios, 2
+Deportivo Pasto, 1
+
+Atlético Nacional, 5
+Independiente Santa Fe, 0
+
+Jeonnam Dragons, 0
+Busan I Park, 0
+
+MC Alger, 1
+CR Belouizdad, 3
+
+San José, 2
+Club Aurora, 2
+
+Independiente Petrolero, 5
+Blooming, 1
+
+FC Universitario de Vinto, 4
+Oriente Petrolero, 1
+
+FK Sloga Doboj, 0
+FK Borac Banja Luka, 2
+
+Universidad de Chile, 1
+Ñublense, 0
+
+Municipal Santa Ana, 0
+AD Guanacasteca, 0
+
+AD Guanacasteca, 2
+Puntarenas FC, 1
+
+LD Alajuelense, 0
+Puntarenas FC, 0
+
+FC Teutonia 05 Ottensen, 1
+FC St Pauli II U23, 4
+
+Deportivo Guastatoya, 1
+Antigua GFC, 1
+
+Comunicaciones FC, 4
+Cobán Imperial, 2
+
+CSD Zacapa, 0
+Deportivo Mixco, 1
+
+Madura United FC, 2
+Arema FC, 4
+
+Malut United FC, 3
+Persis Solo, 0
+
+Công An Hà Nội, 3
+Quy Nhơn Bình Định FC, 0
+
+Briton Ferry Llansawel AFC, 3
+The New Saints, 1

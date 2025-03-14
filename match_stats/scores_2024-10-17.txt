@@ -1,0 +1,125 @@
+Corinthians, 5
+Athletico, 2
+
+Flamengo, 0
+Fluminense, 2
+
+Galatasaray Istanbul, 1
+AS Roma, 6
+
+VfL Wolfsburg, 0
+Olympique Lyonnais, 2
+
+Real Madrid, 4
+Celtic LFC, 0
+
+FC Twente Vrouwen, 1
+Chelsea FC Women, 3
+
+América Mineiro, 2
+Goiás, 2
+
+Central Coast Mariners, 0
+Melbourne Victory, 0
+
+Shandong Taishan, 4
+Tianjin Jinmen Tiger, 1
+
+Shanghai Shenhua, 2
+Henan Songshan Longmen, 1
+
+Wuhan Three Towns, 0
+Zhejiang, 2
+
+Shrewsbury Town, 0
+Exeter City, 2
+
+NorthEast United, 2
+Chennaiyin FC, 3
+
+Kawasaki Frontale, 1
+Gamba Osaka, 1
+
+Vissel Kobe, 0
+FC Tokyo, 2
+
+Yokohama F. Marinos, 0
+Albirex Niigata, 0
+
+Unión Comercio, 3
+Comerciantes Unidos, 2
+
+Cusco FC, 2
+Los Chankas CYC, 1
+
+Sport Huancayo, 1
+Club Atlético Grau, 3
+
+Gwangju FC, 1
+Daegu FC, 1
+
+Buriram United, 1
+Uthai Thani FC, 0
+
+Barranquilla FC, 4
+Bogotá FC, 2
+
+CS Cartaginés, 4
+San Carlos, 4
+
+Sporting FC, 1
+Municipal Santa Ana, 0
+
+AD Guanacasteca, 2
+Deportivo Saprissa, 0
+
+PSIS Semarang, 0
+Persija Jakarta, 2
+
+PSBS Biak, 3
+Semen Padang FC, 2
+
+Persib Bandung, 2
+Persebaya Surabaya, 0
+
+Chador Malu Yazd, 1
+Kheybar Khorramabad FC, 0
+
+Shams Azar Qazvin, 1
+Havadar Tehran, 1
+
+Malavan Bandar Anzali FC, 0
+Persepolis FC, 0
+
+Esteghlal Khuzestan, 3
+Mes Rafsanjan FC, 2
+
+RFS, 1
+FK Auda, 2
+
+Club Atlético Morelia, 0
+Mineros de Zacatecas, 0
+
+Steaua București, 2
+Concordia Chiajna, 1
+
+Cerro Largo, 1
+Deportivo Maldonado, 0
+
+Fénix, 1
+Cerro, 3
+
+Nacional, 5
+Miramar Misiones, 1
+
+North Korea U17, 4
+Mexico U17, 1
+
+Kenya U17, 0
+England U17, 2
+
+Japan U17, 0
+Poland U17, 0
+
+Brazil U17, 1
+Zambia U17, 0

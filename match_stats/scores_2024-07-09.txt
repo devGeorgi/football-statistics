@@ -1,0 +1,212 @@
+Spain, 2
+France, 1
+
+FK Panevėžys, 3
+HJK, 0
+
+Ħamrun Spartans FC, 0
+Lincoln Red Imps, 1
+
+The New Saints, 3
+FK Dečić Tuzi, 0
+
+UE Santa Coloma, 1
+KF Ballkani, 2
+
+Víkingur Reykjavík, 0
+Shamrock Rovers, 0
+
+SS Virtus, 1
+FCSB, 7
+
+Red Bull Bragantino, 0
+Internacional, 0
+
+Mirassol, 1
+CRB, 0
+
+FC Seoul, 2
+Daejeon Hana Citizen, 1
+
+Jeonbuk Hyundai Motors, 2
+Jeju SK, 1
+
+Pohang Steelers, 2
+Gangwon FC, 0
+
+Ulsan HD, 0
+Gwangju FC, 1
+
+Botafogo-SP, 4
+Comercial-SP, 1
+
+Sagan Tosu, 3
+Yokohama FC, 1
+
+Vissel Kobe, 2
+Tokushima Vortis, 0
+
+Albirex Niigata, 1
+V-Varen Nagasaki, 6
+
+Avispa Fukuoka, 0
+Ehime FC, 2
+
+Cerezo Osaka, 1
+Ventforet Kofu, 2
+
+FC Tokyo, 1
+JEF United Chiba, 2
+
+Gamba Osaka, 2
+Tegevajaro Miyazaki, 1
+
+Hokkaido Consadole Sapporo, 6
+Montedio Yamagata, 3
+
+Japan Soccer College, 0
+Renofa Yamaguchi FC, 0
+
+Kashima Antlers, 2
+Fujieda MYFC, 1
+
+Kashiwa Reysol, 2
+Tsukuba University, 1
+
+Kawasaki Frontale, 1
+Oita Trinita, 3
+
+Kyoto Sanga FC, 3
+Shimizu S-Pulse, 1
+
+Sanfrecce Hiroshima, 4
+Iwaki FC, 0
+
+Shonan Bellmare, 1
+Tokyo Verdy, 0
+
+Yokohama F. Marinos, 7
+Mito Hollyhock, 6
+
+Manila Digger FC, 0
+Taguig FC, 3
+
+Atlanta United, 1
+Indy Eleven, 2
+
+Sacramento Republic FC, 1
+Seattle Sounders FC, 2
+
+Servette FC, 3
+KVC Westerlo, 2
+
+FC Iberia 1999, 3
+Gareji, 2
+
+Górnik Zabrze, 3
+Karlsruher SC, 0
+
+Komárom VSE, 1
+MTK Budapest FC II, 4
+
+MŠK Tesla Stropkov, 2
+1. FC Tatran Prešov, 2
+
+AFC Ajax, 4
+Sint-Truidense VV, 0
+
+FK Radnički 1923, 1
+APOEL Nicosia, 1
+
+RC Strasbourg, 0
+Wolfsberger AC, 0
+
+SC Gjilani, 3
+KF Ferizaj, 2
+
+SR Donaufeld, 1
+First Vienna, 3
+
+SV Lippstadt 08, 1
+Wuppertaler SV, 2
+
+SV Tillmitsch, 0
+Sturm Graz II, 2
+
+Viktoria Plzeň, 1
+Qarabağ, 2
+
+ŠKF Sereď, 2
+FC Slovan Galanta, 0
+
+Asko Wolfnitz, 3
+ATUS Velden, 6
+
+ASK Mochart Koflach, 2
+SC Weiz, 3
+
+Deutschlandsberger SC, 1
+SV Pachern, 0
+
+HB Køge, 2
+FC Helsingør, 1
+
+USV Weindorf St. Anna am Aigen, 7
+TuS Heiligenkreuz, 3
+
+Wiener Sport-Club, 5
+St Margarethen, 1
+
+Hungerford Town, 0
+Swindon Town, 2
+
+Alfreton Town, 2
+Notts County, 2
+
+Ballyclare Comrades, 1
+Portadown FC, 1
+
+Didcot Town, 2
+Oxford City, 5
+
+Merthyr Town, 2
+Llanelli AFC, 2
+
+Warrington Rylands 1906 FC, 2
+Burnley, 1
+
+Bath City, 2
+Cheltenham Town, 3
+
+Hyde United, 2
+FC Halifax Town, 1
+
+Nantwich Town, 0
+Warrington Town, 1
+
+Tonbridge Angels, 0
+Sutton United, 4
+
+River Plate, 1
+Millonarios, 1
+
+Peñarol, 0
+San Lorenzo, 2
+
+FC Tatabánya, 0
+BVSC-Zugló, 1
+
+VLS Veszprém, 1
+ESMTK, 1
+
+FK Třinec, 5
+MŠK Žilina B, 2
+
+Austria Wien, 3
+Bohemians Praha 1905, 7
+
+FK Varnsdorf, 3
+Slovan Liberec U21, 1
+
+Nyiregyháza Spartacus, 1
+HNK Rijeka, 3

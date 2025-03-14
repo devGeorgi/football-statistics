@@ -1,0 +1,80 @@
+Godoy Cruz, 1
+Rosario Central, 1
+
+Argentinos Juniors, 2
+Central Córdoba, 1
+
+CA Independiente, 2
+Banfield, 1
+
+Gimnasia y Esgrima, 2
+Barracas Central, 1
+
+Eibar, 0
+Real Oviedo, 2
+
+Baroka FC, 1
+University of Pretoria FC, 1
+
+Memphis 901 FC, 2
+Rhode Island FC, 2
+
+USA, 1
+Brazil, 1
+
+Ecuador, 3
+Bolivia, 1
+
+Gimnasia Jujuy, 0
+Club Atlético Chacarita Juniors, 1
+
+Sampaio Corrêa, 2
+Caxias, 1
+
+AC Oulu, 2
+FC Lahti, 2
+
+IFK Mariehamn, 0
+VPS, 0
+
+Inter Turku, 0
+Ilves, 2
+
+KuPS, 0
+FC Haka, 1
+
+SJK, 3
+EIF, 1
+
+IF Gnistan, 0
+HJK, 4
+
+FF Jaro, 1
+SJK Akatemia, 1
+
+KTP, 2
+JIPPO Joensuu, 1
+
+MP, 0
+TPS, 3
+
+SalPa, 1
+KäPa, 1
+
+Dreams, 8
+Real Tamale United, 1
+
+Stabæk Fotball, 4
+Mjøndalen, 2
+
+KIF Örebro DFF, 1
+Trelleborgs FF, 1
+
+Växjö DFF, 0
+Rosengård, 7
+
+Japan U19, 1
+Panama U23, 0
+
+Italy U21, 1
+Indonesia U19, 0

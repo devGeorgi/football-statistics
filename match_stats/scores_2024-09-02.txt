@@ -1,0 +1,170 @@
+Tunisia, 0
+Madagascar, 0
+
+Gimnasia y Esgrima, 1
+Argentinos Juniors, 0
+
+Godoy Cruz, 1
+Central Córdoba, 1
+
+Eibar, 2
+Levante UD, 2
+
+Elche, 3
+Córdoba, 1
+
+Sport Recife, 3
+Ituano, 2
+
+Operário-PR, 0
+Brusque, 0
+
+Amed Sportif Faaliyetler, 3
+Kocaelispor, 0
+
+Deportivo Cali, 0
+Deportivo Pasto, 2
+
+Salford City, 1
+Milton Keynes Dons, 0
+
+Sportivo Ameliano, 3
+Sportivo Luqueño, 1
+
+Sportivo Trinidense, 1
+Sol de América, 0
+
+Cumbayá FC, 1
+Imbabura Sporting Club, 2
+
+AFC Unirea 04 Slobozia, 2
+FC Gloria Buzău, 1
+
+FC Universitatea Cluj, 1
+FC Dinamo București, 0
+
+HFX Wanderers FC, 2
+York United FC, 1
+
+VfL Wolfsburg, 3
+SV Werder Bremen, 3
+
+Defensores Unidos, 1
+Almagro, 1
+
+San Miguel, 2
+Patronato, 4
+
+San Telmo, 4
+Arsenal de Sarandí, 0
+
+Talleres Remedios de Escalada, 2
+All Boys, 2
+
+Estudiantes de Buenos Aires, 1
+Agropecuario Argentino, 0
+
+Atlanta, 1
+Brown de Adrogué, 0
+
+FK Borac Banja Luka, 3
+GOŠK Gabela, 0
+
+Londrina, 2
+Athletic Club, 3
+
+Curicó Unido, 2
+Universidad de Concepción, 3
+
+Bogotá FC, 5
+Cúcuta Deportivo, 0
+
+Real Cartagena, 2
+Deportes Quindío, 0
+
+Boldklubben af 1893, 0
+Hobro, 0
+
+Hobro, 0
+Boldklubben af 1893, 1
+
+Arzignano Valchiampo, 1
+AlbinoLeffe, 1
+
+Ascoli, 1
+Pianese, 0
+
+Vis Pesaro, 3
+Arezzo, 0
+
+Avellino, 1
+Giugliano, 1
+
+Cavese, 2
+Crotone, 1
+
+Team Altamura, 0
+Foggia, 2
+
+Levanger, 2
+Egersund, 1
+
+Ranheim IL, 2
+IK Start, 3
+
+Raufoss, 4
+Sogndal IL, 1
+
+Åsane, 2
+Kongsvinger, 1
+
+SK Brann II, 3
+Arendal, 1
+
+Tromsdalen UIL, 3
+Vålerenga IF II, 0
+
+Steaua București, 0
+FCU 1948 Craiova, 0
+
+Rotor Volgograd, 0
+Chayka Peschanokopskoye, 0
+
+Hammarby Talang FF, 0
+FC Stockholm Internazionale, 1
+
+FC Trollhättan, 1
+Ljungskile SK, 1
+
+Jönköpings Södra, 1
+Norrby IF, 0
+
+Djurgårdens IF DFF, 0
+Hammarby IF, 2
+
+Växjö DFF, 0
+Vittsjö GIK, 0
+
+Deportivo Maldonado, 0
+Liverpool UY, 0
+
+Montevideo Wanderers, 0
+Nacional, 0
+
+Estudiantes de Mérida, 4
+Metropolitanos, 0
+
+Deportivo La Guaira, 2
+Universidad Central, 0
+
+North Korea U20, 6
+Argentina U20, 2
+
+Costa Rica U20, 0
+Netherlands U20, 2
+
+Ghana U20, 1
+Austria U20, 2
+
+Japan U20, 7
+New Zealand U20, 0

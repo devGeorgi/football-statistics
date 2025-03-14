@@ -148,9 +148,6 @@ GNK Dinamo Zagreb, 0
 FK Vojvodina, 0
 FK IMT Beograd, 1
 
-OFK Beograd, 0
-FK Železničar Pančevo, 0
-
 FK Crvena zvezda, 3
 FK Partizan, 3
 
@@ -162,9 +159,6 @@ CF Montréal, 2
 
 Columbus Crew, 4
 Chicago Fire, 2
-
-DC United, 2
-Toronto FC, 2
 
 FC Cincinnati, 1
 New York Red Bulls, 0
@@ -448,9 +442,6 @@ Macará, 2
 Delfín, 2
 Emelec, 0
 
-Independiente Del Valle, 1
-LDU, 1
-
 Al-Masry, 0
 Ismaily, 0
 
@@ -501,9 +492,6 @@ Yverdon-Sport FC, 1
 
 FC St. Gallen 1879, 2
 Basel, 2
-
-Chippa United, 0
-Sekhukhune United, 1
 
 Orlando Pirates, 2
 Cape Town City FC, 1
@@ -616,9 +604,6 @@ Deportivo Maipú, 0
 Colegiales, 1
 Arsenal de Sarandí, 1
 
-Almirante Brown, 1
-Defensores Unidos, 1
-
 Chaco For Ever, 2
 Temperley, 0
 
@@ -648,9 +633,6 @@ Turan Tovuz, 1
 
 FK Velež Mostar, 2
 GOŠK Gabela, 2
-
-FK Željezničar, 0
-FK Sarajevo, 0
 
 Boavista, 2
 Volta Redonda, 0
@@ -738,9 +720,6 @@ Internacional de Palmira, 2
 
 Orsomarso, 1
 Tigres FC, 1
-
-Real Cundinamarca, 0
-Real Cartagena, 0
 
 Puntarenas FC, 2
 Municipal Liberia, 0
@@ -856,9 +835,6 @@ FC Gütersloh, 1
 KFC Uerdingen 05, 0
 1. FC Bocholt, 4
 
-SC Rot-Weiß Oberhausen, 4
-Turkspor Dortmund 2000, 4
-
 SC Wiedenbrück, 0
 Borussia Mönchengladbach II U23, 1
 
@@ -873,9 +849,6 @@ TSV Steinbach Haiger, 0
 
 Eintracht Trier, 3
 FC-Astoria Walldorf, 1
-
-KSV Hessen Kassel, 2
-FC 08 Homburg, 1
 
 SC Freiburg II U23, 0
 Eintracht Frankfurt II, 0
@@ -895,9 +868,6 @@ Kickers Offenbach, 1
 Bayern München II, 1
 1. FC Schweinfurt 05, 2
 
-DJK Vilzing, 0
-SpVgg Ansbach, 0
-
 FV Illertissen, 3
 SpVgg Hankofen-Hailing, 1
 
@@ -915,9 +885,6 @@ GSS Panionios, 0
 
 Cobán Imperial, 1
 CSD Xelajú MC, 0
-
-Antigua GFC, 0
-Deportivo Mixco, 0
 
 Persib Bandung, 0
 Madura United FC, 0
@@ -981,9 +948,6 @@ V-Varen Nagasaki, 2
 
 Roasso Kumamoto, 3
 Hokkaido Consadole Sapporo, 0
-
-Tokushima Vortis, 1
-Vegalta Sendai, 0
 
 FC Imabari, 0
 Fujieda MYFC, 0
@@ -1081,9 +1045,6 @@ C.F. Os Belenenses, 3
 Varzim SC, 2
 Atletico CP, 1
 
-AD Fafe, 1
-Lusitânia Lourosa, 2
-
 Académica Coimbra, 1
 Caldas SC, 2
 
@@ -1095,12 +1056,6 @@ SC Braga B, 1
 
 Anadia, 0
 SC São João Ver, 1
-
-Ayr United, 1
-Livingston, 2
-
-Dunfermline Athletic, 0
-Queen's Park FC, 0
 
 Partick Thistle, 1
 Airdrieonians, 1
@@ -1196,7 +1151,7 @@ Liverpool UY, 2
 Cerro, 1
 
 Boston River, 2
-Club Nacional, 3
+Nacional, 3
 
 Cerro Largo, 3
 Miramar Misiones, 2

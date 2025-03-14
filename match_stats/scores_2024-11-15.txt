@@ -1,0 +1,212 @@
+Portugal, 5
+Poland, 1
+
+Scotland, 1
+Croatia, 0
+
+Denmark, 1
+Spain, 2
+
+Switzerland, 1
+Serbia, 1
+
+Cyprus, 2
+Lithuania, 1
+
+Romania, 3
+Kosovo, 0
+
+Luxembourg, 0
+Bulgaria, 1
+
+Northern Ireland, 2
+Belarus, 0
+
+San Marino, 1
+Gibraltar, 1
+
+Uruguay, 3
+Colombia, 2
+
+Gambia, 1
+Comoros, 2
+
+Gabon, 1
+Morocco, 5
+
+Botswana, 1
+Mauritania, 1
+
+Cape Verde, 1
+Egypt, 1
+
+Angola, 1
+Ghana, 1
+
+Zambia, 1
+Côte d'Ivoire, 0
+
+Eswatini, 1
+Guinea-Bissau, 1
+
+Mozambique, 0
+Mali, 1
+
+Zimbabwe, 1
+Kenya, 1
+
+Uganda, 0
+South Africa, 2
+
+Indonesia, 0
+Japan, 4
+
+Operário-PR, 1
+Mirassol, 1
+
+SC Telstar, 4
+VVV-Venlo, 0
+
+Sol de América, 2
+Sportivo Trinidense, 2
+
+Jubilo Iwata, 3
+Yokohama F. Marinos, 4
+
+Sydney FC, 1
+Western Sydney Wanderers, 0
+
+Canberra United, 0
+Adelaide United, 2
+
+Melbourne City, 2
+Central Coast Mariners, 2
+
+Russia, 11
+Brunei Darussalam, 0
+
+FC Fleury 91, 2
+Le Havre AC, 0
+
+Montpellier HSC, 1
+Nantes, 0
+
+SC Freiburg, 1
+SGS Essen, 0
+
+Costa Adeje Tenerife, 2
+Valencia, 0
+
+Granada, 1
+FC Levante Badalona, 1
+
+MC El Bayadh, 0
+MC Alger, 1
+
+Olympique Akbou, 3
+MC Oran, 1
+
+USM Khenchela, 1
+CS Constantine, 0
+
+CR Belouizdad, 0
+JS Kabylie, 0
+
+ES Sétif, 0
+Paradou AC, 0
+
+Fremad Amager, 2
+Nykøbing FC, 1
+
+FC Helsingør, 1
+Ishøj IF, 1
+
+Georgia U21, 1
+Croatia U21, 0
+
+Finland U21, 5
+Norway U21, 1
+
+Belgium U21, 0
+Czechia U21, 2
+
+SV Meppen, 2
+Kickers Emden, 0
+
+SV Drochtersen/Assel, 3
+SC Weiche Flensburg 08, 0
+
+Bayern München II, 4
+1. FC Nürnberg II, 0
+
+FC Augsburg II, 0
+Türkgücü München, 1
+
+FC Würzburger Kickers, 2
+SV Wacker Burghausen, 0
+
+GS Diagoras Rodou, 1
+AO Kavala, 1
+
+GE Panachaiki, 2
+AO Egaleo, 0
+
+Caldiero Terme, 2
+Lumezzane, 2
+
+Vis Pesaro, 1
+Ascoli, 1
+
+Catania, 2
+Trapani, 1
+
+Foggia, 0
+Casertana, 0
+
+Saint Lucia, 0
+Grenada, 4
+
+Saint Martin, 0
+Curaçao, 5
+
+Sint Maarten, 0
+Haiti, 8
+
+Puerto Rico, 5
+Aruba, 1
+
+Suriname, 0
+Canada, 1
+
+Honduras, 2
+Mexico, 0
+
+Cayman Islands, 0
+Guadeloupe, 5
+
+Barbados, 1
+Guyana, 4
+
+FC Ufa, 2
+Sokol Saratov, 0
+
+Thể Công - Viettel, 1
+Đông Á Thanh Hóa, 2
+
+Nam Định, 5
+SHB Đà Nẵng, 0
+
+Fenerbahçe, 2
+Zenit St. Petersburg, 1
+
+Italy U21, 2
+France U21, 2
+
+Germany U21, 3
+Denmark U21, 0
+
+Portugal U21, 3
+Ukraine U21, 3
+
+Spain U21, 0
+England U21, 0

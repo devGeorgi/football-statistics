@@ -217,9 +217,6 @@ PT Prachuap FC, 2
 Sukhothai, 3
 Port FC, 2
 
-Tottenham FC Women, 1
-Leicester City WFC, 0
-
 Arsenal Women, 5
 Crystal Palace Women, 0
 
@@ -333,9 +330,6 @@ AEL Limassol, 0
 
 Pafos FC, 2
 Enosis Neon Paralimniou, 0
-
-Omonia Nicosia, 0
-Aris Limassol, 0
 
 Quevilly - Rouen Métropole, 0
 FC Villefranche Beaujolais, 1

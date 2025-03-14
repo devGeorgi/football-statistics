@@ -1,0 +1,155 @@
+Atalanta, 0
+Liverpool, 1
+
+Olympique de Marseille, 5
+Benfica, 2
+
+Roma, 2
+Milan, 1
+
+West Ham United, 1
+Bayer 04 Leverkusen, 1
+
+Fiorentina, 2
+Viktoria Plzeň, 0
+
+Lille, 5
+Aston Villa, 5
+
+Fenerbahçe, 3
+Olympiacos FC, 3
+
+PAOK, 0
+Club Brugge KV, 2
+
+Botafogo, 1
+Atlético Goianiense, 0
+
+Newcastle Jets, 1
+Wellington Phoenix, 1
+
+Deportivo La Equidad, 0
+Fortaleza CEIF, 0
+
+Patriotas Boyacá, 2
+Independiente Medellín, 3
+
+América de Cali, 0
+Deportivo Pasto, 0
+
+Imbabura Sporting Club, 2
+Universidad Católica del Ecuador, 2
+
+Independiente Del Valle, 2
+Mushuc Runa, 1
+
+Barcelona SC, 1
+El Nacional, 0
+
+Ceramica Cleopatra, 1
+Al-Ittihad Alexandria, 1
+
+Ismaily, 1
+ZED FC, 2
+
+Modern Sport FC, 2
+Pharco FC, 0
+
+Alianza Lima, 3
+Sport Boys, 0
+
+Al-Taawoun, 1
+Al-Khaleej, 1
+
+Al-Fateh, 3
+Al-Raed, 1
+
+Al-Shabab, 5
+Abha, 0
+
+Vancouver FC, 2
+HFX Wanderers FC, 0
+
+True Bangkok United, 2
+Lamphun Warrior, 2
+
+Deportivo Maipú, 8
+Juventud Unida Universitario, 9
+
+Juventud Unida Universitario, 0
+Deportivo Maipú, 0
+
+Indonesia U23, 1
+Australia U23, 0
+
+Jordan U23, 1
+Qatar U23, 2
+
+Al Najma Manama, 2
+Sitra Club, 2
+
+Busaiteen, 0
+Al-Ahli Club, 2
+
+Manama Club, 0
+Al Khalidiyah, 4
+
+Bolívar, 1
+San Antonio Bulo-Bulo, 1
+
+Club Aurora, 6
+Independiente Petrolero, 8
+
+Zhejiang Yiwu Commodities City, 1
+Nantong Haimen Codion, 0
+
+Herediano, 1
+CS Cartaginés, 1
+
+Sønderjyske Fodbold, 0
+Vendsyssel FF, 0
+
+Esbjerg, 5
+Middelfart, 2
+
+FC Halifax Town, 2
+Oldham Athletic, 2
+
+NoPS, 1
+Pallo-Iirot, 3
+
+Dewa United FC, 0
+Madura United FC, 0
+
+Paykan, 2
+Havadar Tehran, 2
+
+Gol Gohar Sirjan, 2
+Esteghlal Khuzestan, 2
+
+Sanat Naft Abadan, 0
+Persepolis FC, 3
+
+Grobiņas SC, 3
+FK Liepaja, 2
+
+FS Jelgava, 0
+Valmiera FC, 3
+
+SC Oțelul Galați, 2
+FC Universitatea Cluj, 1
+
+NK Domžale, 1
+FC Koper, 0
+
+Colombia U20, 3
+Bolivia U20, 0
+
+Venezuela U20, 1
+Brazil U20, 2
+
+Zorya Luhansk, 1
+Shakhtar Donetsk, 3
+
+Estudiantes de Mérida, 2
+Rayo Zuliano, 1

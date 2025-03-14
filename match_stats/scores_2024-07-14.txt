@@ -1,0 +1,233 @@
+Spain, 2
+England, 1
+
+Argentina, 1
+Colombia, 0
+
+Vila Nova FC, 2
+Avaí, 1
+
+Chapecoense, 1
+Brusque, 1
+
+Alianza Atlético de Sullana, 0
+Club Atlético Grau, 0
+
+Sport Boys, 2
+Sport Huancayo, 1
+
+Cusco FC, 0
+Melgar, 3
+
+CFR 1907 Cluj, 3
+FC Dinamo București, 2
+
+Djurgårdens IF, 1
+IFK Värnamo, 0
+
+BK Häcken, 3
+IF Elfsborg, 5
+
+Kalmar FF, 0
+IF Brommapojkarna, 1
+
+Västerås SK, 2
+IFK Norrköping, 1
+
+Forge FC, 2
+Pacific FC, 1
+
+Arsenal de Sarandí, 0
+Club Ferro Carril Oeste, 0
+
+Nueva Chicago, 0
+San Telmo, 3
+
+Aldosivi, 2
+Atlanta, 1
+
+Guillermo Brown, 0
+Gimnasia Jujuy, 0
+
+Gimnasia y Tiro de Salta, 0
+Deportivo Madryn, 0
+
+Agropecuario Argentino, 3
+Güemes, 1
+
+Estudiantes de Río Cuarto, 0
+Almirante Brown, 1
+
+Mitre, 1
+Defensores Unidos, 0
+
+Patronato, 1
+Club Atletico Colón, 0
+
+San Martín de Tucumán, 1
+San Miguel, 0
+
+San Martín de San Juan, 1
+Deportivo Maipú, 0
+
+FC Orsha, 0
+FK Arsenal Dzerzhinsk, 3
+
+NFK Krumkachy, 0
+Dnepr Mogilev, 1
+
+ML Vitebsk, 2
+Naftan Novopolotsk, 1
+
+Nacional Potosí, 0
+Jorge Wilstermann, 0
+
+Blooming, 0
+Bolívar, 5
+
+Volta Redonda, 1
+São Bernardo, 3
+
+CSA, 1
+Floresta, 2
+
+Náutico, 4
+Figueirense, 0
+
+Grêmio, 3
+Operário-PR, 1
+
+Associação Atlética Francana, 0
+Botafogo-SP, 0
+
+Deportes La Serena, 2
+Antofagasta, 1
+
+Santiago Morning, 1
+Deportes Limache, 0
+
+Unión San Felipe, 3
+Curicó Unido, 1
+
+Universidad de Concepción, 1
+San Luis de Quillota, 0
+
+Cobresal, 1
+Coquimbo Unido, 0
+
+Universidad de Chile, 5
+Everton de Viña del Mar, 3
+
+Lithuania U19, 0
+England U19, 10
+
+Spain U19, 0
+Ireland U19, 0
+
+IF Gnistan, 0
+IFK Mariehamn, 0
+
+EIF, 0
+Inter Turku, 7
+
+FC Lahti, 1
+AC Oulu, 2
+
+FF Jaro, 5
+KTP, 2
+
+IF Vestri, 0
+KA Akureyri, 2
+
+Kairat Almaty, 1
+FK Zhenys, 1
+
+Kuala Lumpur City FC, 1
+Selangor Football Club, 0
+
+Sotra, 4
+SK Brann II, 4
+
+Jerv, 2
+Viking FK II, 1
+
+Davao Aguilas, 5
+Philippine Air Force FC, 2
+
+Shinnik Yaroslavl, 0
+Rotor Volgograd, 1
+
+Ural Yekaterinburg, 2
+FC Sochi, 0
+
+Neftekhimik Nizhnekamsk, 3
+FC Tyumen, 0
+
+Torpedo Moscow, 4
+SKA-Khabarovsk, 0
+
+Rodina Moscow, 0
+Baltika Kaliningrad, 0
+
+Chayka Peschanokopskoye, 1
+Sokol Saratov, 1
+
+Fénix, 1
+Defensor Sporting, 2
+
+River Plate UY, 1
+Peñarol, 3
+
+Montevideo Wanderers, 4
+Progreso, 2
+
+Cerro, 0
+Cerro Largo, 1
+
+Brøndby IF, 0
+Dynamo Kyiv, 4
+
+SV Wehen Wiesbaden, 1
+FC Gießen, 1
+
+SSV Jahn Regensburg, 2
+SC Eltersdorf, 2
+
+TSV Sasel, 3
+SV Todesfelde, 3
+
+Bohemians Praha 1905, 4
+AS Trenčín, 0
+
+H&W Welders, 0
+Glentoran FC, 2
+
+CSKA Sofia, 1
+SC Gjilani, 0
+
+FC Hradec Králové, 0
+FC Silon Táborsko, 0
+
+NŠ Mura, 0
+Zorya Luhansk, 0
+
+Zagłębie Lubin II, 2
+Miedź Legnica II, 0
+
+FK Sloga Doboj, 0
+OFK Petrovac, 0
+
+FC Koper, 2
+NK Istra 1961, 2
+
+FK Napredak Kruševac, 0
+FK Radnik Surdulica, 0
+
+Montañeses FC, 4
+Alebrijes de Oaxaca, 5
+
+Atlante FC, 0
+CDS Tampico Madero, 2
+
+FC Spartak Moscow, 3
+Nasaf Qarshi, 0

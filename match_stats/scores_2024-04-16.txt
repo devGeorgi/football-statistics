@@ -1,0 +1,266 @@
+Barcelona, 1
+Paris Saint-Germain, 4
+
+Borussia Dortmund, 4
+Atlético Madrid, 2
+
+Famalicão, 0
+Sporting, 1
+
+Bahia, 2
+Fluminense, 1
+
+Ulsan HD, 1
+Yokohama F. Marinos, 0
+
+Belgrano, 0
+Racing Club, 4
+
+Boca Juniors, 1
+Godoy Cruz, 0
+
+Defensa y Justicia, 1
+Newell's Old Boys, 0
+
+Lanús, 1
+Estudiantes de La Plata, 2
+
+Southampton, 3
+Preston North End, 0
+
+Envigado FC, 0
+Deportes Tolima, 2
+
+Jaguares de Córdoba, 1
+Deportivo Cali, 1
+
+Once Caldas, 0
+Independiente Santa Fe, 1
+
+Bolton Wanderers, 2
+Shrewsbury Town, 2
+
+Bristol Rovers, 1
+Cambridge United, 0
+
+Burton Albion, 1
+Cheltenham Town, 2
+
+Oxford United, 0
+Lincoln City, 1
+
+Peterborough United, 4
+Fleetwood Town, 1
+
+Port Vale, 1
+Wycombe Wanderers, 2
+
+Portsmouth, 3
+Barnsley, 2
+
+Colchester United, 2
+Grimsby Town, 0
+
+Crawley Town, 1
+Barrow, 1
+
+Mansfield Town, 2
+Accrington Stanley, 1
+
+Notts County, 2
+Stockport County, 5
+
+Walsall, 2
+Swindon Town, 1
+
+KFUM Oslo, 1
+Strømsgodset, 3
+
+Al Shamal SC, 0
+Al-Wakrah, 0
+
+Al Markhiya, 3
+Al-Gharafa, 2
+
+Ajman, 0
+Al Bataeh, 0
+
+Al-Jazira, 0
+Khor Fakkan, 0
+
+CR Belouizdad, 1
+Paradou AC, 1
+
+JS Kabylie, 3
+MC Oran, 1
+
+Al-Ahed, 1
+Al-Nahda, 0
+
+Japan U23, 1
+China U23, 0
+
+South Korea U23, 1
+United Arab Emirates U23, 0
+
+Iraq U23, 0
+Thailand U23, 2
+
+Saudi Arabia U23, 4
+Tajikistan U23, 2
+
+FK Borac Banja Luka, 2
+NK Široki Brijeg, 1
+
+Deportivo Saprissa, 2
+Municipal Liberia, 2
+
+Oxford City, 1
+Bromley, 3
+
+Wealdstone, 0
+Eastleigh, 1
+
+Tallinna Kalev, 1
+FCI Levadia Tallinn, 2
+
+FC Gagra, 0
+Dinamo Tbilisi, 2
+
+FC Kolkheti-1913 Poti, 1
+FC Dila Gori, 3
+
+Dinamo Batumi, 3
+FC Samtredia, 1
+
+SpVgg Greuther Fürth II, 3
+FC Würzburger Kickers, 1
+
+Bali United FC, 0
+Bhayangkara Presisi Indonesia FC, 0
+
+Bhayangkara Presisi Indonesia FC, 7
+Persik Kediri, 0
+
+PSM Makassar, 3
+PSIS Semarang, 1
+
+Borneo FC Samarinda, 0
+Madura United FC, 4
+
+PSIS Semarang, 0
+RANS Nusantara FC, 0
+
+Wexford FC, 2
+Longford Town, 2
+
+Iwate Grulla Morioka, 0
+Cerezo Osaka, 1
+
+Vanraure Hachinohe, 1
+Kashima Antlers, 2
+
+Azul Claro Numazu, 1
+Hokkaido Consadole Sapporo, 3
+
+FC Imabari, 1
+Vissel Kobe, 2
+
+Giravanz Kitakyushu, 1
+Machida Zelvia, 2
+
+Iwaki FC, 0
+Albirex Niigata, 2
+
+Kagoshima United, 0
+Tokyo Verdy, 1
+
+Matsumoto Yamaga FC, 3
+Avispa Fukuoka, 5
+
+RB Omiya Ardija, 0
+Nagoya Grampus, 2
+
+V-Varen Nagasaki, 1
+Jubilo Iwata, 0
+
+Yokohama SCC, 0
+FC Tokyo, 4
+
+FK Tukums 2000, 2
+Riga FC, 1
+
+CSKA Moscow, 2
+Baltika Kaliningrad, 0
+
+Edinburgh City F.C., 1
+Montrose, 0
+
+MFK Ružomberok, 0
+ŠK Odeva Lipany, 1
+
+Chile U20, 1
+Bolivia U20, 0
+
+Colombia U20, 4
+Venezuela U20, 1
+
+Daegu FC, 1
+Cheongju FC, 2
+
+FC Anyang, 0
+Gimpo FC, 1
+
+FC Mokpo, 1
+Bucheon FC 1995, 2
+
+Gangwon FC, 3
+Hwaseong FC, 1
+
+Gimcheon Sangmu FC, 3
+Busan I Park, 2
+
+Gimpo FC, 0
+FC Anyang, 0
+
+Gyeongnam FC, 1
+Jeonnam Dragons, 0
+
+Incheon United, 1
+Gimhae City FC, 0
+
+Jeju SK, 6
+Cheonan City FC, 5
+
+Jinju Citizen FC, 0
+Daejeon Hana Citizen, 2
+
+Seongnam FC, 1
+Suwon FC, 0
+
+Seoul E-Land FC, 0
+FC Seoul, 1
+
+Östers IF, 2
+Örebro SK, 0
+
+Charlotte Independence, 9
+Rhode Island FC, 8
+
+Detroit City FC, 1
+Michigan Stars, 0
+
+Louisville City FC, 3
+Greenville Triumph SC, 1
+
+New Mexico United, 3
+Lubbock Matadors SC, 1
+
+Oakland Roots SC, 2
+El Farolito, 1
+
+Montevideo Wanderers, 2
+Liverpool UY, 3
+
+Miramar Misiones, 1
+Nacional, 2

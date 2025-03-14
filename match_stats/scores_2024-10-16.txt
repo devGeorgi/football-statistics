@@ -1,0 +1,101 @@
+Fortaleza, 1
+Atlético Mineiro, 1
+
+São Paulo, 3
+Vasco da Gama, 0
+
+Juventus, 0
+FC Bayern München, 2
+
+Arsenal Women, 4
+Vålerenga, 1
+
+SKN St. Pölten, 2
+Manchester City W.F.C., 3
+
+Barcelona, 9
+Hammarby IF, 0
+
+Chapecoense, 3
+Santos, 2
+
+Sport Recife, 1
+Operário-PR, 2
+
+Unión La Calera, 0
+Colo Colo, 1
+
+Millonarios, 2
+Fortaleza CEIF, 1
+
+Nacional Asunción, 0
+CS 2 de Mayo, 0
+
+El Paso Locomotive FC, 0
+Orange County SC, 2
+
+Igman Konjic, 0
+FK Borac Banja Luka, 4
+
+HŠK Zrinjski Mostar, 2
+FK Radnik Bijeljina, 0
+
+Huachipato, 1
+Deportes Puerto Montt, 0
+
+Real Santander, 0
+Llaneros FC, 4
+
+Tigres FC, 2
+Unión Magdalena, 1
+
+Boca Juniors de Cali, 2
+Atlético Cali, 0
+
+Leones FC, 1
+Real Cundinamarca, 0
+
+Municipal Pérez Zeledón, 3
+Santos de Guápiles, 1
+
+LD Alajuelense, 2
+Municipal Liberia, 2
+
+Puntarenas FC, 0
+Herediano, 2
+
+Eintracht Norderstedt, 0
+Hamburger SV II U23, 1
+
+Dewa United FC, 2
+Persik Kediri, 3
+
+Astana, 3
+Shakhter Karagandy, 0
+
+Correcaminos UAT, 1
+Cancún FC, 3
+
+Racing de Montevideo, 2
+Rampla Juniors, 1
+
+Danubio, 0
+Peñarol, 1
+
+Boston River, 1
+Progreso, 0
+
+River Plate UY, 0
+Defensor Sporting, 1
+
+New Zealand U17, 1
+Nigeria U17, 4
+
+Dominican Republic U17, 0
+Ecuador U17, 2
+
+Spain U17, 3
+USA U17, 1
+
+South Korea U17, 1
+Colombia U17, 1

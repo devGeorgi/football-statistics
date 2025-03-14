@@ -1,0 +1,155 @@
+FK Crvena zvezda, 1
+Benfica, 2
+
+Feyenoord, 0
+Bayer 04 Leverkusen, 4
+
+AS Monaco, 2
+Barcelona, 1
+
+Atalanta, 0
+Arsenal, 0
+
+Atlético Madrid, 2
+RB Leipzig, 1
+
+Stade Brestois, 2
+SK Sturm Graz, 1
+
+Leganés, 0
+Athletic Club, 2
+
+Flamengo, 0
+Peñarol, 1
+
+Athletico, 1
+Racing Club, 0
+
+Libertad, 0
+Cruzeiro, 2
+
+Trabzonspor, 2
+Kayserispor, 2
+
+Feyenoord U19, 1
+Bayer Leverkusen U19, 2
+
+Stade Brestois U19, 1
+SK Sturm Graz U19, 4
+
+Atalanta U19, 4
+Arsenal U19, 1
+
+AS Monaco U19, 4
+Barcelona U19, 3
+
+Atlético Madrid U19, 4
+RB Leipzig U19, 0
+
+Bologna U19, 3
+Shakhtar Donetsk U19, 4
+
+Sporting CP, 1
+Real Madrid, 2
+
+Galatasaray Istanbul, 2
+SK Slavia Praha, 2
+
+SKN St. Pölten, 3
+ŽNK Mura, 0
+
+CRB, 0
+Ponte Preta, 1
+
+Botafogo-SP, 0
+Santos, 1
+
+Meizhou Hakka, 1
+Beijing Guoan, 3
+
+Bengaluru FC, 3
+Hyderabad FC, 0
+
+Unión Comercio, 1
+Alianza Atlético de Sullana, 2
+
+Los Chankas CYC, 1
+Universidad Técnica de Cajamarca, 1
+
+Carlos A. Mannucci, 1
+Melgar, 1
+
+Al-Okhdood, 0
+Al-Qadsiah, 0
+
+Al-Orobah, 1
+Al-Fateh, 0
+
+Al-Hilal, 0
+Al-Ittihad, 0
+
+Al-Wehda, 0
+Al-Kholood, 1
+
+BK Häcken, 1
+Djurgårdens IF, 2
+
+IF Elfsborg, 2
+IFK Norrköping, 2
+
+Al-Ittihad Kalba, 0
+Al-Ain, 0
+
+ES Sétif, 1
+MC El Bayadh, 0
+
+Talleres Remedios de Escalada, 0
+Huracán, 1
+
+Lion City Sailors, 2
+Zhejiang, 0
+
+Persib Bandung, 0
+Port FC, 1
+
+DH Cebu FC, 0
+Jeonbuk Hyundai Motors, 6
+
+Lokomotiv Plovdiv, 0
+FC CSKA 1948 Sofia, 2
+
+Municipal Pérez Zeledón, 0
+CS Cartaginés, 0
+
+Sporting FC, 0
+LD Alajuelense, 1
+
+FC Lahti, 2
+IFK Mariehamn, 1
+
+PSS Sleman, 3
+Arema FC, 1
+
+Riga FC, 1
+Valmiera FC, 0
+
+Club Atlético Morelia, 0
+Celaya FC, 0
+
+FC Bihor Oradea, 0
+Steaua București, 1
+
+Albirex Niigata Singapore, 4
+Tanjong Pagar United, 1
+
+Degerfors IF, 1
+Gefle IF, 0
+
+Helsingborgs IF, 0
+IK Oddevold, 0
+
+Örgryte IS, 2
+Landskrona BoIS, 1
+
+Rosengård, 4
+Växjö DFF, 0

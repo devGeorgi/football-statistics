@@ -124,9 +124,6 @@ Pumas UNAM, 1
 NK Varaždin, 0
 NK Slaven Belupo, 1
 
-NK Osijek, 0
-HNK Rijeka, 2
-
 FK Radnički 1923, 1
 FK Mladost Lučani, 0
 
@@ -289,12 +286,6 @@ CFR 1907 Cluj, 1
 FC Gloria Buzău, 0
 FCSB, 2
 
-Yverdon-Sport FC, 1
-FC St. Gallen 1879, 0
-
-Basel, 1
-FC Lausanne-Sport, 1
-
 Grasshopper Club Zürich, 1
 Servette FC, 2
 
@@ -388,9 +379,6 @@ San Telmo, 1
 Deportivo Morón, 2
 Central Norte de Salta, 0
 
-Temperley, 2
-Mitre, 0
-
 Estudiantes de Río Cuarto, 1
 Gimnasia Jujuy, 1
 
@@ -429,9 +417,6 @@ Athletic Club, 0
 
 Uberlândia EC, 0
 Betim Futebol, 0
-
-Treze, 0
-Sousa EC, 0
 
 Nacional de Patos, 3
 Auto Esporte Clube, 1
@@ -496,12 +481,6 @@ TSV 1860 München, 2
 Hamburger SV II U23, 1
 SV Werder Bremen II U23, 4
 
-FC St Pauli II U23, 0
-TSV Havelse, 0
-
-SV Todesfelde, 0
-Eintracht Norderstedt, 0
-
 Holstein Kiel II U23, 1
 VfB Lübeck, 1
 
@@ -522,9 +501,6 @@ Young Apostles FC, 0
 
 Asante Kotoko SC, 0
 Berekum Chelsea, 0
-
-Dreams, 0
-Bechem United, 0
 
 Karela United, 0
 Legon Cities, 0
@@ -664,9 +640,6 @@ Marítimo, 0
 Atletico CP, 0
 Sporting CP B, 0
 
-Oliveira Hospital, 1
-SC Lusitânia, 1
-
 AD Sanjoanense, 1
 Anadia, 1
 
@@ -722,7 +695,7 @@ IF Elfsborg, 3
 Örgryte IS, 1
 
 Progreso, 1
-Club Nacional, 5
+Nacional, 5
 
 Miramar Misiones, 1
 Juventud de Las Piedras, 2

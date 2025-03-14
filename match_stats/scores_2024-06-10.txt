@@ -1,0 +1,104 @@
+Japan, 5
+Syria, 0
+
+South Korea, 1
+China, 0
+
+Guinea-Bissau, 1
+Egypt, 1
+
+Burkina Faso, 2
+Sierra Leone, 2
+
+Benin, 2
+Nigeria, 1
+
+Somalia, 1
+Botswana, 3
+
+Uganda, 1
+Algeria, 2
+
+Guinea, 0
+Mozambique, 1
+
+Equatorial Guinea, 1
+Malawi, 0
+
+Ghana, 4
+Central African Republic, 3
+
+Vila Nova FC, 3
+Ceará, 2
+
+Sport Recife, 1
+Paysandu SC, 0
+
+Ñublense, 0
+Huachipato, 0
+
+Czechia, 2
+North Macedonia, 1
+
+Netherlands, 4
+Iceland, 0
+
+Poland, 2
+Türkiye, 1
+
+Mongolia, 2
+Cambodia, 1
+
+Atlético de Rafaela, 0
+Estudiantes de Río Cuarto, 1
+
+CSA, 1
+EC São José, 1
+
+Floresta, 1
+Confiança, 0
+
+Ypiranga FC, 1
+Tombense, 0
+
+Santiago Morning, 2
+Deportes Recoleta, 1
+
+Atlético Huila, 4
+Tigres FC, 0
+
+Real Cartagena, 2
+Orsomarso, 0
+
+Cúcuta Deportivo, 2
+Unión Magdalena, 1
+
+Llaneros FC, 2
+Deportes Quindío, 0
+
+Vålerenga IF II, 0
+Follo, 3
+
+Kazakhstan U19, 0
+Türkiye U19, 3
+
+Georgia U19, 2
+North Macedonia U19, 0
+
+Moldova U19, 1
+Azerbaijan U19, 1
+
+Northern Ireland U19, 1
+Slovakia U19, 1
+
+Uzbekistan U23, 1
+Mali U23, 2
+
+Argentina U23, 2
+Paraguay U23, 0
+
+Ukraine U23, 2
+Japan U19, 1
+
+Italy U21, 6
+Panama U23, 3

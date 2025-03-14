@@ -58,9 +58,6 @@ Palmeiras, 2
 Pharco FC, 1
 Al Ahly FC, 1
 
-Ceramica Cleopatra, 1
-Al-Ittihad Alexandria, 1
-
 ZED FC, 0
 Pyramids FC, 1
 
@@ -213,9 +210,6 @@ CS Sfaxien, 1
 
 Espérance Tunis, 1
 Olympique Béja, 1
-
-Sông Lam Nghệ An, 1
-Becamex Bình Dương, 0
 
 Besa 1976, 4
 FK Arsimi 1973, 2

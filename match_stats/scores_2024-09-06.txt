@@ -1,0 +1,353 @@
+Belgium, 3
+Israel, 1
+
+France, 1
+Italy, 3
+
+Kazakhstan, 0
+Norway, 0
+
+Slovenia, 1
+Austria, 1
+
+Iceland, 2
+Montenegro, 0
+
+Wales, 0
+Türkiye, 0
+
+Lithuania, 0
+Cyprus, 1
+
+Kosovo, 0
+Romania, 3
+
+Uruguay, 0
+Paraguay, 0
+
+Brazil, 1
+Ecuador, 0
+
+Peru, 1
+Colombia, 1
+
+Morocco, 4
+Gabon, 1
+
+Egypt, 3
+Cape Verde, 0
+
+Togo, 1
+Liberia, 1
+
+Sierra Leone, 0
+Chad, 0
+
+Côte d'Ivoire, 2
+Zambia, 0
+
+DR Congo, 1
+Guinea, 0
+
+Mali, 1
+Mozambique, 1
+
+Kenya, 0
+Zimbabwe, 0
+
+South Africa, 2
+Uganda, 2
+
+Senegal, 1
+Burkina Faso, 1
+
+Dinamo Minsk FC, 3
+Spartak Myjava, 2
+
+Klaksvíkar Ítrottarfelag, 0
+FC Nordsjælland, 2
+
+KuPS, 6
+Agarista SS Anenii Noi, 0
+
+Brøndby IF, 2
+WFC Kolos Kovalivka, 1
+
+MS Kiryat Gat, 0
+Pogoń Szczecin, 1
+
+SFK Rīga, 6
+Flora Tallinn Women, 7
+
+ZFK Ljuboten, 2
+Cardiff City FC, 0
+
+Atlético Madrid, 3
+Rangers LFC, 0
+
+Linköpings FC, 8
+First Vienna, 0
+
+Racing FC Union Luxembourg, 2
+NSA Sofia, 0
+
+CD Tenerife, 0
+Racing de Santander, 1
+
+De Graafschap, 2
+FC Eindhoven, 0
+
+Junior Barranquilla, 0
+Deportivo Pereira, 0
+
+Bohemian FC, 1
+Shelbourne, 1
+
+Vancouver FC, 0
+York United FC, 1
+
+Louisville City FC, 1
+Loudoun United FC, 0
+
+New Mexico United, 1
+Miami FC, 0
+
+Phoenix Rising FC, 1
+FC Tulsa, 0
+
+Angel City FC, 2
+Seattle Reign FC, 3
+
+Espanyol, 0
+Real Madrid, 5
+
+Madrid CFF, 2
+Costa Adeje Tenerife, 1
+
+Brunei Darussalam, 3
+Macau, 0
+
+Favoritner AC, 2
+FCM Traiskirchen, 0
+
+SC Krems, 1
+SV Oberwart, 1
+
+SV Gloggnitz, 1
+FC Mauerwerk, 1
+
+Jiangxi Dingnan United, 0
+Shijiazhuang Gongfu, 1
+
+Jiangxi Lushan FC, 1
+Liaoning Tieren FC, 1
+
+Yunnan Yukun, 0
+Guangxi Pingguo Haliao, 0
+
+Real Cundinamarca, 1
+Llaneros FC, 1
+
+FC Helsingør, 0
+Skive, 1
+
+Nykøbing FC, 0
+Fremad Amager, 2
+
+Türkiye U21, 0
+Ireland U21, 1
+
+Scotland U21, 1
+Spain U21, 2
+
+Sweden U21, 9
+Gibraltar U21, 0
+
+Armenia U21, 1
+Finland U21, 3
+
+Romania U21, 1
+Montenegro U21, 0
+
+Switzerland U21, 1
+Albania U21, 2
+
+Ukraine U21, 2
+Serbia U21, 1
+
+Luxembourg U21, 2
+Azerbaijan U21, 0
+
+Northern Ireland U21, 0
+England U21, 0
+
+Bosnia & Herzegovina U21, 0
+Austria U21, 2
+
+France U21, 1
+Slovenia U21, 1
+
+Lithuania U21, 1
+Czechia U21, 2
+
+Iceland U21, 4
+Denmark U21, 2
+
+Aubagne FC, 3
+FC Versailles 78, 3
+
+Le Mans, 0
+Dijon, 0
+
+Nancy, 2
+FC Villefranche Beaujolais, 0
+
+Nîmes Olympique, 2
+FC Rouen, 2
+
+Paris 13 Atletico, 1
+Sochaux, 1
+
+Quevilly - Rouen Métropole, 0
+Bourg-en-Bresse, 0
+
+US Orléans, 2
+US Concarneau, 3
+
+Valenciennes, 3
+Châteauroux, 1
+
+Holstein Kiel II U23, 1
+1.FC Phönix Lübeck, 2
+
+SC Weiche Flensburg 08, 3
+FC Teutonia 05 Ottensen, 0
+
+TSV Aubstadt, 1
+1. FC Nürnberg II, 1
+
+1. FC Schweinfurt 05, 2
+Türkgücü München, 0
+
+FC Augsburg II, 0
+Bayern München II, 0
+
+Medeama, 0
+Accra Lions FC, 0
+
+CD Marquense, 0
+Cobán Imperial, 1
+
+Athlone Town, 1
+Finn Harps, 4
+
+Cobh Ramblers FC, 1
+Wexford FC, 2
+
+Longford Town, 1
+Bray Wanderers, 0
+
+Treaty United FC, 1
+Kerry FC, 1
+
+University College Dublin, 0
+Cork City, 1
+
+Shimizu S-Pulse, 1
+V-Varen Nagasaki, 1
+
+Ehime FC, 1
+Yokohama FC, 4
+
+Fujieda MYFC, 1
+Tochigi SC, 0
+
+JEF United Chiba, 4
+Mito Hollyhock, 0
+
+Kagoshima United, 1
+Iwaki FC, 3
+
+Oita Trinita, 0
+Montedio Yamagata, 3
+
+Renofa Yamaguchi FC, 1
+Tokushima Vortis, 2
+
+Thespa Gunma, 0
+Vegalta Sendai, 0
+
+Tepatitlán FC, 2
+Celaya FC, 1
+
+Mineros de Zacatecas, 3
+CD Tapatío, 1
+
+Club Atletico La Paz, 2
+CDS Tampico Madero, 1
+
+French Guiana, 0
+Nicaragua, 1
+
+Jamaica, 0
+Cuba, 0
+
+Honduras, 4
+Trinidad and Tobago, 0
+
+Saint Lucia, 2
+Curaçao, 1
+
+Saint Martin, 0
+Grenada, 2
+
+Sint Maarten, 2
+Aruba, 0
+
+Puerto Rico, 1
+Haiti, 4
+
+Strindheim, 0
+Strømmen IF, 1
+
+Ural Yekaterinburg, 1
+Rotor Volgograd, 1
+
+AFC Eskilstuna, 0
+United IK Nordic, 2
+
+FC Stockholm Internazionale, 1
+Örebro Syrianska BK, 0
+
+Umeå, 3
+Sollentuna FF, 1
+
+Tvååkers IF, 1
+FC Rosengård, 2
+
+Rosengård, 3
+IF Brommapojkarna, 0
+
+KF Vllaznia, 0
+FK Otrant-Olympic, 0
+
+Motor Lublin, 2
+Pogoń Siedlce, 0
+
+Wales U19, 2
+Turkmenistan U19, 2
+
+Türkiye U20, 1
+England U20, 1
+
+Australia U20, 0
+Cameroon U20, 2
+
+Mexico U20, 0
+Colombia U20, 1
+
+Canada U20, 0
+Brazil U20, 2
+
+Fiji U20, 0
+France U20, 11

@@ -1,0 +1,176 @@
+Atalanta, 3
+Bayer 04 Leverkusen, 0
+
+ADO Den Haag, 1
+Excelsior, 2
+
+Shanghai Port, 2
+Chengdu Rongcheng, 0
+
+Atlético Bucaramanga, 0
+Millonarios, 0
+
+Deportivo Pereira, 0
+Junior Barranquilla, 0
+
+Mushuc Runa, 2
+Universidad Católica del Ecuador, 1
+
+Barcelona SC, 2
+LDU, 0
+
+HNK Rijeka, 1
+GNK Dinamo Zagreb, 3
+
+Ternana, 1
+Napoli, 2
+
+Atlético Tucumán, 1
+Gimnasia y Esgrima, 2
+
+CD Real Tomayapo, 0
+FC Universitario de Vinto, 1
+
+Club Aurora, 1
+Bolívar, 1
+
+Blooming, 3
+Jorge Wilstermann, 0
+
+Atlético Goianiense, 4
+Brusque, 2
+
+Fluminense, 2
+Sampaio Corrêa, 0
+
+Vitória, 1
+Botafogo, 2
+
+Athletico, 0
+Ypiranga FC, 0
+
+Corinthians, 2
+América-RN, 1
+
+Sport Recife, 1
+Atlético Mineiro, 0
+
+Amazonas FC, 0
+Flamengo, 1
+
+FK Krumovgrad, 0
+Levski Sofia, 1
+
+Ludogorets, 3
+Lokomotiv Plovdiv, 0
+
+CF Montréal, 1
+Forge FC, 2
+
+LD Alajuelense, 1
+Deportivo Saprissa, 0
+
+Viktoria Plzeň, 1
+AC Sparta Praha, 2
+
+FCI Levadia Tallinn, 2
+Tallinna Kalev, 2
+
+Paide Linnameeskond, 0
+Nõmme Kalju, 2
+
+HJK, 1
+IF Gnistan, 0
+
+VPS, 1
+KuPS, 3
+
+Ilves, 3
+Inter Turku, 0
+
+JäPS, 2
+TPS, 1
+
+Accra Lions FC, 0
+Dreams, 0
+
+Dreams, 2
+Legon Cities, 0
+
+AS Anagennisi Karditsas 1904, 2
+PAOK B, 4
+
+FS Kozani, 4
+AEPS Aiolikos Mytilene, 1
+
+Iraklis 1908, 1
+Kampaniakos, 2
+
+L.R. Vicenza, 2
+Padova, 0
+
+Tikveš Kavadarci, 2
+Voska Sport, 1
+
+Bryne FK, 2
+Aalesunds FK, 0
+
+Egersund, 2
+Levanger, 2
+
+Kongsvinger, 3
+Mjøndalen, 2
+
+Ranheim IL, 3
+Stabæk Fotball, 0
+
+Sogndal IL, 1
+Raufoss, 1
+
+Åsane, 1
+Vålerenga IF, 5
+
+Sol de América, 6
+Tacuary, 3
+
+Sportivo Luqueño, 0
+Olimpia, 2
+
+Cerro Porteño, 2
+Guaraní, 0
+
+GIF Sundsvall, 0
+Sandvikens IF, 0
+
+Helsingborgs IF, 0
+Skövde AIK, 1
+
+Örgryte IS, 1
+Trelleborgs FF, 2
+
+Östers IF, 2
+Landskrona BoIS, 1
+
+Östersunds FK, 4
+Gefle IF, 3
+
+AS Soliman, 1
+Avenir Sportif De La Marsa, 0
+
+US Tataouine, 2
+US Ben Guerdane, 1
+
+Indy Eleven, 3
+Detroit City FC, 0
+
+FC Tampa Bay Rowdies, 1
+FC Dallas, 2
+
+Seattle Sounders FC, 2
+Phoenix Rising FC, 1
+
+VfL Germania 1894, 1
+Eintracht Frankfurt, 13
+
+North Macedonia U19, 2
+Montenegro U19, 1

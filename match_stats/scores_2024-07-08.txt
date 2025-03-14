@@ -1,0 +1,101 @@
+Avaí, 0
+Novorizontino, 1
+
+Amazonas FC, 1
+Vila Nova FC, 2
+
+Pharco FC, 2
+El Dakhlya, 0
+
+Al-Ittihad Alexandria, 0
+Pyramids FC, 4
+
+Al Ahly FC, 2
+Tala'ea El-Gaish, 0
+
+Kristiansund BK, 3
+Fredrikstad FK, 1
+
+Strømsgodset, 1
+Sandefjord Fotball, 1
+
+IFK Norrköping, 1
+Djurgårdens IF, 3
+
+Västerås SK, 1
+BK Häcken, 2
+
+Daegu FC, 0
+Incheon United, 0
+
+Gimcheon Sangmu FC, 2
+Suwon FC, 3
+
+Rosario Central, 0
+Barracas Central, 1
+
+Caxias, 2
+Remo, 4
+
+EC São José, 0
+Floresta, 0
+
+São Bernardo, 1
+Botafogo-PB, 0
+
+Oeste, 0
+São Caetano, 2
+
+Deportes Linares, 2
+Ñublense, 1
+
+AC Oulu, 1
+SJK, 2
+
+Inter Turku, 3
+FC Lahti, 0
+
+FH Hafnarfjörður, 1
+KA Akureyri, 1
+
+Grobiņas SC, 2
+FK Tukums 2000, 1
+
+SK Brann II, 0
+Kvik Halden, 3
+
+Viking FK II, 1
+Vard Haugesund, 3
+
+GFK Sloboda Užice, 1
+FK Mladost Lučani, 1
+
+Zorya Luhansk, 1
+HŠK Zrinjski Mostar, 2
+
+WSG Tirol, 0
+FC København, 5
+
+Zenit St. Petersburg, 1
+FK Crvena zvezda, 2
+
+Bangor FC, 4
+Knockbreda, 1
+
+Hitchin Town, 1
+Barnet, 3
+
+Steaua București, 2
+CSM Slatina, 1
+
+Rukh Lviv, 1
+HNK Hajduk Split, 3
+
+ŁKS Łódź, 0
+Puszcza Niepołomice, 0
+
+Jong Ajax, 5
+SC Telstar, 1
+
+Qarabağ, 1
+1. FC Kaiserslautern, 3

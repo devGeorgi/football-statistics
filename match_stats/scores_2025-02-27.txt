@@ -196,8 +196,5 @@ Polissya Zhytomyr, 0
 Quảng Nam, 1
 Hải Phòng, 2
 
-Hồng Lĩnh Hà Tĩnh, 0
-Đông Á Thanh Hóa, 0
-
 SC Röthis, 2
 RW Rankweil, 1

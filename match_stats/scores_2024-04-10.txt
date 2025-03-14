@@ -1,0 +1,203 @@
+Atlético Madrid, 2
+Borussia Dortmund, 1
+
+Paris Saint-Germain, 2
+Barcelona, 3
+
+Cerro Porteño, 1
+Alianza Lima, 0
+
+São Paulo, 2
+Cobresal, 0
+
+Barcelona SC, 2
+Talleres, 2
+
+Flamengo, 2
+Palestino, 0
+
+Independiente Del Valle, 2
+San Lorenzo, 0
+
+Atlético Mineiro, 2
+Rosario Central, 1
+
+Peñarol, 5
+Caracas F.C., 0
+
+Defensa y Justicia, 1
+Club Always Ready, 1
+
+Independiente Medellín, 4
+Universidad César Vallejo, 2
+
+Unión La Calera, 0
+Universidad Católica del Ecuador, 1
+
+Internacional, 0
+CD Real Tomayapo, 0
+
+Fortaleza, 5
+Nacional Potosí, 0
+
+Racing Club, 3
+Red Bull Bragantino, 0
+
+Birmingham City, 0
+Cardiff City, 1
+
+Bristol City, 5
+Blackburn Rovers, 0
+
+Ipswich Town, 0
+Watford, 0
+
+Hull City, 2
+Middlesbrough, 2
+
+Swansea City, 3
+Stoke City, 0
+
+West Bromwich Albion, 2
+Rotherham United, 0
+
+Meizhou Hakka, 0
+Qingdao Hainiu, 0
+
+Peterborough United, 3
+Port Vale, 0
+
+Punjab FC, 4
+East Bengal FC, 1
+
+CF Pachuca, 2
+Herediano, 1
+
+CF Monterrey, 3
+Inter Miami CF, 1
+
+Ferencváros TC, 2
+Diósgyőri VTK, 1
+
+Barracas Central, 4
+San Miguel, 2
+
+Club Atletico Colón, 0
+Los Andes, 0
+
+Sergipe, 1
+Confiança, 1
+
+Bahia, 3
+Náutico, 0
+
+Sport Recife, 2
+Ceará, 1
+
+Pafos FC, 2
+Apollon Limassol, 1
+
+Aris Limassol, 0
+Omonia Nicosia, 3
+
+FC Halifax Town, 0
+Oldham Athletic, 0
+
+1. FC Saarbrücken, 2
+SpVgg Unterhaching, 1
+
+Hamburger SV II U23, 2
+FC Teutonia 05 Ottensen, 2
+
+SSV Jeddeloh, 0
+TSV Havelse, 4
+
+Eintracht Norderstedt, 0
+Bremer SV, 0
+
+Accra Great Olympics, 1
+Bechem United, 1
+
+Berekum Chelsea, 3
+Dreams, 2
+
+Bibiani Gold Stars FC, 3
+Karela United, 2
+
+Bofoakwa Tano, 1
+Aduana Stars FC, 0
+
+Heart of Lions, 2
+Accra Lions FC, 0
+
+Legon Cities, 1
+Samartex, 1
+
+Medeama, 2
+Accra Hearts of Oak, 0
+
+Real Tamale United, 1
+Nations FC, 0
+
+Kampaniakos, 4
+PAOK B, 2
+
+CSD Municipal, 3
+Deportivo Malacateco, 0
+
+CSD Xelajú MC, 4
+Deportivo Achuapa, 1
+
+Churchill Brothers SC, 7
+Rajasthan United FC, 0
+
+Pro Sesto, 1
+L.R. Vicenza, 1
+
+FK Banga Gargždai, 0
+FK Sūduva Marijampolė, 0
+
+Šiauliai FA, 1
+FK Panevėžys, 1
+
+FK Kauno Žalgiris, 3
+Džiugas Telšiai, 0
+
+FK Žalgiris, 2
+FK Transinvest, 0
+
+Tlaxcala FC, 0
+Mineros de Zacatecas, 2
+
+Leones Negros, 3
+Tepatitlán FC, 2
+
+FK Partizan, 5
+FK Voždovac, 4
+
+FK Čukarički, 4
+FK Vojvodina, 5
+
+FK Crvena zvezda, 3
+OFK Vršac, 0
+
+NK Celje, 2
+NK Bravo, 1
+
+NK Domžale, 0
+NK Rogaška, 1
+
+NK Olimpija Ljubljana, 2
+Kalcer Radomlje, 2
+
+CS Sfaxien, 0
+Etoile Sportive Du Sahel, 0
+
+Club Africain, 0
+Stade Tunisien, 0
+
+US Monastir, 0
+Espérance Tunis, 0
+
+Zorya Luhansk, 0
+Shakhtar Donetsk, 0

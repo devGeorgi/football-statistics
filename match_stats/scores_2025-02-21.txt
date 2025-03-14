@@ -157,17 +157,11 @@ Bengaluru FC, 2
 Punjab FC, 1
 East Bengal FC, 3
 
-Derry City, 1
-Bohemian FC, 0
-
 Drogheda United, 3
 Sligo Rovers, 0
 
 Galway United, 2
 St. Patrick's Athletic, 1
-
-Waterford FC, 0
-Shelbourne, 1
 
 Kashiwa Reysol, 1
 Kawasaki Frontale, 1
@@ -235,12 +229,6 @@ Jeonnam Dragons, 2
 Incheon United, 2
 Gyeongnam FC, 0
 
-Ansan Greeners FC, 0
-Suwon Samsung Bluewings, 1
-
-Busan I Park, 0
-Gimpo FC, 0
-
 Nakhon Ratchasima Mazda FC, 2
 Sukhothai, 2
 
@@ -264,9 +252,6 @@ Jong KRC Genk U23, 1
 
 MTK Budapest, 4
 Diósgyőri VTK, 0
-
-Deportivo Riestra, 0
-Talleres, 0
 
 Estudiantes de La Plata, 3
 Central Córdoba, 2
@@ -352,9 +337,6 @@ Nõmme Kalju, 2
 Austria, 1
 Scotland, 0
 
-Netherlands, 2
-Germany, 2
-
 Switzerland, 0
 Iceland, 0
 
@@ -390,9 +372,6 @@ Finland, 0
 
 Belarus, 0
 Hungary, 2
-
-Albania, 1
-Ukraine, 2
 
 Croatia, 0
 Czechia, 4
@@ -489,9 +468,6 @@ Kerry FC, 0
 
 Finn Harps, 0
 Dundalk FC, 1
-
-University College Dublin, 0
-Bray Wanderers, 0
 
 Wexford FC, 0
 Longford Town, 0
@@ -630,9 +606,6 @@ Sông Lam Nghệ An, 1
 
 Bala Town, 0
 The New Saints, 2
-
-Haverfordwest County AFC, 1
-Cardiff Met FC, 0
 
 1. SK Prostějov, 4
 FK Pardubice B, 1

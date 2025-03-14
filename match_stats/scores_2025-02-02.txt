@@ -22,9 +22,6 @@ Athletic Club, 2
 Fiorentina, 2
 Genoa, 1
 
-Milan, 1
-Inter, 1
-
 Roma, 1
 Napoli, 1
 
@@ -208,9 +205,6 @@ MKS Korona Kielce, 1
 Bristol Rovers, 3
 Peterborough United, 1
 
-Ceramica Cleopatra, 0
-Smouha, 1
-
 Modern Sport FC, 1
 Al Ahly FC, 3
 
@@ -388,9 +382,6 @@ Curicó Unido, 2
 Jaguares de Córdoba, 1
 Real Cundinamarca, 1
 
-Herediano, 2
-Sporting FC, 0
-
 Puntarenas FC, 2
 Municipal Pérez Zeledón, 1
 
@@ -435,9 +426,6 @@ Basake Holy Stars FC, 1
 
 Karela United, 2
 Berekum Chelsea, 1
-
-Medeama, 1
-Legon Cities, 0
 
 Nations FC, 1
 Young Apostles FC, 2
@@ -581,7 +569,7 @@ Miramar Misiones, 0
 Plaza Colonia, 1
 
 Montevideo City Torque, 1
-Club Nacional, 0
+Nacional, 0
 
 Montevideo Wanderers, 0
 Racing de Montevideo, 0

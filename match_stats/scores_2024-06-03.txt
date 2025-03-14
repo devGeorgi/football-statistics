@@ -1,0 +1,125 @@
+Tunisia, 0
+Equatorial Guinea, 0
+
+San Lorenzo, 0
+Sarmiento, 1
+
+Defensa y Justicia, 0
+CA Independiente, 0
+
+Estudiantes de La Plata, 1
+Godoy Cruz, 1
+
+FK Javor Ivanjica, 1
+FK Tekstilac Odžaci, 1
+
+FK Železničar Pančevo, 2
+FK Inđija, 0
+
+Santos, 1
+Botafogo-SP, 2
+
+Operário-PR, 1
+Amazonas FC, 0
+
+Galway United, 0
+Shamrock Rovers, 0
+
+Sligo Rovers, 2
+Drogheda United, 1
+
+Bohemian FC, 0
+Shelbourne, 0
+
+St. Patrick's Athletic, 2
+Dundalk FC, 3
+
+Derry City, 3
+Waterford FC, 0
+
+Gibraltar, 0
+Scotland, 2
+
+Croatia, 3
+North Macedonia, 0
+
+Albania, 3
+Liechtenstein, 0
+
+England, 3
+Bosnia & Herzegovina, 0
+
+Germany, 0
+Ukraine, 0
+
+CS Constantine, 1
+USM Alger, 1
+
+Atlanta, 1
+Defensores Unidos, 1
+
+Agropecuario Argentino, 2
+All Boys, 1
+
+Volta Redonda, 2
+CSA, 1
+
+Botafogo-PB, 3
+Athletic Club, 1
+
+EC São José, 2
+Náutico, 0
+
+Deportes Limache, 2
+AC Barnechea, 2
+
+Rangers de Talca, 1
+Deportes Recoleta, 2
+
+Unión San Felipe, 0
+San Marcos de Arica, 2
+
+KR Reykjavík, 3
+Valur Reykjavík, 5
+
+Bray Wanderers, 3
+Cobh Ramblers FC, 1
+
+Cork City, 0
+University College Dublin, 0
+
+Finn Harps, 1
+Athlone Town, 1
+
+Kerry FC, 2
+Treaty United FC, 1
+
+Sol de América, 2
+Sportivo Ameliano, 1
+
+Assyriska FF, 1
+IFK Stocksund, 0
+
+Liverpool UY, 0
+Cerro, 3
+
+Danubio, 1
+Deportivo Maldonado, 1
+
+Japan, 4
+New Zealand, 1
+
+Morocco, 3
+DR Congo, 2
+
+Uruguay, 2
+Russia, 1
+
+Türkiye U21, 2
+Scotland U21, 1
+
+Korea Republic U21, 0
+Saudi Arabia U23, 2
+
+France U18, 0
+Côte d'Ivoire U23, 2

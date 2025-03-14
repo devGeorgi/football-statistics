@@ -1,0 +1,125 @@
+Chinese Taipei, 0
+Oman, 3
+
+Indonesia, 0
+Iraq, 2
+
+Bangladesh, 0
+Australia, 2
+
+Sierra Leone, 2
+Djibouti, 1
+
+Togo, 1
+South Sudan, 1
+
+Namibia, 1
+Liberia, 1
+
+Tunisia, 1
+Equatorial Guinea, 0
+
+Central African Republic, 1
+Chad, 0
+
+Juventude, 1
+Atlético Goianiense, 0
+
+Richards Bay FC, 1
+University of Pretoria FC, 0
+
+San Antonio FC, 0
+El Paso Locomotive FC, 1
+
+Chattanooga Red Wolves SC, 2
+Union Omaha SC, 5
+
+Slovakia, 4
+San Marino, 0
+
+Denmark, 2
+Sweden, 1
+
+Norway, 3
+Kosovo, 0
+
+Belgium, 2
+Montenegro, 0
+
+France, 3
+Luxembourg, 0
+
+Spain, 5
+Andorra, 0
+
+Mexico, 0
+Uruguay, 4
+
+Emirates Club, 2
+Al-Ain, 3
+
+Argentinos Juniors, 1
+Atlético de Rafaela, 0
+
+Arsenal de Sarandí, 1
+Vélez Sarsfield, 2
+
+Fortaleza, 2
+CRB, 0
+
+Santiago Wanderers, 6
+San Luis de Quillota, 0
+
+Italy U17, 3
+Portugal U17, 0
+
+TuS Bersenbrück, 2
+SC Weiche Flensburg 08, 2
+
+L.R. Vicenza, 0
+Carrarese, 0
+
+Antigua and Barbuda, 1
+Bermuda, 1
+
+Trinidad and Tobago, 2
+Grenada, 2
+
+Curaçao, 4
+Barbados, 1
+
+Nicaragua, 4
+Montserrat, 1
+
+Guatemala, 6
+Dominica, 0
+
+Suriname, 4
+Saint Vincent and the Grenadines, 1
+
+Egersund, 1
+Åsane, 0
+
+Sportivo Luqueño, 2
+Sportivo Trinidense, 6
+
+Nacional Asunción, 0
+Cerro Porteño, 2
+
+Olimpia, 1
+Libertad, 3
+
+Oskarshamns AIK, 1
+Jönköpings Södra, 2
+
+Torslanda IK, 1
+Ljungskile SK, 2
+
+Bosnia & Herzegovina U21, 2
+North Macedonia U21, 1
+
+Côte d'Ivoire U23, 2
+Korea Republic U21, 1
+
+Mexico U23, 2
+France U18, 2

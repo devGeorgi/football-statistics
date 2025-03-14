@@ -274,9 +274,6 @@ MKE Ankaragücü, 1
 Şanlıurfaspor, 1
 İstanbulspor, 0
 
-Maccabi Bney Reine, 1
-Hapoel Be'er Sheva, 0
-
 Hapoel Jerusalem, 4
 Ironi Tiberias, 0
 
@@ -319,9 +316,6 @@ Raków Częstochowa, 0
 Pogoń Szczecin, 1
 Zagłębie Lubin, 0
 
-Górnik Zabrze, 1
-Puszcza Niepołomice, 1
-
 Barnsley, 0
 Burton Albion, 0
 
@@ -333,9 +327,6 @@ Rotherham United, 1
 
 Blackpool, 2
 Charlton Athletic, 2
-
-Cambridge United, 1
-Wycombe Wanderers, 1
 
 Crawley Town, 1
 Wrexham, 2
@@ -442,9 +433,6 @@ Kaizer Chiefs, 0
 Stellenbosch, 1
 Sekhukhune United, 1
 
-Polokwane City, 1
-Chippa United, 0
-
 AmaZulu FC, 2
 Supersport United, 1
 
@@ -522,9 +510,6 @@ Diósgyőri VTK, 1
 
 Debreceni VSC, 3
 Nyiregyháza Spartacus, 1
-
-Olympique Akbou, 0
-USM Alger, 0
 
 Barracas Central, 1
 Banfield, 0
@@ -655,9 +640,6 @@ Dagenham & Redbridge, 1
 Eastleigh, 0
 Gateshead, 0
 
-FC Haka, 1
-Inter Turku, 2
-
 IF Gnistan, 3
 KTP, 0
 
@@ -712,17 +694,11 @@ Fortuna Düsseldorf II U23, 2
 SV Rödinghausen, 0
 FC Schalke 04 II U23, 0
 
-Sportfreunde Lotte, 2
-Turkspor Dortmund 2000, 0
-
 Wuppertaler SV, 1
 Eintracht Hohkeppel, 1
 
 AO Kavala, 0
 GS Diagoras Rodou, 0
-
-AS Makedonikos Neapolis, 0
-Niki Volou, 0
 
 Ethnikos Neou Keramidiou, 2
 PAOK B, 3
@@ -874,9 +850,6 @@ Queen's Park FC, 1
 Dunfermline Athletic, 3
 Raith Rovers, 1
 
-Hamilton Academical, 0
-Ayr United, 2
-
 Partick Thistle, 2
 Greenock Morton, 2
 
@@ -886,17 +859,11 @@ Arbroath, 1
 Dumbarton, 1
 Alloa Athletic, 1
 
-Inverness Caledonian Thistle, 1
-Queen of The South, 0
-
 Kelty Hearts F.C., 1
 Annan Athletic, 3
 
 Montrose, 0
 Stenhousemuir, 3
-
-Bonnyrigg Rose, 2
-Clyde FC, 1
 
 Edinburgh City F.C., 4
 Stirling Albion, 3

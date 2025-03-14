@@ -1,0 +1,215 @@
+Eintracht Frankfurt, 1
+RFS, 0
+
+FC Midtjylland, 1
+Royale Union Saint-Gilloise, 0
+
+Ferencváros TC, 1
+Nice, 0
+
+Maccabi Tel Aviv, 1
+Real Sociedad, 2
+
+PAOK, 2
+Viktoria Plzeň, 2
+
+Qarabağ, 0
+AFC Ajax, 3
+
+Roma, 1
+Dynamo Kyiv, 0
+
+Athletic Club, 1
+SK Slavia Praha, 0
+
+FC Porto, 2
+TSG Hoffenheim, 0
+
+FC Twente, 0
+Lazio, 2
+
+Fenerbahçe, 1
+Manchester United, 1
+
+Malmö FF, 0
+Olympiacos FC, 1
+
+Olympique Lyonnais, 0
+Beşiktaş, 1
+
+RSC Anderlecht, 2
+Ludogorets, 0
+
+Rangers, 4
+FCSB, 0
+
+Tottenham Hotspur, 1
+AZ Alkmaar, 0
+
+Víkingur Reykjavík, 3
+Cercle Brugge, 1
+
+APOEL Nicosia, 0
+FK Borac Banja Luka, 1
+
+Djurgårdens IF, 1
+Vitória SC, 2
+
+FC St. Gallen 1879, 2
+Fiorentina, 4
+
+Heart of Midlothian, 2
+Omonia Nicosia, 0
+
+Jagiellonia Białystok, 2
+FC Petrocub Hîncesti, 0
+
+KAA Gent, 2
+Molde FK, 1
+
+Larne FC, 1
+Shamrock Rovers, 4
+
+NK Celje, 5
+Başakşehir FK, 1
+
+Panathinaikos, 1
+Chelsea, 4
+
+SK Rapid Wien, 1
+FC Noah, 0
+
+FK TSC Bačka Topola, 0
+Legia Warszawa, 3
+
+HJK, 1
+Dinamo Minsk, 0
+
+Mladá Boleslav, 0
+FC Lugano, 1
+
+NK Olimpija Ljubljana, 2
+LASK, 0
+
+Pafos FC, 0
+1. FC Heidenheim, 1
+
+Real Betis, 1
+FC København, 1
+
+The New Saints, 2
+Astana, 0
+
+Corinthians, 2
+Racing Club, 2
+
+Vasco da Gama, 1
+Cuiabá, 0
+
+Almería, 3
+Albacete Balompié, 1
+
+Levante UD, 2
+Deportivo La Coruña, 1
+
+Burgos Club de Fútbol, 1
+Racing de Ferrol, 1
+
+CD Tenerife, 0
+Málaga, 0
+
+Sporting Gijón, 2
+Huesca, 1
+
+Sport Recife, 4
+Guarani, 0
+
+Macarthur FC, 1
+Newcastle Jets, 2
+
+Envigado FC, 3
+Rionegro Águilas Doradas, 0
+
+Chennaiyin FC, 2
+FC Goa, 2
+
+Athlone Town, 1
+Wexford FC, 0
+
+Bray Wanderers, 2
+University College Dublin, 0
+
+Comerciantes Unidos, 0
+Sport Boys, 0
+
+Al-Orobah, 0
+Al-Shabab, 3
+
+Al-Riyadh, 0
+Al-Ittihad, 1
+
+Al-Wehda, 1
+Al-Khaleej, 3
+
+MC Alger, 0
+Olympique Akbou, 0
+
+Huracán, 1
+Central Córdoba, 2
+
+Kaya-Iloilo, 1
+Eastern SC, 2
+
+Persib Bandung, 1
+Lion City Sailors, 1
+
+Port FC, 1
+Zhejiang, 0
+
+Tampines Rovers, 3
+Nam Định, 3
+
+Club Always Ready, 1
+Jorge Wilstermann, 0
+
+Nacional Potosí, 3
+Guabirá, 0
+
+Slavia Sofia, 3
+Lokomotiv Sofia, 2
+
+CSKA Sofia, 2
+Botev Vratsa, 0
+
+Arda Kardzhali, 2
+FK Septemvri Sofia, 1
+
+Colo Colo, 0
+Deportes Magallanes, 0
+
+Pyramids FC, 7
+Ceramica Cleopatra, 6
+
+Zamalek SC, 6
+Al Ahly FC, 7
+
+Semen Padang FC, 1
+Dewa United FC, 8
+
+Al Naft SC, 2
+Naft Al-Basra SC, 0
+
+Al Talaba, 2
+Al Karma SC, 0
+
+Al Karkh, 0
+Naft Missan, 2
+
+Newroz SC, 2
+Al Najaf, 1
+
+Correcaminos UAT, 0
+CD Tapatío, 3
+
+USA, 3
+Iceland, 1

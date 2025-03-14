@@ -25,9 +25,6 @@ Ipswich Town, 5
 Esteghlal FC, 0
 Al-Nassr, 0
 
-Al Wasl, 1
-Al-Sadd, 1
-
 FK Jedinstvo Ub, 4
 FK TSC Bačka Topola, 1
 
@@ -87,9 +84,6 @@ El Gouna FC, 0
 
 Chennaiyin FC, 0
 NorthEast United, 3
-
-Bohemian FC, 0
-Drogheda United, 1
 
 Galway United, 1
 Shelbourne, 1
@@ -177,9 +171,6 @@ UD Oliveirense, 1
 
 SC Braga, 2
 Racing Power Football Club, 0
-
-Estoril Praia U23, 0
-Sporting U23, 0
 
 Leixoes SC U23, 0
 Santa Clara U23, 0

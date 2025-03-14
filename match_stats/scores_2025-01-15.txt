@@ -34,9 +34,6 @@ Leganés, 3
 Pontevedra CF, 0
 Getafe, 1
 
-Barcelona, 5
-Real Betis, 1
-
 Elche, 0
 Atlético Madrid, 4
 
@@ -90,9 +87,6 @@ EC Noroeste, 2
 
 Novorizontino, 0
 Ponte Preta, 1
-
-Guarani, 2
-Botafogo-SP, 0
 
 Palmeiras, 2
 Portuguesa, 0

@@ -61,9 +61,6 @@ NAC Breda, 0
 AZ Alkmaar, 2
 PEC Zwolle, 0
 
-SC Heerenveen, 3
-FC Twente, 3
-
 Alanyaspor, 0
 Fenerbahçe, 2
 
@@ -133,9 +130,6 @@ Swansea City, 1
 Elche, 2
 CD Tenerife, 0
 
-Burgos Club de Fútbol, 2
-Racing de Santander, 1
-
 Córdoba, 1
 Huesca, 2
 
@@ -198,12 +192,6 @@ FC Blau Weiss Linz, 0
 
 Hapoel Ironi Kiryat Shmona, 1
 Maccabi Tel Aviv, 2
-
-Envigado FC, 0
-Independiente Medellín, 1
-
-Once Caldas, 2
-Atlético Bucaramanga, 1
 
 Fortaleza CEIF, 1
 Deportivo Cali, 0
@@ -286,9 +274,6 @@ SK Beveren, 2
 KSC Lokeren-Temse, 0
 RAAL La Louvière, 5
 
-Fiorentina, 0
-AS Roma, 0
-
 Milan, 0
 Juventus, 6
 
@@ -339,9 +324,6 @@ Talleres Remedios de Escalada, 0
 
 Gimnasia Jujuy, 0
 Defensores de Belgrano, 0
-
-Almirante Brown, 1
-Deportivo Morón, 1
 
 Mitre, 0
 Defensores Unidos, 1
@@ -409,23 +391,11 @@ FK Hebar Pazardzhik, 1
 Levski Sofia, 2
 Ludogorets, 1
 
-Deportes Iquique, 2
-Cobreloa, 0
-
 Deportes Limache, 1
 Santiago Wanderers, 2
 
 Colo Colo, 4
 Unión San Felipe, 0
-
-Deportes La Serena, 2
-San Marcos de Arica, 1
-
-O'Higgins, 0
-Huachipato, 0
-
-Deportes Recoleta, 0
-Deportes Magallanes, 1
 
 Cúcuta Deportivo, 1
 Internacional de Palmira, 1
@@ -571,9 +541,6 @@ Zabbar Saint Patrick FC, 0
 Floriana FC, 2
 Marsaxlokk FC, 1
 
-Renaissance Zemamra, 1
-Raja Club Athletic, 2
-
 Fath Union Sport, 0
 RS Berkane, 1
 
@@ -582,9 +549,6 @@ Hassania d'Agadir, 0
 
 Cliftonville FC, 2
 Portadown FC, 2
-
-Sportivo Luqueño, 0
-Olimpia, 1
 
 Guaraní, 0
 Libertad, 1
@@ -628,7 +592,7 @@ Danubio, 2
 Boston River, 0
 Montevideo City Torque, 0
 
-Club Nacional, 1
+Nacional, 1
 Peñarol, 1
 
 Yaracuyanos FC, 0

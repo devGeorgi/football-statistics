@@ -160,9 +160,6 @@ Rochdale, 0
 Woking, 1
 Solihull Moors, 0
 
-Viktoria Berlin, 0
-VFC Plauen, 0
-
 Cagliari U20, 1
 Milan U20, 1
 
@@ -183,9 +180,6 @@ ES Zarzis, 2
 
 Stade Tunisien, 1
 Etoile Sportive Du Sahel, 3
-
-US Tataouine, 2
-US Ben Guerdane, 1
 
 Thể Công - Viettel, 2
 Công An Hà Nội, 1

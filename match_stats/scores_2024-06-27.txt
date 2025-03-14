@@ -1,0 +1,98 @@
+Panama, 2
+USA, 1
+
+Uruguay, 5
+Bolivia, 0
+
+Fluminense, 0
+Vitória, 1
+
+São Paulo, 2
+Criciúma, 1
+
+El Gouna FC, 0
+Modern Sport FC, 2
+
+Ismaily, 0
+Al-Masry, 1
+
+ZED FC, 4
+Tala'ea El-Gaish, 1
+
+Sandefjord Fotball, 1
+HamKam, 2
+
+Lillestrøm SK, 2
+KFUM Oslo, 1
+
+Valour FC, 1
+York United FC, 0
+
+Pacific FC, 1
+Vancouver FC, 2
+
+Confiança, 0
+CSA, 1
+
+Deportes Magallanes, 4
+Curicó Unido, 0
+
+IF Vestri, 1
+Fram Reykjavík, 3
+
+KR Reykjavík, 2
+Fylkir Reykjavík, 2
+
+Stjarnan Garðabær, 0
+Víkingur Reykjavík, 4
+
+Grobiņas SC, 3
+BFC Daugava Daugavpils, 0
+
+Geylang International, 1
+Lion City Sailors, 1
+
+Täby FK, 1
+Karlbergs BK, 2
+
+Norrby IF, 3
+Ljungskile SK, 0
+
+Piteå IF, 5
+AIK, 3
+
+Union Omaha SC, 4
+Chattanooga Red Wolves SC, 2
+
+GKS Tychy, 2
+Rekord Bielsko-Biała, 1
+
+FK Borac Banja Luka, 2
+FC Corvinul Hunedoara, 0
+
+Ferencváros TC, 4
+Sepsi OSK, 4
+
+FC Koper, 4
+Brinje Grosuplje, 3
+
+Tikveš Kavadarci, 2
+KF Llapi, 1
+
+ASC Dortmund, 1
+SC Wiedenbrück, 4
+
+1. FC 1906 Erlensee, 1
+SC 1960 Hanau, 5
+
+Cliftonville FC, 1
+The New Saints, 5
+
+Club Sporting Cristal, 1
+Atlético Nacional, 3
+
+FK Radnički 1923, 3
+FK Radnički Niš, 0
+
+AZ Alkmaar, 6
+AEK Athens, 0

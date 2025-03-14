@@ -25,17 +25,11 @@ Bodrum FK, 1
 Hatayspor, 2
 Antalyaspor, 3
 
-Oud-Heverlee Leuven, 1
-KV Mechelen, 0
-
 Mazatlán FC, 1
 Club León, 2
 
 Club Tijuana, 2
 Cruz Azul, 3
-
-NK Istra 1961, 0
-HNK Gorica, 0
 
 FK Napredak Kruševac, 1
 FK Vojvodina, 1
@@ -183,9 +177,6 @@ Dibba Al-Hisn, 0
 
 Al-Jazira, 0
 Baniyas, 1
-
-Al-Nasr Dubai, 2
-Al-Orooba, 1
 
 KMSK Deinze, 0
 KSC Lokeren-Temse, 0

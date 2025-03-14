@@ -1,0 +1,242 @@
+Mallorca, 0
+Athletic Club, 0
+
+AVS - Futebol SAD, 0
+FC Porto, 5
+
+Cuiabá, 0
+Corinthians, 1
+
+Vasco da Gama, 3
+Bahia, 2
+
+Başakşehir FK, 1
+Eyüpspor, 1
+
+Galatasaray, 2
+Beşiktaş, 1
+
+Gimnasia y Esgrima, 2
+Club Atlético Unión de Santa Fe, 3
+
+Huracán, 0
+Central Córdoba, 0
+
+Seattle Sounders FC, 5
+Houston Dynamo, 4
+
+Racing de Ferrol, 1
+CD Tenerife, 1
+
+Coritiba, 2
+CRB, 1
+
+Ituano, 0
+Santos, 2
+
+América Mineiro, 2
+Sport Recife, 1
+
+Manisa FK, 0
+Esenler Erokspor, 1
+
+Beitar Jerusalem, 3
+Maccabi Tel Aviv, 1
+
+Maccabi Netanya, 0
+Hapoel Haifa, 3
+
+Maccabi Haifa, 4
+Hapoel Hadera, 2
+
+Independiente Medellín, 4
+Jaguares de Córdoba, 1
+
+Randers FC, 4
+FC Nordsjælland, 0
+
+Blackpool, 2
+Wigan Athletic, 2
+
+Guaraní, 2
+Sportivo Luqueño, 2
+
+Imbabura Sporting Club, 0
+Técnico Universitario, 6
+
+Wexford FC, 0
+Athlone Town, 0
+
+University College Dublin, 1
+Bray Wanderers, 0
+
+Bodø/Glimt, 2
+Rosenborg BK, 3
+
+Alianza Atlético de Sullana, 1
+Los Chankas CYC, 0
+
+Comerciantes Unidos, 0
+Asociación Deportiva Tarma, 0
+
+Cusco FC, 0
+Club Atlético Grau, 1
+
+FC Botoșani, 1
+FC Universitatea Cluj, 2
+
+FC Farul Constanța, 3
+Universitatea Craiova, 2
+
+Djurgårdens IF, 2
+Västerås SK, 1
+
+Malmö FF, 2
+IFK Göteborg, 1
+
+Krylya Sovetov Samara, 1
+FK Krasnodar, 2
+
+Busan I Park, 0
+Cheongju FC, 1
+
+Cheonan City FC, 1
+Bucheon FC 1995, 1
+
+FC Anyang, 1
+Jeonnam Dragons, 1
+
+Paro FC, 1
+Nejmeh SC, 2
+
+Manama Club, 0
+Al Riffa, 0
+
+Oriente Petrolero, 0
+San Antonio Bulo-Bulo, 2
+
+NK Široki Brijeg, 2
+FK Borac Banja Luka, 3
+
+Ludogorets, 3
+FC CSKA 1948 Sofia, 0
+
+FC Rozova Dolina Kazanlak, 1
+Arda Kardzhali, 2
+
+FC Sayana Haskovo, 0
+FK Spartak Varna, 4
+
+FK Dobrudzha Dobrich, 0
+CSKA Sofia, 4
+
+FK Sportist Svoge, 0
+Botev Vratsa, 2
+
+FK Yantra Gabrovo, 0
+Lokomotiv Sofia, 1
+
+OFC Lokomotiv Mezdra, 2
+FK Septemvri Sofia, 1
+
+Cúcuta Deportivo, 1
+Atlético Huila, 1
+
+Real Cundinamarca, 1
+Unión Magdalena, 0
+
+ALS Omonia, 1
+Pafos FC, 2
+
+Karmiotissa Polemidion, 2
+Omonia Nicosia, 6
+
+APOEL Nicosia, 2
+Anorthosis Famagusta, 0
+
+FC Telavi, 1
+FC Dila Gori, 0
+
+FC Torpedo Kutaisi, 2
+Dinamo Tbilisi, 0
+
+KFC Uerdingen 05, 1
+Fortuna Düsseldorf II U23, 1
+
+Kampaniakos, 3
+AO Kavala, 1
+
+AE Larisa, 2
+AS Makedonikos Neapolis, 0
+
+Persik Kediri, 0
+Persib Bandung, 2
+
+Naft Al-Basra SC, 0
+Al Karma SC, 5
+
+Newroz SC, 1
+Al Talaba, 0
+
+Naft Missan, 0
+Karbalaa FC, 0
+
+Fiorentina U20, 1
+Milan U20, 3
+
+FK Metta, 1
+RFS, 2
+
+Sabah FC, 5
+Kedah, 2
+
+GKS Tychy, 1
+Znicz Pruszków, 1
+
+Avia Świdnik, 1
+Ruch Chorzów, 3
+
+CD Mafra, 2
+União Leiria, 1
+
+Al-Riyadh, 0
+Al-Shabab, 2
+
+Al-Ittihad, 2
+Al-Jandal, 0
+
+Al-Wehda, 1
+Al-Qadsiah, 2
+
+Albirex Niigata Singapore, 2
+Hougang United, 1
+
+Geylang International, 0
+Tampines Rovers, 3
+
+IK Oddevold, 2
+Skövde AIK, 2
+
+Bornova 1877, 0
+Fethiyespor, 2
+
+Etimesgut Belediyespor, 2
+Mardin 1969 Spor, 0
+
+Sarıyer, 1
+Niğde Belediyesi Spor, 0
+
+North Macedonia, 0
+Moldova, 1
+
+Ecuador, 1
+Chile, 2
+
+Germany, 1
+Australia, 2
+
+Russia, 2
+Haiti, 1
+
+China, 2
+Vietnam, 0

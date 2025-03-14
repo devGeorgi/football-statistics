@@ -67,9 +67,6 @@ Lille, 1
 Paris Saint-Germain, 1
 Stade de Reims, 1
 
-Famalicão, 0
-CF Estrela Amadora, 0
-
 SC Farense, 1
 Rio Ave, 2
 
@@ -171,9 +168,6 @@ Watford, 1
 
 Preston North End, 2
 Middlesbrough, 1
-
-Queens Park Rangers, 0
-Sheffield Wednesday, 2
 
 Sunderland, 2
 Plymouth Argyle, 2
@@ -306,9 +300,6 @@ Peterborough United, 1
 
 Stockport County, 2
 Crawley Town, 0
-
-Wigan Athletic, 2
-Bristol Rovers, 0
 
 Wycombe Wanderers, 0
 Northampton Town, 0
@@ -478,9 +469,6 @@ Santos de Guápiles, 1
 Herediano, 3
 Deportivo Saprissa, 1
 
-Puntarenas FC, 0
-CS Cartaginés, 0
-
 ALS Omonia, 2
 Apollon Limassol, 1
 
@@ -550,9 +538,6 @@ VfB Stuttgart II U21, 1
 SV Sandhausen, 3
 1. FC Saarbrücken, 4
 
-VSG Altglienicke, 0
-FSV Luckenwalde, 0
-
 Eintracht Hohkeppel, 4
 Borussia Mönchengladbach II U23, 6
 
@@ -567,9 +552,6 @@ SC Fortuna Köln, 1
 
 SC Paderborn 07 II, 2
 1. FC Köln II U23, 2
-
-Accra Lions FC, 1
-Medeama, 0
 
 AE Larisa, 2
 PAOK B, 1
@@ -682,9 +664,6 @@ Atlante FC, 2
 Tlaxcala FC, 2
 Tepatitlán FC, 2
 
-Mineros de Zacatecas, 0
-Leones Negros, 0
-
 Cancún FC, 1
 Alebrijes de Oaxaca, 0
 
@@ -763,9 +742,6 @@ Dunfermline Athletic, 0
 Ayr United, 2
 Partick Thistle, 1
 
-Livingston, 3
-Hamilton Academical, 0
-
 Queen's Park FC, 1
 Greenock Morton, 2
 
@@ -786,9 +762,6 @@ Montrose, 2
 
 Arbroath, 0
 Kelty Hearts F.C., 0
-
-Clyde FC, 0
-Elgin City, 0
 
 East Fife, 4
 Edinburgh City F.C., 1

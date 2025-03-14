@@ -1,0 +1,173 @@
+Netherlands, 1
+England, 2
+
+Uruguay, 0
+Colombia, 1
+
+FC Ordabasy, 0
+FC Petrocub Hîncesti, 0
+
+Flora Tallinn, 0
+NK Celje, 5
+
+RFS, 3
+Larne FC, 0
+
+ŠK Slovan Bratislava, 4
+FC Struga Trim & Lum, 2
+
+Klaksvíkar Ítróttarfelag, 2
+Differdange FC 03, 0
+
+Ludogorets, 3
+Dinamo Batumi, 1
+
+Dinamo Minsk, 0
+Pyunik Yerevan, 0
+
+FK Borac Banja Luka, 1
+KF Egnatia, 0
+
+FK Velež Mostar, 1
+Inter Club d'Escaldes, 1
+
+FK Auda, 2
+B36 Tórshavn, 0
+
+Grêmio, 0
+Cruzeiro, 2
+
+Athletico, 1
+Bahia, 3
+
+Cuiabá, 0
+Juventude, 0
+
+Vasco da Gama, 2
+Corinthians, 0
+
+Internacional, 1
+Juventude, 2
+
+Mirassol, 2
+Grêmio Prudente, 2
+
+Forge FC, 2
+Toronto FC, 1
+
+Pacific FC, 0
+Vancouver Whitecaps, 1
+
+JIPPO Joensuu, 3
+JäPS, 2
+
+Sporting Kansas City, 2
+FC Dallas, 1
+
+Los Angeles FC, 3
+New Mexico United, 1
+
+Lokomotiv Moscow, 1
+FK Partizan, 1
+
+AEK Athens, 2
+KAA Gent, 1
+
+VVV-Venlo, 2
+Jong AZ Alkmaar, 1
+
+Basel, 4
+AC Bellinzona, 0
+
+Brøndby IF, 5
+AC Sparta Praha, 2
+
+GKS Bełchatów, 2
+ŁKS Łódź II, 0
+
+Lokomotivi Tbilisi, 1
+FC Gagra, 5
+
+SV Lafnitz, 1
+Gyirmót Győr, 3
+
+1. FC Slovácko, 2
+MFK Skalica, 2
+
+Meton-FC Dabas, 2
+FC Hatvan, 1
+
+Olimpia Grudziądz, 2
+TKS Elana Toruń, 2
+
+Pénzügyőr SE, 0
+Budaörsi SC, 3
+
+SC Paderborn 07, 0
+Dynamo Kyiv, 0
+
+GNK Dinamo Zagreb, 6
+FC CSKA 1948 Sofia, 2
+
+Warta Poznań, 1
+FK Teplice, 4
+
+Austria Klagenfurt, 2
+FK TSC Bačka Topola, 2
+
+1. SK Prostějov, 1
+FK Frydek Mistek, 0
+
+AS Trenčín, 1
+FC ViOn Zlaté Moravce, 1
+
+Bicskei TC, 1
+Iváncsa KSE, 4
+
+FC Schalke 04, 2
+FC Midtjylland, 4
+
+MFK Havířov, 1
+MFK Karvina B, 0
+
+OFK Vršac, 1
+FK Omladinac Novi Banovci, 0
+
+HNK Gorica, 3
+Triglav Kranj, 0
+
+SSVg Velbert, 1
+VfL Bochum 1848, 5
+
+Boreham Wood, 0
+Watford, 1
+
+FSV Frankfurt, 1
+Darmstadt 98, 0
+
+Fenerbahçe, 0
+HNK Hajduk Split, 1
+
+SV Babelsberg 03, 0
+Hertha BSC, 1
+
+FC Lugano II U21, 0
+FC Mendrisio, 1
+
+York City, 0
+Huddersfield Town, 0
+
+Cardiff City, 0
+Kidderminster Harriers, 1
+
+Ammanford, 0
+Haverfordwest County AFC, 3
+
+CSD Xelajú MC, 4
+CD FAS, 0
+
+Pattaya United, 2
+Kerala Blasters, 1
+
+Argentina, 0
+Uruguay, 2

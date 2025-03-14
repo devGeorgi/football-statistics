@@ -235,9 +235,6 @@ Magesi FC, 0
 Marumo Gallants FC, 0
 Richards Bay FC, 0
 
-Sydney FC, 1
-Melbourne City, 1
-
 Melbourne Victory, 4
 Western Sydney Wanderers, 4
 
@@ -391,9 +388,6 @@ Marítimo, 0
 Ayr United, 3
 Raith Rovers, 0
 
-Greenock Morton, 0
-Hamilton Academical, 0
-
 Partick Thistle, 1
 Dunfermline Athletic, 4
 
@@ -423,9 +417,6 @@ Forfar Athletic, 0
 
 Edinburgh City F.C., 2
 Bonnyrigg Rose, 0
-
-Elgin City, 0
-The Spartans FC, 0
 
 Peterhead, 0
 Stranraer, 0

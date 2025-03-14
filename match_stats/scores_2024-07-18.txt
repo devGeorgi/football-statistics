@@ -1,0 +1,185 @@
+KF Llapi, 1
+Wisła Kraków, 2
+
+FC Tobol, 1
+MFK Ružomberok, 0
+
+Pafos FC, 2
+IF Elfsborg, 5
+
+Zirə FK, 5
+Sheriff Tiraspol, 7
+
+FC Corvinul Hunedoara, 0
+Paksi FC, 2
+
+NK Maribor, 2
+Botev Plovdiv, 2
+
+KuPS, 5
+Una Strassen, 0
+
+Urartu, 2
+Tallinna Kalev, 0
+
+FCI Levadia Tallinn, 0
+Šiauliai FA, 0
+
+FC Milsami Orhei, 0
+Torpedo-BelAZ Zhodino, 0
+
+FK Žalgiris, 1
+VPS, 0
+
+Inter Club d'Escaldes, 5
+FK Velež Mostar, 1
+
+St Joseph's FC, 1
+Shelbourne, 1
+
+Paide Linnameeskond, 1
+Bala Town, 1
+
+Dinamo Tbilisi, 1
+FK Mornar Bar, 1
+
+F91 Dudelange, 2
+Atlètic Club Escaldes, 0
+
+Marsaxlokk FC, 1
+FK Partizani, 2
+
+Connah's Quay Nomads, 0
+NK Bravo, 2
+
+FC Isloch Minsk Region, 2
+La Fiorita, 5
+
+KF Shkëndija, 1
+FC Noah, 2
+
+KF Tirana, 0
+FC Torpedo Kutaisi, 1
+
+Víkingur Gøta, 2
+FK Liepaja, 0
+
+KF Vllaznia, 0
+Valur Reykjavík, 4
+
+Derry City, 2
+FC Bruno's Magpies, 1
+
+Linfield FC, 3
+Stjarnan Garðabær, 2
+
+SP Tre Penne, 1
+Floriana FC, 1
+
+FK Budućnost Podgorica, 3
+FC Malisheva, 0
+
+FK Sarajevo, 6
+FK Aktobe, 6
+
+Breidablik Kópavogur, 3
+Tikveš Kavadarci, 1
+
+Palestino, 1
+Cuiabá, 1
+
+Cerro Porteño, 1
+Athletico, 1
+
+LDU, 3
+Club Always Ready, 0
+
+Argentinos Juniors, 0
+Tigre, 2
+
+Independiente Rivadavia, 1
+Gimnasia y Esgrima, 0
+
+Instituto De Córdoba, 3
+CA Independiente, 1
+
+Vila Nova FC, 1
+Santos, 1
+
+Novorizontino, 1
+Chapecoense, 0
+
+Atlético Bucaramanga, 1
+Junior Barranquilla, 0
+
+Independiente Medellín, 1
+Millonarios, 1
+
+HFX Wanderers FC, 3
+Valour FC, 1
+
+Zamalek SC, 5
+Proxy SC, 2
+
+Norway U19, 0
+Ukraine U19, 0
+
+Northern Ireland U19, 0
+Italy U19, 3
+
+Netherlands U19, 1
+Spain U19, 0
+
+SV Wacker Burghausen, 0
+Bayern München II, 1
+
+Geylang International, 5
+Tanjong Pagar United, 3
+
+Universidad Central, 1
+Angostura FC, 0
+
+Carabobo, 2
+Academia Puerto Cabello, 1
+
+FC Utrecht, 4
+Al-Rayyan, 1
+
+Dynamo Kyiv, 2
+1. FC Union Berlin, 3
+
+FK Voždovac, 0
+Al-Wahda FC, 5
+
+Al-Ahli, 1
+Újpest, 0
+
+Debreceni VSC, 2
+MŠK Žilina, 1
+
+Rapid Wien II, 5
+FC Stadlau, 0
+
+AFC Ajax, 2
+Al Wasl, 1
+
+SC Verl, 0
+FC Schalke 04, 1
+
+AS Trenčín, 1
+Galatasaray, 4
+
+Fenerbahçe, 5
+Hull City, 1
+
+Panathinaikos, 1
+Maccabi Netanya, 0
+
+Sporting Braga, 2
+Rayo Vallecano, 2
+
+FK Pohronie, 2
+FK Železiarne Podbrezová, 2
+
+Derby County, 1
+Stockport County, 0

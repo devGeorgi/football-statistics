@@ -61,9 +61,6 @@ OFI Crete, 2
 NPS Volos, 2
 AEK Athens, 4
 
-Atromitos Athens, 0
-Asteras Aktor, 1
-
 Panathinaikos, 2
 PAOK, 1
 
@@ -72,9 +69,6 @@ Rangers, 3
 
 Motherwell, 2
 Aberdeen, 0
-
-Celtic, 3
-St. Mirren, 0
 
 Dundee United, 0
 Heart of Midlothian, 1
@@ -189,9 +183,6 @@ Heart of Lions, 0
 
 Dreams, 1
 Accra Lions FC, 0
-
-Medeama, 1
-Asante Kotoko SC, 1
 
 Nations FC, 3
 Basake Holy Stars FC, 1

@@ -1,0 +1,89 @@
+Cruzeiro, 2
+Cuiabá, 1
+
+Athletico, 3
+Criciúma, 1
+
+Flamengo, 2
+Grêmio, 1
+
+Internacional, 0
+São Paulo, 0
+
+Bahia, 1
+Fortaleza, 0
+
+Palmeiras, 2
+Vasco da Gama, 0
+
+Deportivo Riestra, 2
+River Plate, 0
+
+Sarmiento, 2
+Estudiantes de La Plata, 0
+
+Tigre, 1
+Belgrano, 1
+
+Lanús, 2
+Racing Club, 0
+
+Newell's Old Boys, 0
+Instituto De Córdoba, 2
+
+Amazonas FC, 0
+Chapecoense, 1
+
+Meizhou Hakka, 0
+Shandong Taishan, 0
+
+Modern Sport FC, 3
+El Gouna FC, 1
+
+Pyramids FC, 3
+Smouha, 0
+
+Bohemian FC, 1
+Derry City, 2
+
+Dundalk FC, 1
+Sligo Rovers, 0
+
+Galway United, 3
+Drogheda United, 0
+
+Waterford FC, 0
+Shelbourne, 1
+
+Bray Wanderers, 1
+Athlone Town, 0
+
+Cork City, 4
+Cobh Ramblers FC, 1
+
+Kerry FC, 2
+Longford Town, 1
+
+Wexford FC, 0
+Treaty United FC, 1
+
+RS Berkane, 1
+Renaissance Zemamra, 2
+
+Hougang United, 2
+Geylang International, 6
+
+BK Häcken FF, 4
+Djurgårdens IF DFF, 1
+
+Linköpings FC, 4
+Piteå IF, 2
+
+Vittsjö GIK, 0
+Hammarby IF, 2
+
+Espérance Tunis, 0
+US Monastir, 0
+
+Union Omaha SC, 4
+Spokane Velocity FC, 1

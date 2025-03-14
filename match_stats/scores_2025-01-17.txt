@@ -19,9 +19,6 @@ Famalicão, 0
 Hatayspor, 1
 Galatasaray, 1
 
-Başakşehir FK, 2
-Çaykur Rizespor, 0
-
 KAA Gent, 1
 RC Sporting Charleroi, 1
 
@@ -48,9 +45,6 @@ Hannover 96, 1
 
 U.C Sampdoria, 1
 Cesena, 2
-
-Ajaccio, 2
-Caen, 1
 
 Amiens SC, 1
 Bastia, 0
@@ -153,9 +147,6 @@ Levante UD, 0
 
 FC Levante Badalona, 1
 Atlético Madrid, 1
-
-Granada, 2
-Costa Adeje Tenerife, 1
 
 Qarabağ, 3
 Şamaxı FK, 2
@@ -316,7 +307,7 @@ Atlético Tucumán, 1
 Universidad de Chile, 1
 River Plate, 2
 
-Club Nacional, 0
+Nacional, 0
 Olimpia, 2
 
 West Adelaide SC, 1

@@ -1,0 +1,350 @@
+Atalanta, 0
+Celtic, 0
+
+Stade Brestois, 1
+Bayer 04 Leverkusen, 1
+
+Atlético Madrid, 1
+Lille, 3
+
+Barcelona, 4
+FC Bayern München, 1
+
+Benfica, 1
+Feyenoord, 3
+
+Manchester City, 5
+AC Sparta Praha, 0
+
+RB Leipzig, 0
+Liverpool, 1
+
+Red Bull Salzburg, 0
+GNK Dinamo Zagreb, 2
+
+Young Boys, 0
+Inter, 1
+
+Botafogo, 5
+Peñarol, 0
+
+Galatasaray, 4
+IF Elfsborg, 3
+
+Sporting Braga, 1
+Bodø/Glimt, 2
+
+Cruzeiro, 1
+Lanús, 1
+
+Young Boys U19, 2
+Inter U19, 3
+
+Red Bull Salzburg U19, 3
+GNK Dinamo Zagreb U19, 2
+
+Atlético Madrid U19, 1
+Lille U19, 1
+
+Barcelona U19, 3
+Bayern München U19, 1
+
+Manchester City U19, 3
+Sparta Praha U19, 0
+
+RB Leipzig U19, 3
+Liverpool U19, 1
+
+FC Farul Constanța U19, 2
+FK IMT Belgrade U19, 0
+
+Lokomotiva Zagreb U19, 2
+FC Dinamo Minsk U19, 1
+
+Olympiacos U19, 5
+Tallinna Kalev U19, 0
+
+Real Betis U19, 6
+Kairat Almaty U19, 1
+
+AS Trenčín U19, 3
+FC Zbrojovka Brno U19, 2
+
+FC 2 Korriku U19, 2
+University College Dublin U19, 1
+
+FK Žalgiris U19, 2
+Manchester United U19, 5
+
+IFK Göteborg U19, 0
+TSG Hoffenheim U19, 3
+
+Trabzonspor U19, 3
+Budućnost Podgorica U19, 1
+
+Auxerre U19, 5
+Valletta U19, 0
+
+FC Basel U19, 6
+Sabah U19, 0
+
+FC Progres Niederkorn U19, 0
+Midtjylland U19, 4
+
+Strømsgodset U19, 1
+AZ Alkmaar U19, 4
+
+Aberdeen FC U19, 1
+Puskás Akadémia FC U19, 5
+
+CF Monterrey, 0
+Pumas UNAM, 0
+
+Cruz Azul, 4
+FC Juárez, 0
+
+Club León, 0
+Atlas FC, 0
+
+Club Tijuana, 2
+Club América, 2
+
+Vancouver Whitecaps, 5
+Portland Timbers, 0
+
+Blackburn Rovers, 0
+West Bromwich Albion, 0
+
+Hull City, 1
+Burnley, 1
+
+Luton Town, 1
+Sunderland, 2
+
+Middlesbrough, 1
+Sheffield United, 0
+
+CD Eldense, 2
+Real Zaragoza, 3
+
+Eibar, 1
+Cádiz, 0
+
+FC Cartagena, 0
+Elche, 0
+
+Racing de Santander, 2
+Córdoba, 0
+
+Ponte Preta, 2
+Brusque, 0
+
+Paysandu SC, 2
+Coritiba, 1
+
+Botafogo-SP, 0
+Ituano, 1
+
+Operário-PR, 1
+América Mineiro, 0
+
+Śląsk Wrocław, 2
+Stal Mielec, 1
+
+Asociación Deportiva Tarma, 2
+Unión Comercio, 0
+
+Cienciano, 3
+Alianza Atlético de Sullana, 0
+
+Carlos A. Mannucci, 4
+Cusco FC, 1
+
+Club Sporting Cristal, 2
+Universitario, 1
+
+Chippa United, 0
+Stellenbosch, 2
+
+Mamelodi Sundowns, 2
+Royal AM, 1
+
+FC Tampa Bay Rowdies, 2
+Hartford Athletic, 2
+
+Boca Juniors, 3
+Gimnasia y Esgrima, 2
+
+Shanghai Shenhua, 2
+Kawasaki Frontale, 0
+
+Mohun Bagan Super Giant, 0
+Al-Wakrah, 0
+
+Ravshan, 1
+Tractor FC, 3
+
+Al-Quwa Al-Jawiya, 1
+Al Khalidiyah, 2
+
+Al-Taawoun, 2
+Altyn Asyr FK, 1
+
+Al Hussein Irbid, 2
+Nasaf Qarshi, 1
+
+Shabab Al-Ahli Dubai, 4
+Al-Kuwait, 1
+
+Lee Man FC, 0
+True Bangkok United, 1
+
+Muang Thong United, 2
+DH Cebu FC, 2
+
+Selangor Football Club, 2
+Jeonbuk Hyundai Motors, 1
+
+CD Real Santa Cruz, 2
+Bolívar, 3
+
+Independiente Petrolero, 2
+Royal Pari Sion, 2
+
+The Strongest, 0
+Oriente Petrolero, 0
+
+FK Spartak Varna, 1
+Lokomotiv Plovdiv, 0
+
+Deportes Puerto Montt, 1
+Ñublense, 1
+
+SK Hořovice, 0
+Dukla Praha, 6
+
+Brabrand, 11
+FC Nordsjælland, 10
+
+Aldershot Town, 0
+Southend United, 0
+
+Altrincham, 1
+Hartlepool United, 1
+
+Boston United, 1
+AFC Fylde, 2
+
+Solihull Moors, 2
+Woking, 1
+
+Sutton United, 0
+Gateshead, 1
+
+Wealdstone, 3
+Braintree Town, 2
+
+Pärnu JK Vaprus, 0
+Paide Linnameeskond, 1
+
+Tallinna Kalev, 0
+Narva Trans, 1
+
+Flora Tallinn, 3
+Nõmme Kalju, 2
+
+FC Haka, 2
+Inter Turku, 1
+
+VPS, 0
+IF Gnistan, 1
+
+FF Jaro, 2
+FC Lahti, 0
+
+KPV, 1
+KäPa, 1
+
+Aubagne FC, 1
+Quevilly - Rouen Métropole, 1
+
+FC Rouen, 0
+Sochaux, 0
+
+FC Versailles 78, 1
+Châteauroux, 0
+
+Nîmes Olympique, 2
+US Boulogne Côte-d'Opale, 0
+
+Paris 13 Atletico, 2
+Le Mans, 3
+
+US Concarneau, 1
+FC Villefranche Beaujolais, 1
+
+US Orléans, 1
+Bourg-en-Bresse, 0
+
+Valenciennes, 2
+Dijon, 0
+
+Alemannia Aachen, 3
+SpVgg Unterhaching, 1
+
+Hannover 96 II U23, 1
+Arminia Bielefeld, 4
+
+Rot-Weiss Essen, 1
+SC Verl, 3
+
+SV Wehen Wiesbaden, 1
+SG Dynamo Dresden, 0
+
+TSV 1860 München, 2
+VfL Osnabrück, 2
+
+TSG Hoffenheim II U23, 5
+1. FSV Mainz 05 II U23, 0
+
+Deportivo Mixco, 1
+Cobán Imperial, 0
+
+Deportivo Guastatoya, 1
+CSD Municipal, 2
+
+Persebaya Surabaya, 1
+PSM Makassar, 1
+
+Al Hudod, 0
+Al-Shorta, 1
+
+Al Qasim SC, 4
+Erbil SC, 0
+
+CODM Meknès, 2
+Wydad Casablanca, 0
+
+Fath Union Sport, 3
+Olympic Safi, 0
+
+RS Berkane, 1
+Jeunesse Sportive Soualem, 0
+
+Ittihad Tanger, 0
+Renaissance Zemamra, 1
+
+FC Porto B, 2
+CD Mafra, 1
+
+England U17, 0
+North Korea U17, 4
+
+Mexico U17, 1
+Kenya U17, 2
+
+Poland U17, 0
+Brazil U17, 0
+
+Zambia U17, 1
+Japan U17, 4

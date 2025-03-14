@@ -121,9 +121,6 @@ Club León, 1
 Club Tijuana, 3
 Atlas FC, 4
 
-HNK Hajduk Split, 2
-HNK Gorica, 1
-
 NK Slaven Belupo, 0
 GNK Dinamo Zagreb, 1
 
@@ -220,9 +217,6 @@ Everton de Viña del Mar, 0
 Independiente Santa Fe, 2
 Fortaleza CEIF, 0
 
-Junior Barranquilla, 2
-Millonarios, 1
-
 Atlético Nacional, 1
 América de Cali, 0
 
@@ -280,12 +274,6 @@ FC Gloria Buzău, 0
 FCSB, 1
 Universitatea Craiova, 0
 
-FC Zürich, 1
-Servette FC, 3
-
-FC Luzern, 1
-Basel, 1
-
 FC Sion, 2
 FC Lugano, 1
 
@@ -337,23 +325,14 @@ Ferencváros TC, 1
 Aldosivi, 0
 Tigre, 2
 
-Defensa y Justicia, 1
-Estudiantes de La Plata, 0
-
 River Plate, 1
 Atlético Tucumán, 0
 
 Instituto De Córdoba, 1
 Godoy Cruz, 1
 
-Newell's Old Boys, 0
-Belgrano, 0
-
 Racing de Córdoba, 3
 Arsenal de Sarandí, 0
-
-San Miguel, 2
-Alvarado, 0
 
 Patronato, 0
 Gimnasia y Tiro de Salta, 0
@@ -372,9 +351,6 @@ Estudiantes de Buenos Aires, 1
 
 Almirante Brown, 2
 Club Atletico Colón, 0
-
-Zirə FK, 1
-Səbail FK, 0
 
 FC Isloch Minsk Region, 2
 Neman Grodno, 4
@@ -427,12 +403,6 @@ Tigres FC, 0
 Real Cartagena, 2
 Real Santander, 0
 
-Municipal Santa Ana, 0
-Municipal Pérez Zeledón, 0
-
-Deportivo Saprissa, 3
-San Carlos, 0
-
 Puntarenas FC, 2
 AD Guanacasteca, 2
 
@@ -463,14 +433,8 @@ Nõmme Kalju, 0
 FC Torpedo Kutaisi, 1
 FC Telavi, 2
 
-FC Kolkheti-1913 Poti, 0
-Dinamo Tbilisi, 0
-
 TSV 1860 München, 1
 Borussia Dortmund II U23, 0
-
-Erzgebirge Aue, 2
-FC Viktoria Köln, 1
 
 Rot-Weiss Essen, 1
 SV Waldhof Mannheim, 0
@@ -493,9 +457,6 @@ Hertha Zehlendorf, 0
 Viktoria Berlin, 1
 Hertha BSC II U23, 2
 
-SC Paderborn 07 II, 7
-Turkspor Dortmund 2000, 0
-
 SC Freiburg II U23, 3
 FC 08 Homburg, 2
 
@@ -504,9 +465,6 @@ SGV Freiberg, 3
 
 SpVgg Greuther Fürth II, 3
 SpVgg Bayreuth, 1
-
-Asante Kotoko SC, 2
-Legon Cities, 0
 
 Berekum Chelsea, 3
 Accra Lions FC, 1
@@ -531,9 +489,6 @@ GS Diagoras Rodou, 1
 
 PAOK B, 2
 Ethnikos Neou Keramidiou, 1
-
-Cobán Imperial, 0
-Xinabajul Huehue, 0
 
 Deportivo Achuapa, 2
 CSD Municipal, 1
@@ -604,9 +559,6 @@ Astana, 2
 FC Hegelmann, 2
 FK Panevėžys, 1
 
-FK Sūduva Marijampolė, 1
-FK Banga Gargždai, 0
-
 Hibernians, 3
 Naxxar Lions FC, 2
 
@@ -637,14 +589,8 @@ Besa 1976, 3
 KF Shkëndija, 1
 FK Pelister Bitola, 0
 
-FK Sileks Kratovo, 1
-FK Vardar Skopje, 1
-
 General Caballero, 0
 Cerro Porteño, 1
-
-Olimpia, 2
-CS 2 de Mayo, 1
 
 Wisła Kraków, 1
 Górnik Łęczna, 0

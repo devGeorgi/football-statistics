@@ -1,0 +1,155 @@
+Slovakia, 1
+Romania, 1
+
+Ukraine, 0
+Belgium, 0
+
+Czechia, 1
+Türkiye, 2
+
+Georgia, 2
+Portugal, 0
+
+Ecuador, 3
+Jamaica, 1
+
+Venezuela, 1
+Mexico, 0
+
+Botafogo, 2
+Red Bull Bragantino, 1
+
+Cruzeiro, 2
+Athletico, 0
+
+Atlético Goianiense, 1
+Grêmio, 1
+
+Corinthians, 1
+Cuiabá, 1
+
+Juventude, 2
+Flamengo, 1
+
+Bahia, 2
+Vasco da Gama, 1
+
+Fortaleza, 3
+Palmeiras, 0
+
+Internacional, 1
+Atlético Mineiro, 2
+
+Beijing Guoan, 4
+Cangzhou Mighty Lions, 0
+
+Detroit City FC, 1
+Birmingham Legion FC, 2
+
+Rhode Island FC, 3
+El Paso Locomotive FC, 0
+
+Tombense, 2
+Caxias, 1
+
+Sampaio Corrêa, 3
+Athletic Club, 1
+
+Ferroviário, 0
+Ferroviária, 0
+
+Mirassol, 1
+Votuporanguense, 2
+
+Deportes Concepción, 2
+Deportes Linares, 3
+
+Rangers de Talca, 1
+Ñublense, 1
+
+FS Jelgava, 0
+FK Tukums 2000, 0
+
+RFS, 4
+Valmiera FC, 1
+
+FC Hegelmann, 0
+Šiauliai FA, 0
+
+FK Sūduva Marijampolė, 1
+FK Panevėžys, 3
+
+Dainava Alytus, 3
+Džiugas Telšiai, 1
+
+FK Banga Gargždai, 0
+FK Žalgiris, 2
+
+FK Kauno Žalgiris, 2
+FK Transinvest, 0
+
+KIF Örebro DFF, 0
+BK Häcken FF, 1
+
+Trelleborgs FF, 1
+Rosengård, 9
+
+Górnik Łęczna, 2
+Znicz Pruszków, 1
+
+Baník Ostrava, 1
+MŠK Žilina, 1
+
+SC Verl, 4
+FC Schalke 04 II U23, 2
+
+CSKA Sofia, 2
+FK Krumovgrad, 0
+
+GKS Jastrzębie, 2
+GKS Katowice, 2
+
+SC Austria Lustenau, 2
+FC St Gallen II U21, 1
+
+Viktoria Plzeň, 2
+Dukla Banská Bystrica, 1
+
+Śląsk Wrocław, 1
+CFR 1907 Cluj, 0
+
+Diósgyőri VTK, 2
+Eger SE, 0
+
+FC St. Gallen 1879, 0
+Ludogorets, 2
+
+FK Spartak Subotica, 2
+FK Dečić Tuzi, 0
+
+NK Bravo, 2
+FK Partizan, 1
+
+SR Donaufeld, 0
+Admira Wacker, 0
+
+Neudrossenfeld, 1
+SpVgg Greuther Fürth, 6
+
+SV Horn, 2
+SK Líšeň, 5
+
+SV Sonsbeck, 1
+MSV Duisburg, 7
+
+Étoile Carouge FC, 1
+CS Chenois, 2
+
+Celaya FC, 1
+Petroleros de Salamanca, 0
+
+Alianza Lima, 2
+Bolívar, 3
+
+Club León, 3
+Irapuato, 0

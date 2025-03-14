@@ -4,9 +4,6 @@ Real Valladolid, 0
 Como, 1
 Juventus, 2
 
-FC Bayern München, 3
-SV Werder Bremen, 0
-
 Nantes, 0
 Stade Brestois, 2
 
@@ -30,12 +27,6 @@ Santos Laguna, 2
 
 Querétaro FC, 1
 Atlético San Luis, 0
-
-Club Puebla, 1
-Club América, 2
-
-GNK Dinamo Zagreb, 3
-HNK Šibenik, 0
 
 FK Tekstilac Odžaci, 0
 FK Čukarički, 1
@@ -229,9 +220,6 @@ NC Magra, 0
 USM Khenchela, 0
 JS Saoura, 0
 
-Banfield, 1
-Belgrano, 1
-
 Central Córdoba, 2
 Newell's Old Boys, 0
 
@@ -406,9 +394,6 @@ Tampines Rovers, 5
 NK Bravo, 3
 ND Primorje, 1
 
-NK Nafta Lendava 1903, 2
-Kalcer Radomlje, 1
-
 Colombia U20, 0
 Brazil U20, 1
 
@@ -468,9 +453,6 @@ White City Woodville, 0
 
 Adelaide Comets, 5
 Adelaide Olympic, 0
-
-AS Makedonikos Neapolis, 1
-Kampaniakos, 0
 
 SK Lisen B, 0
 Tatran Brno Bohunice, 3

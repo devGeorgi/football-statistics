@@ -1,0 +1,155 @@
+Argentina, 5
+Ecuador, 3
+
+Bahia, 2
+Juventude, 0
+
+Grêmio, 2
+Palmeiras, 2
+
+Corinthians, 3
+Vitória, 2
+
+Fluminense, 1
+Internacional, 1
+
+FC Dallas, 3
+Portland Timbers, 2
+
+Colorado Rapids, 2
+Sporting Kansas City, 1
+
+LA Galaxy, 1
+Los Angeles FC, 2
+
+Henan Songshan Longmen, 0
+Shanghai Port, 1
+
+Al Ahly FC, 4
+El Dakhlya, 1
+
+Tala'ea El-Gaish, 0
+Al-Ittihad Alexandria, 0
+
+Drogheda United, 1
+Shelbourne, 1
+
+Galway United, 1
+Bohemian FC, 1
+
+Sligo Rovers, 2
+Derry City, 1
+
+Waterford FC, 1
+St. Patrick's Athletic, 0
+
+Shamrock Rovers, 1
+Dundalk FC, 0
+
+Sanfrecce Hiroshima, 1
+Vissel Kobe, 3
+
+Colorado Springs Switchbacks FC, 1
+FC Tulsa, 0
+
+Incheon United, 1
+Gimcheon Sangmu FC, 1
+
+Suwon FC, 1
+Ulsan HD, 1
+
+Dinamo Minsk, 1
+Dynamo Brest, 0
+
+EC São José, 0
+Athletic Club, 1
+
+FCI Levadia Tallinn, 1
+Flora Tallinn, 0
+
+Paide Linnameeskond, 2
+Narva Trans, 2
+
+Tartu JK Tammeka, 2
+FC Nõmme United, 1
+
+Bray Wanderers, 0
+Longford Town, 1
+
+Finn Harps, 1
+Kerry FC, 0
+
+Treaty United FC, 0
+Cobh Ramblers FC, 1
+
+University College Dublin, 1
+Athlone Town, 2
+
+Wexford FC, 1
+Cork City, 3
+
+FK Panevėžys, 0
+FC Hegelmann, 1
+
+FCSB, 3
+FC Corvinul Hunedoara, 0
+
+Balestier Khalsa, 4
+Brunei DPMM FC, 2
+
+FC Universitatea Cluj, 0
+Diósgyőri VTK, 2
+
+Bohemians Praha 1905, 4
+Paksi FC, 1
+
+FCM Traiskirchen, 0
+SV Stripfing, 4
+
+FK Novi Pazar, 2
+APOEL Nicosia, 2
+
+FK Željezničar, 1
+Igman Konjic, 3
+
+NK Lokomotiva Zagreb, 3
+HŠK Zrinjski Mostar, 1
+
+NK Maribor, 2
+FC CSKA 1948 Sofia, 1
+
+RC Strasbourg, 1
+TSV 1860 München, 2
+
+CSKA Moscow, 4
+OFK Beograd, 0
+
+SpVgg Ansbach, 1
+1. FC Nürnberg, 4
+
+USV Weindorf St. Anna am Aigen, 3
+UFC Fehring, 4
+
+FC Süderelbe, 2
+Eintracht Norderstedt, 5
+
+FC Argeș Pitești, 5
+CF Inter Ilfov, 1
+
+FC Hatvan, 3
+Szolnoki MÁV, 1
+
+NK Bravo, 0
+MTK Budapest, 0
+
+FK Varnsdorf, 5
+FK VIAGEM Ústí nad Labem, 2
+
+FK Crvena zvezda, 2
+FC Sochi, 0
+
+Bayern München II, 1
+1. FC Magdeburg, 1
+
+Viktoria Plzeň, 2
+Karlsruher SC, 0

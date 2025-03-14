@@ -1,0 +1,245 @@
+PAOK, 3
+FK Borac Banja Luka, 2
+
+Ludogorets, 2
+Dinamo Minsk, 0
+
+NK Celje, 1
+ŠK Slovan Bratislava, 1
+
+FC Struga Trim & Lum, 2
+Pyunik Yerevan, 1
+
+Riga FC, 1
+Śląsk Wrocław, 0
+
+Dinamo Batumi, 0
+FK Dečić Tuzi, 2
+
+AEK Athens, 4
+Inter Club d'Escaldes, 3
+
+Cliftonville FC, 1
+FK Auda, 2
+
+Universidad Católica del Ecuador, 1
+Libertad, 1
+
+Boca Juniors, 1
+Independiente Del Valle, 0
+
+Red Bull Bragantino, 3
+Barcelona SC, 2
+
+Criciúma, 0
+Red Bull Bragantino, 0
+
+Internacional, 0
+Fortaleza, 0
+
+Vasco da Gama, 0
+Cuiabá, 0
+
+Criciúma, 1
+Fortaleza, 1
+
+Cruzeiro, 2
+Juventude, 0
+
+São Paulo, 2
+Botafogo, 2
+
+Vitória, 1
+Flamengo, 2
+
+Atlético Goianiense, 1
+Bahia, 1
+
+Fluminense, 1
+Palmeiras, 0
+
+Talleres, 1
+Defensa y Justicia, 1
+
+Sarmiento, 1
+Racing Club, 0
+
+Godoy Cruz, 2
+River Plate, 1
+
+Huracán, 0
+Estudiantes de La Plata, 0
+
+Guinea U23, 1
+New Zealand U23, 2
+
+France U23, 3
+USA U23, 0
+
+Argentina U23, 1
+Morocco U23, 2
+
+Iraq U23, 2
+Ukraine U23, 1
+
+Uzbekistan U23, 1
+Spain U23, 2
+
+Egypt U23, 0
+Dominican Republic U23, 0
+
+Japan U23, 5
+Paraguay U23, 0
+
+Mali U23, 1
+Israel U23, 1
+
+Brusque, 1
+Paysandu SC, 0
+
+Amazonas FC, 1
+Guarani, 1
+
+Millonarios, 1
+Atlético Nacional, 2
+
+Servette FC, 3
+Young Boys, 1
+
+Loudoun United FC, 1
+Charleston Battery, 2
+
+Forward Madison FC, 2
+Central Valley Fuego, 1
+
+Boca Juniors de Cali, 0
+Llaneros FC, 0
+
+Municipal Liberia, 1
+LD Alajuelense, 2
+
+San Carlos, 0
+CS Cartaginés, 0
+
+Deportivo Saprissa, 3
+AD Guanacasteca, 1
+
+Netherlands U19, 2
+France U19, 0
+
+FF Jaro, 2
+MP, 0
+
+Haiti U20, 1
+Panama U20, 3
+
+Guatemala U20, 1
+Mexico U20, 2
+
+MLS All Stars, 1
+Liga MX All Stars, 4
+
+Metropolitanos, 0
+Universidad Central, 0
+
+Monagas, 0
+Deportivo La Guaira, 0
+
+Karlsruher SC, 2
+TSV 1860 München, 0
+
+1. FC Köln, 2
+Swansea City, 1
+
+VfL Wolfsburg, 1
+Lille, 0
+
+ADO Den Haag, 0
+SV Zulte Waregem, 1
+
+Feralpisalò, 7
+Hellas Verona U20, 0
+
+Le Havre, 1
+Clermont Foot, 1
+
+FK Blansko, 0
+FC Kurim, 2
+
+Frosinone, 3
+Bari, 4
+
+Hellas Verona, 5
+Virtus Verona, 1
+
+Konyaspor, 1
+HNK Gorica, 1
+
+Olympique Lyonnais, 0
+FC St. Pauli, 1
+
+Stade Brestois, 0
+Stade Lavallois, 1
+
+AZ Alkmaar, 2
+Aris Thessaloniki, 1
+
+FC Rottach-Egern, 1
+FC Bayern München, 14
+
+FC Schalke 04, 0
+FC Twente, 0
+
+NK Karlovac 1919, 0
+NK Dubrava Tim Kabel, 0
+
+CD Calahorra, 0
+Real Zaragoza, 2
+
+ESV Parndorf, 4
+Favoritner AC, 3
+
+FC Sion, 1
+Villarreal, 3
+
+Lecce, 1
+Galatasaray, 2
+
+Osasuna, 0
+Huesca, 0
+
+Racing de Santander, 1
+Athletic Club, 2
+
+Yeclano Deportivo, 0
+FC Cartagena, 3
+
+Hibernian, 2
+Watford, 3
+
+PSV Eindhoven, 3
+FC Eindhoven, 2
+
+Chesterfield, 4
+Derby County, 0
+
+Birmingham City, 2
+Rangers, 1
+
+Chelmsford City, 0
+Milton Keynes Dons, 1
+
+Warrington Town, 1
+Salford City, 3
+
+Portimonense, 1
+Al-Nassr, 0
+
+Chelsea, 2
+Wrexham, 2
+
+Arsenal, 6
+Bournemouth, 5
+
+Gamba Osaka, 0
+Real Sociedad, 1

@@ -1,0 +1,206 @@
+Cuiabá, 1
+Botafogo, 2
+
+Criciúma, 1
+Cruzeiro, 0
+
+Vasco da Gama, 2
+Fortaleza, 0
+
+Athletico, 1
+São Paulo, 2
+
+Atlético Mineiro, 2
+Flamengo, 4
+
+Red Bull Bragantino, 3
+Atlético Goianiense, 1
+
+Charlotte FC, 1
+Inter Miami CF, 2
+
+DC United, 2
+FC Cincinnati, 3
+
+New York City FC, 2
+CF Montréal, 0
+
+Toronto FC, 1
+Orlando City SC, 2
+
+New England Revolution, 2
+Atlanta United, 1
+
+Chicago Fire, 4
+Philadelphia Union, 3
+
+Minnesota United, 1
+Vancouver Whitecaps, 3
+
+St.Louis City, 2
+San Jose Earthquakes, 0
+
+Columbus Crew, 2
+Nashville SC, 0
+
+Real Salt Lake, 3
+Houston Dynamo, 2
+
+Modern Sport FC, 1
+Baladiyet El Mahallah, 0
+
+Ceramica Cleopatra, 1
+Ismaily, 0
+
+Pharco FC, 1
+Zamalek SC, 1
+
+Sandefjord Fotball, 1
+Tromsø IL, 2
+
+Loudoun United FC, 3
+Hartford Athletic, 0
+
+New Mexico United, 2
+Orange County SC, 0
+
+Sacramento Republic FC, 0
+Las Vegas Lights, 1
+
+Richmond Kickers, 2
+Forward Madison FC, 1
+
+Northern Colorado Hailstorm FC, 2
+Central Valley Fuego, 2
+
+Botafogo-PB, 4
+AA Aparecidense, 3
+
+CSA, 3
+Figueirense, 1
+
+Universidad de Concepción, 0
+Deportes Linares, 0
+
+Nõmme Kalju, 4
+Pärnu JK Vaprus, 2
+
+Tallinna Kalev, 2
+FC Kuressaare, 2
+
+Inter Turku, 3
+TPS, 2
+
+EIF, 0
+KuPS, 2
+
+KPV, 1
+FC Haka, 2
+
+SJK, 2
+AC Oulu, 0
+
+FK Tukums 2000, 1
+BFC Daugava Daugavpils, 2
+
+SK Brann Kvinner, 0
+Vålerenga, 2
+
+Eskilsminne IF, 1
+BK Olympic, 1
+
+FK Bokelj Kotor, 3
+FK Sutjeska Nikšić, 1
+
+KS Lechia Gdańsk, 1
+MKS Chojniczanka Chojnice, 1
+
+FK Pohronie, 1
+FC Zbrojovka Brno, 4
+
+Lech Poznań, 2
+Baník Ostrava, 0
+
+Pafos FC, 0
+Panathinaikos, 0
+
+FK Napredak Kruševac, 3
+Nyiregyháza Spartacus, 1
+
+FK Strumska Slava Radomir, 1
+Arda Kardzhali, 5
+
+Go Ahead Eagles, 3
+SC Telstar, 0
+
+Hapoel Be'er Sheva, 4
+Górnik Łęczna, 1
+
+MFK Ružomberok, 2
+FC Zlín, 2
+
+MFK Skalica, 4
+MFK Vyškov, 0
+
+Radomiak Radom, 1
+Cracovia, 0
+
+SK Dynamo České Budějovice, 4
+Vysočina Jihlava, 3
+
+SK Sigma Olomouc, 3
+AS Trenčín, 0
+
+Wolfsberger AC, 2
+DSV Leoben, 0
+
+Szentlőrinc SE, 1
+Kaposvári Rákóczi, 2
+
+Austria Wien, 3
+Sepsi OSK, 1
+
+Dundee FC, 3
+Baník Ostrava, 0
+
+FK Jablonec, 0
+NK Osijek, 1
+
+FK TSC Bačka Topola, 1
+1. FC Slovácko, 1
+
+FSV Zwickau, 1
+FK Viktoria Žižkov, 4
+
+PAOK, 2
+AEK Larnaca, 1
+
+SSVg Velbert, 0
+FC Schalke 04, 7
+
+Gárdony-Agárdi Gyógyfürdő, 2
+Kelen SC, 1
+
+KAC 1909, 0
+SK Austria Klagenfurt II, 1
+
+Preußen Münster, 3
+Kickers Emden, 2
+
+SV Tasmania Berlin, 0
+VSG Altglienicke, 2
+
+ASC Dortmund, 0
+Borussia Dortmund II U23, 4
+
+SV Ruden, 1
+St. Michael/Lavanttal, 4
+
+ŠK Slovan Bratislava, 1
+FC Petržalka 1898, 0
+
+NK Maribor, 0
+FC Rapid București, 4
+
+Piast Gliwice, 2
+MFK Karviná, 1

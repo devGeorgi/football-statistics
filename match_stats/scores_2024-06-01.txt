@@ -1,0 +1,494 @@
+Borussia Dortmund, 0
+Real Madrid, 2
+
+Grêmio, 0
+Red Bull Bragantino, 2
+
+Vitória, 0
+Atlético Goianiense, 2
+
+Cuiabá, 0
+Internacional, 1
+
+Fluminense, 1
+Juventude, 1
+
+Corinthians, 0
+Botafogo, 1
+
+KRC Genk, 0
+KAA Gent, 1
+
+Racing Club, 1
+Deportivo Riestra, 0
+
+Belgrano, 1
+Argentinos Juniors, 0
+
+Vélez Sarsfield, 1
+Atlético Tucumán, 1
+
+DC United, 2
+Toronto FC, 2
+
+Inter Miami CF, 3
+St.Louis City, 3
+
+New York Red Bulls, 1
+Orlando City SC, 0
+
+Philadelphia Union, 2
+CF Montréal, 2
+
+Chicago Fire, 2
+LA Galaxy, 1
+
+Minnesota United, 3
+Sporting Kansas City, 1
+
+Nashville SC, 1
+New England Revolution, 2
+
+Real Salt Lake, 5
+Austin FC, 1
+
+Los Angeles FC, 1
+FC Dallas, 0
+
+Portland Timbers, 2
+Houston Dynamo, 2
+
+Vancouver Whitecaps, 2
+Colorado Rapids, 1
+
+Brusque, 0
+Novorizontino, 0
+
+Unión Española, 4
+Deportes Iquique, 3
+
+Audax Italiano, 1
+Palestino, 2
+
+Aucas, 2
+Imbabura Sporting Club, 2
+
+Cumbayá FC, 1
+Delfín, 0
+
+Emelec, 0
+Libertad, 0
+
+Tokyo Verdy, 5
+Hokkaido Consadole Sapporo, 3
+
+Kawasaki Frontale, 2
+Nagoya Grampus, 1
+
+Kashiwa Reysol, 0
+Avispa Fukuoka, 2
+
+HamKam, 1
+SK Brann, 2
+
+IF Brommapojkarna, 2
+Malmö FF, 2
+
+IFK Göteborg, 1
+IF Elfsborg, 0
+
+Halmstads BK, 4
+GAIS Göteborg, 0
+
+IK Sirius, 5
+IFK Norrköping, 1
+
+CF Pachuca, 3
+Columbus Crew, 0
+
+Forge FC, 3
+York United FC, 0
+
+Pacific FC, 1
+Cavalry FC, 1
+
+Hartford Athletic, 1
+Rhode Island FC, 1
+
+Loudoun United FC, 3
+FC Tulsa, 0
+
+Miami FC, 1
+Louisville City FC, 2
+
+Pittsburgh Riverhounds, 1
+Indy Eleven, 2
+
+Colorado Springs Switchbacks FC, 1
+Oakland Roots SC, 0
+
+El Paso Locomotive FC, 1
+Birmingham Legion FC, 3
+
+San Antonio FC, 1
+Memphis 901 FC, 0
+
+Orange County SC, 3
+Detroit City FC, 2
+
+Sacramento Republic FC, 0
+FC Tampa Bay Rowdies, 1
+
+Las Vegas Lights, 0
+Phoenix Rising FC, 0
+
+Forward Madison FC, 4
+Lexington SC, 1
+
+Charlotte Independence, 1
+South Georgia Tormenta FC, 1
+
+One Knoxville SC, 1
+Richmond Kickers, 2
+
+Union Omaha SC, 1
+Northern Colorado Hailstorm FC, 2
+
+Akron Togliatti, 1
+Ural Yekaterinburg, 2
+
+Arsenal Tula, 0
+Pari Nizhny Novgorod, 2
+
+Daejeon Hana Citizen, 1
+Daegu FC, 0
+
+Jeju SK, 1
+Gangwon FC, 2
+
+FC Seoul, 1
+Gwangju FC, 2
+
+Busan I Park, 1
+Suwon Samsung Bluewings, 1
+
+FC Anyang, 2
+Cheongju FC, 0
+
+Cheonan City FC, 0
+Chungnam Asan FC, 1
+
+Al Bataeh, 3
+Emirates Club, 2
+
+Baniyas, 1
+Ajman, 1
+
+Khor Fakkan, 2
+Al-Ittihad Kalba, 2
+
+Al-Sharjah, 3
+Al-Wahda FC, 2
+
+Nueva Chicago, 1
+Temperley, 0
+
+Club Atlético Chacarita Juniors, 2
+Güemes, 0
+
+Talleres Remedios de Escalada, 2
+Deportivo Maipú, 3
+
+Almirante Brown, 0
+Deportivo Madryn, 1
+
+Naftan Novopolotsk, 2
+FC Isloch Minsk Region, 1
+
+Dinamo Minsk, 0
+FK Arsenal Dzerzhinsk, 0
+
+FK Arsenal Dzerzhinsk, 1
+Dinamo Minsk, 2
+
+Neman Grodno, 2
+Dynamo Brest, 0
+
+Confiança, 3
+AA Aparecidense, 1
+
+Sampaio Corrêa, 1
+Remo, 2
+
+Ferroviário, 1
+Londrina, 0
+
+Tombense, 0
+Ferroviária, 0
+
+Deportes Temuco, 0
+Deportes La Serena, 1
+
+Santiago Morning, 2
+Deportes Santa Cruz, 1
+
+Universidad de Concepción, 1
+Santiago Wanderers, 1
+
+Chongqing Tonglianglong FC, 2
+Shijiazhuang Gongfu, 1
+
+Foshan Nanshi, 1
+Shanghai Jiading Huilong, 2
+
+Jiangxi Lushan FC, 2
+Guangzhou FC, 5
+
+Nanjing City, 2
+Dalian Yingbo FC, 0
+
+Tigres FC, 0
+Orsomarso, 1
+
+Atlético Huila, 2
+Real Cartagena, 0
+
+AC Horsens, 1
+HB Køge, 1
+
+Boldklubben af 1893, 1
+Hillerød, 3
+
+Næstved Boldklub, 1
+FC Helsingør, 0
+
+Brabrand, 0
+Fremad Amager, 3
+
+HIK, 1
+Skive, 2
+
+Pharco FC, 3
+AL Wasta SC, 0
+
+ENPPI, 1
+Nogoom FC, 0
+
+Modern Sport FC, 3
+Asyut Petroleum, 0
+
+FCI Levadia Tallinn, 2
+FC Kuressaare, 0
+
+Narva Trans, 4
+Nõmme Kalju, 1
+
+FC Samtredia, 2
+Dinamo Batumi, 2
+
+FC Iberia 1999, 1
+FC Samgurali Tskhaltubo, 2
+
+Dinamo Tbilisi, 2
+FC Gagra, 0
+
+FC Torpedo Kutaisi, 1
+FC Telavi, 0
+
+Hannover 96 II U23, 8
+FC Würzburger Kickers, 6
+
+Bechem United, 1
+Aduana Stars FC, 0
+
+Legon Cities, 1
+Bofoakwa Tano, 0
+
+KA Akureyri, 2
+ÍA Akranes, 3
+
+Esteghlal Khuzestan, 3
+Havadar Tehran, 1
+
+Gol Gohar Sirjan, 1
+Zob Ahan, 2
+
+Malavan Bandar Anzali FC, 1
+Aluminium Arak, 1
+
+Nassaji Mazandaran FC, 0
+Foolad Khuzestan, 1
+
+Paykan, 0
+Esteghlal FC, 2
+
+Persepolis FC, 1
+Mes Rafsanjan FC, 0
+
+Sanat Naft Abadan, 0
+Tractor FC, 3
+
+Sepahan S.C., 4
+Shams Azar Qazvin, 1
+
+Iwaki FC, 1
+Vegalta Sendai, 2
+
+Kagoshima United, 0
+Blaublitz Akita, 0
+
+Mito Hollyhock, 2
+V-Varen Nagasaki, 3
+
+Renofa Yamaguchi FC, 2
+Shimizu S-Pulse, 0
+
+Thespa Gunma, 0
+Montedio Yamagata, 0
+
+Tochigi SC, 1
+Roasso Kumamoto, 3
+
+FC Tobol, 1
+FC Kaysar, 2
+
+FC Ordabasy, 3
+Zhetysu Taldykorgan, 1
+
+BFC Daugava Daugavpils, 1
+Valmiera FC, 6
+
+FK Sūduva Marijampolė, 1
+FK Banga Gargždai, 0
+
+FK Panevėžys, 2
+Šiauliai FA, 0
+
+Fath Union Sport, 0
+MC Oujda, 0
+
+Hassania d'Agadir, 4
+CA Youssoufia Berrechid, 1
+
+Jeunesse Sportive Soualem, 1
+RS Berkane, 2
+
+Olympic Safi, 1
+Union Touarga Sport, 3
+
+Renaissance Zemamra, 0
+Ittihad Tanger, 1
+
+SC Chabab Mohammédia, 0
+MAS de Fès, 2
+
+Egersund, 1
+Raufoss, 2
+
+Kongsvinger, 3
+Bryne FK, 1
+
+Levanger, 1
+IK Start, 1
+
+Moss FK, 1
+Aalesunds FK, 0
+
+Ranheim IL, 1
+Vålerenga IF, 3
+
+Sogndal IL, 2
+Stabæk Fotball, 3
+
+Åsane, 1
+Sandnes Ulf, 0
+
+Lysekloster IL, 0
+Hødd IL, 1
+
+Arendal, 1
+Notodden FK, 2
+
+Strømmen IF, 3
+Strindheim, 0
+
+Sportivo Trinidense, 0
+Guaraní, 1
+
+Tacuary, 2
+Nacional Asunción, 5
+
+CS 2 de Mayo, 1
+Olimpia, 1
+
+Mendiola FC, 1
+Taguig FC, 9
+
+Maharlika Manila FC, 5
+Manila Montet FC, 0
+
+United City FC, 1
+Stallion Laguna, 1
+
+IK Brage, 1
+Östers IF, 0
+
+Östersunds FK, 0
+Sandvikens IF, 2
+
+Landskrona BoIS, 2
+Trelleborgs FF, 0
+
+Örebro SK, 2
+IK Oddevold, 2
+
+Friska Viljor FC, 0
+FC Stockholm Internazionale, 4
+
+Ariana FC, 2
+BK Olympic, 2
+
+FC Rosengård, 1
+Norrby IF, 1
+
+Lunds BK, 2
+Jönköpings Södra, 0
+
+Oskarshamns AIK, 2
+Eskilsminne IF, 3
+
+Ängelholms FF, 3
+Onsala BK, 0
+
+Avenir Sportif De La Marsa, 2
+CA Bizertin, 2
+
+ES Métlaoui, 1
+EGS Gafsa, 1
+
+US Tataouine, 0
+AS Soliman, 2
+
+Progreso, 0
+Cerro Largo, 0
+
+Montevideo Wanderers, 2
+Rampla Juniors, 1
+
+Canada, 2
+Mexico, 0
+
+Brazil, 4
+Jamaica, 0
+
+USA, 4
+South Korea, 0
+
+Guatemala, 1
+Chile, 6
+
+Nicaragua, 1
+Peru, 0
+
+Poland U21, 1
+North Macedonia U21, 2

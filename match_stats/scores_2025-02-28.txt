@@ -175,9 +175,6 @@ Damac FC, 0
 AFC Unirea 04 Slobozia, 0
 SC Oțelul Galați, 1
 
-Sepsi OSK, 1
-CFR 1907 Cluj, 1
-
 Stellenbosch, 1
 Polokwane City, 1
 
@@ -195,9 +192,6 @@ Lokomotiv Moscow, 1
 
 Pari Nizhny Novgorod, 2
 Akron Togliatti, 1
-
-Ulsan HD, 1
-Jeonbuk Hyundai Motors, 0
 
 Gwangju FC, 2
 FC Anyang, 1
@@ -319,20 +313,11 @@ Lokomotiv Sofia, 2
 Deportes Recoleta, 3
 Deportes Santa Cruz, 2
 
-Santiago Morning, 2
-Deportes Temuco, 1
-
-Universidad de Concepción, 2
-Deportes Magallanes, 1
-
 Atlético Cali, 0
 Atlético Huila, 3
 
 San Carlos, 1
 Municipal Liberia, 0
-
-LD Alajuelense, 0
-Puntarenas FC, 0
 
 Ethnikos Achnas, 0
 Apollon Limassol, 1
@@ -385,9 +370,6 @@ FC Versailles 78, 0
 FC Iberia 1999, 2
 FC Telavi, 0
 
-FC Samgurali Tskhaltubo, 0
-FC Kolkheti-1913 Poti, 0
-
 FC Viktoria Köln, 1
 1. FC Saarbrücken, 2
 
@@ -396,9 +378,6 @@ SV Meppen, 0
 
 Berliner FC Dynamo, 1
 Greifswalder FC, 4
-
-FC Carl Zeiss Jena, 2
-VSG Altglienicke, 2
 
 FSV Zwickau, 2
 1. FC Lokomotive Leipzig, 1
@@ -429,9 +408,6 @@ Rajasthan United FC, 1
 
 Havadar Tehran, 0
 Gol Gohar Sirjan, 1
-
-Nassaji Mazandaran FC, 1
-Shams Azar Qazvin, 0
 
 Kerry FC, 0
 Dundalk FC, 1
@@ -477,9 +453,6 @@ Montedio Yamagata, 2
 
 Sagan Tosu, 1
 FC Imabari, 4
-
-V-Varen Nagasaki, 1
-Jubilo Iwata, 0
 
 Atyrau, 2
 Yelimay Semey, 1
@@ -579,9 +552,6 @@ Livingston, 1
 
 Hougang United, 0
 Young Lions, 3
-
-AIK, 2
-IFK Värnamo, 0
 
 Degerfors IF, 0
 Trelleborgs FF, 1

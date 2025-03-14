@@ -1,0 +1,173 @@
+Portugal, 2
+Croatia, 1
+
+Scotland, 2
+Poland, 3
+
+Denmark, 2
+Switzerland, 0
+
+Serbia, 0
+Spain, 0
+
+Azerbaijan, 1
+Sweden, 3
+
+Estonia, 0
+Slovakia, 1
+
+Belarus, 0
+Bulgaria, 0
+
+Northern Ireland, 2
+Luxembourg, 0
+
+San Marino, 1
+Liechtenstein, 0
+
+Bolivia, 4
+Venezuela, 0
+
+Argentina, 3
+Chile, 0
+
+Tunisia, 1
+Madagascar, 0
+
+Central African Republic, 3
+Lesotho, 1
+
+Algeria, 2
+Equatorial Guinea, 0
+
+Ghana, 0
+Angola, 1
+
+Guinea-Bissau, 1
+Eswatini, 0
+
+Congo Republic, 1
+South Sudan, 0
+
+Malawi, 2
+Burundi, 3
+
+Uzbekistan, 1
+North Korea, 0
+
+Iran, 1
+Kyrgyzstan, 0
+
+Qatar, 1
+United Arab Emirates, 3
+
+Iraq, 1
+Oman, 0
+
+Jordan, 1
+Kuwait, 1
+
+Saudi Arabia, 1
+Indonesia, 1
+
+Vorskla Poltava, 5
+RFS, 0
+
+Paysandu SC, 0
+Amazonas FC, 1
+
+Dundalk FC, 1
+St. Patrick's Athletic, 2
+
+Vietnam, 0
+Russia, 3
+
+SC Neusiedl 1919, 3
+SV Leobendorf, 0
+
+Palestino, 0
+Universidad de Chile, 5
+
+Qingdao Red Lions, 0
+Shanghai Jiading Huilong, 0
+
+Atlético Cali, 0
+Boca Juniors de Cali, 0
+
+Tigres FC, 1
+Bogotá FC, 0
+
+Deportes Quindío, 0
+Atlético Huila, 0
+
+Latvia U21, 0
+Norway U21, 1
+
+Italy U21, 7
+San Marino U21, 0
+
+Kazakhstan U21, 4
+Malta U21, 1
+
+Georgia U21, 3
+Moldova U21, 0
+
+Netherlands U21, 5
+North Macedonia U21, 0
+
+Croatia U21, 2
+Faroe Islands U21, 1
+
+Guyana, 1
+Suriname, 3
+
+Costa Rica, 3
+Guadeloupe, 0
+
+Guatemala, 3
+Martinique, 1
+
+Montserrat, 1
+El Salvador, 4
+
+Bonaire, 1
+Saint Vincent and the Grenadines, 1
+
+VfL Bochum 1848, 3
+Rot-Weiss Essen, 1
+
+Grasshopper Club Zürich, 1
+FC Aarau, 2
+
+Darfo Boario, 0
+Brescia, 5
+
+Preußen Münster, 3
+SV Werder Bremen, 2
+
+Grazer AK 1902, 3
+SV Stripfing, 0
+
+SV Wehen Wiesbaden, 1
+SV 07 Elversberg, 5
+
+Czechia U20, 1
+Italy U20, 2
+
+Romania U20, 2
+Germany U20, 3
+
+North Korea U20, 9
+Costa Rica U20, 0
+
+Netherlands U20, 3
+Argentina U20, 3
+
+Japan U20, 4
+Ghana U20, 1
+
+Austria U20, 3
+New Zealand U20, 1
+
+Hungary U21, 1
+Slovakia U21, 2

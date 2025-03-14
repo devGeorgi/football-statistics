@@ -1,0 +1,212 @@
+Paris Saint-Germain, 0
+Borussia Dortmund, 1
+
+Universitario, 1
+Junior Barranquilla, 1
+
+Palestino, 1
+Flamengo, 0
+
+Caracas F.C., 0
+Peñarol, 1
+
+Rosario Central, 0
+Atlético Mineiro, 1
+
+Deportivo Táchira, 1
+Libertad, 1
+
+Nacional, 2
+River Plate, 2
+
+Universidad César Vallejo, 1
+Independiente Medellín, 5
+
+Club Always Ready, 3
+Defensa y Justicia, 0
+
+Alianza Valledupar FC, 0
+Cruzeiro, 3
+
+Sportivo Ameliano, 2
+Danubio, 1
+
+Nacional Asunción, 0
+Corinthians, 2
+
+Racing de Montevideo, 2
+Argentinos Juniors, 1
+
+FK IMT Beograd, 0
+FK Novi Pazar, 1
+
+FK Radnik Surdulica, 0
+FK Javor Ivanjica, 1
+
+FK Spartak Subotica, 3
+FK Radnički Niš, 1
+
+FK Voždovac, 2
+FK Železničar Pančevo, 3
+
+VfL Osnabrück, 0
+FC Schalke 04, 4
+
+Botafogo-SP, 0
+Mirassol, 0
+
+Bolton Wanderers, 2
+Barnsley, 3
+
+Crawley Town, 3
+Milton Keynes Dons, 0
+
+Al Ahly FC, 4
+Al-Ittihad Alexandria, 1
+
+Cape Town City FC, 2
+Moroka Swallows, 0
+
+Kaizer Chiefs, 2
+TS Galaxy, 2
+
+Royal AM, 0
+Mamelodi Sundowns, 0
+
+Royal AM, 0
+Cape Town Spurs FC, 1
+
+Supersport United, 1
+Sekhukhune United, 1
+
+Al-Wahda FC, 1
+Al-Nasr Dubai, 0
+
+Patronato, 0
+San Miguel, 1
+
+Forge FC, 1
+CF Montréal, 1
+
+Cavalry FC, 1
+Vancouver Whitecaps, 2
+
+San Carlos, 0
+Deportivo Saprissa, 3
+
+Municipal Liberia, 1
+Municipal Grecia, 0
+
+Ethnikos Achnas, 2
+AEL Limassol, 0
+
+Karmiotissa Polemidion, 1
+Nea Salamina Famagusta, 3
+
+Othellos Athienou, 3
+Doxa Katokopias, 0
+
+1. SK Prostějov, 2
+1.FK Příbram, 1
+
+Sparta Praha B U21, 1
+SK Líšeň, 3
+
+Wuppertaler SV, 1
+Fortuna Düsseldorf II U23, 0
+
+Atalanta U23, 3
+Trento, 1
+
+Audace Cerignola, 1
+Giugliano, 1
+
+Giana Erminio, 3
+Pro Vercelli, 0
+
+Gubbio, 0
+Rimini, 1
+
+Juventus Next Gen U23, 2
+Arezzo, 0
+
+Legnago Salus, 1
+Lumezzane, 0
+
+Pescara, 2
+Pontedera, 2
+
+Taranto, 0
+Latina, 0
+
+AZ Picerno, 2
+Crotone, 0
+
+Grobiņas SC, 1
+BFC Daugava Daugavpils, 3
+
+FK Tukums 2000, 2
+FS Jelgava, 1
+
+RS Berkane, 3
+Moghreb Atlético Tetuán, 2
+
+Kaya-Iloilo, 9
+Philippine Air Force FC, 0
+
+Airdrieonians, 2
+Partick Thistle, 2
+
+Alloa Athletic, 2
+Hamilton Academical, 2
+
+Montrose, 0
+Inverness Caledonian Thistle, 0
+
+Dumbarton, 2
+Stirling Albion, 1
+
+The Spartans FC, 2
+Peterhead, 1
+
+Örgryte IS, 0
+Helsingborgs IF, 1
+
+Kanchanaburi Power FC, 3
+Samut Sakhon City, 1
+
+Beşiktaş, 1
+MKE Ankaragücü, 0
+
+Pittsburgh Riverhounds, 0
+FC Tulsa, 1
+
+Atlanta United, 3
+Charlotte Independence, 0
+
+Houston Dynamo, 12
+Detroit City FC, 13
+
+FC Dallas, 1
+Memphis 901 FC, 0
+
+Orange County SC, 1
+Loudoun United FC, 2
+
+San Jose Earthquakes, 1
+Oakland Roots SC, 0
+
+Sacramento Republic FC, 2
+Monterey Bay FC, 0
+
+Quảng Nam, 2
+Công An Hà Nội, 0
+
+Khánh Hoà, 2
+Hải Phòng, 4
+
+Nam Định, 3
+Becamex Bình Dương, 1
+
+Quy Nhơn Bình Định FC, 2
+Hồng Lĩnh Hà Tĩnh, 0

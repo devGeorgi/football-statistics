@@ -91,9 +91,6 @@ Barracas Central, 3
 Sarmiento, 1
 San Martín de San Juan, 1
 
-Club Atletico Colón, 0
-Temperley, 0
-
 A'Ali FC, 1
 Al Khalidiyah, 2
 
@@ -168,9 +165,6 @@ Gaziantep FK, 0
 
 Boluspor, 1
 Galatasaray, 4
-
-Estudiantes de Mérida, 2
-Monagas, 0
 
 GAIS Göteborg, 0
 Boldklubben af 1893, 2

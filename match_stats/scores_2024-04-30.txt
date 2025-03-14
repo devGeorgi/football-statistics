@@ -1,0 +1,113 @@
+FC Bayern München, 2
+Real Madrid, 2
+
+Estudiantes de La Plata, 4
+Boca Juniors, 2
+
+Philadelphia Union, 2
+Seattle Sounders FC, 3
+
+Coventry City, 1
+Ipswich Town, 2
+
+Cremonese, 2
+Pisa, 1
+
+Central Coast Mariners, 2
+Adelaide United, 0
+
+Meizhou Hakka, 1
+Qingdao West Coast, 1
+
+Zhejiang, 4
+Henan Songshan Longmen, 1
+
+Changchun Yatai, 1
+Shenzhen Peng City, 1
+
+Qingdao Hainiu, 0
+Shanghai Port, 5
+
+Chengdu Rongcheng, 2
+Wuhan Three Towns, 2
+
+Libertad, 2
+LDU, 3
+
+Cape Town Spurs FC, 0
+Polokwane City, 1
+
+Richards Bay FC, 2
+AmaZulu FC, 1
+
+CF Pachuca, 2
+Club América, 1
+
+Daegu FC, 1
+Ulsan HD, 2
+
+Gangwon FC, 2
+Pohang Steelers, 4
+
+Incheon United, 3
+Jeonbuk Hyundai Motors, 0
+
+Jeju SK, 1
+Gwangju FC, 3
+
+Pomigliano, 2
+Milan, 2
+
+Inter, 2
+Fiorentina, 2
+
+Bahia, 1
+Criciúma, 0
+
+Operário-PR, 0
+Grêmio, 0
+
+Atlético Mineiro, 2
+Sport Recife, 0
+
+Guangxi Pingguo Haliao, 1
+Yunnan Yukun, 0
+
+Internacional de Palmira, 3
+Atlético Cali, 0
+
+Tigres FC, 0
+Bogotá FC, 0
+
+Herediano, 1
+LD Alajuelense, 1
+
+FCI Levadia Tallinn, 1
+Paide Linnameeskond, 0
+
+SSV Jeddeloh, 1
+SV Drochtersen/Assel, 0
+
+FC Würzburger Kickers, 3
+SpVgg Bayreuth, 0
+
+Shams Azar Qazvin, 2
+Paykan, 1
+
+Paços de Ferreira, 0
+AVS - Futebol SAD, 4
+
+Rodina Moscow, 1
+FC Tyumen, 1
+
+Al-Ittihad, 1
+Al-Hilal, 2
+
+Chornomorets Odesa, 1
+Shakhtar Donetsk, 4
+
+Inter de Barinas, 1
+Deportivo La Guaira, 2
+
+Universidad Central, 0
+Metropolitanos, 0

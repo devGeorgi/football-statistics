@@ -1,0 +1,209 @@
+Tottenham Hotspur, 0
+Manchester City, 2
+
+Osasuna, 1
+Mallorca, 1
+
+Real Madrid, 5
+Deportivo Alavés, 0
+
+Girona FC, 0
+Villarreal, 1
+
+Talleres, 1
+Cobresal, 0
+
+LDU, 0
+Junior Barranquilla, 1
+
+Millonarios, 1
+Palestino, 1
+
+Peñarol, 2
+Atlético Mineiro, 0
+
+River Plate, 2
+Libertad, 0
+
+Defensa y Justicia, 1
+Independiente Medellín, 1
+
+Nacional Potosí, 2
+Sportivo Trinidense, 1
+
+Sportivo Ameliano, 1
+Rayo Zuliano, 0
+
+Racing de Montevideo, 2
+Nacional Asunción, 1
+
+Corinthians, 4
+Argentinos Juniors, 0
+
+Rangers, 5
+Dundee FC, 2
+
+FC Emmen, 2
+FC Dordrecht, 2
+
+De Graafschap, 2
+ADO Den Haag, 3
+
+Avaí, 2
+CRB, 1
+
+Vila Nova FC, 2
+Novorizontino, 1
+
+Botafogo-SP, 0
+Chapecoense, 0
+
+Coritiba, 1
+Guarani, 0
+
+Shanghai Shenhua, 2
+Qingdao Hainiu, 0
+
+Mladá Boleslav, 0
+1. FC Slovácko, 1
+
+AC Sparta Praha, 2
+Baník Ostrava, 1
+
+Al-Ittihad Alexandria, 0
+Smouha, 2
+
+Tala'ea El-Gaish, 1
+Ismaily, 1
+
+ZED FC, 0
+Zamalek SC, 0
+
+Albirex Niigata, 3
+Yokohama F. Marinos, 1
+
+Hokkaido Consadole Sapporo, 1
+Jubilo Iwata, 0
+
+Kashiwa Reysol, 2
+Shonan Bellmare, 1
+
+Machida Zelvia, 2
+Cerezo Osaka, 1
+
+Nagoya Grampus, 3
+FC Tokyo, 1
+
+Sagan Tosu, 5
+Kawasaki Frontale, 2
+
+Sanfrecce Hiroshima, 1
+Kashima Antlers, 3
+
+Tokyo Verdy, 0
+Gamba Osaka, 0
+
+Vissel Kobe, 1
+Avispa Fukuoka, 0
+
+Urawa Red Diamonds, 3
+Kyoto Sanga FC, 0
+
+Royal AM, 0
+Mamelodi Sundowns, 2
+
+North Carolina FC, 2
+Loudoun United FC, 0
+
+Gwangju FC, 2
+Ulsan HD, 1
+
+Bucheon FC 1995, 0
+Ansan Greeners FC, 0
+
+Chungnam Asan FC, 1
+Gimpo FC, 2
+
+Jeonnam Dragons, 2
+Seongnam FC, 0
+
+Cheonan City FC, 0
+Seoul E-Land FC, 4
+
+Cheongju FC, 0
+Busan I Park, 0
+
+FC Anyang, 1
+Gyeongnam FC, 0
+
+Al-Sharjah, 0
+Hatta, 0
+
+Baniyas, 3
+Al Bataeh, 3
+
+Ajman, 2
+Al-Jazira, 0
+
+SD Eibar, 0
+Barcelona, 4
+
+Al Khalidiyah, 7
+Al Hala Muharraq, 0
+
+Al Najma Manama, 1
+Al-Muharraq, 1
+
+Shanghai Mitsubishi Heavy Industries Fly, 6
+Yanbian Longding, 5
+
+FC Samgurali Tskhaltubo, 2
+FC Gagra, 0
+
+FC Iberia 1999, 1
+FC Dila Gori, 4
+
+PAOK B, 2
+Iraklis 1908, 2
+
+Bali United FC, 1
+Persib Bandung, 1
+
+Atalanta U23, 0
+Catania, 1
+
+Juventus Next Gen U23, 0
+Casertana, 1
+
+Perugia, 0
+Carrarese, 2
+
+Taranto, 0
+L.R. Vicenza, 1
+
+Triestina, 1
+Benevento, 1
+
+FK Liepaja, 1
+Riga FC, 1
+
+Baltika Kaliningrad, 1
+FC Spartak Moscow, 0
+
+Partick Thistle, 1
+Raith Rovers, 2
+
+Dumbarton, 2
+The Spartans FC, 1
+
+Örebro SK, 2
+Degerfors IF, 1
+
+Vasalunds IF, 0
+AFC Eskilstuna, 1
+
+Basel, 2
+FC Stade-Lausanne-Ouchy, 0
+
+Grasshopper Club Zürich, 2
+Yverdon-Sport FC, 0

@@ -25,9 +25,6 @@ Club Tijuana, 1
 Água Santa, 1
 São Bernardo, 2
 
-Red Bull Bragantino, 1
-Corinthians, 2
-
 Santos, 2
 Mirassol, 1
 
@@ -67,9 +64,6 @@ A'Ali FC, 1
 Malkiya Club, 0
 Manama Club, 0
 
-RSC Anderlecht, 1
-Royal Antwerp FC, 0
-
 Madureira, 1
 Flamengo, 1
 
@@ -93,12 +87,6 @@ Confiança, 3
 
 Sporting FC, 1
 CS Cartaginés, 1
-
-Deportivo Saprissa, 0
-Municipal Pérez Zeledón, 0
-
-ENPPI, 1
-Ismaily, 0
 
 Delhi FC, 1
 Churchill Brothers SC, 2

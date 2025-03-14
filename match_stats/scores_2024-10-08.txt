@@ -1,0 +1,158 @@
+AS Roma, 1
+VfL Wolfsburg, 0
+
+Olympique Lyonnais, 3
+Galatasaray Istanbul, 0
+
+Celtic LFC, 0
+FC Twente Vrouwen, 2
+
+Chelsea FC Women, 3
+Real Madrid, 2
+
+Loudoun United FC, 0
+Indy Eleven, 1
+
+Tranmere Rovers, 2
+Accrington Stanley, 1
+
+Wrexham, 3
+Wolverhampton U21, 0
+
+Carlisle United, 0
+Wigan Athletic, 2
+
+Morecambe, 4
+Nottingham Forest U21, 2
+
+Fleetwood Town, 3
+Barrow, 0
+
+Bolton Wanderers, 2
+Aston Villa U21, 5
+
+Crewe Alexandra, 1
+Harrogate Town, 0
+
+Grimsby Town, 1
+Lincoln City, 2
+
+Rotherham United, 3
+Newcastle United U21, 1
+
+Shrewsbury Town, 0
+Birmingham City, 4
+
+Crawley Town, 3
+AFC Wimbledon, 4
+
+Peterborough United, 2
+Stevenage, 0
+
+Leyton Orient, 5
+Colchester United, 3
+
+Milton Keynes Dons, 5
+Arsenal U21, 3
+
+Notts County, 0
+Northampton Town, 2
+
+Swindon Town, 4
+Bristol Rovers, 0
+
+Sabah FC, 2
+Abu Dhabi Country Club, 2
+
+Bam Khatoon FC, 1
+Kaya FC, 1
+
+Taichung Blue Whale, 0
+Urawa Red Diamonds Ladies, 2
+
+Deportes Quindío, 3
+Boca Juniors de Cali, 1
+
+Orsomarso, 0
+Atlético Huila, 1
+
+Tamworth, 2
+Gateshead, 1
+
+Albirex Niigata, 4
+Kawasaki Frontale, 1
+
+Yokohama F. Marinos, 1
+Nagoya Grampus, 3
+
+Zonguldakspor FK, 2
+Kırıkkale FK, 4
+
+Fethiyespor, 6
+Düzcespor, 5
+
+23 Elazığ FK, 3
+Polatlı 1926 SK, 2
+
+Adıyaman FK, 5
+Afyonspor, 0
+
+Artvin Hopaspor, 1
+Belediye Derincespor, 3
+
+Ağrı 1970 SK, 4
+Arnavutköy Belediye FSK, 0
+
+Amasyaspor FK, 4
+Bucak Belediyesi Oğuzhanspor, 0
+
+Ankara Demirspor, 5
+Mazıdağı Fosfat SK, 4
+
+Bayburt Özel İdare Spor, 2
+İzmir Çoruhlu FK, 0
+
+Beykoz Anadolu Spor A.Ş., 0
+Tire FK, 3
+
+Beykoz İshaklı SF, 2
+Mardin 1969 Spor, 6
+
+Bitlis Özgüzelderespor, 4
+Kelkit Hürriyet Spor, 5
+
+Ergene Velimeşe Spor, 1
+Çankaya FK, 0
+
+Etimesgut Belediyespor, 2
+Şırnak Petrolspor, 1
+
+Fatsa Belediyespor, 2
+Silifke Belediyespor, 1
+
+Kahramanmaraşspor, 0
+Çorluspor 1947, 3
+
+Karabük İdman Yurdu FK, 0
+Bursa Nilüfer FK, 4
+
+Küçükçekmece Sinop Spor, 7
+Altınordu, 3
+
+Muğlaspor, 6
+Sarıyer, 8
+
+Nazillispor, 1
+Somaspor, 5
+
+Niğde Belediyesi Spor, 1
+68 Aksaray Belediye Spor, 0
+
+Yozgat Belediye Bozokspor, 0
+Kırklarelispor, 2
+
+Çayeli Spor, 0
+Yeşil Yalovaspor, 2
+
+Romania U19, 0
+Norway U19, 2

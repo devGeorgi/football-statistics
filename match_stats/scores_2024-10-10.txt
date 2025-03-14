@@ -1,0 +1,164 @@
+Israel, 1
+France, 4
+
+Italy, 2
+Belgium, 2
+
+England, 1
+Greece, 2
+
+Finland, 1
+Ireland, 2
+
+Austria, 4
+Kazakhstan, 0
+
+Norway, 3
+Slovenia, 0
+
+Latvia, 0
+North Macedonia, 3
+
+Faroe Islands, 2
+Armenia, 2
+
+Gibraltar, 1
+San Marino, 0
+
+Moldova, 2
+Andorra, 0
+
+Bolivia, 1
+Colombia, 0
+
+Ecuador, 0
+Paraguay, 0
+
+Venezuela, 1
+Argentina, 1
+
+Chile, 1
+Brazil, 2
+
+Cape Verde, 0
+Botswana, 1
+
+Algeria, 5
+Togo, 1
+
+Ghana, 0
+Sudan, 0
+
+DR Congo, 1
+Tanzania, 0
+
+Namibia, 0
+Zimbabwe, 1
+
+Burkina Faso, 4
+Burundi, 1
+
+Uzbekistan, 0
+Iran, 0
+
+Qatar, 3
+Kyrgyzstan, 1
+
+United Arab Emirates, 1
+North Korea, 1
+
+Jordan, 0
+South Korea, 2
+
+Oman, 4
+Kuwait, 0
+
+Iraq, 1
+Palestine, 0
+
+Bahrain, 2
+Indonesia, 2
+
+Saudi Arabia, 0
+Japan, 2
+
+Independiente Medellín, 2
+Alianza Valledupar FC, 0
+
+Independiente Santa Fe, 3
+Boyacá Chicó FC, 1
+
+York United FC, 1
+Pacific FC, 2
+
+Liechtenstein, 1
+Hong Kong, 0
+
+Syria, 1
+Tajikistan, 0
+
+Leones FC, 1
+Barranquilla FC, 2
+
+Hungary U21, 2
+Malta U21, 1
+
+Spain U21, 4
+Kazakhstan U21, 3
+
+Sweden U21, 3
+Georgia U21, 2
+
+Estonia U21, 1
+Israel U21, 0
+
+Iceland U21, 0
+Lithuania U21, 2
+
+Correcaminos UAT, 3
+Club Atlético Morelia, 0
+
+French Guiana, 2
+Honduras, 3
+
+Cuba, 2
+Trinidad and Tobago, 2
+
+Nicaragua, 0
+Jamaica, 2
+
+Bonaire, 0
+Montserrat, 1
+
+Saint Vincent and the Grenadines, 2
+El Salvador, 3
+
+Uşakspor, 0
+Bursaspor, 1
+
+Erciyes 38 FSK, 2
+Orduspor 1967, 1
+
+Grasshopper Club Zürich, 6
+Neuchâtel Xamax, 0
+
+Sturm Graz II, 4
+Floridsdorfer AC, 2
+
+SC Verl, 0
+Borussia M'gladbach, 5
+
+FC Groningen, 0
+Viking FK, 0
+
+Leganés, 3
+Real Valladolid, 1
+
+Italy U19, 3
+Wales U19, 3
+
+Montenegro U19, 2
+Albania U19, 3
+
+Netherlands U21, 1
+Mexico U23, 0

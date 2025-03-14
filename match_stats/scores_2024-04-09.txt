@@ -1,0 +1,296 @@
+Arsenal, 2
+FC Bayern München, 2
+
+Real Madrid, 3
+Manchester City, 3
+
+Fluminense, 2
+Colo Colo, 1
+
+Estudiantes de La Plata, 2
+The Strongest, 1
+
+Grêmio, 0
+Huachipato, 2
+
+Junior Barranquilla, 1
+Universitario, 1
+
+Libertad, 3
+Deportivo Táchira, 0
+
+Boca Juniors, 1
+Sportivo Trinidense, 0
+
+Athletico, 6
+Rayo Zuliano, 0
+
+Danubio, 0
+Sportivo Ameliano, 0
+
+Argentinos Juniors, 0
+Racing de Montevideo, 3
+
+Corinthians, 4
+Nacional Asunción, 0
+
+Millwall, 1
+Leicester City, 0
+
+Plymouth Argyle, 1
+Queens Park Rangers, 1
+
+Preston North End, 4
+Huddersfield Town, 1
+
+Sheffield Wednesday, 2
+Norwich City, 2
+
+Southampton, 2
+Coventry City, 1
+
+Leeds United, 0
+Sunderland, 0
+
+Shanghai Shenhua, 4
+Wuhan Three Towns, 1
+
+Qingdao West Coast, 1
+Tianjin Jinmen Tiger, 3
+
+Cangzhou Mighty Lions, 2
+Changchun Yatai, 0
+
+Chengdu Rongcheng, 3
+Zhejiang, 0
+
+Blackpool, 1
+Fleetwood Town, 0
+
+Bristol Rovers, 0
+Reading, 2
+
+Charlton Athletic, 2
+Wigan Athletic, 2
+
+Cheltenham Town, 0
+Carlisle United, 1
+
+Leyton Orient, 2
+Exeter City, 2
+
+Stevenage, 2
+Barnsley, 1
+
+Barrow, 0
+Bradford City, 0
+
+Colchester United, 1
+Stockport County, 2
+
+Doncaster Rovers, 2
+Walsall, 1
+
+Harrogate Town, 1
+Grimsby Town, 0
+
+Mansfield Town, 1
+Forest Green Rovers, 0
+
+Morecambe, 0
+Crewe Alexandra, 1
+
+Newport County, 1
+Accrington Stanley, 3
+
+Wrexham, 4
+Crawley Town, 1
+
+El Gouna FC, 0
+Pyramids FC, 4
+
+Chennaiyin FC, 2
+NorthEast United, 1
+
+Yokohama F. Marinos, 2
+Gamba Osaka, 0
+
+Cape Town Spurs FC, 0
+Mamelodi Sundowns, 1
+
+Tigres UANL, 4
+Columbus Crew, 5
+
+Club América, 5
+New England Revolution, 2
+
+Charleston Battery, 3
+Louisville City FC, 2
+
+Cheongju FC, 0
+Gimpo FC, 0
+
+FC Anyang, 3
+Bucheon FC 1995, 0
+
+Seongnam FC, 2
+Seoul E-Land FC, 2
+
+Suwon Samsung Bluewings, 5
+Jeonnam Dragons, 1
+
+Ansan Greeners FC, 1
+Chungnam Asan FC, 0
+
+Cheonan City FC, 2
+Busan I Park, 4
+
+Banfield, 6
+Ciudad de Bolivar, 0
+
+CRB, 4
+Botafogo-PB, 3
+
+Lokomotiv Sofia, 1
+Beroe Stara Zagora, 0
+
+Barnet, 1
+Bromley, 1
+
+Gateshead, 0
+Aldershot Town, 0
+
+Maidenhead United, 3
+Hartlepool United, 1
+
+Rochdale, 0
+Boreham Wood, 0
+
+Solihull Moors, 3
+Ebbsfleet United, 0
+
+Wealdstone, 1
+Southend United, 2
+
+Finland, 2
+Italy, 1
+
+Netherlands, 1
+Norway, 0
+
+Israel, 2
+Serbia, 4
+
+Scotland, 1
+Slovakia, 0
+
+Denmark, 4
+Belgium, 2
+
+Spain, 3
+Czechia, 1
+
+Sweden, 0
+France, 1
+
+Ireland, 0
+England, 2
+
+Bosnia & Herzegovina, 1
+Northern Ireland, 3
+
+Malta, 0
+Portugal, 2
+
+Poland, 1
+Austria, 3
+
+Germany, 3
+Iceland, 1
+
+Kosovo, 0
+Wales, 6
+
+Croatia, 1
+Ukraine, 0
+
+Belarus, 3
+Georgia, 0
+
+Lithuania, 1
+Cyprus, 0
+
+North Macedonia, 0
+Slovenia, 5
+
+Moldova, 0
+Latvia, 1
+
+Albania, 2
+Estonia, 0
+
+Montenegro, 5
+Faroe Islands, 1
+
+Andorra, 0
+Greece, 3
+
+Azerbaijan, 0
+Switzerland, 4
+
+Türkiye, 2
+Hungary, 1
+
+Bulgaria, 2
+Armenia, 3
+
+Romania, 1
+Kazakhstan, 0
+
+1.FC Phönix Lübeck, 1
+Eimsbütteler TV, 2
+
+Valmiera FC, 1
+Grobiņas SC, 1
+
+FK Liepaja, 1
+FK Auda, 0
+
+FC Hegelmann, 0
+Dainava Alytus, 1
+
+Cancún FC, 2
+Dorados de Sinaloa, 2
+
+Club Atletico La Paz, 0
+Venados, 1
+
+Ayr United, 1
+Greenock Morton, 1
+
+Raith Rovers, 1
+Airdrieonians, 3
+
+NK Maribor, 5
+NŠ Mura, 0
+
+Helsingborgs IF, 1
+IK Brage, 1
+
+The New Saints, 4
+Bala Town, 1
+
+Pontypridd United, 0
+Aberystwyth Town, 0
+
+Costa Rica, 2
+Peru, 1
+
+Mexico, 0
+Australia, 2
+
+Japan, 1
+Brazil, 4
+
+USA, 7
+Canada, 6

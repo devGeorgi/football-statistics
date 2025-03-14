@@ -1,0 +1,89 @@
+Santos, 2
+Ituano, 0
+
+Boyacá Chicó FC, 0
+Once Caldas, 1
+
+FC Botoșani, 2
+SC Oțelul Galați, 3
+
+FC Petrolul Ploieşti, 0
+FC Gloria Buzău, 0
+
+Halmstads BK, 1
+AIK, 2
+
+Hammarby IF, 0
+IFK Göteborg, 1
+
+ABC, 1
+Tombense, 0
+
+Ferroviária, 2
+Remo, 1
+
+XV de Jaú, 1
+Mirassol, 0
+
+Chengdu Rongcheng, 2
+Nantong Zhiyun, 0
+
+Pyramids FC, 4
+Al Nasr Cairo, 0
+
+Italy U19, 2
+Norway U19, 1
+
+Northern Ireland U19, 0
+Ukraine U19, 0
+
+Netherlands U19, 1
+Germany U19, 1
+
+FC Haka, 4
+Ilves, 3
+
+FH Hafnarfjörður, 3
+HK Kópavogur, 1
+
+Fylkir Reykjavík, 3
+ÍA Akranes, 0
+
+Maccabi Tel Aviv, 2
+Maccabi Petach Tikva, 0
+
+Alania Vladikavkaz, 0
+FC Ufa, 0
+
+Ferencváros TC, 2
+West Ham United, 2
+
+Al-Sharjah, 3
+SK Líšeň, 1
+
+Rosenborg BK, 1
+Manchester United, 0
+
+Hallwang, 3
+UFC Hallein, 7
+
+Fortuna Düsseldorf, 5
+Galatasaray, 2
+
+Knockbreda, 1
+Dundela, 1
+
+Sevilla, 0
+Orlando Pirates, 2
+
+Armadale SC, 2
+Perth Glory, 4
+
+NK Slaven Belupo, 0
+Qarabağ, 1
+
+Paraguay, 0
+Chile, 5
+
+Russia, 0
+North Korea, 0

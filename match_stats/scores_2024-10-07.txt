@@ -1,0 +1,89 @@
+Barracas Central, 1
+Independiente Rivadavia, 1
+
+Banfield, 1
+Estudiantes de La Plata, 2
+
+Defensa y Justicia, 2
+Rosario Central, 1
+
+Atlético Tucumán, 1
+Tigre, 2
+
+Goiás, 3
+Santos, 1
+
+Cobreloa, 4
+Deportes Copiapó, 1
+
+Fortaleza CEIF, 3
+Jaguares de Córdoba, 1
+
+Deportivo Pereira, 1
+Deportes Tolima, 0
+
+Bradford City, 3
+Newport County, 1
+
+Macará, 0
+Delfín, 2
+
+Bayer Leverkusen, 1
+FC Carl Zeiss Jena, 0
+
+Club Ferro Carril Oeste, 1
+Nueva Chicago, 2
+
+Deportivo Morón, 0
+Gimnasia y Esgrima Mendoza, 1
+
+Deportes Magallanes, 1
+Antofagasta, 0
+
+Deportes Recoleta, 1
+Santiago Morning, 1
+
+Curicó Unido, 2
+Santiago Wanderers, 2
+
+Atlético Cali, 1
+Internacional de Palmira, 1
+
+Hvidovre, 0
+Kolding IF, 0
+
+GS Diagoras Rodou, 0
+Kampaniakos, 1
+
+Asteras B Aktor, 1
+Chania F.C., 1
+
+GS Ilioupolis, 2
+GE Panachaiki, 1
+
+Feralpisalò, 1
+AlbinoLeffe, 0
+
+Ternana, 0
+US Campobasso 1919, 0
+
+Crotone, 0
+Avellino, 4
+
+Viking FK II, 1
+Eik-Tønsberg, 2
+
+Vålerenga IF II, 0
+Gjøvik-Lyn, 4
+
+FC Bihor Oradea, 1
+FCU 1948 Craiova, 1
+
+FK Csíkszereda Miercurea Ciuc, 1
+CSM Focșani 2007, 0
+
+Sokol Saratov, 0
+Rotor Volgograd, 1
+
+Kilis Belediyespor, 2
+Balıkesirspor, 0

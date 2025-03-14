@@ -1,0 +1,203 @@
+Klaksvíkar Ítróttarfelag, 2
+FK Borac Banja Luka, 1
+
+Molde FK, 3
+Cercle Brugge, 0
+
+Trabzonspor, 0
+SK Rapid Wien, 1
+
+FC Kryvbas Kryvyi Rih, 1
+Viktoria Plzeň, 2
+
+FK Partizan, 0
+FC Lugano, 1
+
+HNK Rijeka, 1
+IF Elfsborg, 1
+
+Panathinaikos, 0
+AFC Ajax, 1
+
+UE Santa Coloma, 0
+RFS, 2
+
+NK Celje, 1
+Shamrock Rovers, 0
+
+Dinamo Minsk, 2
+Lincoln Red Imps, 0
+
+Sporting Braga, 0
+Servette FC, 0
+
+FC Ararat-Armenia, 0
+Puskás Akadémia, 1
+
+FC Ordabasy, 0
+Pyunik Yerevan, 1
+
+FK Auda, 1
+FC Drita, 0
+
+FC Iberia 1999, 0
+Başakşehir FK, 1
+
+HJK, 1
+FK Dečić Tuzi, 0
+
+Ilves, 1
+Djurgårdens IF, 1
+
+Mladá Boleslav, 1
+Hapoel Be'er Sheva, 1
+
+MFK Ružomberok, 0
+HNK Hajduk Split, 0
+
+Silkeborg IF, 2
+KAA Gent, 2
+
+Brøndby IF, 2
+Legia Warszawa, 3
+
+FC Zürich, 0
+Vitória SC, 3
+
+NK Olimpija Ljubljana, 3
+Sheriff Tiraspol, 0
+
+Omonia Nicosia, 1
+Fehérvár FC, 0
+
+FC CSKA 1948 Sofia, 2
+Pafos FC, 1
+
+Botev Plovdiv, 2
+HŠK Zrinjski Mostar, 1
+
+FC Corvinul Hunedoara, 1
+Astana, 2
+
+KF Ballkani, 0
+Larne FC, 1
+
+Kilmarnock, 2
+Tromsø IL, 2
+
+Maccabi Petach Tikva, 0
+CFR 1907 Cluj, 1
+
+NK Osijek, 1
+Zirə FK, 1
+
+NK Maribor, 2
+FK Vojvodina, 1
+
+Víkingur Reykjavík, 1
+Flora Tallinn, 1
+
+FC Spartak Trnava, 3
+Wisła Kraków, 1
+
+St. Mirren, 1
+SK Brann, 1
+
+St. Patrick's Athletic, 1
+Sabah FK, 0
+
+Argentinos Juniors, 0
+Sarmiento, 0
+
+Egypt U23, 0
+Morocco U23, 6
+
+Cangzhou Mighty Lions, 3
+Shandong Taishan, 1
+
+Shanghai Port, 7
+Meizhou Hakka, 2
+
+Shenzhen Peng City, 0
+Chengdu Rongcheng, 3
+
+Sportivo Luqueño, 1
+Tacuary, 1
+
+General Caballero, 2
+Cerro Porteño, 1
+
+Smouha, 0
+Al Ahly FC, 1
+
+ZED FC, 0
+Zamalek SC, 1
+
+Inter Miami CF, 4
+Toronto FC, 3
+
+Tigres UANL, 1
+CF Pachuca, 0
+
+Seattle Sounders FC, 3
+LA Galaxy, 1
+
+San Jose Earthquakes, 5
+Club Necaxa, 0
+
+Gimcheon Sangmu FC, 1
+Gangwon FC, 2
+
+Jeonbuk Hyundai Motors, 0
+Gwangju FC, 1
+
+CD Real Santa Cruz, 1
+The Strongest, 2
+
+Club Aurora, 1
+Blooming, 0
+
+Bolívar, 2
+Jorge Wilstermann, 0
+
+Goiás, 0
+São Paulo, 0
+
+Pyramids FC, 1
+Abu Qair Semad, 0
+
+Tersana SC, 0
+El Gouna FC, 2
+
+Correcaminos UAT, 5
+Club Atletico La Paz, 1
+
+Deportivo La Guaira, 3
+Angostura FC, 2
+
+Carabobo, 0
+Monagas, 0
+
+Atromitos Athens, 0
+OFI Crete, 1
+
+FK Dinamo 1945 Pančevo, 1
+UFK Studentski Grad Novi Beograd, 1
+
+Varesina, 2
+Novaromentin, 1
+
+CD Móstoles URJC, 3
+CD Marchamalo, 0
+
+Olympiacos FC, 3
+Nottingham Forest, 4
+
+Granada, 1
+Al-Wehda, 1
+
+Eibar, 4
+Osasuna B, 0
+
+Burgos Club de Fútbol, 0
+Cultural Leonesa, 1

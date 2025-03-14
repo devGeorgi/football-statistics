@@ -1,0 +1,191 @@
+Nottingham Forest, 1
+Crystal Palace, 0
+
+Valencia, 2
+Las Palmas, 3
+
+Hellas Verona, 0
+Monza, 3
+
+Bodrum FK, 0
+Çaykur Rizespor, 1
+
+AS Monaco U19, 1
+FK Crvena zvezda U19, 1
+
+FK Novi Pazar, 3
+FK Partizan, 4
+
+Albacete Balompié, 2
+Burgos Club de Fútbol, 0
+
+Troyes, 0
+Paris FC, 3
+
+Chapecoense, 0
+Goiás, 4
+
+Helmond Sport, 2
+Roda JC Kerkrade, 1
+
+Jong Ajax, 0
+ADO Den Haag, 0
+
+Jong PSV Eindhoven, 1
+Excelsior, 3
+
+SC Cambuur, 2
+FC Eindhoven, 0
+
+Esenler Erokspor, 2
+Keçiörengücü, 2
+
+Hapoel Hadera, 2
+Maccabi Netanya, 2
+
+Radomiak Radom, 2
+Puszcza Niepołomice, 0
+
+AGF, 1
+Brøndby IF, 0
+
+CS 2 de Mayo, 1
+Guaraní, 2
+
+Sportivo Luqueño, 2
+Nacional Asunción, 2
+
+Jamshedpur FC, 2
+Hyderabad FC, 1
+
+ACSM Politehnica Iași, 1
+AFC Unirea 04 Slobozia, 0
+
+FC Rapid București, 5
+FC Farul Constanța, 0
+
+Hammarby IF, 2
+Djurgårdens IF, 0
+
+IFK Norrköping, 1
+IF Brommapojkarna, 1
+
+IFK Göteborg, 1
+AIK, 2
+
+Rayong FC, 3
+Nongbua Pitchaya, 1
+
+All Boys, 3
+Agropecuario Argentino, 0
+
+Gwangju FC, 3
+Johor Darul Ta'zim, 1
+
+Shanghai Port, 3
+Central Coast Mariners, 2
+
+Al-Ain, 4
+Al-Hilal, 5
+
+Al-Sadd, 1
+Persepolis FC, 0
+
+Al-Shorta, 0
+Pakhtakor Tashkent, 0
+
+Al-Rayyan, 1
+Al-Ahli, 2
+
+Sitra Club, 3
+Al-Ahli Club, 1
+
+HŠK Zrinjski Mostar, 7
+Igman Konjic, 1
+
+FC CSKA 1948 Sofia, 1
+Arda Kardzhali, 2
+
+Municipal Santa Ana, 2
+CS Cartaginés, 1
+
+Nea Salamina Famagusta, 0
+AEL Limassol, 2
+
+1. SK Prostějov, 1
+MFK Chrudim, 1
+
+Niki Volou, 3
+AE Larisa, 3
+
+Pineto, 0
+US Campobasso 1919, 1
+
+AZ Picerno, 1
+Potenza Calcio, 1
+
+Casertana, 1
+Cavese, 0
+
+Udinese U20, 0
+Genoa U20, 2
+
+Sampdoria U20, 2
+Fiorentina U20, 4
+
+FK Auda, 3
+FS Jelgava, 0
+
+Marsaxlokk FC, 1
+Floriana FC, 1
+
+Aalesunds FK, 3
+IK Start, 1
+
+Bryne FK, 1
+Raufoss, 0
+
+Kongsvinger, 1
+Stabæk Fotball, 3
+
+Mjøndalen, 0
+Sogndal IL, 0
+
+Moss FK, 5
+Levanger, 1
+
+Sandnes Ulf, 0
+Lyn FK, 1
+
+Vålerenga IF, 4
+Egersund, 0
+
+Åsane, 1
+Ranheim IL, 2
+
+Stal Rzeszów, 0
+Ruch Chorzów, 2
+
+FCU 1948 Craiova, 0
+FC Voluntari, 0
+
+FC Tyumen, 0
+Torpedo Moscow, 3
+
+Chayka Peschanokopskoye, 2
+Arsenal Tula, 2
+
+Helsingborgs IF, 2
+GIF Sundsvall, 1
+
+Rukh Lviv, 0
+Karpaty Lviv, 1
+
+Miramar Misiones, 1
+Deportivo Maldonado, 0
+
+Defensor Sporting, 2
+Liverpool UY, 1
+
+Cardiff City U21, 3
+Cardiff Met FC, 2

@@ -1,0 +1,188 @@
+Cagliari, 2
+Fiorentina, 3
+
+VfL Bochum 1848, 0
+Fortuna Düsseldorf, 3
+
+NEC Nijmegen, 1
+Go Ahead Eagles, 2
+
+FC Utrecht, 3
+Sparta Rotterdam, 1
+
+Cruz Azul, 1
+Club América, 1
+
+FK TSC Bačka Topola, 6
+FK Napredak Kruševac, 0
+
+Ternana, 0
+Bari, 3
+
+Deportes Tolima, 3
+Deportivo La Equidad, 0
+
+Independiente Santa Fe, 1
+Once Caldas, 0
+
+Waterford FC, 4
+Drogheda United, 2
+
+Abha, 2
+Al-Khaleej, 1
+
+Al-Ettifaq, 1
+Al-Shabab, 0
+
+Al-Fateh, 2
+Al-Hazem, 1
+
+Al-Fayha, 1
+Al-Taawoun, 1
+
+Al-Hilal, 3
+Al-Tai, 1
+
+Al-Ittihad, 4
+Damac FC, 1
+
+Al-Okhdood, 1
+Al-Wehda, 1
+
+Al-Raed, 0
+Al-Ahli, 0
+
+Al-Riyadh, 2
+Al-Nassr, 2
+
+Angel City FC, 0
+San Diego Wave FC, 0
+
+Al-Hidd, 2
+Al Ittihad Bahrain, 1
+
+East Riffa, 2
+Malkiya Club, 2
+
+San Antonio Bulo-Bulo, 0
+Royal Pari Sion, 3
+
+Club Always Ready, 2
+Nacional Potosí, 1
+
+The Strongest, 3
+Guabirá, 2
+
+FK Borac Banja Luka, 0
+HŠK Zrinjski Mostar, 1
+
+Botafogo-SP, 0
+Palmeiras, 0
+
+Criciúma, 0
+Bahia, 2
+
+Cuiabá, 2
+Goiás, 3
+
+Ceará, 0
+CRB, 1
+
+São Paulo, 2
+Águia de Marabá FC, 0
+
+CSKA Sofia, 0
+Cherno More Varna, 1
+
+Arda Kardzhali, 3
+Slavia Sofia, 1
+
+FC CSKA 1948 Sofia, 2
+Botev Plovdiv, 1
+
+FC Nõmme United, 1
+Narva Trans, 3
+
+Pärnu JK Vaprus, 1
+Tartu JK Tammeka, 1
+
+Ukraine U17, 1
+Czechia U17, 3
+
+Cyprus U17, 1
+Serbia U17, 3
+
+Denmark U17, 2
+Croatia U17, 2
+
+Austria U17, 3
+Wales U17, 0
+
+JIPPO Joensuu, 1
+PK-35, 0
+
+KäPa, 1
+SJK Akatemia, 1
+
+MP, 1
+FF Jaro, 4
+
+FC Iberia 1999, 0
+FC Kolkheti-1913 Poti, 2
+
+Dinamo Tbilisi, 1
+Dinamo Batumi, 2
+
+AS Makedonikos Neapolis, 3
+Niki Volou, 1
+
+AO Egaleo, 1
+GE Panachaiki, 0
+
+Panathinaikos B, 1
+Olympiacos B, 4
+
+FK Auda, 0
+FS Jelgava, 1
+
+Lyn FK, 5
+Sandnes Ulf, 0
+
+Sportivo Trinidense, 1
+General Caballero, 1
+
+Raith Rovers, 1
+Ross County, 2
+
+Balestier Khalsa, 2
+Tampines Rovers, 4
+
+NK Nafta Lendava 1903, 0
+Kalcer Radomlje, 0
+
+IK Brage, 0
+Degerfors IF, 1
+
+Varbergs BoIS, 2
+IK Oddevold, 1
+
+Örebro SK, 0
+Utsiktens BK, 1
+
+Norrby IF, 3
+FC Trollhättan, 1
+
+CA Bizertin, 2
+EGS Gafsa, 2
+
+ES Métlaoui, 2
+Olympique Béja, 1
+
+Beşiktaş, 3
+Trabzonspor, 2
+
+Peñarol, 3
+Progreso, 1
+
+A-League All Stars, 8
+Newcastle United, 0

@@ -1,0 +1,182 @@
+Aston Villa, 3
+Liverpool, 3
+
+Barcelona, 2
+Real Sociedad, 0
+
+Lecce, 0
+Udinese, 2
+
+Fiorentina, 2
+Monza, 1
+
+São Paulo, 2
+Fluminense, 1
+
+Club Brugge KV, 2
+Royale Union Saint-Gilloise, 2
+
+NAC Breda, 3
+Roda JC Kerkrade, 1
+
+Gimnasia y Esgrima, 3
+Vélez Sarsfield, 1
+
+Club Atlético Unión de Santa Fe, 1
+Banfield, 0
+
+FK Novi Pazar, 0
+FK Spartak Subotica, 1
+
+FK Javor Ivanjica, 1
+FK Voždovac, 1
+
+FK Radnički Niš, 0
+FK IMT Beograd, 0
+
+FK Železničar Pančevo, 4
+FK Radnik Surdulica, 0
+
+Unión La Calera, 1
+Universidad de Chile, 3
+
+Radomiak Radom, 0
+Ruch Chorzów, 2
+
+Universidad Católica del Ecuador, 3
+Técnico Universitario, 2
+
+Alianza Atlético de Sullana, 0
+Cienciano, 1
+
+FC Farul Constanța, 3
+Universitatea Craiova, 3
+
+IFK Göteborg, 0
+Malmö FF, 3
+
+Malmö FF, 0
+GAIS Göteborg, 0
+
+Al-Nasr Dubai, 2
+Khor Fakkan, 1
+
+Emirates Club, 2
+Shabab Al-Ahli Dubai, 3
+
+Al Wasl, 1
+Al-Wahda FC, 4
+
+Juventus, 3
+AS Roma, 1
+
+Eintracht Frankfurt, 4
+SC Freiburg, 2
+
+Almagro, 0
+Estudiantes de Río Cuarto, 1
+
+Racing de Córdoba, 0
+Estudiantes de Buenos Aires, 0
+
+All Boys, 1
+Arsenal de Sarandí, 0
+
+Defensores de Belgrano, 1
+Club Atletico Colón, 0
+
+FC Universitario de Vinto, 2
+Royal Pari Sion, 1
+
+FK Tuzla City, 2
+FK Borac Banja Luka, 6
+
+GOŠK Gabela, 1
+HŠK Zrinjski Mostar, 4
+
+AA Aparecidense, 1
+São Bernardo, 1
+
+Ypiranga FC, 0
+Figueirense, 0
+
+FK Etar Veliko Tarnovo, 1
+Lokomotiv Sofia, 1
+
+Botev Vratsa, 1
+FK Hebar Pazardzhik, 0
+
+Universidad de Concepción, 0
+Deportes Temuco, 0
+
+Deportes Santa Cruz, 2
+Rangers de Talca, 4
+
+SK Sigma Olomouc B, 3
+Sparta Praha B U21, 1
+
+Hobro, 4
+Vendsyssel FF, 1
+
+KTP, 1
+FF Jaro, 0
+
+JJK Jyväskylä, 0
+KPV, 3
+
+Zob Ahan, 1
+Paykan, 0
+
+Esteghlal FC, 1
+Foolad Khuzestan, 0
+
+Esteghlal Khuzestan, 1
+Nassaji Mazandaran FC, 4
+
+Longford Town, 2
+Treaty United FC, 1
+
+Viking FK II, 4
+Ørn-Horten, 0
+
+SK Brann II, 4
+Brattvåg, 3
+
+Guaraní, 0
+General Caballero, 0
+
+Miedź Legnica, 6
+Podbeskidzie Bielsko-Biała, 1
+
+União Leiria, 3
+Académico Viseu FC, 0
+
+BK Olympic, 2
+Eskilsminne IF, 0
+
+Ängelholms FF, 0
+Falkenbergs FF, 2
+
+Jönköpings Södra, 1
+Tvååkers IF, 2
+
+BK Häcken FF, 0
+Rosengård, 2
+
+Djurgårdens IF DFF, 2
+Vittsjö GIK, 1
+
+Norrköping DFK, 2
+KIF Örebro DFF, 1
+
+Piteå IF, 0
+Hammarby IF, 1
+
+Kolos Kovalivka, 1
+LNZ Cherkasy, 3
+
+Zorya Luhansk, 1
+Veres Rivne, 1
+
+Thể Công - Viettel, 1
+Quy Nhơn Bình Định FC, 1

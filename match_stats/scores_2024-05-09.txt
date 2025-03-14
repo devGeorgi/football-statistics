@@ -1,0 +1,158 @@
+Atalanta, 3
+Olympique de Marseille, 0
+
+Bayer 04 Leverkusen, 2
+Roma, 2
+
+Olympiacos FC, 2
+Aston Villa, 0
+
+Colo Colo, 0
+Fluminense, 1
+
+The Strongest, 1
+Estudiantes de La Plata, 0
+
+Liverpool UY, 0
+Palmeiras, 5
+
+San Lorenzo, 2
+Independiente Del Valle, 0
+
+Universidad Católica del Ecuador, 4
+Unión La Calera, 0
+
+Belgrano, 1
+Delfín, 1
+
+Deportivo Garcilaso, 0
+Lanús, 2
+
+Red Bull Bragantino, 2
+Racing Club, 1
+
+Pumas UNAM, 0
+Cruz Azul, 2
+
+Tigres UANL, 1
+CF Monterrey, 2
+
+Keçiörengücü, 1
+Altay, 1
+
+Sydney FC, 1
+Central Coast Mariners, 2
+
+Qingdao Hainiu, 2
+Nantong Zhiyun, 2
+
+Chengdu Rongcheng, 4
+Henan Songshan Longmen, 2
+
+Ismaily, 1
+El Dakhlya, 0
+
+Smouha, 1
+ZED FC, 2
+
+Zamalek SC, 0
+ENPPI, 0
+
+Yokohama F. Marinos, 0
+Sanfrecce Hiroshima, 0
+
+Al-Fayha, 2
+Al-Fateh, 2
+
+Al-Riyadh, 0
+Al-Taawoun, 0
+
+Al-Shabab, 0
+Al-Ahli, 0
+
+Al-Okhdood, 2
+Al-Nassr, 3
+
+Thailand U17, 0
+China U17, 3
+
+Australia U17, 1
+Japan U17, 4
+
+Al-Hidd, 2
+Busaiteen, 1
+
+Al Hala Muharraq, 1
+Sitra Club, 2
+
+Al Najma Manama, 1
+Manama Club, 4
+
+Royale Union Saint-Gilloise, 1
+Royal Antwerp FC, 0
+
+Silkeborg IF, 1
+AGF, 0
+
+FC Bayern München, 0
+VfL Wolfsburg, 2
+
+Athens Kallithea FC, 1
+Chania F.C., 1
+
+GS Ilioupolis, 2
+Kalamata FC, 1
+
+Hapoel Be'er Sheva, 2
+Maccabi Bney Reine, 1
+
+Hapoel Haifa, 1
+Bnei Sakhnin, 2
+
+Strømsgodset, 3
+Lillestrøm SK, 4
+
+Balestier Khalsa, 2
+Geylang International, 2
+
+Hougang United, 1
+Lion City Sailors, 4
+
+Friska Viljor FC, 2
+Assyriska FF, 3
+
+Piteå IF, 0
+Vasalunds IF, 1
+
+Torns IF, 4
+Jönköpings Södra, 2
+
+Oskarshamns AIK, 2
+Lunds BK, 2
+
+IF Brommapojkarna, 0
+Piteå IF, 0
+
+KIF Örebro DFF, 2
+Kristianstads DFF, 4
+
+Trelleborgs FF, 1
+AIK, 5
+
+Vittsjö GIK, 3
+Linköpings FC, 1
+
+FC Aarau, 1
+FC Sion, 2
+
+FC Wil 1900, 3
+FC Baden, 1
+
+Stade Nyonnais, 1
+AC Bellinzona, 3
+
+Kolos Kovalivka, 0
+Zorya Luhansk, 1
+
+Hà Nội, 0
+Thể Công - Viettel, 2

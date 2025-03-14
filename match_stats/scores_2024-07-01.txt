@@ -1,0 +1,86 @@
+France, 1
+Belgium, 0
+
+Portugal, 3
+Slovenia, 0
+
+Bolivia, 1
+Panama, 3
+
+USA, 0
+Uruguay, 1
+
+Palmeiras, 2
+Corinthians, 0
+
+Santos, 1
+Chapecoense, 0
+
+CRB, 1
+Brusque, 1
+
+Al-Masry, 2
+El Gouna FC, 1
+
+Tala'ea El-Gaish, 0
+Al Ahly FC, 4
+
+HFX Wanderers FC, 1
+Cavalry FC, 0
+
+Talleres Remedios de Escalada, 1
+Quilmes Atlético Club, 0
+
+Londrina, 3
+Tombense, 3
+
+Náutico, 2
+Confiança, 1
+
+Oeste, 0
+Juventus-SP, 1
+
+Universidad de Chile, 7
+San Antonio Unido, 0
+
+FC Turan, 2
+Atyrau, 1
+
+FS Jelgava, 1
+FK Metta, 0
+
+FK Liepaja, 1
+RFS, 3
+
+Šiauliai FA, 1
+FK Kauno Žalgiris, 0
+
+Hødd IL, 2
+Viking FK II, 1
+
+IF Karlstad Fotboll, 6
+Piteå IF, 0
+
+AIK, 0
+Piteå IF, 0
+
+KF Egnatia, 1
+FK Budućnost Podgorica, 2
+
+CSKA Sofia, 3
+Beroe Stara Zagora, 0
+
+FC Rapid București, 1
+Zagłębie Lubin, 0
+
+KF Llapi, 0
+FC Struga Trim & Lum, 2
+
+Union Vocklamarkt, 0
+FC Universitatea Cluj, 5
+
+SK Sigma Olomouc B, 1
+MŠK Považská Bystrica, 0
+
+FC København, 0
+Hillerød, 1

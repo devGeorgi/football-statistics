@@ -34,9 +34,6 @@ Jong Ajax, 1
 Manisa FK, 0
 Ümraniyespor, 3
 
-Perth Glory, 1
-Western Sydney Wanderers, 2
-
 Kerala Blasters, 3
 Odisha FC, 2
 
@@ -103,7 +100,7 @@ Widzew Łódź, 1
 Racing de Montevideo, 3
 Defensa y Justicia, 2
 
-Club Nacional, 0
+Nacional, 0
 San Lorenzo, 1
 
 NK Osijek, 2

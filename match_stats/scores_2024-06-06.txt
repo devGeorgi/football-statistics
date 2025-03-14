@@ -1,0 +1,137 @@
+India, 0
+Kuwait, 0
+
+Afghanistan, 0
+Qatar, 0
+
+Myanmar, 0
+Japan, 5
+
+Syria, 0
+North Korea, 1
+
+China, 1
+Thailand, 1
+
+Singapore, 0
+South Korea, 7
+
+Kyrgyzstan, 1
+Malaysia, 1
+
+Hong Kong, 2
+Iran, 4
+
+Uzbekistan, 3
+Turkmenistan, 1
+
+Vietnam, 3
+Philippines, 2
+
+Pakistan, 0
+Saudi Arabia, 3
+
+Jordan, 3
+Tajikistan, 0
+
+Nepal, 0
+United Arab Emirates, 4
+
+Bahrain, 0
+Yemen, 0
+
+Palestine, 0
+Lebanon, 0
+
+Guinea-Bissau, 0
+Ethiopia, 0
+
+Egypt, 2
+Burkina Faso, 1
+
+Mauritania, 0
+Sudan, 2
+
+Senegal, 1
+DR Congo, 1
+
+Benin, 1
+Rwanda, 0
+
+Libya, 2
+Mauritius, 1
+
+Congo Republic, 0
+Niger, 0
+
+Algeria, 1
+Guinea, 2
+
+Malawi, 3
+São Tomé and Príncipe, 1
+
+Mali, 1
+Ghana, 2
+
+Coquimbo Unido, 0
+Palestino, 0
+
+Gibraltar, 0
+Wales, 0
+
+Netherlands, 4
+Canada, 0
+
+Cambodia, 2
+Mongolia, 0
+
+Talleres, 1
+Club Atletico Colón, 0
+
+Orsomarso, 1
+Atlético Huila, 0
+
+Tigres FC, 0
+Real Cartagena, 1
+
+Honduras, 3
+Cuba, 1
+
+Costa Rica, 4
+Saint Kitts and Nevis, 0
+
+Haiti, 2
+Saint Lucia, 1
+
+Panama, 2
+Guyana, 0
+
+Jamaica, 1
+Dominican Republic, 0
+
+El Salvador, 0
+Puerto Rico, 0
+
+Sportivo Ameliano, 0
+Tacuary, 1
+
+General Caballero, 2
+Sol de América, 3
+
+KIF Örebro DFF, 4
+IF Brommapojkarna, 1
+
+San Marino U21, 3
+Gibraltar U21, 0
+
+Georgia U21, 0
+Kazakhstan U21, 0
+
+Denmark U21, 3
+Norway U21, 3
+
+Ukraine U23, 4
+Italy U21, 0
+
+Indonesia U19, 0
+Panama U23, 4

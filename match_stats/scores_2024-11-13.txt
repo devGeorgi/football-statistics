@@ -1,0 +1,80 @@
+Liberia, 1
+Togo, 0
+
+Chad, 1
+Sierra Leone, 1
+
+Namibia, 0
+Cameroon, 0
+
+Australia, 0
+Saudi Arabia, 0
+
+Flamengo, 0
+Atlético Mineiro, 0
+
+Galatasaray Istanbul, 0
+VfL Wolfsburg, 5
+
+AS Roma, 0
+Olympique Lyonnais, 3
+
+Real Madrid, 7
+FC Twente Vrouwen, 0
+
+Celtic LFC, 1
+Chelsea FC Women, 2
+
+Tajikistan, 4
+Nepal, 0
+
+Talleres Remedios de Escalada, 2
+Atlético de Rafaela, 1
+
+Botev Plovdiv, 0
+Ludogorets, 0
+
+FC Fratria Varna, 5
+Beroe Stara Zagora, 7
+
+Deportes Limache, 2
+Antofagasta, 1
+
+Ñublense, 2
+Deportes Magallanes, 1
+
+Huachipato, 0
+Colo Colo, 2
+
+Deportes Quindío, 2
+Real Cartagena, 1
+
+SpVgg Greuther Fürth II, 1
+SpVgg Ansbach, 1
+
+Antigua GFC, 2
+Comunicaciones FC, 2
+
+MFK Ružomberok, 2
+KFC Komárno, 0
+
+River Plate UY, 0
+Miramar Misiones, 0
+
+Fénix, 0
+Nacional, 6
+
+Defensor Sporting, 3
+Progreso, 0
+
+Carabobo, 1
+Monagas, 0
+
+Deportivo La Guaira, 3
+Estudiantes de Mérida, 1
+
+Quy Nhơn Bình Định FC, 1
+Hải Phòng, 0
+
+The New Saints, 3
+Bala Town, 1

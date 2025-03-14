@@ -115,14 +115,8 @@ KRC Genk, 1
 CD Toluca, 5
 Club Necaxa, 2
 
-CF Pachuca, 1
-Mazatlán FC, 1
-
 Cruz Azul, 1
 CF Monterrey, 1
-
-CD Guadalajara, 0
-Club América, 0
 
 NK Varaždin, 0
 NK Istra 1961, 0
@@ -288,9 +282,6 @@ Deportes Limache, 1
 
 Deportes Iquique, 1
 Palestino, 3
-
-Deportivo Pereira, 2
-Envigado FC, 0
 
 Alianza Valledupar FC, 1
 Unión Magdalena, 0
@@ -688,9 +679,6 @@ Rangers de Talca, 0
 Deportes Temuco, 2
 Unión San Felipe, 1
 
-Leones FC, 0
-Internacional de Palmira, 0
-
 Real Cundinamarca, 0
 Atlético Cali, 0
 
@@ -702,9 +690,6 @@ CS Cartaginés, 1
 
 Municipal Liberia, 1
 Sporting FC, 0
-
-Herediano, 1
-LD Alajuelense, 2
 
 ALS Omonia, 0
 Anorthosis Famagusta, 0
@@ -757,9 +742,6 @@ Gateshead, 1
 Boston United, 2
 Woking, 2
 
-Eastleigh, 1
-Hartlepool United, 1
-
 FC Halifax Town, 1
 Yeovil Town, 0
 
@@ -780,9 +762,6 @@ Oldham Athletic, 1
 
 York City, 1
 Forest Green Rovers, 1
-
-Narva Trans, 0
-FC Kuressaare, 2
 
 Tartu JK Tammeka, 2
 FCI Levadia Tallinn, 3
@@ -901,9 +880,6 @@ Kalamata FC, 0
 GS Ilioupolis, 0
 GSS Panionios, 3
 
-Antigua GFC, 1
-CSD Xelajú MC, 0
-
 Real Kashmir, 2
 Aizawl FC, 1
 
@@ -976,9 +952,6 @@ Jubilo Iwata, 1
 Montedio Yamagata, 4
 Blaublitz Akita, 2
 
-Oita Trinita, 0
-Mito Hollyhock, 0
-
 Tokushima Vortis, 0
 Roasso Kumamoto, 0
 
@@ -1044,9 +1017,6 @@ Ballymena United, 3
 
 Glenavon, 0
 Coleraine FC, 1
-
-Glentoran FC, 0
-Glenavon, 0
 
 Loughgall, 0
 Larne FC, 1
@@ -1159,9 +1129,6 @@ East Fife, 2
 Elgin City, 0
 Forfar Athletic, 1
 
-Stranraer, 0
-Peterhead, 0
-
 The Spartans FC, 0
 Stirling Albion, 0
 
@@ -1219,14 +1186,11 @@ Rukh Lviv, 1
 Cerro, 2
 Juventud de Las Piedras, 1
 
-Club Nacional, 3
+Nacional, 3
 River Plate UY, 3
 
 Yaracuyanos FC, 0
 Universidad Central, 2
-
-Carabobo, 1
-Monagas, 0
 
 Công An Hà Nội, 1
 Nam Định, 1

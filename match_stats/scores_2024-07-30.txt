@@ -1,0 +1,308 @@
+Qarabağ, 5
+Lincoln Red Imps, 0
+
+AC Sparta Praha, 4
+Shamrock Rovers, 2
+
+FC Petrocub Hîncesti, 1
+APOEL Nicosia, 1
+
+Fenerbahçe, 2
+FC Lugano, 1
+
+The New Saints, 1
+Ferencváros TC, 2
+
+ŠK Slovan Bratislava, 5
+NK Celje, 0
+
+Klaksvíkar Ítróttarfelag, 3
+Malmö FF, 2
+
+FC Drita, 1
+Breidablik Kópavogur, 0
+
+Flora Tallinn, 5
+SS Virtus, 2
+
+Pyunik Yerevan, 3
+FC Struga Trim & Lum, 1
+
+Ħamrun Spartans FC, 0
+KF Ballkani, 2
+
+FK Dečić Tuzi, 0
+Dinamo Batumi, 0
+
+New Zealand U23, 0
+France U23, 3
+
+USA U23, 3
+Guinea U23, 0
+
+Morocco U23, 3
+Iraq U23, 0
+
+Ukraine U23, 0
+Argentina U23, 2
+
+Dominican Republic U23, 1
+Uzbekistan U23, 1
+
+Spain U23, 1
+Egypt U23, 2
+
+Israel U23, 0
+Japan U23, 1
+
+Paraguay U23, 1
+Mali U23, 0
+
+Avaí, 1
+Botafogo-SP, 1
+
+Rionegro Águilas Doradas, 3
+Patriotas Boyacá, 2
+
+Atlético Nacional, 0
+Deportivo La Equidad, 1
+
+El Dakhlya, 0
+Tala'ea El-Gaish, 1
+
+Baladiyet El Mahallah, 4
+Ismaily, 2
+
+Pharco FC, 2
+Pyramids FC, 2
+
+Sport Boys, 2
+Cienciano, 0
+
+Sport Huancayo, 1
+Universidad César Vallejo, 0
+
+Alianza Lima, 1
+Unión Comercio, 0
+
+CF Monterrey, 0
+Austin FC, 2
+
+Atlético San Luis, 2
+CF Montréal, 3
+
+CF Pachuca, 6
+New York Red Bulls, 5
+
+Minnesota United, 1
+Club Necaxa, 0
+
+Los Angeles FC, 4
+Vancouver Whitecaps, 6
+
+Blacktown City, 2
+Adelaide United, 3
+
+Brisbane City, 1
+Western Sydney Wanderers, 2
+
+Rockdale Ilinden, 1
+Newcastle Jets, 2
+
+Perth Redstar, 1
+Queensland Lions, 4
+
+Club Aurora, 2
+San Antonio Bulo-Bulo, 3
+
+Oriente Petrolero, 1
+Jorge Wilstermann, 0
+
+São Paulo, 2
+Goiás, 0
+
+Botafogo, 1
+Bahia, 1
+
+Deportes Limache, 2
+San Luis de Quillota, 1
+
+Bogotá FC, 0
+Boca Juniors de Cali, 1
+
+Terengganu, 3
+Negeri Sembilan, 2
+
+Perak FC, 1
+Kuching City, 2
+
+USA U20, 1
+Guatemala U20, 0
+
+Panama U20, 2
+Canada U20, 1
+
+Strindheim, 6
+Vålerenga IF II, 1
+
+Fraserburgh FC, 6
+Heart of Midlothian B U21, 5
+
+Banks O'Dee FC, 1
+Aberdeen B U21, 0
+
+Berwick Rangers, 3
+St. Mirren B U21, 0
+
+Cowdenbeath, 4
+Kilmarnock FC B U21, 2
+
+Dundee B, 2
+Formartine United FC, 0
+
+East Kilbride, 3
+Celtic B U21, 0
+
+Hibernian B U21, 5
+Albion Rovers, 7
+
+Motherwell B U21, 7
+East Stirlingshire, 8
+
+Buckie Thistle FC, 1
+Dundee United B U21, 3
+
+Rangers B U21, 3
+Bo'ness United FC, 1
+
+FC Livyi Bereh Kyiv, 3
+FC Minaj, 0
+
+Sparta Rotterdam, 4
+PAS Lamia 1964, 1
+
+Beşiktaş, 2
+Sakaryaspor, 1
+
+Konyaspor, 1
+Brinje Grosuplje, 1
+
+FC Helsingør, 0
+Holbæk B&I, 0
+
+TSG Hoffenheim, 2
+Norwich City, 2
+
+VfL Bochum 1848, 1
+Spezia, 3
+
+Ishøj IF, 2
+Tårnby FF, 1
+
+Deportivo Alavés, 2
+CD Tenerife, 1
+
+Lille, 3
+Celta Vigo, 1
+
+UD Ibiza, 1
+Real Murcia, 2
+
+Cádiz, 2
+Al-Jazira, 1
+
+NAC Breda, 1
+Aris Thessaloniki, 2
+
+ASC Dortmund, 1
+FC Brünninghausen, 1
+
+SC Telstar, 5
+vv Noordwijk, 3
+
+Bolton Wanderers, 0
+Stoke City, 1
+
+Bradford City, 2
+Sunderland, 1
+
+Famalicão, 2
+Deportivo La Coruña, 2
+
+Glenavon, 4
+Ballyclare Comrades, 0
+
+Grimsby Town, 2
+Rotherham United, 2
+
+Hendon, 0
+Boreham Wood, 2
+
+Maidenhead United, 2
+AFC Wimbledon, 1
+
+Milton Keynes Dons, 1
+Portsmouth, 1
+
+Salford City, 0
+Preston North End, 2
+
+Aldershot Town, 1
+Crawley Town, 2
+
+Ashton United, 2
+FC Halifax Town, 0
+
+Braintree Town, 0
+Bromley, 1
+
+Coventry City, 3
+Everton, 0
+
+Enfield Town, 0
+Billericay Town FC, 4
+
+FC United of Manchester, 0
+Farsley Celtic, 0
+
+Folkestone Invicta, 0
+Maidstone United, 1
+
+Hull City, 2
+Fiorentina, 2
+
+Telford United, 1
+Shrewsbury Town, 1
+
+Tranmere Rovers, 3
+Blackpool, 1
+
+Welling United, 1
+Ebbsfleet United, 0
+
+Manchester City, 3
+Barcelona, 6
+
+Louisville City FC, 0
+Eintracht Frankfurt, 4
+
+Real Oviedo, 3
+Al-Ettifaq, 2
+
+Albacete Balompié, 0
+CF Intercity, 0
+
+FK Omladinac Novi Banovci, 0
+FK Inđija, 2
+
+Moreirense, 0
+Paços de Ferreira, 0
+
+Nonthaburi United, 1
+Saimit Kabin United, 4
+
+Willem II Tilburg, 0
+Helmond Sport, 0
+
+Urawa Red Diamonds, 1
+Newcastle United, 4

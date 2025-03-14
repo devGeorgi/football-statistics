@@ -1,0 +1,140 @@
+Santos, 4
+Coritiba, 0
+
+Deportivo Cali, 1
+Alianza Valledupar FC, 0
+
+Deportivo Pereira, 1
+Independiente Medellín, 1
+
+Stal Mielec, 1
+Widzew Łódź, 1
+
+Lyngby, 0
+FC København, 2
+
+Ismaily, 1
+El Gouna FC, 1
+
+Modern Sport FC, 3
+Smouha, 0
+
+Pyramids FC, 0
+Al Ahly FC, 1
+
+FC Gloria Buzău, 1
+Sepsi OSK, 2
+
+SC Oțelul Galați, 0
+FC Farul Constanța, 0
+
+GAIS Göteborg, 2
+AIK, 0
+
+Pari Nizhny Novgorod, 2
+Rubin Kazan, 4
+
+Bucheon FC 1995, 0
+Suwon Samsung Bluewings, 3
+
+Busan I Park, 2
+Gyeongnam FC, 1
+
+Seongnam FC, 1
+Jeonnam Dragons, 2
+
+Quilmes Atlético Club, 1
+San Martín de Tucumán, 2
+
+Brisbane Roar, 2
+Perth Glory, 4
+
+Confiança, 1
+Ferroviário, 1
+
+Floresta, 1
+Sampaio Corrêa, 0
+
+Remo, 2
+CSA, 1
+
+FK Hebar Pazardzhik, 0
+FK Spartak Varna, 2
+
+FK Septemvri Sofia, 0
+Beroe Stara Zagora, 1
+
+Deportes Recoleta, 0
+Unión San Felipe, 0
+
+Curicó Unido, 0
+AC Barnechea, 1
+
+Leones FC, 2
+Real Santander, 0
+
+Real Cundinamarca, 2
+Orsomarso, 0
+
+Vysočina Jihlava, 0
+FC Zbrojovka Brno, 2
+
+Spain U19, 2
+France U19, 2
+
+Türkiye U19, 3
+Denmark U19, 3
+
+Inter Turku, 2
+IF Gnistan, 2
+
+FH Hafnarfjörður, 1
+ÍA Akranes, 1
+
+FK Metta, 0
+FK Tukums 2000, 0
+
+FK Žalgiris, 0
+Šiauliai FA, 0
+
+Jamaica U20, 0
+Costa Rica U20, 3
+
+Cuba U20, 0
+USA U20, 4
+
+Stal Rzeszów, 1
+MZKS Arka Gdynia, 0
+
+Rotor Volgograd, 1
+Torpedo Moscow, 1
+
+Hougang United, 1
+Albirex Niigata Singapore, 0
+
+Varbergs BoIS, 1
+Landskrona BoIS, 1
+
+Academia Puerto Cabello, 0
+Portuguesa FC, 0
+
+RFK Grafičar Beograd, 0
+FK Prva Iskra Barič, 0
+
+Al-Hilal, 2
+Al-Arabi SC, 0
+
+Inter, 2
+Pergolettese, 1
+
+FC Košice, 1
+Roma, 1
+
+Chelmsford City, 1
+Barnet, 1
+
+Celta Vigo, 2
+Sporting Gijón, 1
+
+FK Radnik Surdulica, 2
+FK Zemun, 0

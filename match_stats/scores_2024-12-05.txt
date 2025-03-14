@@ -1,0 +1,161 @@
+Fulham, 3
+Brighton & Hove Albion, 1
+
+Bournemouth, 1
+Tottenham Hotspur, 0
+
+AD Ceuta, 2
+Osasuna, 3
+
+CP Cacereño, 1
+Atlético Madrid, 3
+
+Orihuela, 0
+Getafe, 3
+
+Barakaldo CF, 1
+Racing de Ferrol, 2
+
+FC Andorra, 0
+FC Cartagena, 1
+
+Marbella FC, 1
+Burgos Club de Fútbol, 0
+
+SD Ponferradina, 5
+CD Castellón, 4
+
+Conquense, 0
+Real Sociedad, 1
+
+Deportiva Minera, 6
+Deportivo Alavés, 4
+
+UE Olot, 1
+Sevilla, 3
+
+Moreirense, 2
+Sporting, 1
+
+Athletico, 1
+Red Bull Bragantino, 2
+
+Fluminense, 1
+Cuiabá, 0
+
+Lazio, 3
+Napoli, 1
+
+Club América, 0
+Cruz Azul, 0
+
+Brisbane Roar, 1
+Melbourne City, 4
+
+Maccabi Bney Reine, 1
+Ironi Tiberias, 0
+
+Maccabi Tel Aviv, 2
+Hapoel Hadera, 2
+
+Atlético Nacional, 2
+Deportivo Pasto, 1
+
+Millonarios, 1
+Independiente Santa Fe, 1
+
+Baník Ostrava, 0
+SK Slavia Praha, 1
+
+Mladá Boleslav, 1
+FC Slovan Liberec, 0
+
+Viktoria Plzeň, 1
+FK Teplice, 1
+
+Odisha FC, 0
+Mumbai City FC, 0
+
+Moss FK, 0
+Haugesund, 0
+
+Damac FC, 2
+Al-Fayha, 2
+
+Al-Wehda, 2
+Al-Okhdood, 3
+
+Al-Shabab, 2
+Al-Fateh, 2
+
+Debreceni VSC, 5
+Ferencváros TC, 4
+
+Lion City Sailors, 5
+Port FC, 2
+
+Persib Bandung, 3
+Zhejiang, 4
+
+RSC Anderlecht, 4
+KVC Westerlo, 1
+
+Jorge Wilstermann, 2
+Bolívar, 2
+
+Slavia Sofia, 3
+FK Hebar Pazardzhik, 2
+
+Botev Plovdiv, 1
+FK Krumovgrad, 0
+
+GSS Panionios, 3
+MGS Panserraikos, 0
+
+Asteras Aktor, 5
+APS Zakynthos 1961, 1
+
+Antigua GFC, 1
+CSD Xelajú MC, 1
+
+Shillong Lajong FC, 0
+Inter Kashi FC, 0
+
+Borneo FC Samarinda, 0
+PSIS Semarang, 0
+
+Persik Kediri, 1
+Madura United FC, 0
+
+US Campobasso 1919, 1
+Milan Futuro, 1
+
+Olimpia Grudziądz, 1
+Jagiellonia Białystok, 3
+
+ŁKS Łódź, 0
+Legia Warszawa, 3
+
+FC Bihor Oradea, 1
+Chindia Târgoviște, 0
+
+FC Aarau, 0
+Étoile Carouge FC, 1
+
+AC Bellinzona, 1
+FC St. Gallen 1879, 0
+
+FC Winterthur, 0
+FC Lausanne-Sport, 3
+
+Hatayspor, 5
+Osmaniyespor FK, 0
+
+Çaykur Rizespor, 3
+Silivrispor, 2
+
+Gaziantep FK, 1
+Batman Petrolspor, 0
+
+Shakhtar Donetsk, 3
+Vorskla Poltava, 1

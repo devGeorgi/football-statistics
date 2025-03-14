@@ -76,9 +76,6 @@ Maguary, 1
 Falcon-SE FC, 4
 AD Barra, 0
 
-San Carlos, 0
-Sporting FC, 1
-
 AEK Larnaca, 2
 APOEL Nicosia, 1
 
@@ -145,7 +142,7 @@ NK Olimpija Ljubljana, 2
 FK Tekstilac Odžaci, 0
 Kalcer Radomlje, 2
 
-Club Nacional, 3
+Nacional, 3
 Peñarol, 1
 
 Baník Ostrava, 1

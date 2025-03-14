@@ -1,0 +1,368 @@
+Bosnia & Herzegovina, 1
+Germany, 2
+
+Hungary, 1
+Netherlands, 1
+
+Czechia, 2
+Albania, 0
+
+Ukraine, 1
+Georgia, 0
+
+Iceland, 2
+Wales, 2
+
+Türkiye, 1
+Montenegro, 0
+
+Estonia, 3
+Azerbaijan, 1
+
+Slovakia, 2
+Sweden, 2
+
+Peru, 1
+Uruguay, 0
+
+Madagascar, 1
+Gambia, 1
+
+Tunisia, 0
+Comoros, 1
+
+Gabon, 0
+Lesotho, 0
+
+Egypt, 2
+Mauritania, 0
+
+Benin, 3
+Rwanda, 0
+
+Nigeria, 1
+Libya, 0
+
+Equatorial Guinea, 1
+Liberia, 0
+
+Angola, 2
+Niger, 0
+
+Zambia, 0
+Chad, 0
+
+Côte d'Ivoire, 4
+Sierra Leone, 1
+
+Mozambique, 1
+Eswatini, 1
+
+Mali, 1
+Guinea-Bissau, 0
+
+Cameroon, 4
+Kenya, 1
+
+Uganda, 1
+South Sudan, 0
+
+South Africa, 5
+Congo Republic, 0
+
+Senegal, 4
+Malawi, 0
+
+CD Tenerife, 2
+Real Zaragoza, 3
+
+Novorizontino, 1
+Sport Recife, 3
+
+Avaí, 2
+América Mineiro, 2
+
+América de Cali, 2
+Millonarios, 1
+
+Chesterfield, 2
+Notts County, 2
+
+Tacuary, 0
+Sportivo Luqueño, 3
+
+Derry City, 1
+Bohemian FC, 1
+
+Waterford FC, 0
+Drogheda United, 0
+
+South Georgia Tormenta FC, 2
+Richmond Kickers, 2
+
+Cambodia, 3
+Chinese Taipei, 2
+
+Vietnam, 1
+India, 1
+
+Portland Thorns FC, 2
+Orlando Pride, 0
+
+Le Havre AC, 5
+Saint-Étienne, 1
+
+1. FFC Turbine Potsdam, 0
+SGS Essen, 3
+
+Real Sociedad, 4
+Real Betis, 0
+
+Costa Adeje Tenerife, 0
+Levante UD, 0
+
+JS Saoura, 3
+ES Sétif, 2
+
+Paradou AC, 1
+Olympique Akbou, 3
+
+MC Alger, 1
+MC Oran, 0
+
+Thailand, 3
+Philippines, 1
+
+Melbourne City, 4
+Kaya FC, 0
+
+Taichung Blue Whale, 4
+Odisha, 0
+
+ASV Siegendorf, 1
+FC Marchfeld Donauauen, 3
+
+FC Mauerwerk, 0
+SC Krems, 3
+
+SC Neusiedl 1919, 1
+FCM Traiskirchen, 0
+
+TWL Elektra, 0
+Young Violets Austria Wien, 0
+
+Deportes Limache, 0
+Deportes Santa Cruz, 1
+
+Universidad de Concepción, 2
+AC Barnechea, 2
+
+Guangxi Pingguo Haliao, 3
+Yanbian Longding, 2
+
+Guangzhou FC, 0
+Jiangxi Lushan FC, 0
+
+Qingdao Red Lions, 0
+Liaoning Tieren FC, 1
+
+Yunnan Yukun, 3
+Suzhou Dongwu, 0
+
+Fremad Amager, 1
+Næstved Boldklub, 0
+
+HIK, 1
+Frem, 2
+
+Skive, 1
+Thisted, 1
+
+Ishøj IF, 1
+AB, 1
+
+Türkiye U21, 3
+Latvia U21, 0
+
+Ireland U21, 1
+Norway U21, 1
+
+Scotland U21, 0
+Belgium U21, 2
+
+North Macedonia U21, 2
+Moldova U21, 1
+
+Germany U21, 2
+Bulgaria U21, 1
+
+Kosovo U21, 0
+Poland U21, 4
+
+Montenegro U21, 2
+Romania U21, 6
+
+Switzerland U21, 1
+Finland U21, 1
+
+England U21, 2
+Ukraine U21, 1
+
+Faroe Islands U21, 1
+Portugal U21, 3
+
+Croatia U21, 2
+Andorra U21, 0
+
+Cyprus U21, 0
+France U21, 3
+
+Austria U21, 1
+Slovenia U21, 1
+
+Wales U21, 1
+Czechia U21, 2
+
+SV Drochtersen/Assel, 1
+SV Werder Bremen II U23, 0
+
+VfB Lübeck, 3
+Kickers Emden, 1
+
+SC Weiche Flensburg 08, 5
+SV Todesfelde, 0
+
+1. FC Köln II U23, 0
+Borussia Mönchengladbach II U23, 0
+
+FC Schalke 04 II U23, 1
+FC Gütersloh, 1
+
+Kickers Offenbach, 5
+FC 08 Homburg, 1
+
+1. FC Schweinfurt 05, 1
+SV Viktoria Aschaffenburg, 1
+
+TSV Buchbach, 1
+DJK Vilzing, 1
+
+Kampaniakos, 1
+PAOK B, 3
+
+Athlone Town, 4
+Cork City, 1
+
+Bray Wanderers, 2
+Finn Harps, 2
+
+Treaty United FC, 2
+University College Dublin, 2
+
+Wexford FC, 4
+Kerry FC, 0
+
+Renate, 0
+Novara, 1
+
+Lucchese, 0
+Sestri Levante, 0
+
+Audace Cerignola, 2
+Sorrento, 0
+
+Cavese, 1
+Turris, 2
+
+Trapani, 1
+Messina, 1
+
+Tepatitlán FC, 1
+CDS Tampico Madero, 1
+
+Guadeloupe, 0
+Martinique, 1
+
+Suriname, 1
+Costa Rica, 1
+
+Guyana, 1
+Guatemala, 3
+
+Grenada, 0
+Curaçao, 0
+
+Saint Martin, 1
+Saint Lucia, 2
+
+Sint Maarten, 3
+Puerto Rico, 2
+
+Aruba, 1
+Haiti, 3
+
+Skeid, 2
+Stjørdals/Blink, 1
+
+União Leiria, 1
+Felgueiras, 3
+
+Tondela, 2
+Leixões SC, 1
+
+FC Ufa, 0
+Chernomorets Novorossijsk, 3
+
+Hamilton Academical, 0
+Greenock Morton, 1
+
+Alloa Athletic, 1
+Arbroath, 0
+
+Annan Athletic, 1
+Queen's Park FC, 4
+
+ND Primorje, 0
+Kalcer Radomlje, 1
+
+FBK Karlstad, 1
+Umeå, 3
+
+BK Olympic, 3
+Ariana FC, 0
+
+Eskilsminne IF, 3
+Lunds BK, 1
+
+Ljungskile SK, 2
+Onsala BK, 0
+
+Tvååkers IF, 1
+Torns IF, 1
+
+Kristianstads DFF, 3
+Växjö DFF, 3
+
+Liverpool UY, 1
+Fénix, 2
+
+Peñarol, 2
+Deportivo Maldonado, 0
+
+Deportivo La Guaira, 3
+Rayo Zuliano, 2
+
+Zamora, 2
+Monagas, 4
+
+NK Slaven Belupo, 1
+NŠ Mura, 2
+
+HNK Gorica, 1
+NK Domžale, 0
+
+Romania U19, 2
+Germany U19, 0
+
+Slovakia U21, 2
+Greece U21, 1

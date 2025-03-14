@@ -1,0 +1,155 @@
+North Korea, 0
+Japan, 3
+
+Philippines, 0
+Iraq, 5
+
+Lebanon, 0
+Australia, 5
+
+Bangladesh, 0
+Palestine, 1
+
+Albacete Balompié, 1
+Racing de Ferrol, 1
+
+Universidad de Chile, 2
+Cobresal, 2
+
+Once Caldas, 1
+Alianza Valledupar FC, 0
+
+Delfín, 1
+Libertad, 1
+
+Orense SC, 1
+Emelec, 1
+
+Tanzania, 3
+Mongolia, 0
+
+Azerbaijan, 1
+Bulgaria, 1
+
+Cyprus, 0
+Serbia, 1
+
+Montenegro, 1
+North Macedonia, 0
+
+Sweden, 1
+Albania, 0
+
+Cape Verde, 1
+Equatorial Guinea, 0
+
+Guinea, 5
+Bermuda, 1
+
+Bolivia, 1
+Andorra, 0
+
+Eintracht Frankfurt, 2
+SV Werder Bremen, 0
+
+JS Saoura, 0
+MC Alger, 1
+
+Paradou AC, 0
+ES Ben Aknoun, 0
+
+Godoy Cruz, 4
+San Martín de San Juan, 3
+
+Platense, 4
+Olimpo, 2
+
+Club Atlético Chacarita Juniors, 1
+San Martín de Tucumán, 0
+
+Almirante Brown, 0
+Gimnasia y Esgrima Mendoza, 0
+
+Club Ferro Carril Oeste, 2
+All Boys, 2
+
+Güemes, 0
+Racing de Córdoba, 1
+
+Atlanta, 0
+Nueva Chicago, 0
+
+Chaco For Ever, 3
+Defensores de Belgrano, 0
+
+Club Atletico Colón, 1
+Gimnasia y Tiro de Salta, 0
+
+Internacional, 6
+Juventude, 7
+
+Ipatinga, 3
+Patrocinense, 0
+
+Unión Magdalena, 2
+Leones FC, 3
+
+Orsomarso, 4
+Internacional de Palmira, 2
+
+Boca Juniors de Cali, 0
+Atlético Cali, 1
+
+Moldova U21, 0
+Netherlands U21, 3
+
+Armenia U21, 0
+Romania U21, 1
+
+Austria U19, 1
+Spain U19, 2
+
+Slovenia U19, 2
+Kosovo U19, 0
+
+FC Versailles 78, 1
+Chamois Niortais, 1
+
+SV Viktoria Aschaffenburg, 1
+SpVgg Bayreuth, 0
+
+Heart of Lions, 2
+Bibiani Gold Stars FC, 2
+
+Real Tamale United, 1
+Accra Lions FC, 0
+
+Kampaniakos, 0
+PAOK B, 0
+
+GS Ilioupolis, 0
+Athens Kallithea FC, 4
+
+GS Diagoras Rodou, 0
+Olympiacos B, 0
+
+AO Egaleo, 0
+Panathinaikos B, 0
+
+Bray Wanderers, 1
+Longford Town, 1
+
+Crotone, 0
+Casertana, 0
+
+Defensor Sporting, 0
+Danubio, 0
+
+Angostura FC, 1
+Academia Puerto Cabello, 0
+
+Indonesia U20, 1
+China U20, 1
+
+Germany U20, 4
+France U20, 4

@@ -1,0 +1,230 @@
+Espanyol, 1
+Villarreal, 2
+
+Las Palmas, 1
+Real Betis, 1
+
+Celta Vigo, 0
+Atlético Madrid, 1
+
+Peñarol, 0
+Flamengo, 0
+
+Fenerbahçe, 2
+Royale Union Saint-Gilloise, 1
+
+Malmö FF, 0
+Rangers, 2
+
+AFC Ajax, 4
+Beşiktaş, 0
+
+Eintracht Frankfurt, 3
+Viktoria Plzeň, 3
+
+FCSB, 4
+RFS, 1
+
+Olympique Lyonnais, 2
+Olympiacos FC, 0
+
+Roma, 1
+Athletic Club, 1
+
+Sporting Braga, 2
+Maccabi Tel Aviv, 1
+
+Tottenham Hotspur, 3
+Qarabağ, 0
+
+Cruzeiro, 1
+Libertad, 1
+
+Racing Club, 4
+Athletico, 1
+
+Cercle Brugge, 2
+KAA Gent, 1
+
+Monza, 3
+Brescia, 1
+
+Napoli, 5
+Palermo, 0
+
+Paris Saint-Germain, 1
+Juventus, 2
+
+Servette FC Chênois Féminin, 2
+AS Roma, 7
+
+ŽNK Mura, 0
+SKN St. Pölten, 5
+
+FC Twente Vrouwen, 4
+ŽNK Osijek, 0
+
+Manchester City W.F.C., 3
+Paris FC, 0
+
+Real Madrid, 3
+Sporting CP, 1
+
+Celtic LFC, 2
+Vorskla Poltava, 0
+
+Arsenal Women, 4
+BK Häcken FF, 0
+
+Chapecoense, 2
+Amazonas FC, 0
+
+TSV Hartberg, 1
+WSG Tirol, 0
+
+Independiente Santa Fe, 2
+Alianza Valledupar FC, 0
+
+Atlético Nacional, 1
+Junior Barranquilla, 0
+
+Chennaiyin FC, 0
+Mohammedan SC, 1
+
+Kawasaki Frontale, 5
+Albirex Niigata, 1
+
+Al-Fayha, 0
+Al-Riyadh, 0
+
+Al-Taawoun, 0
+Al-Ettifaq, 0
+
+Halmstads BK, 2
+Kalmar FF, 2
+
+Hammarby IF, 2
+BK Häcken, 0
+
+Västerås SK, 1
+IFK Göteborg, 1
+
+Daejeon Hana Citizen, 0
+Ulsan HD, 1
+
+Pohang Steelers, 1
+Incheon United, 0
+
+Al-Arabi SC, 2
+Al-Rayyan, 1
+
+Al-Sadd, 4
+Al-Gharafa, 2
+
+Al-Wakrah, 3
+Al Khor, 1
+
+Muang Thong United, 0
+Khon Kaen United, 0
+
+Al Bataeh, 0
+Al-Sharjah, 2
+
+Al-Ain, 4
+Al Wasl, 2
+
+A'Ali FC, 1
+Al-Shabab Manama, 2
+
+Bahrain SC, 2
+East Riffa, 1
+
+Sitra Club, 4
+Manama Club, 1
+
+Jorge Wilstermann, 2
+CD Real Santa Cruz, 0
+
+Blooming, 1
+Club Always Ready, 1
+
+Qingdao Red Lions, 1
+Guangzhou FC, 1
+
+FC Versailles 78, 1
+Valenciennes, 1
+
+FC Iberia 1999, 1
+FC Gagra, 1
+
+FC Torpedo Kutaisi, 1
+FC Samgurali Tskhaltubo, 0
+
+PSS Sleman, 0
+Malut United FC, 1
+
+Bali United FC, 3
+PS Barito Putera, 2
+
+Shams Azar Qazvin, 0
+Nassaji Mazandaran FC, 0
+
+Al Karma SC, 0
+Al Naft SC, 2
+
+Diyala SC, 0
+Al-Shorta, 6
+
+Al-Zawraa, 2
+Al Karkh, 1
+
+Zakho SC, 1
+Newroz SC, 1
+
+Union Clodiense Chioggia, 2
+Trento, 2
+
+Triestina, 2
+Lumezzane, 3
+
+Carpi, 2
+Ascoli, 2
+
+Milan Futuro, 2
+SPAL, 1
+
+Pineto, 1
+Pontedera, 1
+
+Perugia, 1
+Rimini, 4
+
+US Campobasso 1919, 3
+Vis Pesaro, 2
+
+Virtus Entella, 0
+Pescara, 1
+
+Juventus Next Gen U23, 1
+AZ Picerno, 1
+
+Monopoli, 1
+Benevento, 0
+
+Šiauliai FA, 2
+FK Panevėžys, 1
+
+Correcaminos UAT, 2
+Mineros de Zacatecas, 2
+
+Hougang United, 2
+Brunei DPMM FC, 2
+
+Stade Tunisien, 1
+ES Métlaoui, 0
+
+US Monastir, 1
+Etoile Sportive Du Sahel, 0
+
+Universidad Central, 1
+Rayo Zuliano, 0

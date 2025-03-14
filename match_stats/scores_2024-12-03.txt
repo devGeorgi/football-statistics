@@ -1,0 +1,347 @@
+Ipswich Town, 0
+Crystal Palace, 1
+
+Leicester City, 3
+West Ham United, 1
+
+Mallorca, 1
+Barcelona, 5
+
+Real Ávila CF, 2
+Real Valladolid, 4
+
+Yeclano Deportivo, 0
+Elche, 1
+
+Real Zaragoza, 6
+Granada, 7
+
+Salamanca UDS, 0
+Celta Vigo, 7
+
+Unión Deportiva Barbastro, 2
+Espanyol, 0
+
+CE Europa, 1
+Las Palmas, 2
+
+Corinthians, 3
+Bahia, 0
+
+Arminia Bielefeld, 3
+SC Freiburg, 1
+
+SSV Jahn Regensburg, 0
+VfB Stuttgart, 3
+
+FC Bayern München, 0
+Bayer 04 Leverkusen, 1
+
+SV Werder Bremen, 1
+Darmstadt 98, 0
+
+Bologna, 4
+Monza, 0
+
+Milan, 6
+Sassuolo, 1
+
+Ajaccio, 0
+Bastia, 0
+
+Bnei Sakhnin, 0
+Hapoel Haifa, 2
+
+Maccabi Netanya, 2
+Ashdod SC, 2
+
+AC Sparta Praha, 4
+MFK Karviná, 1
+
+Bolton Wanderers, 3
+Mansfield Town, 1
+
+Charlton Athletic, 1
+Crawley Town, 2
+
+Exeter City, 2
+Wycombe Wanderers, 2
+
+Leyton Orient, 3
+Bristol Rovers, 0
+
+Rotherham United, 2
+Lincoln City, 1
+
+Stevenage, 2
+Northampton Town, 0
+
+Wrexham, 1
+Barnsley, 0
+
+Huddersfield Town, 1
+Wigan Athletic, 0
+
+Reading, 3
+Cambridge United, 0
+
+AFC Wimbledon, 2
+Newport County, 2
+
+Bradford City, 1
+Barrow, 1
+
+Cheltenham Town, 1
+Port Vale, 1
+
+Colchester United, 4
+Swindon Town, 0
+
+Grimsby Town, 5
+Accrington Stanley, 2
+
+Milton Keynes Dons, 3
+Chesterfield, 0
+
+Salford City, 2
+Harrogate Town, 0
+
+Tranmere Rovers, 2
+Morecambe, 2
+
+Walsall, 3
+Notts County, 2
+
+MTK Budapest, 3
+Paksi FC, 1
+
+Johor Darul Ta'zim, 0
+Buriram United, 0
+
+Shanghai Port, 1
+Gwangju FC, 1
+
+Kawasaki Frontale, 4
+Shandong Taishan, 0
+
+Pakhtakor Tashkent, 1
+Al-Ain, 1
+
+Al-Hilal, 3
+Al-Gharafa, 0
+
+Al-Wehdat, 1
+Al-Sharjah, 3
+
+FC Istiklol, 0
+Sepahan S.C., 2
+
+Patro Eisden Maasmechelen, 1
+Club Brugge KV, 3
+
+San José, 4
+FC Universitario de Vinto, 1
+
+San Antonio Bulo-Bulo, 2
+Nacional Potosí, 3
+
+Blooming, 1
+Club Aurora, 1
+
+Igman Konjic, 1
+FK Velež Mostar, 1
+
+FK Radnik Bijeljina, 2
+FK Sarajevo, 3
+
+HŠK Posušje, 1
+HŠK Zrinjski Mostar, 2
+
+Cherno More Varna, 4
+Lokomotiv Sofia, 0
+
+CSKA Sofia, 3
+FK Spartak Varna, 1
+
+Beroe Stara Zagora, 5
+Botev Vratsa, 1
+
+Deportes Limache, 3
+Rangers de Talca, 1
+
+Czechia, 1
+Portugal, 2
+
+Norway, 3
+Northern Ireland, 0
+
+Austria, 0
+Poland, 1
+
+Finland, 2
+Scotland, 0
+
+Sweden, 6
+Serbia, 0
+
+Belgium, 2
+Ukraine, 1
+
+Ireland, 1
+Wales, 2
+
+FC 08 Villingen, 1
+SG Barockstadt Fulda-Lehnerz, 3
+
+GE Panachaiki, 1
+AE Kifisia, 0
+
+Aris Thessaloniki, 1
+AEK Athens, 1
+
+Gokulam Kerala FC, 1
+Aizawl FC, 1
+
+Real Kashmir, 2
+Delhi FC, 1
+
+SC Bengaluru, 1
+Churchill Brothers SC, 3
+
+Persis Solo, 0
+PS Barito Putera, 0
+
+Tractor FC, 1
+Chador Malu Yazd, 0
+
+Kelantan Darul Naim, 1
+Terengganu, 2
+
+Perak FC, 1
+Kedah, 1
+
+Kuching City, 1
+Sabah FC, 2
+
+AP Brera Strumica, 1
+FK Rabotnički Skopje, 3
+
+FK Pelister Bitola, 1
+Besa 1976, 0
+
+FK Vardar Skopje, 1
+Tikveš Kavadarci, 1
+
+KF Gostivar, 0
+FK Sileks Kratovo, 0
+
+KF Shkupi, 3
+FC Struga Trim & Lum, 1
+
+Voska Sport, 0
+KF Shkëndija, 1
+
+Śląsk Wrocław, 8
+Piast Gliwice, 9
+
+Polonia Warszawa, 3
+Wisła Kraków, 2
+
+Torreense U23, 0
+Gil Vicente U23, 1
+
+CD Mafra U23, 1
+Estrela Amadora U23, 0
+
+SC Farense U23, 1
+Benfica U23, 5
+
+Alloa Athletic, 2
+Dumbarton, 2
+
+Cove Rangers, 0
+Stenhousemuir, 3
+
+Bonnyrigg Rose, 2
+Stirling Albion, 1
+
+Queen's Park FC, 3
+Rangers B U21, 1
+
+Stade Nyonnais, 1
+FC Vaduz, 1
+
+FC Langenthal, 0
+FC Biel-Bienne 1896, 6
+
+Grasshopper Club Zürich, 0
+FC Zürich, 1
+
+Antalyaspor, 4
+Küçükçekmece Sinop Spor, 1
+
+Adana Demirspor, 4
+Sebat Gençlik Spor, 3
+
+Samsunspor, 2
+52 Orduspor, 4
+
+Alanyaspor, 4
+Fethiyespor, 1
+
+1461 Trabzon, 3
+Kırıkkale FK, 1
+
+Fatih Karagümrük, 3
+Sarıyer, 0
+
+Gençlerbirliği, 1
+Belediye Kütahyaspor, 0
+
+Keçiörengücü, 4
+Beyoğlu Yeni Çarşı FAŞ, 2
+
+Menemen FK, 3
+Elazığspor, 0
+
+Sincan Belediyesi Ankaraspor, 1
+Etimesgut Belediyespor, 2
+
+Yeni Mersin İdman Yurdu AŞ, 0
+Kırklarelispor, 2
+
+İstanbulspor, 4
+Alanya 1221 FK, 1
+
+Barry Town, 0
+Cardiff Met FC, 0
+
+Briton Ferry Llansawel AFC, 2
+Newtown AFC, 1
+
+Connah's Quay Nomads, 1
+Caernarfon Town, 1
+
+Malta, 1
+Hungary, 1
+
+Romania, 1
+Albania, 2
+
+Canada, 5
+South Korea, 1
+
+England, 1
+Switzerland, 0
+
+Netherlands, 1
+USA, 2
+
+France, 2
+Spain, 4
+
+Mexico, 1
+Panama, 1
+
+Australia, 3
+Chinese Taipei, 1

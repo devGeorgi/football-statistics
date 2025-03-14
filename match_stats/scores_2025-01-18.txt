@@ -304,9 +304,6 @@ Colchester United, 1
 Grimsby Town, 1
 Chesterfield, 1
 
-Morecambe, 0
-Crewe Alexandra, 1
-
 Port Vale, 3
 Newport County, 2
 
@@ -351,9 +348,6 @@ Newcastle Jets, 2
 
 Sydney FC, 0
 Central Coast Mariners, 0
-
-Brisbane Roar, 2
-Adelaide United, 3
 
 USA, 3
 Venezuela, 1
@@ -535,9 +529,6 @@ SV Sandhausen, 2
 SV Wehen Wiesbaden, 0
 SC Verl, 1
 
-SV Rödinghausen, 0
-SC Fortuna Köln, 0
-
 AE Larisa, 3
 Kampaniakos, 0
 
@@ -576,9 +567,6 @@ PS Barito Putera, 4
 
 Borneo FC Samarinda, 3
 Arema FC, 1
-
-Persik Kediri, 0
-PSS Sleman, 0
 
 Atalanta U23, 3
 Triestina, 1

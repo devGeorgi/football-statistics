@@ -196,9 +196,6 @@ Al-Ittihad Alexandria, 0
 Jamshedpur FC, 1
 Kerala Blasters, 0
 
-Cape Town City FC, 0
-AmaZulu FC, 1
-
 Magesi FC, 0
 Orlando Pirates, 1
 
@@ -223,9 +220,6 @@ Vision FC, 1
 Samartex, 1
 Nations FC, 1
 
-PS Barito Putera, 0
-PSIS Semarang, 0
-
 Persis Solo, 0
 Persib Bandung, 1
 
@@ -240,9 +234,6 @@ SC Chabab Mohammédia, 0
 
 RS Berkane, 2
 Raja Club Athletic, 0
-
-CD Mafra, 0
-Feirense, 0
 
 Marítimo, 1
 UD Oliveirense, 2

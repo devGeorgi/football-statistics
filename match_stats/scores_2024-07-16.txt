@@ -1,0 +1,344 @@
+KF Ballkani, 6
+UE Santa Coloma, 8
+
+HJK, 1
+FK Panevėžys, 1
+
+Lincoln Red Imps, 5
+Ħamrun Spartans FC, 5
+
+Pyunik Yerevan, 0
+Dinamo Minsk, 1
+
+NK Celje, 2
+Flora Tallinn, 1
+
+FCSB, 4
+SS Virtus, 0
+
+FK Dečić Tuzi, 1
+The New Saints, 1
+
+Shamrock Rovers, 2
+Víkingur Reykjavík, 1
+
+Huachipato, 2
+Racing de Montevideo, 3
+
+Rosario Central, 1
+Internacional, 0
+
+Juventude, 1
+Atlético Mineiro, 1
+
+Corinthians, 2
+Criciúma, 1
+
+Atlas FC, 1
+Santos Laguna, 0
+
+CF Pachuca, 2
+Atlético San Luis, 0
+
+Querétaro FC, 0
+CD Guadalajara, 2
+
+Club Puebla, 2
+Club León, 2
+
+Cruz Azul, 3
+Club Tijuana, 0
+
+Envigado FC, 2
+Deportivo La Equidad, 1
+
+Rionegro Águilas Doradas, 1
+América de Cali, 2
+
+Deportivo Cali, 0
+Deportivo Pereira, 2
+
+Modern Sport FC, 1
+Al Ahly FC, 2
+
+Chattanooga Red Wolves SC, 0
+Charlotte Independence, 2
+
+AC Barnechea, 4
+Deportes Santa Cruz, 2
+
+Rangers de Talca, 2
+Deportes Magallanes, 3
+
+Santiago Wanderers, 1
+Deportes Recoleta, 1
+
+Qingdao West Coast, 0
+Shandong Taishan, 4
+
+Henan Songshan Longmen, 1
+Guangxi Pingguo Haliao, 0
+
+Tianjin Jinmen Tiger, 4
+Changchun Yatai, 3
+
+Wuxi Wugou, 1
+Beijing Guoan, 3
+
+Zhejiang, 1
+Shanghai Port, 2
+
+Italy, 4
+Finland, 0
+
+Norway, 1
+Netherlands, 1
+
+Israel, 2
+Slovakia, 2
+
+Scotland, 1
+Serbia, 0
+
+Denmark, 2
+Czechia, 0
+
+Spain, 2
+Belgium, 0
+
+Ireland, 3
+France, 1
+
+Sweden, 0
+England, 0
+
+Northern Ireland, 2
+Bosnia & Herzegovina, 0
+
+Portugal, 3
+Malta, 1
+
+Germany, 4
+Austria, 0
+
+Poland, 0
+Iceland, 1
+
+Ukraine, 2
+Croatia, 0
+
+Wales, 2
+Kosovo, 0
+
+Belarus, 5
+Cyprus, 0
+
+Lithuania, 0
+Georgia, 1
+
+Latvia, 2
+Moldova, 1
+
+Slovenia, 4
+North Macedonia, 0
+
+Estonia, 1
+Luxembourg, 1
+
+Andorra, 0
+Faroe Islands, 4
+
+Montenegro, 2
+Greece, 3
+
+Hungary, 1
+Türkiye, 4
+
+Switzerland, 3
+Azerbaijan, 0
+
+Bulgaria, 0
+Kazakhstan, 0
+
+Romania, 3
+Armenia, 1
+
+Denmark U19, 1
+Spain U19, 2
+
+France U19, 2
+Türkiye U19, 1
+
+Serbia U19, 1
+England U19, 1
+
+Japan Soccer College, 0
+Renofa Yamaguchi FC, 3
+
+Airdrieonians, 8
+East Kilbride, 0
+
+Queen of The South, 2
+Dumbarton, 0
+
+Ayr United, 1
+Falkirk FC, 0
+
+Dundee United, 3
+Stenhousemuir, 0
+
+Elgin City, 6
+Kelty Hearts F.C., 5
+
+Hibernian, 5
+Queen's Park FC, 1
+
+Annan Athletic, 8
+Bonnyrigg Rose, 9
+
+Arbroath, 0
+Dundee FC, 2
+
+Cove Rangers, 0
+The Spartans FC, 5
+
+Dunfermline Athletic, 0
+Forfar Athletic, 2
+
+Alloa Athletic, 5
+East Fife, 3
+
+Greenock Morton, 1
+Brechin City FC, 0
+
+Montrose, 5
+Motherwell, 6
+
+Hamilton Academical, 2
+Stirling Albion, 4
+
+Raith Rovers, 2
+Stranraer, 1
+
+Gimpo FC, 0
+Jeju SK, 1
+
+Gwangju FC, 3
+Seongnam FC, 2
+
+Pohang Steelers, 5
+FC Seoul, 1
+
+Ulsan HD, 1
+Incheon United, 0
+
+Zamora, 1
+Inter de Barinas, 0
+
+Estudiantes de Mérida, 1
+Deportivo Táchira, 1
+
+Luton Town, 1
+Rukh Lviv, 0
+
+SV Sandhausen, 2
+Mamelodi Sundowns, 1
+
+SK Beveren, 3
+OFI Crete, 0
+
+SV Kraig, 3
+SK Austria Klagenfurt II, 4
+
+Energie Cottbus, 2
+Hertha BSC, 2
+
+ASK Royal Sped Klingenbach, 0
+Favoritner AC, 3
+
+Bad Sauerbrunn, 4
+SC Ortmann, 1
+
+SV Haitzendorf, 1
+SC Krems, 6
+
+SV Todesfelde, 2
+TuS Dassendorf, 0
+
+Excelsior Maassluis, 0
+SC Telstar, 0
+
+Swansea University FC, 1
+Llanelli AFC, 2
+
+Gainsborough Trinity, 3
+Scunthorpe United, 5
+
+Southport, 2
+Preston North End, 1
+
+Stafford Rangers, 1
+Crewe Alexandra, 4
+
+Warrington Rylands 1906 FC, 2
+Oldham Athletic, 1
+
+Wealdstone, 1
+Notts County, 2
+
+Worksop Town FC, 0
+Buxton FC, 0
+
+Alfreton Town, 1
+Chesterfield, 2
+
+Billericay Town FC, 1
+Chelmsford City, 2
+
+Chesham United, 0
+Barnet, 2
+
+Eastbourne Borough, 5
+Whitehawk, 2
+
+Hanwell Town, 0
+Maidenhead United, 1
+
+Hornchurch, 0
+Sutton United, 3
+
+Hungerford Town, 0
+Hampton & Richmond Borough, 2
+
+Macclesfield FC, 2
+Stalybridge Celtic, 1
+
+St Albans City, 0
+Leyton Orient, 0
+
+Swindon Supermarine, 1
+Hereford FC, 2
+
+CS Mioveni, 1
+AFC Câmpulung Muscel, 0
+
+NK Opatija, 2
+NK Dubrava Tim Kabel, 0
+
+BVSC-Zugló, 1
+Iváncsa KSE, 0
+
+Fehérvár FC, 2
+Göztepe, 2
+
+Nonthaburi United, 0
+VRN Muangnont FC, 2
+
+Senegal, 2
+DR Congo, 0
+
+USA, 0
+Costa Rica, 0
+
+El Salvador, 3
+Peru, 0

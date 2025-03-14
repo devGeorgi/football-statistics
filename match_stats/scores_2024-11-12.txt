@@ -1,0 +1,116 @@
+Juventus, 0
+Arsenal Women, 4
+
+FC Bayern München, 3
+Vålerenga, 0
+
+Barcelona, 7
+SKN St. Pölten, 0
+
+Manchester City W.F.C., 2
+Hammarby IF, 0
+
+América Mineiro, 3
+Ituano, 2
+
+Guarani, 0
+Amazonas FC, 0
+
+Botafogo-SP, 1
+Ceará, 4
+
+Stockport County, 0
+Tranmere Rovers, 2
+
+Salford City, 3
+Wolverhampton U21, 2
+
+Port Vale, 4
+Wrexham, 2
+
+Morecambe, 1
+Carlisle United, 2
+
+Wigan Athletic, 3
+Nottingham Forest U21, 0
+
+Barrow, 3
+Aston Villa U21, 0
+
+Bolton Wanderers, 2
+Fleetwood Town, 1
+
+Harrogate Town, 6
+Blackpool, 7
+
+Huddersfield Town, 4
+Manchester United U21, 1
+
+Chesterfield, 3
+Grimsby Town, 2
+
+Lincoln City, 5
+Manchester City U21, 0
+
+Bradford City, 0
+Rotherham United, 0
+
+Walsall, 3
+Shrewsbury Town, 0
+
+Wycombe Wanderers, 2
+Crawley Town, 1
+
+Charlton Athletic, 1
+Bromley, 0
+
+Stevenage, 5
+Gillingham, 6
+
+Milton Keynes Dons, 1
+Leyton Orient, 3
+
+Colchester United, 3
+Arsenal U21, 0
+
+Northampton Town, 2
+Burton Albion, 5
+
+Notts County, 1
+Leicester City U21, 0
+
+Reading, 3
+Newport County, 0
+
+Santiago Morning, 1
+Deportes Recoleta, 1
+
+Deportes Santa Cruz, 1
+Rangers de Talca, 2
+
+Kaya-Iloilo, 3
+Loyola FC, 2
+
+Stallion Laguna, 0
+Davao Aguilas, 1
+
+Concordia Chiajna, 2
+FK Csíkszereda Miercurea Ciuc, 1
+
+East Kilbride, 3
+Ayr United, 2
+
+Dunfermline Athletic, 1
+Alloa Athletic, 0
+
+Livingston, 2
+Greenock Morton, 1
+
+Deportivo Maldonado, 0
+Racing de Montevideo, 1
+
+Caracas F.C., 0
+Deportivo Táchira, 4
+
+Zamora, 3
+Rayo Zuliano, 3

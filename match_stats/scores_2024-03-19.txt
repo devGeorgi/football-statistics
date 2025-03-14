@@ -1,0 +1,131 @@
+Ajax, 0
+Chelsea FC Women, 3
+
+Benfica, 1
+Olympique Lyonnais, 2
+
+Argentinos Juniors, 3
+Rosario Central, 0
+
+Bradford City, 0
+Notts County, 3
+
+Cumbayá FC, 2
+Mushuc Runa, 1
+
+Libertad, 0
+LDU, 0
+
+Orense SC, 1
+Imbabura Sporting Club, 2
+
+Wellington Phoenix, 4
+Adelaide United, 0
+
+NC Magra, 0
+CR Belouizdad, 0
+
+USM Alger, 2
+ES Sétif, 0
+
+Deportes Quindío, 1
+Real Cartagena, 0
+
+Barnet, 2
+Eastleigh, 1
+
+Georgia U19, 0
+Czechia U19, 1
+
+Türkiye U19, 2
+Romania U19, 0
+
+SV Babelsberg 03, 1
+Chemnitzer FC, 0
+
+Accra Lions FC, 1
+Accra Great Olympics, 0
+
+L.R. Vicenza, 1
+Fiorenzuola, 1
+
+Padova, 2
+Catania, 1
+
+Blaublitz Akita, 3
+Tochigi SC, 0
+
+Fagiano Okayama, 1
+Mito Hollyhock, 0
+
+JEF United Chiba, 1
+Shimizu S-Pulse, 3
+
+Montedio Yamagata, 0
+Fujieda MYFC, 1
+
+Oita Trinita, 3
+Kagoshima United, 0
+
+Vegalta Sendai, 0
+Roasso Kumamoto, 0
+
+Ventforet Kofu, 1
+Iwaki FC, 1
+
+Yokohama FC, 1
+Thespa Gunma, 0
+
+Ehime FC, 1
+V-Varen Nagasaki, 2
+
+Tokushima Vortis, 1
+Renofa Yamaguchi FC, 2
+
+Cancún FC, 2
+Tepatitlán FC, 0
+
+Atlante FC, 3
+Mineros de Zacatecas, 1
+
+Alebrijes de Oaxaca, 1
+Tlaxcala FC, 1
+
+Kelty Hearts F.C., 2
+Alloa Athletic, 1
+
+Chattanooga FC, 0
+Miami United, 1
+
+Brave SC, 0
+Savannah Clovers FC, 2
+
+Forward Madison FC, 2
+Duluth FC, 0
+
+Vermont Green FC, 4
+Lexington SC, 3
+
+South Georgia Tormenta FC, 1
+FC America CFL Spurs, 0
+
+West Chester United, 0
+Maryland Bobcats FC, 2
+
+Tulsa Athletics, 1
+Northern Colorado Hailstorm FC, 4
+
+Austin FC II, 5
+Foro SC, 6
+
+Portland Timbers II, 1
+El Farolito, 2
+
+Estudiantes de Mérida, 0
+Universidad Central, 1
+
+Deportivo La Guaira, 0
+Carabobo, 0
+
+Portuguesa FC, 3
+Metropolitanos, 1

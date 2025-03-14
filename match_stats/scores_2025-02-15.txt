@@ -118,9 +118,6 @@ Atromitos Athens, 1
 Celtic, 3
 Dundee United, 0
 
-Dundee FC, 1
-Aberdeen, 2
-
 Kilmarnock, 3
 St. Johnstone, 1
 
@@ -136,9 +133,6 @@ Cruz Azul, 1
 CD Toluca, 2
 CD Guadalajara, 1
 
-NK Istra 1961, 1
-HNK Hajduk Split, 1
-
 GNK Dinamo Zagreb, 3
 HNK Gorica, 1
 
@@ -147,9 +141,6 @@ FK Spartak Subotica, 2
 
 FK Partizan, 4
 OFK Beograd, 1
-
-FK Napredak Kruševac, 0
-FK Crvena zvezda, 4
 
 Cardiff City, 1
 Bristol City, 1
@@ -171,9 +162,6 @@ Sheffield United, 1
 
 Middlesbrough, 0
 Watford, 1
-
-Millwall, 1
-West Bromwich Albion, 1
 
 Sheffield Wednesday, 1
 Coventry City, 2
@@ -352,9 +340,6 @@ Peterborough United, 1
 Wigan Athletic, 0
 Stockport County, 2
 
-AFC Wimbledon, 1
-Salford City, 0
-
 Doncaster Rovers, 1
 Grimsby Town, 2
 
@@ -366,9 +351,6 @@ Colchester United, 0
 
 Cheltenham Town, 3
 Barrow, 2
-
-Gillingham, 0
-Crewe Alexandra, 0
 
 Harrogate Town, 1
 Swindon Town, 0
@@ -399,9 +381,6 @@ Mohun Bagan Super Giant, 3
 
 Sligo Rovers, 2
 Waterford FC, 3
-
-Machida Zelvia, 1
-Sanfrecce Hiroshima, 2
 
 Tokyo Verdy, 0
 Shimizu S-Pulse, 1
@@ -469,9 +448,6 @@ Uthai Thani FC, 0
 Khon Kaen United, 0
 Muang Thong United, 0
 
-Port FC, 0
-PT Prachuap FC, 0
-
 RAAL La Louvière, 4
 RFC Seraing, 1
 
@@ -498,9 +474,6 @@ Montpellier HSC, 1
 
 SGS Essen, 4
 FC Carl Zeiss Jena, 1
-
-Costa Adeje Tenerife, 1
-SD Eibar, 1
 
 Athletic Bilbao, 2
 Real Sociedad, 0
@@ -658,9 +631,6 @@ Real Cundinamarca, 4
 Tigres FC, 1
 Atlético Huila, 1
 
-Leones FC, 0
-Real Cartagena, 0
-
 Patriotas Boyacá, 0
 Barranquilla FC, 0
 
@@ -748,9 +718,6 @@ SV Sandhausen, 0
 SSV Jeddeloh, 1
 1.FC Phönix Lübeck, 1
 
-SC Weiche Flensburg 08, 0
-Bremer SV, 0
-
 SV Babelsberg 03, 0
 Chemnitzer FC, 0
 
@@ -780,9 +747,6 @@ SC Rot-Weiß Oberhausen, 1
 
 Sportfreunde Lotte, 2
 Eintracht Hohkeppel, 0
-
-Turkspor Dortmund 2000, 0
-KFC Uerdingen 05, 0
 
 Wuppertaler SV, 1
 Fortuna Düsseldorf II U23, 1
@@ -976,9 +940,6 @@ Hamilton Academical, 2
 Raith Rovers, 3
 Partick Thistle, 0
 
-Inverness Caledonian Thistle, 0
-Stenhousemuir, 0
-
 Alloa Athletic, 2
 Kelty Hearts F.C., 0
 
@@ -996,9 +957,6 @@ Bonnyrigg Rose, 1
 
 Edinburgh City F.C., 5
 The Spartans FC, 0
-
-Peterhead, 2
-Clyde FC, 2
 
 Stirling Albion, 3
 Forfar Athletic, 1

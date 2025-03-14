@@ -1,0 +1,95 @@
+Deportivo Riestra, 1
+Vélez Sarsfield, 1
+
+Lanús, 0
+Platense, 0
+
+Tigre, 0
+Defensa y Justicia, 4
+
+Argentinos Juniors, 1
+Banfield, 0
+
+Belgrano, 3
+Instituto De Córdoba, 1
+
+Deportivo La Coruña, 1
+Eibar, 0
+
+Vila Nova FC, 2
+Ponte Preta, 1
+
+Coritiba, 0
+Santos, 2
+
+Paysandu SC, 1
+Brusque, 0
+
+Deportivo La Equidad, 2
+Deportivo Pasto, 2
+
+Atlético Nacional, 1
+Independiente Medellín, 1
+
+Once Caldas, 0
+Junior Barranquilla, 0
+
+América de Cali, 0
+Independiente Santa Fe, 0
+
+Sportivo Ameliano, 0
+CS 2 de Mayo, 2
+
+Imbabura Sporting Club, 0
+Deportivo Cuenca, 2
+
+FC Gloria Buzău, 0
+FC Petrolul Ploieşti, 1
+
+SC Oțelul Galați, 0
+CFR 1907 Cluj, 1
+
+Muang Thong United, 3
+Nakhon Pathom United, 1
+
+SGS Essen, 0
+RB Leipzig, 0
+
+Neman Grodno, 0
+Dinamo Minsk, 0
+
+HŠK Zrinjski Mostar, 3
+GOŠK Gabela, 0
+
+FK Borac Banja Luka, 4
+Igman Konjic, 0
+
+Hobro, 2
+Hillerød, 2
+
+Ethnikos Neou Keramidiou, 0
+Kampaniakos, 0
+
+AE Kifisia, 2
+GSS Panionios, 1
+
+Padova, 2
+Novara, 1
+
+Taranto, 1
+Audace Cerignola, 0
+
+Turris, 1
+Team Altamura, 1
+
+PFF Development Club Youth, 2
+Mendiola FC, 1
+
+Maharlika Manila FC, 1
+Manila Digger FC, 5
+
+FC Metaloglobus București, 0
+Steaua București, 0
+
+Hồ Chí Minh City, 0
+Nam Định, 3

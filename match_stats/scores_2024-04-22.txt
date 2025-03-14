@@ -1,0 +1,182 @@
+Sevilla, 2
+Mallorca, 1
+
+Roma, 1
+Bologna, 3
+
+Milan, 1
+Inter, 2
+
+SC Farense, 1
+Benfica, 3
+
+Sivasspor, 2
+Fenerbahçe, 2
+
+Olympiacos U19, 3
+Milan U19, 0
+
+NK Rudeš, 0
+NK Varaždin, 2
+
+FK Mladost Lučani, 3
+FK Napredak Kruševac, 1
+
+FK IMT Beograd, 0
+FK Železničar Pančevo, 0
+
+Middlesbrough, 3
+Leeds United, 4
+
+FC Cartagena, 2
+Real Oviedo, 0
+
+Vila Nova FC, 2
+Guarani, 0
+
+Jong AZ Alkmaar, 2
+VVV-Venlo, 1
+
+Jong PSV Eindhoven, 2
+Jong FC Utrecht Youth, 0
+
+Ümraniyespor, 1
+Kocaelispor, 0
+
+Fortaleza CEIF, 0
+Atlético Bucaramanga, 2
+
+Boyacá Chicó FC, 1
+Rionegro Águilas Doradas, 2
+
+Deportivo Pasto, 2
+Deportivo La Equidad, 3
+
+Warta Poznań, 5
+Stal Mielec, 2
+
+FC Nordsjælland, 7
+AGF, 2
+
+ZED FC, 3
+El Gouna FC, 0
+
+Al-Ittihad Alexandria, 1
+Ismaily, 1
+
+El Dakhlya, 1
+Modern Sport FC, 1
+
+Derry City, 3
+St. Patrick's Athletic, 1
+
+Shelbourne, 0
+Shamrock Rovers, 0
+
+FC Petrolul Ploieşti, 1
+UTA Arad, 1
+
+IF Elfsborg, 1
+Kalmar FF, 2
+
+FC Bayern München, 3
+SV Werder Bremen, 0
+
+Almirante Brown, 1
+Brown de Adrogué, 2
+
+Deportivo Maipú, 1
+Güemes, 1
+
+Quilmes Atlético Club, 2
+Patronato, 2
+
+Japan U23, 0
+South Korea U23, 1
+
+United Arab Emirates U23, 1
+China U23, 2
+
+Saudi Arabia U23, 1
+Iraq U23, 2
+
+Thailand U23, 0
+Tajikistan U23, 1
+
+Al-Ahli Club, 0
+Manama Club, 0
+
+Al Khalidiyah, 4
+Al Najma Manama, 2
+
+Busaiteen, 2
+Al-Muharraq, 1
+
+Independiente Petrolero, 0
+San Antonio Bulo-Bulo, 0
+
+San Antonio Bulo-Bulo, 6
+Independiente Petrolero, 1
+
+Confiança, 1
+Londrina, 1
+
+Ferroviária, 1
+ABC, 1
+
+AC Barnechea, 1
+Unión San Felipe, 0
+
+Deportes La Serena, 2
+Deportes Santa Cruz, 1
+
+Universidad de Concepción, 2
+Curicó Unido, 0
+
+AD Guanacasteca, 1
+Herediano, 2
+
+Sochaux, 2
+Chamois Niortais, 1
+
+Berekum Chelsea, 2
+Medeama, 0
+
+Iraklis 1908, 1
+AEPS Aiolikos Mytilene, 0
+
+Deportivo Malacateco, 2
+CSD Zacapa, 1
+
+PSIS Semarang, 2
+RANS Nusantara FC, 1
+
+Valmiera FC, 0
+BFC Daugava Daugavpils, 1
+
+Grobiņas SC, 0
+RFS, 4
+
+Ørn-Horten, 2
+SK Brann II, 3
+
+Eik-Tønsberg, 4
+Viking FK II, 3
+
+CD Nacional, 3
+Benfica B U21, 1
+
+Örebro SK, 3
+Varbergs BoIS, 1
+
+Linköpings FC, 1
+BK Häcken FF, 1
+
+FC Thun, 1
+FC Sion, 0
+
+Metalist 1925, 1
+Obolon Kyiv, 1
+
+Shakhtar Donetsk, 2
+Zorya Luhansk, 1

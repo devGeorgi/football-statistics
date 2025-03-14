@@ -1,0 +1,176 @@
+Comoros, 1
+Gambia, 1
+
+Libya, 1
+Rwanda, 1
+
+Sudan, 1
+Niger, 0
+
+Tanzania, 0
+Ethiopia, 0
+
+South Korea, 0
+Palestine, 0
+
+Australia, 0
+Bahrain, 1
+
+Japan, 7
+China, 0
+
+Ajax, 4
+WFC Kolos Kovalivka, 1
+
+Paris FC, 9
+First Vienna, 0
+
+Eintracht Frankfurt, 0
+Sporting CP, 2
+
+KFF Vllaznia, 3
+WFC Lanchkhuti, 0
+
+SKN St. Pölten, 5
+Neftchi Baku PFC, 0
+
+ŽNK Mura, 3
+Glentoran Belfast United, 2
+
+Ferencváros TC, 2
+Flora Tallinn Women, 1
+
+Benfica, 3
+FC Nordsjælland, 1
+
+Gintra Universitetas, 5
+Agarista SS Anenii Noi, 0
+
+KFF Mitrovica, 0
+FC Farul Constanta, 4
+
+ŽNK Osijek, 2
+Spartak Myjava, 0
+
+Anderlecht, 4
+ŽFK Crvena zvezda, 1
+
+Brøndby IF, 0
+Fiorentina, 1
+
+FC Twente Vrouwen, 7
+Cardiff City FC, 0
+
+Racing FC Union Luxembourg, 1
+Galatasaray Istanbul, 4
+
+Sparta Prague, 3
+Linköpings FC, 1
+
+Servette FC Chênois Féminin, 1
+Pogoń Szczecin, 0
+
+Apollon Limassol, 3
+FC Pyunik Yerevan, 0
+
+Arsenal Women, 6
+Rangers LFC, 0
+
+FC Minsk, 1
+Breiðablik Kópavogur, 6
+
+ŽFK Breznica, 1
+Birkirkara FC, 2
+
+Vila Nova FC, 1
+CRB, 0
+
+Spokane Velocity FC, 2
+Union Omaha SC, 1
+
+Malaysia, 2
+Philippines, 1
+
+Gibraltar, 1
+Andorra, 0
+
+East Timor, 4
+Mongolia, 1
+
+Sri Lanka, 0
+Cambodia, 0
+
+CD Imperial Unido, 1
+Huachipato, 2
+
+Deportes Iquique, 1
+Coquimbo Unido, 2
+
+Internacional de Palmira, 0
+Orsomarso, 0
+
+Leones FC, 1
+Unión Magdalena, 1
+
+Israel U21, 1
+Germany U21, 5
+
+Eintracht Norderstedt, 1
+Hamburger SV II U23, 1
+
+Blau-Weiss Lohne, 0
+SV Meppen, 2
+
+FC Teutonia 05 Ottensen, 0
+FC St Pauli II U23, 0
+
+FC Carl Zeiss Jena, 5
+FC Rot-Weiß Erfurt, 1
+
+CSD Xelajú MC, 0
+Xinabajul Huehue, 0
+
+US Virgin Islands, 3
+Bahamas, 3
+
+Anguilla, 2
+Turks and Caicos Islands, 0
+
+British Virgin Islands, 0
+Cayman Islands, 1
+
+Rayo Zuliano, 1
+Monagas, 2
+
+Caracas F.C., 0
+Academia Puerto Cabello, 0
+
+Portuguesa FC, 2
+Inter de Barinas, 1
+
+FC Schalke 04, 2
+NAC Breda, 1
+
+CD Pozoblanco, 4
+Atlético Mancha Real, 2
+
+SK Sturm Graz, 4
+Kapfenberger SV, 1
+
+Widzew Łódź, 3
+Wisła Płock, 0
+
+FC Twente, 2
+Fortuna Düsseldorf, 4
+
+Spain U20, 2
+Paraguay U20, 0
+
+Morocco U20, 0
+USA U20, 2
+
+Germany U20, 3
+Nigeria U20, 1
+
+South Korea U20, 0
+Venezuela U20, 0

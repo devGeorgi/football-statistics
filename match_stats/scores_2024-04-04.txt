@@ -1,0 +1,194 @@
+Liverpool, 3
+Sheffield United, 1
+
+Chelsea, 4
+Manchester United, 3
+
+Granada, 0
+Valencia, 1
+
+Talleres, 2
+São Paulo, 1
+
+Palestino, 0
+Bolívar, 4
+
+Liverpool UY, 1
+Independiente Del Valle, 1
+
+Caracas F.C., 1
+Atlético Mineiro, 4
+
+Rosario Central, 1
+Peñarol, 0
+
+Club Always Ready, 2
+Independiente Medellín, 0
+
+Universidad Católica del Ecuador, 0
+Cruzeiro, 0
+
+CD Real Tomayapo, 0
+Delfín, 2
+
+Deportivo Garcilaso, 3
+Metropolitanos, 2
+
+Sportivo Luqueño, 0
+Racing Club, 2
+
+AFC Ajax, 1
+Go Ahead Eagles, 1
+
+Başakşehir FK, 1
+Beşiktaş, 1
+
+Samsunspor, 0
+Pendikspor, 0
+
+FK Napredak Kruševac, 3
+FK Javor Ivanjica, 0
+
+Erzurumspor FK, 2
+Giresunspor, 1
+
+Western Sydney Wanderers, 1
+Brisbane Roar, 2
+
+Changchun Yatai, 1
+Shanghai Shenhua, 2
+
+Henan Songshan Longmen, 0
+Shenzhen Peng City, 2
+
+Beijing Guoan, 2
+Shanghai Port, 2
+
+Qingdao Hainiu, 0
+Shandong Taishan, 1
+
+Al-Masry, 2
+Al-Ittihad Alexandria, 3
+
+ENPPI, 1
+Pharco FC, 1
+
+National Bank of Egypt, 1
+El Dakhlya, 0
+
+Chennaiyin FC, 2
+Jamshedpur FC, 1
+
+FC Lausanne-Sport, 3
+FC St. Gallen 1879, 3
+
+FC Luzern, 1
+Yverdon-Sport FC, 0
+
+Young Boys, 3
+Grasshopper Club Zürich, 0
+
+Nakhon Pathom United, 1
+Lamphun Warrior, 0
+
+MC Oran, 0
+USM Alger, 0
+
+CR Belouizdad, 2
+ES Sétif, 1
+
+Red Bull Salzburg, 3
+SK Sturm Graz, 4
+
+Beroe Stara Zagora, 0
+Botev Plovdiv, 3
+
+Cherno More Varna, 3
+Lokomotiv Sofia, 0
+
+Yanbian Longding, 1
+Chongqing Tonglianglong FC, 1
+
+Foshan Nanshi, 2
+Dalian Yingbo FC, 2
+
+Jiangxi Lushan FC, 2
+Yunnan Yukun, 3
+
+Guangzhou FC, 2
+Shanghai Jiading Huilong, 1
+
+Atlético Cali, 0
+Real Cartagena, 2
+
+Real Cundinamarca, 1
+Unión Magdalena, 2
+
+AEZ Zakakiou, 0
+Nea Salamina Famagusta, 3
+
+Armenia, 0
+Romania, 5
+
+Kazakhstan, 0
+Bulgaria, 1
+
+Chania F.C., 2
+Athens Kallithea FC, 1
+
+GS Diagoras Rodou, 2
+GE Panachaiki, 2
+
+Nyiregyháza Spartacus, 2
+Kecskemét TE, 1
+
+Rajasthan United FC, 3
+Delhi FC, 6
+
+Borneo FC Samarinda, 0
+Madura United FC, 0
+
+Persija Jakarta, 0
+Persis Solo, 0
+
+Persikabo 1973, 0
+Bali United FC, 0
+
+FK Tukums 2000, 2
+Grobiņas SC, 0
+
+Riga FC, 4
+FK Liepaja, 0
+
+Club Atlético Morelia, 0
+Leones Negros, 2
+
+Tepatitlán FC, 1
+Tlaxcala FC, 1
+
+Universitatea Craiova, 0
+SC Oțelul Galați, 1
+
+Akhmat Grozny, 0
+Orenburg, 1
+
+Ilirija 1911, 1
+Beltinci Klima Tratnjek, 2
+
+Zorya Luhansk, 0
+Dynamo Kyiv, 3
+
+Polissya Zhytomyr, 0
+Vorskla Poltava, 1
+
+Công An Hà Nội, 2
+Sông Lam Nghệ An, 0
+
+Hồ Chí Minh City, 1
+Hà Nội, 3
+
+Nam Định, 2
+Quy Nhơn Bình Định FC, 4
+
+South Korea, 3
+Philippines, 0

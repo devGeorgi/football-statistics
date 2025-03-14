@@ -1,0 +1,209 @@
+Japan, 1
+North Korea, 0
+
+Myanmar, 1
+Syria, 1
+
+South Korea, 1
+Thailand, 1
+
+Chinese Taipei, 0
+Kyrgyzstan, 2
+
+Pakistan, 0
+Jordan, 3
+
+Australia, 2
+Lebanon, 0
+
+BK Häcken FF, 1
+Paris Saint-Germain, 2
+
+SK Brann Kvinner, 1
+Barcelona, 2
+
+Belgrano, 0
+Lanús, 1
+
+Deportivo Cuenca, 1
+Macará, 1
+
+Aucas, 3
+El Nacional, 4
+
+Universidad Católica del Ecuador, 0
+Barcelona SC, 0
+
+San Marino, 1
+Saint Kitts and Nevis, 3
+
+Somalia, 0
+Eswatini, 3
+
+Djibouti, 0
+Liberia, 2
+
+ES Ben Aknoun, 2
+MC Alger, 3
+
+Atlético Tucumán, 4
+Defensores de Belgrano, 0
+
+Club Aurora, 4
+Royal Pari Sion, 1
+
+América-RN, 1
+ABC, 0
+
+CRB, 3
+Juazeirense, 1
+
+Ríver AC, 0
+AA Altos, 0
+
+Bahia, 2
+Vitória, 1
+
+Fortaleza, 0
+Ceará, 1
+
+Sport Recife, 2
+Náutico, 2
+
+FC Halifax Town, 4
+Chesterfield, 2
+
+Wealdstone, 0
+Bromley, 1
+
+Kosovo U19, 1
+Austria U19, 0
+
+Spain U19, 1
+Slovenia U19, 1
+
+France U19, 2
+Belgium U19, 0
+
+Netherlands U19, 4
+Lithuania U19, 0
+
+Norway U19, 2
+Montenegro U19, 1
+
+Bosnia & Herzegovina U19, 0
+Israel U19, 2
+
+Serbia U19, 1
+Denmark U19, 3
+
+Portugal U19, 2
+Greece U19, 1
+
+Scotland U19, 1
+Italy U19, 3
+
+Croatia U19, 2
+Germany U19, 1
+
+North Macedonia U19, 0
+Ukraine U19, 2
+
+Switzerland U19, 1
+Latvia U19, 0
+
+Eintracht Norderstedt, 1
+SC Weiche Flensburg 08, 1
+
+Viktoria Berlin, 2
+FSV Zwickau, 0
+
+Nations FC, 1
+Dreams, 0
+
+Medeama, 2
+Aduana Stars FC, 0
+
+Neroca FC, 1
+TRAU FC, 0
+
+TRAU FC, 0
+Neroca FC, 0
+
+CD Tapatío, 2
+Correcaminos UAT, 2
+
+Venados, 0
+Cimarrones de Sonora, 0
+
+Dorados de Sinaloa, 1
+Leones Negros, 2
+
+RS Berkane, 2
+MAS de Fès, 1
+
+Richmond Kickers, 1
+Christos FC, 0
+
+AS Frenzi, 2
+Club de Lyon FC, 3
+
+Asheville City SC, 0
+One Knoxville SC, 2
+
+South Carolina United FC, 0
+Greenville Triumph SC, 1
+
+Apotheos FC, 0
+Georgia FC, 0
+
+New York Red Bulls II, 5
+Hudson Valley Hammers, 1
+
+Chicago Fire FC II, 6
+Chicago City SC, 0
+
+Chicago House AC, 0
+Minnesota United FC 2, 3
+
+FC Folsom, 1
+Central Valley Fuego, 2
+
+Ballard FC, 0
+Spokane Velocity FC, 1
+
+Capo FC, 6
+Des Moines Menace, 7
+
+Irvine Zeta FC, 1
+Mesoamerica FC, 0
+
+Los Angeles Force, 2
+Redlands FC, 1
+
+Rayo Zuliano, 0
+Inter de Barinas, 1
+
+Caracas F.C., 0
+Angostura FC, 1
+
+Deportivo Táchira, 1
+Monagas, 0
+
+Zamora, 0
+Academia Puerto Cabello, 0
+
+Inter Turku, 1
+FC Haka, 0
+
+Apollon Limassol, 0
+AEK Athens, 1
+
+FC Gütersloh, 0
+FC Schalke 04, 1
+
+Alianza Lima, 1
+Blooming, 0
+
+1. FC Union Berlin, 3
+1. FC Magdeburg, 1

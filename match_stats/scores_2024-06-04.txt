@@ -1,0 +1,170 @@
+Huachipato, 0
+Grêmio, 1
+
+CD Real Tomayapo, 0
+Internacional, 2
+
+Barracas Central, 0
+Huracán, 2
+
+Banfield, 2
+Newell's Old Boys, 0
+
+Independiente Rivadavia, 0
+Club Atlético Unión de Santa Fe, 1
+
+Mirassol, 3
+Guarani, 0
+
+Paysandu SC, 2
+América Mineiro, 0
+
+Slovenia, 2
+Armenia, 1
+
+Switzerland, 4
+Estonia, 0
+
+Romania, 0
+Bulgaria, 0
+
+Austria, 2
+Serbia, 1
+
+Ireland, 2
+Hungary, 1
+
+Portugal, 4
+Finland, 2
+
+Italy, 0
+Türkiye, 0
+
+Deportes Quindío, 1
+Cúcuta Deportivo, 0
+
+Unión Magdalena, 2
+Llaneros FC, 1
+
+Finland, 1
+Netherlands, 1
+
+Italy, 1
+Norway, 1
+
+Israel, 0
+Scotland, 5
+
+Slovakia, 0
+Serbia, 4
+
+Belgium, 1
+Czechia, 1
+
+Spain, 3
+Denmark, 2
+
+Sweden, 1
+Ireland, 0
+
+France, 1
+England, 2
+
+Bosnia & Herzegovina, 2
+Malta, 1
+
+Northern Ireland, 1
+Portugal, 2
+
+Poland, 1
+Germany, 3
+
+Iceland, 2
+Austria, 1
+
+Croatia, 2
+Kosovo, 0
+
+Ukraine, 2
+Wales, 2
+
+Belarus, 3
+Lithuania, 0
+
+Georgia, 1
+Cyprus, 0
+
+Latvia, 0
+Slovenia, 4
+
+Moldova, 2
+North Macedonia, 4
+
+Albania, 3
+Luxembourg, 1
+
+Faroe Islands, 0
+Greece, 2
+
+Andorra, 1
+Montenegro, 5
+
+Azerbaijan, 1
+Türkiye, 0
+
+Hungary, 1
+Switzerland, 0
+
+Kazakhstan, 4
+Armenia, 1
+
+Bulgaria, 0
+Romania, 3
+
+Albirex Niigata, 2
+V-Varen Nagasaki, 1
+
+Cerezo Osaka, 1
+Machida Zelvia, 3
+
+FC Tokyo, 1
+Sanfrecce Hiroshima, 2
+
+Kashiwa Reysol, 1
+Nagoya Grampus, 1
+
+Hokkaido Consadole Sapporo, 1
+Kataller Toyama, 1
+
+Guaraní, 3
+CS 2 de Mayo, 2
+
+Hammarby Talang FF, 3
+Sollentuna FF, 1
+
+Progreso, 0
+Cerro Largo, 1
+
+Boston River, 1
+Nacional, 3
+
+Uzbekistan, 0
+India, 0
+
+Canada, 1
+Mexico, 1
+
+USA, 3
+South Korea, 0
+
+Kazakhstan U19, 0
+Azerbaijan U19, 2
+
+Türkiye U19, 2
+Moldova U19, 1
+
+Italy U21, 4
+Japan U19, 3
+
+Indonesia U19, 0
+Ukraine U23, 3

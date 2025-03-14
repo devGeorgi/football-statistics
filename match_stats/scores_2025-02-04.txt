@@ -121,9 +121,6 @@ Unión San Felipe, 1
 Deportes Quindío, 1
 Atlético Huila, 0
 
-AD Guanacasteca, 2
-Deportivo Saprissa, 0
-
 Al-Masry, 1
 Wadi Degla, 0
 
@@ -144,9 +141,6 @@ Tamworth, 1
 
 Carrick Rangers, 1
 Larne FC, 2
-
-Coleraine FC, 0
-Cliftonville FC, 0
 
 Benfica U23, 1
 Torreense U23, 3
@@ -171,9 +165,6 @@ Bonnyrigg Rose, 0
 
 Stirling Albion, 1
 The Spartans FC, 3
-
-Stranraer, 0
-Forfar Athletic, 0
 
 ŠK Slovan Bratislava, 3
 AS Trenčín, 1

@@ -154,9 +154,6 @@ NK Slaven Belupo, 2
 Charlotte FC, 2
 Atlanta United, 0
 
-Real Salt Lake, 2
-Seattle Sounders FC, 0
-
 New England Revolution, 0
 Columbus Crew, 1
 
@@ -292,9 +289,6 @@ Wolfsberger AC, 3
 Hapoel Jerusalem, 0
 Hapoel Ironi Kiryat Shmona, 0
 
-Ashdod SC, 0
-Maccabi Netanya, 0
-
 Hapoel Hadera, 2
 Maccabi Tel Aviv, 3
 
@@ -381,9 +375,6 @@ Blackpool, 1
 
 Wigan Athletic, 1
 Reading, 2
-
-Salford City, 1
-Bradford City, 2
 
 Tranmere Rovers, 1
 Port Vale, 1
@@ -523,9 +514,6 @@ Gyeongnam FC, 1
 Hwaseong FC, 1
 Chungnam Asan FC, 1
 
-Cheonan City FC, 1
-Bucheon FC 1995, 2
-
 BG Pathum United, 2
 Muang Thong United, 0
 
@@ -570,9 +558,6 @@ Napoli, 1
 
 Real Betis, 1
 Granada, 3
-
-Valencia, 1
-Levante UD, 1
 
 Athletic Bilbao, 1
 Real Madrid, 2
@@ -631,9 +616,6 @@ Agropecuario Argentino, 0
 Temperley, 2
 Almirante Brown, 0
 
-Kapfenberger SV, 1
-Sturm Graz II, 1
-
 Schwarz-Weiß Bregenz, 3
 FC Liefering, 0
 
@@ -657,9 +639,6 @@ Torpedo-BelAZ Zhodino, 0
 
 FK Sloga Doboj, 1
 FK Sloboda Tuzla, 0
-
-HŠK Zrinjski Mostar, 1
-FK Velež Mostar, 0
 
 FK Radnik Bijeljina, 0
 FK Borac Banja Luka, 1
@@ -715,17 +694,11 @@ Jaguares de Córdoba, 1
 Barranquilla FC, 0
 Deportes Quindío, 0
 
-Municipal Pérez Zeledón, 2
-Santos de Guápiles, 1
-
 Nea Salamina Famagusta, 2
 Omonia Aradippou, 3
 
 Aris Limassol, 3
 APOEL Nicosia, 0
-
-Karmiotissa Polemidion, 0
-AEL Limassol, 0
 
 Omonia Nicosia, 2
 Pafos FC, 1
@@ -811,9 +784,6 @@ Erzgebirge Aue, 2
 SG Dynamo Dresden, 3
 SC Verl, 0
 
-Hamburger SV II U23, 1
-1.FC Phönix Lübeck, 1
-
 SC Weiche Flensburg 08, 1
 Eintracht Norderstedt, 1
 
@@ -835,17 +805,11 @@ FSV Luckenwalde, 1
 MSV Duisburg, 2
 SC Fortuna Köln, 0
 
-Turkspor Dortmund 2000, 1
-Eintracht Hohkeppel, 2
-
 Wuppertaler SV, 0
 SC Wiedenbrück, 1
 
 1. Göppinger SV, 3
 Eintracht Trier, 0
-
-FC-Astoria Walldorf, 3
-Stuttgarter Kickers, 2
 
 FC 08 Homburg, 5
 Eintracht Frankfurt II, 2
@@ -886,9 +850,6 @@ TSV Buchbach, 4
 AE Larisa, 4
 Kampaniakos, 1
 
-AS Makedonikos Neapolis, 3
-PAS Giannina, 1
-
 AO Egaleo, 1
 GS Ilioupolis, 0
 
@@ -915,9 +876,6 @@ Dewa United FC, 2
 
 Semen Padang FC, 1
 PSBS Biak, 1
-
-Longford Town, 1
-Athlone Town, 1
 
 Aurora Pro Patria, 0
 Caldiero Terme, 0
@@ -966,9 +924,6 @@ Milan U20, 0
 
 Roasso Kumamoto, 0
 RB Omiya Ardija, 4
-
-Iwaki FC, 1
-Tokushima Vortis, 1
 
 Kataller Toyama, 2
 Ventforet Kofu, 0
@@ -1104,12 +1059,6 @@ Cove Rangers, 1
 
 Arbroath, 3
 Annan Athletic, 0
-
-Dumbarton, 1
-Stenhousemuir, 3
-
-Inverness Caledonian Thistle, 1
-Montrose, 1
 
 Queen of The South, 0
 Kelty Hearts F.C., 1

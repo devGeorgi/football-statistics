@@ -1,0 +1,470 @@
+Club Brugge KV, 1
+KV Mechelen, 1
+
+Ituano, 0
+Vila Nova FC, 0
+
+Shenzhen Peng City, 1
+Beijing Guoan, 0
+
+Changchun Yatai, 1
+Cangzhou Mighty Lions, 0
+
+Tianjin Jinmen Tiger, 2
+Qingdao West Coast, 1
+
+Everton de Viña del Mar, 1
+Deportes Iquique, 1
+
+Puszcza Niepołomice, 2
+Górnik Zabrze, 2
+
+KS Lechia Gdańsk, 0
+Motor Lublin, 2
+
+Sønderjyske Fodbold, 1
+Lyngby, 1
+
+Sportivo Trinidense, 1
+Guaraní, 2
+
+Al-Masry, 0
+Al Ahly FC, 1
+
+Zamalek SC, 1
+Pyramids FC, 1
+
+Bohemian FC, 1
+Dundalk FC, 1
+
+Drogheda United, 2
+Waterford FC, 0
+
+Unión Comercio, 0
+Club Atlético Grau, 0
+
+Comerciantes Unidos, 2
+Carlos A. Mannucci, 1
+
+Deportivo Garcilaso, 2
+Sport Boys, 0
+
+Universitario, 2
+Alianza Lima, 1
+
+FC Hermannstadt, 1
+AFC Unirea 04 Slobozia, 1
+
+FCSB, 0
+SC Oțelul Galați, 2
+
+Pumas UNAM, 2
+Austin FC, 3
+
+Orlando City SC, 4
+CF Montréal, 1
+
+Atlanta United, 8
+DC United, 9
+
+Los Angeles FC, 3
+Club Tijuana, 0
+
+York United FC, 4
+Atlético Ottawa, 1
+
+Vancouver FC, 0
+Cavalry FC, 1
+
+Hartford Athletic, 0
+Phoenix Rising FC, 0
+
+FC Tulsa, 0
+Indy Eleven, 0
+
+Colorado Springs Switchbacks FC, 1
+Las Vegas Lights, 1
+
+Krylya Sovetov Samara, 1
+FC Rostov, 3
+
+Gwangju FC, 1
+Suwon FC, 0
+
+Daegu FC, 1
+Daejeon Hana Citizen, 1
+
+Incheon United, 0
+FC Seoul, 1
+
+FC Anyang, 1
+Chungnam Asan FC, 0
+
+Seongnam FC, 0
+Bucheon FC 1995, 1
+
+Zalaegerszegi TE, 0
+MTK Budapest, 1
+
+Nyiregyháza Spartacus, 2
+ETO FC Győr, 1
+
+Almagro, 1
+Defensores de Belgrano, 0
+
+Temperley, 0
+San Telmo, 0
+
+ATUS Velden, 5
+Grazer AK 1902, 6
+
+FC Dornbirn, 0
+Red Bull Salzburg, 6
+
+Kottmannsdorf, 0
+SV Horn, 2
+
+Union Gurten, 0
+LASK, 3
+
+Wiener Viktoria, 2
+DSV Leoben, 1
+
+Treibach, 1
+Kapfenberger SV, 6
+
+ASV Draßburg, 0
+Wolfsberger AC, 7
+
+FCM Traiskirchen, 1
+SKU Amstetten, 4
+
+SC Weiz, 7
+SV Lafnitz, 8
+
+SK Bischofshofen, 1
+TSV Hartberg, 11
+
+SV Gloggnitz, 0
+Austria Klagenfurt, 5
+
+SV Wallern, 4
+FC Kitzbühel, 0
+
+SV Wals-Grünau, 1
+SC Austria Lustenau, 2
+
+Deutschlandsberger SC, 5
+SC Sparkasse Korneuburg, 0
+
+FC Marchfeld Donauauen, 1
+First Vienna, 3
+
+SV Oberwart, 0
+SV Stripfing, 2
+
+Dinamo Minsk, 0
+Neman Grodno, 0
+
+FK Smorgon, 1
+Belshina Bobruisk, 2
+
+FK Gomel, 1
+Vitebsk, 2
+
+San Antonio Bulo-Bulo, 1
+CD Real Tomayapo, 1
+
+Blooming, 2
+Independiente Petrolero, 1
+
+Barretos U23, 1
+Associação Atlética Francana, 2
+
+Arda Kardzhali, 1
+FK Krumovgrad, 0
+
+Levski Sofia, 4
+Botev Vratsa, 0
+
+Santiago Morning, 0
+San Marcos de Arica, 1
+
+Rangers de Talca, 2
+Deportes Limache, 0
+
+Atlético Cali, 2
+Leones FC, 2
+
+Real Santander, 0
+Real Cundinamarca, 0
+
+Real Cartagena, 1
+Atlético Huila, 0
+
+FC Sellier & Bellot Vlašim, 2
+MFK Chrudim, 0
+
+FC Zlín, 1
+FC Silon Táborsko, 0
+
+Slezský FC Opava, 1
+FC Zbrojovka Brno, 1
+
+Vysočina Jihlava, 1
+MFK Vyškov, 1
+
+SK Sigma Olomouc B, 0
+1. SK Prostějov, 0
+
+AC Horsens, 3
+Hillerød, 2
+
+HB Køge, 0
+Odense BK, 4
+
+Hobro, 3
+Esbjerg, 6
+
+Kolding IF, 0
+Hvidovre, 0
+
+FC Roskilde, 1
+Boldklubben af 1893, 2
+
+Narva Trans, 2
+FC Nõmme United, 1
+
+VfB Lübeck, 2
+SV Todesfelde, 1
+
+Berliner FC Dynamo, 2
+FC Carl Zeiss Jena, 3
+
+FSV Luckenwalde, 2
+ZFC Meuselwitz, 2
+
+BSG Chemie Leipzig, 1
+SV Babelsberg 03, 1
+
+Hertha Zehlendorf, 5
+FSV Zwickau, 0
+
+FC Gütersloh, 0
+MSV Duisburg, 1
+
+Eintracht Trier, 4
+FC 08 Homburg, 1
+
+SpVgg Hankofen-Hailing, 1
+1. FC Schweinfurt 05, 3
+
+TSV Aubstadt, 1
+SpVgg Greuther Fürth II, 3
+
+Bayern München II, 2
+SpVgg Ansbach, 2
+
+FC Augsburg II, 0
+FV Illertissen, 0
+
+FC Würzburger Kickers, 3
+TSV Schwaben Augsburg, 1
+
+SV Viktoria Aschaffenburg, 0
+SV Wacker Burghausen, 4
+
+TSV Buchbach, 2
+Eintracht Bamberg 2010, 1
+
+Bray Wanderers, 3
+Wexford FC, 1
+
+Cobh Ramblers FC, 1
+Athlone Town, 2
+
+Cork City, 2
+Kerry FC, 0
+
+Treaty United FC, 1
+Finn Harps, 0
+
+FK Banga Gargždai, 1
+FK Kauno Žalgiris, 1
+
+Johor Darul Ta'zim, 4
+Terengganu, 0
+
+Kedah, 1
+Kuching City, 1
+
+Kelantan Darul Naim, 1
+Perak FC, 3
+
+Negeri Sembilan, 0
+Sabah FC, 0
+
+Venados, 1
+Tepatitlán FC, 1
+
+Leones Negros, 1
+CD Tapatío, 1
+
+Cuba U20, 3
+Jamaica U20, 0
+
+USA U20, 1
+Costa Rica U20, 0
+
+El Salvador U20, 1
+Canada U20, 2
+
+Honduras U20, 5
+Dominican Republic U20, 2
+
+Miedź Legnica, 4
+Stal Stalowa Wola, 2
+
+Kotwica Kołobrzeg, 0
+GKS Tychy, 0
+
+Baltika Kaliningrad, 1
+FC Ufa, 1
+
+Enisey Krasnoyarsk, 0
+Torpedo Moscow, 1
+
+Albirex Niigata Singapore, 2
+Tampines Rovers, 4
+
+Brunei DPMM FC, 1
+Young Lions, 3
+
+NK Nafta Lendava 1903, 2
+Kalcer Radomlje, 1
+
+Utsiktens BK, 2
+Sandvikens IF, 1
+
+FC Stade-Lausanne-Ouchy, 0
+Schaffhausen, 1
+
+Stade Nyonnais, 2
+AC Bellinzona, 1
+
+FC Wil 1900, 2
+FC Aarau, 2
+
+Étoile Carouge FC, 3
+Neuchâtel Xamax, 1
+
+FC Livyi Bereh Kyiv, 6
+Metalist 1925, 5
+
+FC Epicentr Dunaivtsi, 6
+FC Minaj, 8
+
+SV Werder Bremen, 2
+Sheffield Wednesday, 2
+
+Empoli, 2
+Spezia, 0
+
+NAC Breda, 0
+Koninklijke Lierse Sportkring, 1
+
+Al-Qadsiah, 2
+Olympiacos FC, 2
+
+Mamelodi Sundowns, 2
+Al-Hilal, 1
+
+1. FC Nürnberg, 3
+Juventus, 0
+
+Bourges Foot 18, 2
+US Orléans, 1
+
+Næstved Boldklub, 1
+Ishøj IF, 1
+
+Celta Vigo, 1
+Gil Vicente, 0
+
+Heracles Almelo, 1
+Excelsior, 2
+
+Rot-Weiss Essen, 1
+Bayer 04 Leverkusen, 2
+
+Schwarz-Weiss Essen, 0
+SV Lippstadt 08, 1
+
+Norwich City, 0
+1. FC Magdeburg, 1
+
+Nottingham Forest, 0
+Elche, 1
+
+Bolton Wanderers, 1
+Fiorentina, 1
+
+Morecambe, 1
+Blackburn Rovers, 1
+
+Ashton United, 0
+Warrington Town, 1
+
+Braintree Town, 0
+Cambridge United, 3
+
+Cheltenham Town, 0
+Bristol City, 3
+
+Concord Rangers, 0
+Hashtag United, 4
+
+Sevilla, 1
+Al-Ittihad, 0
+
+Liverpool, 1
+Real Betis, 0
+
+Real Calepina, 0
+Giana Erminio, 4
+
+Sokol Hostouň, 3
+FK Teplice B, 4
+
+FC Liefering, 4
+OGC Nice 2, 3
+
+TKS Elana Toruń, 1
+GKS Wikielec, 3
+
+Coruxo FC, 0
+CD Lugo, 1
+
+Racing de Santander, 0
+Eibar, 0
+
+Rio Ave, 1
+Santa Clara, 2
+
+Vissel Kobe, 2
+Tottenham Hotspur, 3
+
+FK Vardar Skopje, 1
+Swansea City, 1
+
+Laholms FK, 1
+Räppe GoIF, 2
+
+SV Wehen Wiesbaden, 0
+Metz, 2
+
+Willem II Tilburg, 2
+Sparta Rotterdam, 4
+
+Darmstadt 98, 2
+Coventry City, 0

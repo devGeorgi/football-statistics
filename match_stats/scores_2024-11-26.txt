@@ -1,0 +1,320 @@
+AC Sparta Praha, 0
+Atlético Madrid, 6
+
+ŠK Slovan Bratislava, 2
+Milan, 3
+
+Barcelona, 3
+Stade Brestois, 0
+
+Bayer 04 Leverkusen, 5
+Red Bull Salzburg, 0
+
+FC Bayern München, 1
+Paris Saint-Germain, 0
+
+Inter, 1
+RB Leipzig, 0
+
+Manchester City, 3
+Feyenoord, 3
+
+Sporting, 1
+Arsenal, 5
+
+Young Boys, 1
+Atalanta, 6
+
+CP Parla Escuela, 0
+Valencia, 1
+
+Manises CF, 0
+Getafe, 3
+
+Fluminense, 0
+Criciúma, 0
+
+Fortaleza, 0
+Flamengo, 0
+
+Atlético Mineiro, 2
+Juventude, 3
+
+Palmeiras, 1
+Botafogo, 3
+
+Hibernian, 3
+Aberdeen, 3
+
+Sparta Praha U19, 1
+Atlético Madrid U19, 2
+
+ŠK Slovan Bratislava U19, 2
+Milan U19, 3
+
+Bayer Leverkusen U19, 0
+Red Bull Salzburg U19, 1
+
+Sporting U19, 3
+Arsenal U19, 0
+
+Young Boys U19, 2
+Atalanta U19, 4
+
+Inter U19, 3
+RB Leipzig U19, 2
+
+Barcelona U19, 2
+Stade Brestois U19, 0
+
+Bayern München U19, 2
+Paris Saint-Germain U19, 5
+
+Manchester City U19, 6
+Feyenoord U19, 1
+
+AZ Alkmaar U19, 2
+Manchester United U19, 1
+
+FC Basel U19, 1
+SK Rapid Wien U19, 2
+
+Legia Warszawa U19, 0
+Midtjylland U19, 2
+
+Newell's Old Boys, 2
+CA Independiente, 1
+
+Club Atlético Unión de Santa Fe, 2
+Talleres, 3
+
+Sarmiento, 1
+Platense, 0
+
+Tout Puissant Mazembe, 0
+MC Alger, 0
+
+Young Africans Sport Club, 0
+Al-Hilal Omdurman, 2
+
+Mamelodi Sundowns, 0
+Maniema Union, 0
+
+Raja Club Athletic, 0
+AS FAR Rabat, 2
+
+Al Ahly FC, 4
+Stade d'Abidjan, 2
+
+CR Belouizdad, 1
+Orlando Pirates, 2
+
+Pyramids FC, 5
+Sagrada Esperança, 1
+
+Espérance Tunis, 4
+Djoliba AC, 0
+
+Burnley, 2
+Coventry City, 0
+
+Hull City, 0
+Sheffield Wednesday, 2
+
+Norwich City, 6
+Plymouth Argyle, 1
+
+Sheffield United, 3
+Oxford United, 0
+
+Stoke City, 0
+Preston North End, 0
+
+Watford, 1
+Bristol City, 0
+
+Sunderland, 0
+West Bromwich Albion, 0
+
+Almería, 4
+Córdoba, 0
+
+Jong FC Utrecht Youth, 0
+Excelsior, 0
+
+Roda JC Kerkrade, 3
+Vitesse, 0
+
+SC Cambuur, 1
+FC Den Bosch, 2
+
+Bristol Rovers, 0
+Blackpool, 2
+
+Burton Albion, 0
+Charlton Athletic, 1
+
+Cambridge United, 1
+Bolton Wanderers, 1
+
+Exeter City, 0
+Birmingham City, 2
+
+Leyton Orient, 0
+Huddersfield Town, 2
+
+Wigan Athletic, 2
+Northampton Town, 1
+
+Wrexham, 1
+Lincoln City, 0
+
+Wycombe Wanderers, 1
+Mansfield Town, 0
+
+Tranmere Rovers, 0
+AFC Wimbledon, 2
+
+Walsall, 2
+Bromley, 2
+
+Mumbai City FC, 0
+Punjab FC, 3
+
+Chippa United, 0
+Supersport United, 0
+
+Marumo Gallants FC, 0
+Orlando Pirates, 0
+
+Sekhukhune United, 1
+TS Galaxy, 3
+
+Royal AM, 2
+Lamontville Golden Arrows, 3
+
+Buriram United, 0
+Kawasaki Frontale, 3
+
+Shandong Taishan, 1
+Johor Darul Ta'zim, 0
+
+Gwangju FC, 1
+Shanghai Shenhua, 0
+
+Yokohama F. Marinos, 2
+Pohang Steelers, 0
+
+Al-Sadd, 1
+Al-Hilal, 1
+
+Al-Shorta, 1
+Al Wasl, 3
+
+Al-Sharjah, 3
+FC Istiklol, 1
+
+Sepahan S.C., 1
+Al-Wehdat, 1
+
+SC Austria Lustenau, 1
+SV Stripfing, 1
+
+Torpedo-BelAZ Zhodino, 1
+Shakhtyor Soligorsk, 0
+
+San Antonio Bulo-Bulo, 3
+Club Aurora, 3
+
+Guabirá, 2
+CD Real Tomayapo, 1
+
+Blooming, 1
+FC Universitario de Vinto, 0
+
+Deportes Recoleta, 0
+Rangers de Talca, 1
+
+Deportes Limache, 1
+Deportes Magallanes, 1
+
+Altrincham, 3
+York City, 0
+
+Braintree Town, 1
+Maidenhead United, 3
+
+Dagenham & Redbridge, 3
+Aldershot Town, 2
+
+Gateshead, 0
+Rochdale, 1
+
+Hartlepool United, 2
+AFC Fylde, 0
+
+Oldham Athletic, 4
+Boston United, 0
+
+Sutton United, 1
+Solihull Moors, 0
+
+Wealdstone, 0
+Tamworth, 0
+
+Woking, 0
+Southend United, 0
+
+FC Samtredia, 0
+FC Dila Gori, 1
+
+1. Göppinger SV, 1
+SGV Freiberg, 2
+
+Potenza Calcio, 5
+Team Altamura, 6
+
+Giugliano, 2
+Avellino, 4
+
+Catania, 0
+Trapani, 5
+
+Gil Vicente U23, 3
+Académico Viseu U23, 2
+
+Vizela U23, 1
+Torreense U23, 0
+
+Famalicão U23, 1
+SC Braga U23, 0
+
+Estrela Amadora U23, 3
+Estoril Praia U23, 2
+
+SC Farense U23, 5
+CD Mafra U23, 1
+
+Steaua București, 1
+Chindia Târgoviște, 1
+
+CSKA Moscow, 3
+Rubin Kazan, 0
+
+FC Tyumen, 5
+FK Krasnodar, 7
+
+Shinnik Yaroslavl, 0
+Akron Togliatti, 1
+
+River Plate UY, 1
+Cerro, 0
+
+Rampla Juniors, 0
+Liverpool UY, 1
+
+Montevideo Wanderers, 2
+Miramar Misiones, 0
+
+Progreso, 1
+Peñarol, 5

@@ -67,9 +67,6 @@ FC Lugano, 1
 Young Boys, 6
 Yverdon-Sport FC, 1
 
-Cape Town City FC, 1
-Lamontville Golden Arrows, 1
-
 Sekhukhune United, 1
 Orlando Pirates, 2
 
@@ -162,9 +159,6 @@ Chemnitzer FC, 2
 
 Olympiacos FC, 1
 Panathinaikos, 0
-
-Deportivo Mixco, 0
-CSD Xelajú MC, 0
 
 Deportivo Guastatoya, 1
 Deportivo Achuapa, 0

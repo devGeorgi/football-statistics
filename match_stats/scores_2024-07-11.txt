@@ -1,0 +1,176 @@
+IF Elfsborg, 3
+Pafos FC, 0
+
+MFK Ružomberok, 5
+FC Tobol, 2
+
+Paksi FC, 0
+FC Corvinul Hunedoara, 4
+
+Sheriff Tiraspol, 0
+Zirə FK, 1
+
+Botev Plovdiv, 2
+NK Maribor, 1
+
+Wisła Kraków, 2
+KF Llapi, 0
+
+FC Malisheva, 1
+FK Budućnost Podgorica, 0
+
+FK Aktobe, 0
+FK Sarajevo, 1
+
+FK Liepaja, 1
+Víkingur Gøta, 1
+
+Šiauliai FA, 0
+FCI Levadia Tallinn, 2
+
+FC Bruno's Magpies, 2
+Derry City, 0
+
+FC Noah, 2
+KF Shkëndija, 0
+
+NK Bravo, 0
+Connah's Quay Nomads, 1
+
+Atlètic Club Escaldes, 0
+F91 Dudelange, 1
+
+Tallinna Kalev, 1
+Urartu, 2
+
+FC Torpedo Kutaisi, 1
+KF Tirana, 1
+
+Floriana FC, 3
+SP Tre Penne, 1
+
+Torpedo-BelAZ Zhodino, 2
+FC Milsami Orhei, 4
+
+Una Strassen, 0
+KuPS, 0
+
+VPS, 1
+FK Žalgiris, 2
+
+Caernarfon Town, 2
+Crusaders FC, 0
+
+Bala Town, 1
+Paide Linnameeskond, 2
+
+FK Partizani, 1
+Marsaxlokk FC, 1
+
+Tikveš Kavadarci, 3
+Breidablik Kópavogur, 2
+
+FK Mornar Bar, 2
+Dinamo Tbilisi, 1
+
+La Fiorita, 0
+FC Isloch Minsk Region, 1
+
+Shelbourne, 2
+St Joseph's FC, 1
+
+Stjarnan Garðabær, 2
+Linfield FC, 0
+
+Valur Reykjavík, 2
+KF Vllaznia, 2
+
+Palmeiras, 3
+Atlético Goianiense, 1
+
+Criciúma, 1
+Fluminense, 1
+
+Flamengo, 1
+Fortaleza, 2
+
+Atlético Mineiro, 2
+São Paulo, 1
+
+Vitória, 0
+Botafogo, 1
+
+Cangzhou Mighty Lions, 1
+Wuhan Three Towns, 1
+
+Shanghai Port, 5
+Beijing Guoan, 1
+
+Al-Mokawloon, 1
+Modern Sport FC, 2
+
+Tala'ea El-Gaish, 1
+Zamalek SC, 2
+
+Ñublense, 5
+Deportes Linares, 1
+
+MP, 2
+KäPa, 6
+
+Fram Reykjavík, 1
+KR Reykjavík, 0
+
+Tanjong Pagar United, 2
+Albirex Niigata Singapore, 1
+
+Fehérvár FC, 5
+FK Hebar Pazardzhik, 2
+
+Shakhtar Donetsk, 0
+FK TSC Bačka Topola, 1
+
+FC Kitzbühel, 0
+Borussia Dortmund II U23, 7
+
+Royal Antwerp FC, 2
+SVG Reichenau, 0
+
+SV Sandhausen, 4
+FC-Astoria Walldorf, 1
+
+SC Spelle-Venhaus, 3
+Preußen Münster II, 1
+
+FK Novi Pazar, 2
+OFK Petrovac, 0
+
+LASK, 3
+Galatasaray, 2
+
+SV Todesfelde, 2
+FC Süderelbe, 0
+
+Chester, 0
+Stoke City, 3
+
+Stal Rzeszów, 0
+Stal Mielec, 5
+
+FK Radnički 1923, 4
+FK Mladost Lučani, 0
+
+FC Slovan Liberec, 1
+Puskás Akadémia, 1
+
+Preston North End, 0
+Lincoln City, 1
+
+Académica Coimbra, 0
+União Leiria, 0
+
+Wisła Płock, 1
+KS Lechia Gdańsk, 1
+
+France U23, 7
+Dominican Republic U23, 0

@@ -1,0 +1,197 @@
+Sevilla, 1
+Osasuna, 1
+
+Roma, 0
+Atalanta, 2
+
+Vitória SC, 4
+Gil Vicente, 0
+
+FC Porto, 2
+Casa Pia, 0
+
+Fenerbahçe, 3
+Gaziantep FK, 1
+
+Hatayspor, 1
+Beşiktaş, 1
+
+Barracas Central, 0
+Tigre, 0
+
+Platense, 1
+Club Atlético Unión de Santa Fe, 0
+
+Talleres, 1
+Huracán, 0
+
+Independiente Rivadavia, 2
+Argentinos Juniors, 1
+
+Atlético Tucumán, 0
+Newell's Old Boys, 0
+
+Sakaryaspor, 2
+Boluspor, 1
+
+Maccabi Bney Reine, 1
+Maccabi Tel Aviv, 2
+
+Independiente Santa Fe, 1
+Deportivo Pasto, 2
+
+Atlético Nacional, 1
+Millonarios, 1
+
+Motor Lublin, 1
+Radomiak Radom, 0
+
+FC København, 3
+FC Nordsjælland, 1
+
+Al-Masry, 1
+Pyramids FC, 0
+
+Petrojet, 1
+Pharco FC, 2
+
+Ghazl El Mahalla, 0
+Zamalek SC, 4
+
+Jamshedpur FC, 3
+Mohammedan SC, 1
+
+FC Universitatea Cluj, 0
+UTA Arad, 1
+
+SC Oțelul Galați, 1
+FCSB, 4
+
+Akhmat Grozny, 1
+Dynamo Moscow, 1
+
+JS Saoura, 1
+JS Kabylie, 1
+
+US Biskra, 1
+CS Constantine, 1
+
+USM Alger, 0
+Paradou AC, 0
+
+Central Coast Mariners, 0
+Yokohama F. Marinos, 4
+
+Pohang Steelers, 3
+Vissel Kobe, 1
+
+Persepolis FC, 2
+Al-Shorta, 1
+
+Al-Ahli, 2
+Esteghlal FC, 2
+
+Al Wasl, 1
+Al-Rayyan, 1
+
+Al-Nassr, 1
+Al-Sadd, 2
+
+Guabirá, 1
+Club Always Ready, 3
+
+FC CSKA 1948 Sofia, 2
+FK Septemvri Sofia, 0
+
+APOEL Nicosia, 1
+Aris Limassol, 2
+
+Pafos FC, 0
+Omonia Nicosia, 1
+
+HB Køge, 1
+Hillerød, 5
+
+FC Telavi, 5
+FC Samtredia, 2
+
+Ethnikos Neou Keramidiou, 0
+AO Kavala, 0
+
+PAOK B, 0
+Niki Volou, 4
+
+APO Panargiakos, 0
+Kalamata FC, 1
+
+Namdhari Football Club, 0
+Dempo SC, 1
+
+Madura United FC, 1
+Persebaya Surabaya, 2
+
+Arema FC, 3
+Persita Tangerang, 0
+
+Dewa United FC, 2
+PSS Sleman, 1
+
+Aluminium Arak, 0
+Gol Gohar Sirjan, 0
+
+Havadar Tehran, 0
+Esteghlal Khuzestan, 1
+
+Kheybar Khorramabad FC, 1
+Malavan Bandar Anzali FC, 3
+
+Arezzo, 1
+Virtus Entella, 1
+
+Pontedera, 5
+SPAL, 1
+
+Monopoli, 1
+Avellino, 1
+
+Sorrento, 3
+Giugliano, 0
+
+Milan U20, 0
+Roma U20, 3
+
+MZKS Arka Gdynia, 2
+Stal Rzeszów, 1
+
+Sandecja Nowy Sącz, 0
+Puszcza Niepołomice, 1
+
+Rio Ave U23, 2
+Vizela U23, 2
+
+Estoril Praia U23, 0
+Sporting U23, 0
+
+Iğdır FK, 2
+Muş 1984 Muşspor, 3
+
+Bandırmaspor, 2
+Karacabey Belediye Spor, 3
+
+Zorya Luhansk, 2
+Karpaty Lviv, 1
+
+Deportivo Maldonado, 3
+Danubio, 1
+
+Kosovo, 1
+Estonia, 2
+
+Denmark, 2
+Iceland, 0
+
+Germany, 1
+Italy, 2
+
+North Macedonia, 1
+Montenegro, 5

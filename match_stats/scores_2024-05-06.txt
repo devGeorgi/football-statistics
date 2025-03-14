@@ -1,0 +1,221 @@
+Crystal Palace, 4
+Manchester United, 0
+
+Salernitana, 1
+Atalanta, 2
+
+Udinese, 1
+Napoli, 1
+
+Lille, 3
+Olympique Lyonnais, 4
+
+Excelsior, 0
+NEC Nijmegen, 3
+
+Antalyaspor, 1
+Pendikspor, 2
+
+Konyaspor, 0
+Fenerbahçe, 0
+
+Ceará, 2
+CRB, 2
+
+Ponte Preta, 3
+Amazonas FC, 0
+
+Santos, 4
+Guarani, 1
+
+Pogoń Szczecin, 1
+Puszcza Niepołomice, 0
+
+Vejle, 3
+Odense BK, 2
+
+Crewe Alexandra, 0
+Doncaster Rovers, 2
+
+Técnico Universitario, 1
+Imbabura Sporting Club, 1
+
+Pyramids FC, 2
+Modern Sport FC, 1
+
+Tala'ea El-Gaish, 0
+Al-Masry, 2
+
+Drogheda United, 2
+Dundalk FC, 1
+
+Bohemian FC, 0
+Galway United, 1
+
+Shamrock Rovers, 1
+Waterford FC, 3
+
+Sligo Rovers, 1
+St. Patrick's Athletic, 0
+
+Derry City, 1
+Shelbourne, 1
+
+Club Atlético Grau, 0
+Sport Huancayo, 0
+
+Al-Ahli, 1
+Al-Hilal, 2
+
+Universitatea Craiova, 2
+FCSB, 0
+
+FC Hermannstadt, 0
+ACSM Politehnica Iași, 1
+
+UTA Arad, 3
+FCU 1948 Craiova, 1
+
+GAIS Göteborg, 2
+IFK Göteborg, 1
+
+Ural Yekaterinburg, 2
+Baltika Kaliningrad, 1
+
+Fakel Voronezh, 1
+Zenit St. Petersburg, 1
+
+CSKA Moscow, 2
+Rubin Kazan, 2
+
+Lokomotiv Moscow, 1
+FC Rostov, 0
+
+Al-Ittihad Kalba, 1
+Emirates Club, 2
+
+Khor Fakkan, 0
+Al-Ain, 1
+
+Emirates Club, 0
+Al-Ain, 0
+
+Al Bataeh, 1
+Al Wasl, 4
+
+Shabab Al-Ahli Dubai, 3
+Al-Sharjah, 1
+
+Fiorentina, 0
+Juventus, 2
+
+1. FC Nürnberg, 0
+RB Leipzig, 1
+
+USM Alger, 2
+JS Kabylie, 2
+
+China U17, 3
+Australia U17, 0
+
+Japan U17, 4
+Thailand U17, 0
+
+Səbail FK, 2
+Qəbələ FK, 3
+
+Londrina, 2
+CSA, 2
+
+São Bernardo, 5
+Ferroviário, 0
+
+Slavia Sofia, 0
+Arda Kardzhali, 0
+
+Deportes La Serena, 2
+San Marcos de Arica, 1
+
+AC Barnechea, 0
+Deportes Magallanes, 0
+
+Atlético Cali, 0
+Boca Juniors de Cali, 4
+
+Internacional de Palmira, 2
+Atlético Huila, 1
+
+Llaneros FC, 4
+Real Santander, 0
+
+Deportes Quindío, 1
+Cúcuta Deportivo, 1
+
+Accra Lions FC, 0
+Aduana Stars FC, 0
+
+Breidablik Kópavogur, 2
+Valur Reykjavík, 3
+
+Paykan, 0
+Aluminium Arak, 1
+
+Sepahan S.C., 1
+Esteghlal Khuzestan, 1
+
+Nassaji Mazandaran FC, 1
+Persepolis FC, 2
+
+Foolad Khuzestan, 0
+Tractor FC, 2
+
+Malavan Bandar Anzali FC, 1
+Havadar Tehran, 1
+
+Sanat Naft Abadan, 1
+Mes Rafsanjan FC, 0
+
+Esteghlal FC, 2
+Zob Ahan, 1
+
+Bray Wanderers, 1
+Finn Harps, 0
+
+Cork City, 1
+Wexford FC, 1
+
+Longford Town, 2
+Kerry FC, 1
+
+Treaty United FC, 0
+Athlone Town, 1
+
+University College Dublin, 1
+Cobh Ramblers FC, 2
+
+Bnei Sakhnin, 1
+Maccabi Tel Aviv, 1
+
+Beitar Jerusalem, 0
+Ashdod SC, 0
+
+Hapoel Hadera, 0
+Maccabi Petach Tikva, 4
+
+FK Liepaja, 1
+FK Metta, 2
+
+Flekkerøy, 0
+Viking FK II, 1
+
+Zagłębie Sosnowiec, 1
+Wisła Kraków, 1
+
+AVS - Futebol SAD, 3
+CD Mafra, 3
+
+Varbergs BoIS, 0
+Trelleborgs FF, 1
+
+Veres Rivne, 3
+FC Minaj, 1

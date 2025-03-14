@@ -97,12 +97,6 @@ Panathinaikos, 1
 Asteras Aktor, 0
 AEK Athens, 3
 
-Olympiacos FC, 2
-PAOK, 1
-
-St. Johnstone, 1
-Heart of Midlothian, 2
-
 Santos Laguna, 2
 Atlas FC, 0
 
@@ -202,9 +196,6 @@ Sakaryaspor, 0
 SC Rheindorf Altach, 0
 TSV Hartberg, 0
 
-SK Sturm Graz, 2
-FC Blau Weiss Linz, 1
-
 LASK, 2
 SK Rapid Wien, 1
 
@@ -216,9 +207,6 @@ Everton de Viña del Mar, 0
 
 Cobresal, 3
 Deportes La Serena, 1
-
-Universidad de Chile, 1
-Unión La Calera, 0
 
 Alianza Valledupar FC, 3
 Atlético Nacional, 2
@@ -385,9 +373,6 @@ Racing Club, 0
 Club Ferro Carril Oeste, 0
 Tristán Suárez, 0
 
-Patronato, 0
-San Martín de Tucumán, 1
-
 Quilmes Atlético Club, 1
 Deportivo Madryn, 1
 
@@ -453,9 +438,6 @@ Atlético Cali, 1
 
 Deportivo Saprissa, 2
 Sporting FC, 0
-
-Santos de Guápiles, 0
-LD Alajuelense, 0
 
 Municipal Pérez Zeledón, 0
 CS Cartaginés, 1
@@ -528,9 +510,6 @@ AO Kavala, 1
 
 Deportivo Guastatoya, 1
 Xinabajul Huehue, 2
-
-CD Marquense, 0
-CSD Municipal, 0
 
 Comunicaciones FC, 2
 Deportivo Malacateco, 1
@@ -658,9 +637,6 @@ Amarante FC, 1
 SC Covilhã, 1
 Oliveira Hospital, 1
 
-NK Domžale, 0
-NK Olimpija Ljubljana, 0
-
 NK Celje, 9
 Kalcer Radomlje, 1
 
@@ -705,9 +681,6 @@ Zorya Luhansk, 1
 
 Dynamo Kyiv, 2
 Karpaty Lviv, 0
-
-Danubio, 1
-Progreso, 1
 
 Juventud de Las Piedras, 1
 Montevideo Wanderers, 0

@@ -1,0 +1,164 @@
+West Ham United, 2
+Wolverhampton, 1
+
+Getafe, 1
+Espanyol, 0
+
+Monza, 1
+Udinese, 2
+
+CF Estrela Amadora, 2
+FC Arouca, 1
+
+Gaziantep FK, 1
+Çaykur Rizespor, 0
+
+Athens Kallithea FC, 2
+APO Levadiakos, 4
+
+Girona U19, 2
+Liverpool U19, 2
+
+Shakhtar Donetsk U19, 0
+Bayern München U19, 2
+
+Tigre, 0
+Independiente Rivadavia, 2
+
+Argentinos Juniors, 1
+San Lorenzo, 0
+
+Belgrano, 2
+Estudiantes de La Plata, 2
+
+CA Independiente, 2
+Atlético Tucumán, 1
+
+Huracán, 1
+Platense, 0
+
+OFK Beograd, 1
+FK Novi Pazar, 1
+
+FK IMT Beograd, 3
+FK Napredak Kruševac, 2
+
+FK Radnički Niš, 1
+FK Radnički 1923, 2
+
+FC Cartagena, 1
+Sporting Gijón, 0
+
+Metz, 2
+USL Dunkerque, 0
+
+Jong Ajax, 2
+De Graafschap, 0
+
+Jong FC Utrecht Youth, 0
+FC Eindhoven, 4
+
+Amed Sportif Faaliyetler, 2
+Şanlıurfaspor, 1
+
+Esenler Erokspor, 0
+Ümraniyespor, 1
+
+Hapoel Hadera, 2
+Maccabi Bney Reine, 1
+
+Ironi Tiberias, 2
+Maccabi Netanya, 3
+
+Hapoel Be'er Sheva, 4
+Beitar Jerusalem, 1
+
+MKS Korona Kielce, 0
+Pogoń Szczecin, 0
+
+Northampton Town, 2
+Peterborough United, 1
+
+FC Hermannstadt, 1
+SC Oțelul Galați, 0
+
+FC Universitatea Cluj, 3
+CFR 1907 Cluj, 2
+
+Yemen, 1
+Kuwait, 1
+
+Eintracht Frankfurt, 3
+RB Leipzig, 0
+
+Myanmar, 0
+Indonesia, 1
+
+Laos, 1
+Vietnam, 4
+
+Turan Tovuz, 3
+Şamaxı FK, 2
+
+Al Khalidiyah, 2
+Al-Shabab Manama, 0
+
+Al Riffa, 2
+Al-Ahli Club, 1
+
+San José, 2
+Nacional Potosí, 1
+
+Independiente Petrolero, 3
+FC Universitario de Vinto, 2
+
+FK Željezničar, 4
+GOŠK Gabela, 1
+
+FK Hebar Pazardzhik, 0
+Arda Kardzhali, 2
+
+FK Spartak Varna, 1
+Slavia Sofia, 3
+
+AS Makedonikos Neapolis, 3
+PAOK B, 1
+
+GSS Panionios, 4
+APO Panargiakos, 0
+
+PSS Sleman, 1
+Persib Bandung, 2
+
+Madura United FC, 0
+Semen Padang FC, 1
+
+Gol Gohar Sirjan, 0
+Tractor FC, 2
+
+Lucchese, 0
+Arezzo, 1
+
+Perugia, 2
+US Campobasso 1919, 1
+
+Giugliano, 1
+Monopoli, 2
+
+Fiorentina U20, 3
+Lazio U20, 0
+
+Negeri Sembilan, 0
+Selangor Football Club, 4
+
+ŁKS Łódź, 0
+MZKS Arka Gdynia, 2
+
+Portimonense U23, 3
+Estoril Praia U23, 0
+
+SC Farense U23, 0
+Santa Clara U23, 0
+
+Polissya Zhytomyr, 0
+Rukh Lviv, 1

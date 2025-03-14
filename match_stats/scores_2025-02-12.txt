@@ -88,9 +88,6 @@ Boluspor, 0
 Alianza Valledupar FC, 0
 Fortaleza CEIF, 0
 
-Deportivo Cali, 0
-Atlético Bucaramanga, 0
-
 Deportivo Pasto, 3
 Boyacá Chicó FC, 0
 
@@ -222,9 +219,6 @@ Confiança, 1
 
 Náutico, 0
 Juazeirense, 0
-
-Sporting FC, 0
-LD Alajuelense, 1
 
 Deportivo Mixco, 2
 Deportivo Malacateco, 1

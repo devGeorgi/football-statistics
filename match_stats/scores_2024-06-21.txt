@@ -1,0 +1,236 @@
+Netherlands, 0
+France, 0
+
+Slovakia, 1
+Ukraine, 2
+
+Peru, 0
+Chile, 0
+
+Al Ahly FC, 2
+El Dakhlya, 1
+
+Zamalek SC, 2
+Pharco FC, 0
+
+Machida Zelvia, 0
+Avispa Fukuoka, 0
+
+Albirex Niigata, 2
+Kawasaki Frontale, 2
+
+Tokyo Verdy, 1
+Nagoya Grampus, 0
+
+Gamba Osaka, 2
+Vissel Kobe, 1
+
+Jubilo Iwata, 1
+Cerezo Osaka, 1
+
+Kashiwa Reysol, 0
+Sanfrecce Hiroshima, 1
+
+Sagan Tosu, 3
+Kyoto Sanga FC, 0
+
+Shonan Bellmare, 0
+FC Tokyo, 1
+
+Urawa Red Diamonds, 2
+Kashima Antlers, 2
+
+Cavalry FC, 1
+Atlético Ottawa, 1
+
+Hartford Athletic, 0
+FC Tampa Bay Rowdies, 1
+
+Orlando Pride, 6
+Utah Royals FC, 0
+
+Daegu FC, 3
+Jeonbuk Hyundai Motors, 0
+
+Daejeon Hana Citizen, 2
+Gwangju FC, 1
+
+Gangwon FC, 2
+Gimcheon Sangmu FC, 3
+
+FC Seoul, 3
+Suwon FC, 0
+
+Chungnam Asan FC, 4
+Gyeongnam FC, 0
+
+FC Anyang, 2
+Seoul E-Land FC, 1
+
+Suwon Samsung Bluewings, 3
+Seongnam FC, 0
+
+FK Smorgon, 4
+SFK Slutsk, 1
+
+FK Gomel, 1
+Shakhtyor Soligorsk, 2
+
+Guangxi Pingguo Haliao, 4
+Wuhan Three Towns, 3
+
+Jiangxi Lushan FC, 0
+Zhejiang, 3
+
+Chongqing Tonglianglong FC, 3
+Shandong Taishan, 6
+
+Qingdao Red Lions, 0
+Shenzhen Peng City, 2
+
+Shijiazhuang Gongfu, 5
+Qingdao West Coast, 6
+
+Suzhou Dongwu, 0
+Beijing Guoan, 4
+
+Montedio Yamagata, 1
+Vegalta Sendai, 1
+
+Ventforet Kofu, 1
+Ehime FC, 2
+
+Yokohama FC, 5
+Roasso Kumamoto, 0
+
+Fagiano Okayama, 1
+Thespa Gunma, 0
+
+Kagoshima United, 3
+Oita Trinita, 0
+
+Renofa Yamaguchi FC, 0
+Iwaki FC, 3
+
+Tochigi SC, 2
+JEF United Chiba, 1
+
+V-Varen Nagasaki, 2
+Fujieda MYFC, 0
+
+BFC Daugava Daugavpils, 3
+FS Jelgava, 0
+
+FK Auda, 1
+RFS, 3
+
+Grobiņas SC, 0
+Riga FC, 6
+
+Negeri Sembilan, 0
+Kuala Lumpur City FC, 3
+
+Johor Darul Ta'zim, 3
+Sri Pahang FC, 0
+
+Stjørdals/Blink, 0
+Skeid, 0
+
+Rosenborg Kvinner, 1
+Vålerenga, 2
+
+Lyn, 1
+Åsane, 0
+
+Røa, 2
+Kolbotn, 1
+
+SK Brann Kvinner, 0
+Avaldsnes, 0
+
+SK Brann Kvinner, 5
+Arna-Bjørnar, 1
+
+Stabæk Fotball, 0
+LSK Kvinner FK, 1
+
+Philippine Air Force FC, 1
+Manila Digger FC, 2
+
+Kaya-Iloilo, 6
+Philippine Army, 0
+
+Maharlika Manila FC, 0
+Stallion Laguna, 3
+
+Young Lions, 3
+Tanjong Pagar United, 2
+
+1. SK Prostějov, 2
+MŠK Považská Bystrica, 0
+
+MFK Skalica, 2
+FC Petržalka 1898, 1
+
+KF Shkëndija, 1
+KF Tirana, 0
+
+SK Benátky nad Jizerou, 0
+FK Jablonec, 3
+
+FC Corvinul Hunedoara, 2
+NŠ Mura, 3
+
+SpVgg Ansbach, 2
+ASV Neumarkt, 1
+
+Mineros de Zacatecas, 1
+CF Pachuca, 2
+
+Cruz Azul, 7
+CD Guadalajara, 8
+
+CSKA Sofia, 2
+OFK Belasitsa Petrich, 0
+
+FC Dinamo București, 1
+AFC Unirea 04 Slobozia, 1
+
+FK Humenné, 1
+FC Košice, 0
+
+FK Pohronie, 3
+Dukla Banská Bystrica, 2
+
+FK Teplice, 1
+FK Viktoria Žižkov, 0
+
+SK Líšeň, 0
+FC Zlín, 0
+
+Tj Sokol Pohorelice, 0
+FC Zbrojovka Brno, 5
+
+Dukla Praha, 3
+FC Silon Táborsko, 1
+
+FC Zürich, 5
+FC Wil 1900, 4
+
+Polonia Bytom, 1
+Piast Gliwice, 2
+
+Vysočina Jihlava, 4
+MFK Chrudim, 0
+
+Ruch Chorzów, 0
+Puszcza Niepołomice, 1
+
+SV Heimstetten, 4
+VfB Hallbergmoos, 1
+
+MKS Chojniczanka Chojnice, 0
+Kotwica Kołobrzeg, 0
+
+Widzew Łódź, 3
+GKS Katowice, 1

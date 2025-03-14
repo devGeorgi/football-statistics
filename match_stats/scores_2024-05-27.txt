@@ -1,0 +1,206 @@
+Fortuna Düsseldorf, 5
+VfL Bochum 1848, 9
+
+Club Atlético Unión de Santa Fe, 2
+Barracas Central, 0
+
+Atlético Tucumán, 1
+Platense, 1
+
+Coritiba, 3
+Operário-PR, 0
+
+Botafogo-SP, 0
+Novorizontino, 1
+
+Avaí, 2
+Goiás, 0
+
+Libertad, 0
+Deportivo Cuenca, 0
+
+Pyramids FC, 1
+El Gouna FC, 0
+
+Al-Ittihad Alexandria, 0
+Zamalek SC, 2
+
+Al Ahly FC, 0
+ZED FC, 0
+
+Unión Comercio, 1
+Cienciano, 1
+
+Al-Ahli, 1
+Al-Fayha, 0
+
+Al-Hazem, 2
+Abha, 1
+
+Al-Khaleej, 1
+Al-Riyadh, 2
+
+Al-Nassr, 4
+Al-Ittihad, 2
+
+Al-Shabab, 3
+Al-Fateh, 2
+
+Al-Taawoun, 1
+Al-Ettifaq, 0
+
+Al-Tai, 0
+Al-Okhdood, 2
+
+Al-Wehda, 1
+Al-Hilal, 2
+
+Damac FC, 1
+Al-Raed, 1
+
+FK Csíkszereda Miercurea Ciuc, 0
+FC Dinamo București, 0
+
+IFK Norrköping, 0
+IFK Värnamo, 4
+
+AIK, 5
+IFK Göteborg, 2
+
+Gimcheon Sangmu FC, 0
+FC Seoul, 0
+
+Gwangju FC, 0
+Pohang Steelers, 1
+
+Defensores de Belgrano, 0
+Aldosivi, 2
+
+Temperley, 1
+Gimnasia y Esgrima Mendoza, 3
+
+Olympic Kingsway, 3
+Western Knights, 2
+
+Perth SC, 3
+Stirling Lions, 2
+
+Perth Redstar, 2
+Rockingham City, 0
+
+Ashfield SC, 0
+Sorrento, 4
+
+East Riffa, 2
+Al-Hidd, 1
+
+Malkiya Club, 3
+Al Ittihad Bahrain, 1
+
+Dnepr Mogilev, 0
+FK Gomel, 1
+
+San José, 2
+San Antonio Bulo-Bulo, 0
+
+Royal Pari Sion, 2
+Independiente Petrolero, 2
+
+Tombense, 0
+Caxias, 0
+
+Botev Plovdiv, 0
+Arda Kardzhali, 1
+
+Slavia Sofia, 0
+FC CSKA 1948 Sofia, 2
+
+AC Barnechea, 0
+Universidad de Concepción, 0
+
+San Marcos de Arica, 1
+San Luis de Quillota, 0
+
+Tartu JK Tammeka, 0
+Narva Trans, 2
+
+Poland U17, 4
+Slovakia U17, 0
+
+Sweden U17, 1
+Italy U17, 2
+
+England U17, 3
+Spain U17, 1
+
+Portugal U17, 1
+France U17, 2
+
+FC Lahti, 0
+SJK, 4
+
+VPS, 3
+Inter Turku, 1
+
+KTP, 2
+KäPa, 1
+
+PK-35, 1
+SalPa, 1
+
+FC Kolkheti-1913 Poti, 2
+Dinamo Tbilisi, 2
+
+Dinamo Batumi, 0
+FC Dila Gori, 2
+
+Fylkir Reykjavík, 3
+HK Kópavogur, 1
+
+MAS de Fès, 2
+Hassania d'Agadir, 2
+
+Union Touarga Sport, 1
+Moghreb Atlético Tetuán, 0
+
+Aalesunds FK, 4
+Åsane, 1
+
+Bryne FK, 3
+Ranheim IL, 2
+
+Mjøndalen, 1
+Moss FK, 2
+
+Raufoss, 1
+Lyn FK, 0
+
+Sandnes Ulf, 0
+Kongsvinger, 2
+
+Stabæk Fotball, 4
+Egersund, 5
+
+Viking FK II, 5
+Lysekloster IL, 1
+
+SK Brann II, 7
+Vard Haugesund, 3
+
+Vålerenga IF II, 1
+Skeid, 3
+
+General Caballero, 1
+CS 2 de Mayo, 0
+
+Trelleborgs FF, 3
+GIF Sundsvall, 2
+
+Utsiktens BK, 1
+IK Brage, 0
+
+BK Olympic, 1
+Lunds BK, 2
+
+Jönköpings Södra, 1
+Ängelholms FF, 2

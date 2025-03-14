@@ -1,0 +1,230 @@
+Chelsea, 2
+Tottenham Hotspur, 0
+
+Olympique de Marseille, 1
+Atalanta, 1
+
+Roma, 0
+Bayer 04 Leverkusen, 2
+
+Aston Villa, 2
+Olympiacos FC, 4
+
+Fiorentina, 3
+Club Brugge KV, 2
+
+FK Radnički 1923, 3
+FK Mladost Lučani, 2
+
+FK Partizan, 2
+FK Vojvodina, 3
+
+FK Čukarički, 2
+FK Napredak Kruševac, 0
+
+FK Crvena zvezda, 2
+FK TSC Bačka Topola, 1
+
+Modern Sport FC, 0
+Tala'ea El-Gaish, 0
+
+Zamalek SC, 1
+National Bank of Egypt, 0
+
+Albirex Niigata, 1
+Sanfrecce Hiroshima, 1
+
+Yokohama F. Marinos, 1
+Jubilo Iwata, 1
+
+Cerezo Osaka, 1
+Hokkaido Consadole Sapporo, 1
+
+FC Tokyo, 2
+Kyoto Sanga FC, 1
+
+Kashima Antlers, 3
+Shonan Bellmare, 1
+
+Machida Zelvia, 2
+Kashiwa Reysol, 0
+
+Sagan Tosu, 0
+Tokyo Verdy, 2
+
+Avispa Fukuoka, 1
+Gamba Osaka, 0
+
+Kawasaki Frontale, 3
+Urawa Red Diamonds, 1
+
+Nagoya Grampus, 0
+Vissel Kobe, 2
+
+Al-Hazem, 0
+Al-Okhdood, 0
+
+Al-Ahli, 4
+Damac FC, 1
+
+Al-Fateh, 2
+Al-Riyadh, 2
+
+Kaizer Chiefs, 1
+Mamelodi Sundowns, 5
+
+Racing Club, 1
+Talleres Remedios de Escalada, 2
+
+Deportivo Morón, 0
+San Miguel, 0
+
+Iraq U23, 2
+Indonesia U23, 1
+
+Dinamo Minsk, 1
+Vitebsk, 1
+
+Neman Grodno, 1
+Shakhtyor Soligorsk, 0
+
+Botafogo, 1
+Vitória, 0
+
+Águia de Marabá FC, 1
+São Paulo, 3
+
+CRB, 1
+Ceará, 0
+
+Goiás, 1
+Cuiabá, 0
+
+Palmeiras, 2
+Botafogo-SP, 1
+
+FK Hebar Pazardzhik, 0
+Ludogorets, 5
+
+HFX Wanderers FC, 5
+CS Saint-Laurent, 7
+
+Leones FC, 1
+Unión Magdalena, 3
+
+Barranquilla FC, 0
+Real Cartagena, 1
+
+Boca Juniors de Cali, 2
+Deportes Quindío, 1
+
+Real Santander, 0
+Cúcuta Deportivo, 3
+
+Atlético Huila, 1
+Orsomarso, 0
+
+Sønderjyske Fodbold, 2
+FC Fredericia, 1
+
+Dinamo Batumi, 0
+FC Telavi, 0
+
+Dinamo Tbilisi, 0
+FC Iberia 1999, 0
+
+FC Dila Gori, 0
+FC Torpedo Kutaisi, 0
+
+FC Gagra, 0
+FC Samtredia, 0
+
+FC Kolkheti-1913 Poti, 0
+FC Samgurali Tskhaltubo, 0
+
+FC Telavi, 0
+FC Dila Gori, 1
+
+Tokushima Vortis, 0
+Ehime FC, 0
+
+Fujieda MYFC, 2
+Thespa Gunma, 1
+
+Montedio Yamagata, 2
+Fagiano Okayama, 2
+
+Roasso Kumamoto, 2
+Kagoshima United, 2
+
+Shimizu S-Pulse, 4
+Tochigi SC, 1
+
+V-Varen Nagasaki, 2
+Blaublitz Akita, 2
+
+Vegalta Sendai, 2
+Renofa Yamaguchi FC, 1
+
+Ventforet Kofu, 1
+Oita Trinita, 2
+
+Yokohama FC, 2
+Mito Hollyhock, 0
+
+Iwaki FC, 1
+JEF United Chiba, 0
+
+FK Tukums 2000, 0
+FK Liepaja, 0
+
+Riga FC, 2
+Grobiņas SC, 0
+
+Džiugas Telšiai, 2
+Dainava Alytus, 1
+
+FK Transinvest, 3
+FK Kauno Žalgiris, 2
+
+FK Panevėžys, 1
+FK Sūduva Marijampolė, 0
+
+Sliema Wanderers, 3
+Sirens FC, 0
+
+Valletta FC, 5
+Gudja United, 2
+
+Club Necaxa, 4
+Querétaro FC, 3
+
+CF Pachuca, 3
+Pumas UNAM, 5
+
+CD Tapatío, 0
+Atlante FC, 3
+
+Club Atletico La Paz, 1
+Leones Negros, 1
+
+Pogoń Szczecin, 1
+Wisła Kraków, 2
+
+CSKA Moscow, 1
+Zenit St. Petersburg, 1
+
+FC Rostov, 0
+Baltika Kaliningrad, 1
+
+Peru U20, 2
+Paraguay U20, 2
+
+Colombia U20, 1
+Argentina U20, 1
+
+Venezuela U20, 0
+Brazil U20, 2
+
+Hồng Lĩnh Hà Tĩnh, 1
+Quảng Nam, 2

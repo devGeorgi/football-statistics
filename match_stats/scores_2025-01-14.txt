@@ -169,9 +169,6 @@ Nancy, 1
 Borneo FC Samarinda, 1
 Semen Padang FC, 3
 
-SC Farense, 1
-Benfica, 3
-
 Vizela U23, 1
 Famalicão U23, 1
 
@@ -183,12 +180,6 @@ Académico Viseu U23, 3
 
 Dunfermline Athletic, 0
 Ayr United, 2
-
-Livingston, 2
-Airdrieonians, 1
-
-Peterhead, 1
-Stranraer, 0
 
 Barry Town, 1
 Haverfordwest County AFC, 1

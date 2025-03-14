@@ -1,0 +1,215 @@
+São Paulo, 2
+Nacional, 0
+
+Bolívar, 1
+Flamengo, 0
+
+LASK, 1
+FCSB, 1
+
+Molde FK, 0
+IF Elfsborg, 1
+
+RFS, 2
+APOEL Nicosia, 1
+
+Viktoria Plzeň, 1
+Heart of Midlothian, 0
+
+PAOK, 4
+Shamrock Rovers, 0
+
+Ludogorets, 4
+FC Petrocub Hîncesti, 0
+
+Maccabi Tel Aviv, 3
+FK TSC Bačka Topola, 0
+
+FC Lugano, 3
+Beşiktaş, 3
+
+Dinamo Minsk, 0
+RSC Anderlecht, 1
+
+Jagiellonia Białystok, 1
+AFC Ajax, 4
+
+Ferencváros TC, 0
+FK Borac Banja Luka, 0
+
+Sporting Braga, 2
+SK Rapid Wien, 1
+
+Legia Warszawa, 2
+FC Drita, 0
+
+Mladá Boleslav, 2
+Paksi FC, 2
+
+Pyunik Yerevan, 1
+NK Celje, 0
+
+FK Panevėžys, 0
+The New Saints, 3
+
+BK Häcken, 1
+1. FC Heidenheim, 2
+
+Djurgårdens IF, 1
+NK Maribor, 0
+
+FC København, 2
+Kilmarnock, 0
+
+Omonia Nicosia, 6
+Zirə FK, 0
+
+SK Brann, 2
+Astana, 0
+
+CFR 1907 Cluj, 1
+Pafos FC, 0
+
+FC Kryvbas Kryvyi Rih, 0
+Real Betis, 2
+
+Fiorentina, 3
+Puskás Akadémia, 3
+
+HNK Rijeka, 1
+NK Olimpija Ljubljana, 1
+
+Víkingur Reykjavík, 5
+UE Santa Coloma, 0
+
+FK Partizan, 0
+KAA Gent, 1
+
+Wisła Kraków, 1
+Cercle Brugge, 6
+
+Klaksvíkar Ítróttarfelag, 2
+HJK, 2
+
+St. Patrick's Athletic, 0
+Başakşehir FK, 0
+
+Chelsea, 2
+Servette FC, 0
+
+FC St. Gallen 1879, 0
+Trabzonspor, 0
+
+Lincoln Red Imps, 2
+Larne FC, 1
+
+RC Lens, 2
+Panathinaikos, 1
+
+Belgrano, 0
+Athletico, 2
+
+Sportivo Ameliano, 3
+Libertad, 4
+
+Cruzeiro, 7
+Boca Juniors, 5
+
+MC Alger, 2
+Watanga FC, 0
+
+Avaí, 1
+Paysandu SC, 0
+
+Sport Recife, 0
+Coritiba, 1
+
+Ñublense, 0
+Unión Española, 0
+
+Notts County, 4
+Grimsby Town, 1
+
+Al-Taawoun, 1
+Al-Fayha, 0
+
+Al-Nassr, 1
+Al-Raed, 1
+
+Al-Wehda, 3
+Al-Riyadh, 3
+
+Al Duhail, 1
+Umm-Salal SC, 0
+
+Al-Sadd, 5
+Al-Arabi SC, 0
+
+Al Shamal SC, 0
+Qatar SC, 1
+
+Barracas Central, 0
+Gimnasia y Esgrima, 1
+
+Orsomarso, 0
+Deportes Quindío, 1
+
+Real Cundinamarca, 1
+Tigres FC, 0
+
+Llaneros FC, 1
+Leones FC, 0
+
+Pharco FC, 0
+Al-Masry, 1
+
+SJK, 9
+KuPS, 10
+
+HK Kópavogur, 3
+KR Reykjavík, 2
+
+PSIS Semarang, 1
+PSBS Biak, 0
+
+Aluminium Arak, 1
+Nassaji Mazandaran FC, 1
+
+Gol Gohar Sirjan, 2
+Esteghlal Khuzestan, 0
+
+Tractor FC, 1
+Persepolis FC, 1
+
+Foolad Khuzestan, 0
+Mes Rafsanjan FC, 0
+
+Lecce U20, 5
+Udinese U20, 1
+
+Correcaminos UAT, 1
+Celaya FC, 1
+
+Miedź Legnica, 4
+Znicz Pruszków, 0
+
+MZKS Arka Gdynia, 1
+Ruch Chorzów, 1
+
+Górnik Łęczna, 0
+Wisła Kraków, 0
+
+Balestier Khalsa, 3
+Hougang United, 1
+
+Estudiantes de Mérida, 2
+Monagas, 1
+
+Carabobo, 2
+Metropolitanos, 2
+
+Arosa SC, 0
+Deportivo Fabril, 1
+
+Arenas Club, 2
+Urduliz FT, 1

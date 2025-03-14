@@ -1,0 +1,344 @@
+AC Sparta Praha, 3
+Red Bull Salzburg, 0
+
+Bologna, 0
+Shakhtar Donetsk, 0
+
+Celtic, 5
+ŠK Slovan Bratislava, 1
+
+Club Brugge KV, 0
+Borussia Dortmund, 3
+
+Manchester City, 0
+Inter, 0
+
+Paris Saint-Germain, 1
+Girona FC, 0
+
+Real Betis, 2
+Getafe, 1
+
+Fluminense, 1
+Atlético Mineiro, 0
+
+Botafogo, 0
+São Paulo, 0
+
+Lanús, 0
+Independiente Medellín, 0
+
+AFC Ajax, 5
+Fortuna Sittard, 0
+
+Samsunspor, 2
+Başakşehir FK, 0
+
+Brighton & Hove Albion, 3
+Wolverhampton, 2
+
+Coventry City, 1
+Tottenham Hotspur, 2
+
+Celtic U19, 4
+ŠK Slovan Bratislava U19, 0
+
+Paris Saint-Germain U19, 0
+Girona U19, 2
+
+Club Brugge U19, 1
+Borussia Dortmund U19, 1
+
+Manchester City U19, 2
+Inter U19, 4
+
+FK Crvena zvezda U19, 1
+Benfica U19, 2
+
+KF Bylis U19, 1
+FC 2 Korriku U19, 2
+
+BFC Daugavpils U19, 1
+Cliftonville FC U19, 0
+
+Dinamo Tbilisi U19, 3
+Budućnost Podgorica U19, 2
+
+FC Honka U19, 1
+Valletta U19, 0
+
+FC Dinamo Minsk U19, 4
+Pyunik Yerevan U19, 2
+
+FK Žalgiris U19, 3
+The New Saints FC U19, 2
+
+Lincoln Red Imps U19, 0
+NK Maribor U19, 6
+
+Tallinna Kalev U19, 7
+FC Santa Coloma U19, 0
+
+HB Torshavn U19, 1
+FC Progres Niederkorn U19, 2
+
+University College Dublin U19, 3
+Stjarnan Gardabaer U19, 0
+
+CD Guadalajara, 2
+Club León, 0
+
+Mazatlán FC, 0
+Club Necaxa, 0
+
+CF Monterrey, 3
+FC Juárez, 2
+
+FK IMT Beograd, 0
+FK Radnički 1923, 4
+
+Atlanta United, 2
+Inter Miami CF, 2
+
+New England Revolution, 2
+CF Montréal, 2
+
+New York City FC, 1
+Philadelphia Union, 5
+
+Toronto FC, 0
+Columbus Crew, 2
+
+Orlando City SC, 2
+Charlotte FC, 0
+
+Houston Dynamo, 1
+Vancouver Whitecaps, 1
+
+Minnesota United, 1
+FC Cincinnati, 2
+
+Nashville SC, 1
+Chicago Fire, 0
+
+Sporting Kansas City, 4
+Colorado Rapids, 1
+
+Real Salt Lake, 3
+FC Dallas, 2
+
+Los Angeles FC, 1
+Austin FC, 1
+
+Portland Timbers, 4
+LA Galaxy, 2
+
+Seattle Sounders FC, 2
+San Jose Earthquakes, 2
+
+AS Roma, 3
+Servette FC Chênois Féminin, 1
+
+ŽNK Osijek, 1
+FC Twente Vrouwen, 4
+
+Paris FC, 0
+Manchester City W.F.C., 5
+
+BK Häcken FF, 1
+Arsenal Women, 0
+
+Hammarby IF, 1
+Benfica, 2
+
+Juventus, 3
+Paris Saint-Germain, 1
+
+Anderlecht, 1
+Vålerenga, 2
+
+Fiorentina, 0
+VfL Wolfsburg, 7
+
+Sport Recife, 1
+Goiás, 1
+
+Vila Nova FC, 3
+Chapecoense, 2
+
+Amazonas FC, 2
+Operário-PR, 1
+
+América Mineiro, 2
+Paysandu SC, 0
+
+Coritiba, 3
+Ceará, 1
+
+Maccabi Tel Aviv, 2
+Hapoel Jerusalem, 1
+
+Kristiansund BK, 0
+Molde FK, 4
+
+SK Brann, 2
+KFUM Oslo, 0
+
+Club Atlético Grau, 1
+Alianza Lima, 0
+
+Comerciantes Unidos, 2
+Universidad César Vallejo, 0
+
+Cienciano, 3
+Sport Huancayo, 1
+
+Universitario, 3
+Sport Boys, 0
+
+GAIS Göteborg, 0
+Malmö FF, 0
+
+FC Lausanne-Sport, 1
+FC Lugano, 2
+
+Orlando Pirates, 2
+Chippa United, 1
+
+Sekhukhune United, 1
+Magesi FC, 0
+
+Stellenbosch, 0
+Lamontville Golden Arrows, 2
+
+HFX Wanderers FC, 2
+Pacific FC, 2
+
+New Mexico United, 3
+Sacramento Republic FC, 1
+
+Lexington SC, 7
+Central Valley Fuego, 1
+
+Central Córdoba, 2
+Temperley, 1
+
+Shanghai Port, 2
+Johor Darul Ta'zim, 2
+
+Mohun Bagan Super Giant, 0
+Ravshan, 0
+
+Al-Wakrah, 0
+Tractor FC, 3
+
+Al Khalidiyah, 2
+Al-Taawoun, 3
+
+Al-Quwa Al-Jawiya, 2
+Altyn Asyr FK, 1
+
+Al-Kuwait, 0
+Nasaf Qarshi, 0
+
+Shabab Al-Ahli Dubai, 3
+Al Hussein Irbid, 1
+
+Sanfrecce Hiroshima, 3
+Kaya-Iloilo, 0
+
+Sydney FC, 5
+Eastern SC, 0
+
+Lee Man FC, 0
+Nam Định, 2
+
+True Bangkok United, 4
+Tampines Rovers, 2
+
+Muang Thong United, 1
+Selangor Football Club, 1
+
+San Antonio Bulo-Bulo, 3
+Club Always Ready, 3
+
+The Strongest, 1
+Bolívar, 1
+
+Slavia Sofia, 0
+Ludogorets, 1
+
+Municipal Santa Ana, 1
+Santos de Guápiles, 1
+
+Puntarenas FC, 0
+AD Guanacasteca, 0
+
+Deportivo Saprissa, 3
+San Carlos, 2
+
+Enosis Neon Paralimniou, 0
+APOEL Nicosia, 4
+
+Pafos FC, 4
+Nea Salamina Famagusta, 0
+
+FK Varnsdorf, 0
+MFK Chrudim, 3
+
+Nõmme Kalju, 3
+FC Nõmme United, 0
+
+Pärnu JK Vaprus, 2
+Tartu JK Tammeka, 2
+
+FC Torpedo Kutaisi, 2
+FC Iberia 1999, 1
+
+SV Todesfelde, 2
+FC Teutonia 05 Ottensen, 0
+
+CSD Municipal, 2
+Antigua GFC, 1
+
+Deportivo Mixco, 2
+Comunicaciones FC, 1
+
+Persebaya Surabaya, 2
+Persis Solo, 1
+
+FC Kaysar, 0
+Astana, 1
+
+Mineros de Zacatecas, 4
+Club Atletico La Paz, 0
+
+FC Corvinul Hunedoara, 1
+CSC 1599 Șelimbăr, 0
+
+NK Celje, 2
+NK Maribor, 1
+
+IK Brage, 0
+Utsiktens BK, 0
+
+Skövde AIK, 2
+Varbergs BoIS, 2
+
+Örebro SK, 1
+Sandvikens IF, 0
+
+Östers IF, 4
+Trelleborgs FF, 1
+
+Östersunds FK, 1
+GIF Sundsvall, 2
+
+Dynamo Kyiv, 3
+Vorskla Poltava, 1
+
+USA U20, 0
+North Korea U20, 1
+
+Japan U20, 2
+Netherlands U20, 0

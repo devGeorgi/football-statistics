@@ -280,14 +280,8 @@ Legnago Salus, 1
 Juventus U20, 3
 Udinese U20, 2
 
-Kuching City, 0
-Kedah, 0
-
 Negeri Sembilan, 1
 Sabah FC, 2
-
-Club Atletico La Paz, 1
-Correcaminos UAT, 1
 
 Sportivo Trinidense, 1
 Sportivo Ameliano, 2
@@ -318,9 +312,6 @@ Argentina U20, 6
 
 Neuchâtel Xamax, 1
 FC Stade-Lausanne-Ouchy, 2
-
-Stade Nyonnais, 1
-FC Aarau, 2
 
 FC Thun, 3
 FC Vaduz, 1

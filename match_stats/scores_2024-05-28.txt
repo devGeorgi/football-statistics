@@ -1,0 +1,173 @@
+Junior Barranquilla, 0
+Botafogo, 0
+
+LDU, 2
+Universitario, 0
+
+Bolívar, 3
+Palestino, 1
+
+Flamengo, 3
+Millonarios, 0
+
+Atlético Mineiro, 4
+Caracas F.C., 0
+
+Peñarol, 2
+Rosario Central, 1
+
+Delfín, 4
+CD Real Tomayapo, 3
+
+Internacional, 1
+Belgrano, 2
+
+Argentinos Juniors, 2
+Nacional Asunción, 1
+
+Corinthians, 3
+Racing de Montevideo, 0
+
+Coquimbo Unido, 1
+Red Bull Bragantino, 1
+
+Racing Club, 3
+Sportivo Luqueño, 0
+
+NAC Breda, 6
+Excelsior, 2
+
+SV Wehen Wiesbaden, 1
+SSV Jahn Regensburg, 2
+
+Amazonas FC, 1
+Mirassol, 0
+
+TSV Hartberg, 0
+Austria Wien, 1
+
+Yokohama F. Marinos, 4
+Kashiwa Reysol, 0
+
+Malmö FF, 2
+IF Elfsborg, 1
+
+Daejeon Hana Citizen, 0
+Jeju SK, 1
+
+Gangwon FC, 2
+Jeonbuk Hyundai Motors, 1
+
+Incheon United, 1
+Ulsan HD, 1
+
+Suwon FC, 2
+Daegu FC, 0
+
+Floresta, 1
+Ferroviário, 2
+
+Orsomarso, 4
+Tigres FC, 1
+
+Real Cartagena, 2
+Atlético Huila, 0
+
+Ceramica Cleopatra, 1
+Makadi FC, 0
+
+Smouha, 1
+La Viena FC, 0
+
+ZED FC, 2
+El Dakhlya, 1
+
+FC Kuressaare, 2
+Pärnu JK Vaprus, 2
+
+Nõmme Kalju, 1
+FC Nõmme United, 1
+
+SJK Akatemia, 0
+MP, 0
+
+FC Samgurali Tskhaltubo, 1
+FC Torpedo Kutaisi, 3
+
+FC Gagra, 4
+FC Iberia 1999, 0
+
+Eintracht Bamberg 2010, 5
+TSV Buchbach, 4
+
+Aluminium Arak, 0
+Sepahan S.C., 1
+
+Foolad Khuzestan, 2
+Paykan, 2
+
+Havadar Tehran, 0
+Nassaji Mazandaran FC, 5
+
+Mes Rafsanjan FC, 2
+Esteghlal Khuzestan, 3
+
+Tractor FC, 3
+Malavan Bandar Anzali FC, 1
+
+Zob Ahan, 2
+Sanat Naft Abadan, 1
+
+Esteghlal FC, 1
+Gol Gohar Sirjan, 0
+
+Shams Azar Qazvin, 1
+Persepolis FC, 3
+
+Avellino, 0
+L.R. Vicenza, 0
+
+Carrarese, 1
+Benevento, 0
+
+Valmiera FC, 4
+FS Jelgava, 0
+
+BFC Daugava Daugavpils, 0
+FK Auda, 3
+
+AS FAR Rabat, 3
+Jeunesse Sportive Soualem, 1
+
+CA Youssoufia Berrechid, 0
+Fath Union Sport, 5
+
+Ittihad Tanger, 1
+Raja Club Athletic, 2
+
+MC Oujda, 1
+Renaissance Zemamra, 2
+
+RS Berkane, 2
+SC Chabab Mohammédia, 0
+
+Wydad Casablanca, 0
+Olympic Safi, 1
+
+IK Start, 2
+Sogndal IL, 1
+
+Taguig FC, 3
+Maharlika Manila FC, 1
+
+Kaya-Iloilo, 9
+Tuloy FC, 0
+
+Degerfors IF, 1
+Varbergs BoIS, 1
+
+Tokyo Verdy, 0
+Real Sociedad, 2
+
+Indonesia, 5
+Singapore, 1

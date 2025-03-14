@@ -1,0 +1,86 @@
+Shanghai Port, 2
+Shenzhen Peng City, 0
+
+Zhejiang, 3
+Shanghai Shenhua, 4
+
+Deportivo Pereira, 1
+Alianza Valledupar FC, 0
+
+Harrogate Town, 2
+Doncaster Rovers, 0
+
+Sportivo Luqueño, 2
+CS 2 de Mayo, 3
+
+Nacional Asunción, 2
+Olimpia, 0
+
+Kawasaki Frontale, 3
+Sagan Tosu, 2
+
+Vissel Kobe, 2
+Cerezo Osaka, 1
+
+Yokohama F. Marinos, 1
+Kyoto Sanga FC, 2
+
+Gwangju FC, 2
+Pohang Steelers, 1
+
+Ulsan HD, 2
+Gangwon FC, 0
+
+Dinamo Minsk, 2
+FK Gomel, 0
+
+Royal Pari Sion, 3
+Guabirá, 3
+
+Atlético Mineiro, 0
+São Paulo, 0
+
+Flamengo, 1
+Bahia, 0
+
+Puntarenas FC, 1
+LD Alajuelense, 1
+
+Municipal Liberia, 0
+CS Cartaginés, 0
+
+TPS, 0
+JIPPO Joensuu, 1
+
+PSBS Biak, 3
+Persija Jakarta, 1
+
+Malut United FC, 2
+Semen Padang FC, 1
+
+Johor Darul Ta'zim, 5
+Penang, 0
+
+Correcaminos UAT, 1
+Alebrijes de Oaxaca, 3
+
+FCU 1948 Craiova, 2
+CS Unirea Ungheni 2018, 0
+
+Brunei DPMM FC, 2
+Balestier Khalsa, 2
+
+Bozüyük Vitraspor, 0
+Bursaspor, 1
+
+Germany U20, 5
+Argentina U20, 1
+
+North Korea U20, 5
+Austria U20, 2
+
+France U20, 1
+Netherlands U20, 2
+
+Japan U20, 2
+Nigeria U20, 1

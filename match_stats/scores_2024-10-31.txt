@@ -1,0 +1,233 @@
+Genoa, 0
+Fiorentina, 1
+
+Como, 1
+Lazio, 5
+
+Roma, 1
+Torino, 0
+
+San Tirso SD, 0
+Espanyol, 4
+
+UE Vic, 0
+Atlético Madrid, 2
+
+Real Ávila CF, 3
+Real Oviedo, 0
+
+Alfaro, 0
+CD Tenerife, 2
+
+CD Cuarte, 1
+Racing de Ferrol, 3
+
+CD Estepona, 3
+Málaga, 2
+
+CD Gevora, 1
+Real Betis, 6
+
+Ontiñena CF, 0
+Las Palmas, 7
+
+Racing Club, 2
+Corinthians, 1
+
+USV Hercules, 1
+Sparta Rotterdam, 6
+
+KVV Quick '20, 0
+ASWH, 2
+
+Koninklijke HFC, 1
+FC Emmen, 0
+
+SC Telstar, 3
+Helmond Sport, 0
+
+SV Spakenburg, 2
+VV Katwijk, 4
+
+VV DOVO Veenendaal, 1
+FC Volendam, 5
+
+FC Lisse, 1
+FC Utrecht, 2
+
+Estudiantes de La Plata, 1
+Independiente Rivadavia, 1
+
+Sarmiento, 0
+CA Independiente, 0
+
+Godoy Cruz, 1
+Atlético Tucumán, 1
+
+Brisbane Roar, 2
+Sydney FC, 3
+
+El Gouna FC, 0
+ZED FC, 0
+
+Modern Sport FC, 0
+ENPPI, 0
+
+Punjab FC, 3
+Chennaiyin FC, 2
+
+Kawasaki Frontale, 1
+Kashima Antlers, 3
+
+Vissel Kobe, 2
+Jubilo Iwata, 0
+
+Cienciano, 7
+Unión Comercio, 0
+
+Al-Shabab, 3
+Al-Wehda, 1
+
+Al-Okhdood, 4
+Al-Orobah, 0
+
+Al-Ittihad, 1
+Al-Ahli, 0
+
+Grasshopper Club Zürich, 1
+FC Lugano, 1
+
+Servette FC, 2
+FC Luzern, 2
+
+Stellenbosch, 1
+Marumo Gallants FC, 0
+
+Western United, 4
+Wellington Phoenix, 2
+
+Ulsan HD, 2
+Gangwon FC, 1
+
+Al-Gharafa, 3
+Al-Arabi SC, 1
+
+Al Khor, 1
+Qatar SC, 2
+
+Al-Sadd, 2
+Al-Rayyan, 1
+
+Baniyas, 1
+Al-Sharjah, 4
+
+East Bengal FC, 3
+Nejmeh SC, 2
+
+SC Neusiedl 1919, 4
+Wiener Sport-Club, 1
+
+Cercle Brugge, 3
+OC Charleroi, 0
+
+Royale Union Tubize-Braine, 0
+RSC Anderlecht, 4
+
+Royal Antwerp FC, 6
+KMSK Deinze, 1
+
+Club Aurora, 2
+Independiente Petrolero, 0
+
+Guabirá, 2
+Oriente Petrolero, 0
+
+FC Chernolomets 1919 Popovo, 0
+Ludogorets, 6
+
+SK Benátky nad Jizerou, 1
+SK Slavia Praha, 4
+
+Naesby, 1
+Viborg FF, 4
+
+Brøndby IF, 1
+FC Midtjylland, 0
+
+FC Kolkheti-1913 Poti, 1
+FC Samgurali Tskhaltubo, 1
+
+APS Zakynthos 1961, 1
+Asteras Aktor, 2
+
+PS Barito Putera, 1
+Arema FC, 3
+
+Esteghlal FC, 0
+Tractor FC, 2
+
+Potenza Calcio, 5
+Taranto, 0
+
+Casertana, 1
+Team Altamura, 1
+
+Latina, 0
+Monopoli, 1
+
+Juventus Next Gen U23, 0
+Sorrento, 1
+
+Crotone, 2
+Benevento, 2
+
+Foggia, 0
+Audace Cerignola, 1
+
+Messina, 1
+Cavese, 3
+
+Turris, 1
+Catania, 1
+
+Club Atlético Morelia, 2
+Tlaxcala FC, 1
+
+Lechia Zielona Góra, 6
+Widzew Łódź, 8
+
+Warta Poznań, 0
+Zagłębie Lubin, 3
+
+Miedź Legnica, 1
+Legia Warszawa, 2
+
+Lusitânia Lourosa, 2
+SC São João Ver, 1
+
+Sporting Braga, 2
+Vitória SC, 1
+
+FC Porto, 2
+Moreirense, 0
+
+Hougang United, 6
+Tanjong Pagar United, 0
+
+NK Bela krajina, 1
+NK Polana, 0
+
+NK Dokležovje, 2
+NK Dobrovce, 4
+
+NK Tabor Sežana, 1
+FC Drava Ptuj, 0
+
+İstanbulspor, 4
+Kilis Belediyespor, 2
+
+Bursaspor, 3
+7 Eylül Turgutlu 1984 SF, 1
+
+Spain U17, 3
+England U17, 0

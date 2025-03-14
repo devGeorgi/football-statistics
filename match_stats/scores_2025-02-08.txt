@@ -7,9 +7,6 @@ Girona FC, 0
 Las Palmas, 1
 Villarreal, 2
 
-Real Madrid, 1
-Atlético Madrid, 1
-
 Hellas Verona, 0
 Atalanta, 5
 
@@ -37,9 +34,6 @@ TSG Hoffenheim, 0
 VfL Wolfsburg, 0
 Bayer 04 Leverkusen, 0
 
-Borussia M'gladbach, 1
-Eintracht Frankfurt, 1
-
 Nice, 2
 RC Lens, 0
 
@@ -48,9 +42,6 @@ Le Havre, 2
 
 Saint-Étienne, 0
 Stade Rennais, 2
-
-AVS - Futebol SAD, 1
-Santa Clara, 2
 
 Benfica, 3
 Moreirense, 2
@@ -550,9 +541,6 @@ Tristán Suárez, 1
 Gimnasia y Esgrima Mendoza, 1
 Estudiantes de Río Cuarto, 1
 
-Şamaxı FK, 1
-Sumqayıt FK, 0
-
 Manama Club, 1
 Bahrain SC, 1
 
@@ -612,9 +600,6 @@ Coquimbo Unido, 2
 
 Everton de Viña del Mar, 1
 San Luis de Quillota, 0
-
-Rangers de Talca, 1
-Deportes Temuco, 0
 
 Curicó Unido, 0
 Universidad de Concepción, 1
@@ -742,9 +727,6 @@ Sportfreunde Lotte, 1
 SC Wiedenbrück, 2
 1. FC Düren, 1
 
-Turkspor Dortmund 2000, 1
-FC Gütersloh, 1
-
 Accra Lions FC, 0
 Karela United, 0
 
@@ -822,9 +804,6 @@ Sri Pahang FC, 0
 
 Sabah FC, 0
 Kuala Lumpur City FC, 0
-
-Birkirkara FC, 2
-Mosta FC, 0
 
 Gżira United FC, 1
 Hibernians, 4
@@ -916,9 +895,6 @@ Inverness Caledonian Thistle, 0
 Kelty Hearts F.C., 0
 Cove Rangers, 0
 
-Montrose, 2
-Alloa Athletic, 2
-
 Stenhousemuir, 2
 Queen of The South, 1
 
@@ -933,9 +909,6 @@ Edinburgh City F.C., 1
 
 Stirling Albion, 3
 Elgin City, 1
-
-The Spartans FC, 0
-East Fife, 1
 
 Dundee FC, 4
 Airdrieonians, 0
@@ -979,14 +952,8 @@ Etoile Sportive Du Sahel, 2
 CD Olimpia, 0
 Inter Miami CF, 5
 
-Liverpool UY, 2
-Miramar Misiones, 1
-
 Racing de Montevideo, 0
 Cerro, 1
-
-River Plate UY, 0
-Defensor Sporting, 1
 
 Rayo Zuliano, 1
 Deportivo La Guaira, 1
@@ -996,9 +963,6 @@ Universidad Central, 0
 
 Academia Puerto Cabello, 1
 Carabobo, 3
-
-Hải Phòng, 2
-Hồ Chí Minh City, 0
 
 Thể Công - Viettel, 2
 Hoàng Anh Gia Lai, 1

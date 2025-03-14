@@ -1,0 +1,221 @@
+Barcelona, 4
+Valencia, 2
+
+Genoa, 3
+Cagliari, 0
+
+CF Estrela Amadora, 0
+SC Farense, 3
+
+São Paulo, 0
+Palmeiras, 0
+
+Fatih Karagümrük, 4
+Antalyaspor, 1
+
+Preston North End, 0
+Leicester City, 3
+
+Racing de Ferrol, 0
+Mirandés, 2
+
+USL Dunkerque, 1
+Auxerre, 3
+
+Mirassol, 3
+Ceará, 2
+
+FC Emmen, 3
+Helmond Sport, 0
+
+Jong FC Utrecht Youth, 0
+ADO Den Haag, 2
+
+Shandong Taishan, 3
+Nantong Zhiyun, 1
+
+Tianjin Jinmen Tiger, 0
+Beijing Guoan, 1
+
+Audax Italiano, 0
+Cobresal, 1
+
+Puszcza Niepołomice, 1
+MKS Korona Kielce, 1
+
+Silkeborg IF, 3
+FC Midtjylland, 0
+
+El Nacional, 1
+Delfín, 0
+
+Ceramica Cleopatra, 1
+Pharco FC, 1
+
+Mumbai City FC, 2
+FC Goa, 0
+
+Shamrock Rovers, 4
+Drogheda United, 0
+
+Universidad César Vallejo, 2
+Club Sporting Cristal, 1
+
+FC Rapid București, 1
+Universitatea Craiova, 2
+
+FC Petrolul Ploieşti, 1
+FC Botoșani, 2
+
+IF Brommapojkarna, 0
+IFK Göteborg, 3
+
+IF Elfsborg, 2
+IK Sirius, 0
+
+Mjällby AIF, 3
+Kalmar FF, 2
+
+Hammarby IF, 2
+Västerås SK, 1
+
+Mamelodi Sundowns, 3
+TS Galaxy, 0
+
+Rubin Kazan, 1
+Ural Yekaterinburg, 1
+
+FC Sochi, 0
+Fakel Voronezh, 0
+
+FC Rostov, 2
+Orenburg, 1
+
+Daejeon Hana Citizen, 0
+Gimcheon Sangmu FC, 0
+
+Suwon FC, 0
+FC Seoul, 2
+
+Indonesia U23, 0
+Uzbekistan U23, 2
+
+Japan U23, 2
+Iraq U23, 0
+
+Zirə FK, 0
+Araz Naxçıvan PFK, 1
+
+FK Tuzla City, 1
+Igman Konjic, 2
+
+EC São José, 1
+Confiança, 2
+
+Ferroviário, 2
+AA Aparecidense, 2
+
+Beroe Stara Zagora, 3
+FK Etar Veliko Tarnovo, 0
+
+FC CSKA 1948 Sofia, 1
+Arda Kardzhali, 1
+
+Deportes Limache, 1
+Deportes La Serena, 0
+
+Othellos Athienou, 3
+AEZ Zakakiou, 1
+
+Apollon Limassol, 0
+Karmiotissa Polemidion, 0
+
+Doxa Katokopias, 2
+AEL Limassol, 2
+
+SJK Akatemia, 0
+TPS, 3
+
+Nîmes Olympique, 1
+Red Star FC, 0
+
+Nsoatreman FC, 0
+Bofoakwa Tano, 0
+
+AEPS Aiolikos Mytilene, 1
+PAOK B, 2
+
+Ionikos, 0
+Athens Kallithea FC, 2
+
+Valur Reykjavík, 1
+Fram Reykjavík, 1
+
+Fylkir Reykjavík, 0
+Stjarnan Garðabær, 1
+
+Bhayangkara Presisi Indonesia FC, 0
+Persis Solo, 1
+
+Dewa United FC, 2
+Borneo FC Samarinda, 1
+
+Madura United FC, 0
+Arema FC, 0
+
+PSM Makassar, 3
+RANS Nusantara FC, 2
+
+PSS Sleman, 1
+Persib Bandung, 0
+
+Persija Jakarta, 2
+PSIS Semarang, 1
+
+Persita Tangerang, 4
+Bali United FC, 2
+
+Hapoel Be'er Sheva, 2
+Bnei Sakhnin, 1
+
+Hapoel Haifa, 0
+Maccabi Haifa, 2
+
+SK Brann II, 3
+Eik-Tønsberg, 4
+
+Olimpia, 0
+Sportivo Ameliano, 1
+
+Chrobry Głogów, 0
+Wisła Płock, 2
+
+OKS Odra Opole, 0
+Motor Lublin, 2
+
+Chernomorets Novorossijsk, 0
+Dinamo Makhachkala, 0
+
+NŠ Mura, 3
+NK Aluminij Kidričevo, 1
+
+Peru U20, 1
+Venezuela U20, 6
+
+Brazil U20, 1
+Colombia U20, 0
+
+Argentina U20, 0
+Paraguay U20, 2
+
+Trelleborgs FF, 1
+Degerfors IF, 1
+
+Polissya Zhytomyr, 1
+Vorskla Poltava, 0
+
+Racing de Montevideo, 2
+Fénix, 0
+
+Peñarol, 3
+River Plate UY, 0

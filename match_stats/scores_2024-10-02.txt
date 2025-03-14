@@ -1,0 +1,314 @@
+Girona FC, 2
+Feyenoord, 3
+
+Shakhtar Donetsk, 0
+Atalanta, 3
+
+Aston Villa, 1
+FC Bayern München, 0
+
+Benfica, 4
+Atlético Madrid, 0
+
+GNK Dinamo Zagreb, 2
+AS Monaco, 2
+
+Lille, 1
+Real Madrid, 0
+
+Liverpool, 2
+Bologna, 0
+
+RB Leipzig, 2
+Juventus, 3
+
+SK Sturm Graz, 0
+Club Brugge KV, 1
+
+Başakşehir FK, 1
+SK Rapid Wien, 2
+
+Vitória SC, 3
+NK Celje, 1
+
+Aston Villa U19, 0
+Bayern München U19, 1
+
+GNK Dinamo Zagreb U19, 1
+AS Monaco U19, 0
+
+Girona U19, 2
+Feyenoord U19, 0
+
+Shakhtar Donetsk U19, 0
+Atalanta U19, 3
+
+Lille U19, 2
+Real Madrid U19, 1
+
+Liverpool U19, 2
+Bologna U19, 1
+
+Benfica U19, 2
+Atlético Madrid U19, 2
+
+RB Leipzig U19, 0
+Juventus U19, 3
+
+SK Sturm Graz U19, 1
+Club Brugge U19, 1
+
+Academia Rebeja Chisinau U19, 1
+Kairat Almaty U19, 4
+
+FC 2 Korriku U19, 2
+KF Bylis U19, 1
+
+NK Maribor U19, 2
+Lincoln Red Imps U19, 0
+
+Sarajevo U19, 2
+Academy Pandev U19, 0
+
+Budućnost Podgorica U19, 4
+Dinamo Tbilisi U19, 1
+
+FC Progres Niederkorn U19, 3
+HB Torshavn U19, 0
+
+Valletta U19, 6
+FC Honka U19, 2
+
+FC Santa Coloma U19, 0
+Tallinna Kalev U19, 4
+
+Cliftonville FC U19, 4
+BFC Daugavpils U19, 5
+
+Stjarnan Gardabaer U19, 3
+University College Dublin U19, 2
+
+FK Vojvodina, 0
+FK Novi Pazar, 1
+
+Atlanta United, 1
+CF Montréal, 2
+
+Charlotte FC, 4
+Chicago Fire, 3
+
+New York City FC, 3
+FC Cincinnati, 2
+
+Orlando City SC, 2
+Philadelphia Union, 1
+
+Toronto FC, 1
+New York Red Bulls, 4
+
+Columbus Crew, 2
+Inter Miami CF, 3
+
+Houston Dynamo, 2
+New England Revolution, 1
+
+Nashville SC, 3
+DC United, 4
+
+Colorado Rapids, 1
+LA Galaxy, 3
+
+Real Salt Lake, 0
+Minnesota United, 0
+
+Los Angeles FC, 1
+St.Louis City, 0
+
+Portland Timbers, 0
+Austin FC, 1
+
+San Jose Earthquakes, 3
+FC Dallas, 2
+
+Vancouver Whitecaps, 0
+Seattle Sounders FC, 3
+
+Preston North End, 3
+Watford, 0
+
+Sheffield United, 1
+Swansea City, 0
+
+Stoke City, 6
+Portsmouth, 1
+
+Bristol City, 0
+Sheffield Wednesday, 0
+
+Unión La Calera, 0
+Colo Colo, 0
+
+Mumbai City FC, 0
+Bengaluru FC, 0
+
+Louisville City FC, 3
+Miami FC, 0
+
+Union Omaha SC, 4
+Spokane Velocity FC, 0
+
+CS Constantine, 0
+ES Mostaganem, 0
+
+USM Khenchela, 0
+CR Belouizdad, 0
+
+USM Alger, 2
+US Biskra, 1
+
+Ravshan, 0
+Al-Wakrah, 1
+
+Tractor FC, 0
+Mohun Bagan Super Giant, 0
+
+Altyn Asyr FK, 0
+Al Khalidiyah, 1
+
+Al-Taawoun, 1
+Al-Quwa Al-Jawiya, 2
+
+Nasaf Qarshi, 2
+Shabab Al-Ahli Dubai, 1
+
+Al Hussein Irbid, 2
+Al-Kuwait, 1
+
+Kaya-Iloilo, 1
+Sydney FC, 4
+
+Nam Định, 0
+True Bangkok United, 0
+
+Tampines Rovers, 3
+Lee Man FC, 1
+
+Jeonbuk Hyundai Motors, 4
+Muang Thong United, 1
+
+Wuhan Chegu JHUN, 1
+Abu Dhabi Country Club, 2
+
+East Riffa, 2
+Al Najma Manama, 4
+
+Manama Club, 2
+A'Ali FC, 2
+
+Atlético Mineiro, 2
+Vasco da Gama, 1
+
+Flamengo, 1
+Corinthians, 0
+
+Leones FC, 2
+Internacional de Palmira, 0
+
+Real Santander, 0
+Orsomarso, 2
+
+FC Silon Táborsko, 2
+FK Varnsdorf, 0
+
+FK Viktoria Žižkov, 0
+Baník Ostrava B, 1
+
+MFK Vyškov, 0
+MFK Chrudim, 3
+
+SK Líšeň, 2
+Sparta Praha B U21, 2
+
+1. SK Prostějov, 3
+FC Zbrojovka Brno, 1
+
+FC Sellier & Bellot Vlašim, 2
+SK Slavia Praha B, 2
+
+FCI Levadia Tallinn, 0
+Narva Trans, 0
+
+Holstein Kiel II U23, 1
+SV Werder Bremen II U23, 3
+
+SSV Jeddeloh, 0
+1.FC Phönix Lübeck, 0
+
+SV Drochtersen/Assel, 2
+Blau-Weiss Lohne, 0
+
+Kickers Emden, 3
+Bremer SV, 1
+
+FC Rot-Weiß Erfurt, 1
+SV Babelsberg 03, 1
+
+1. FC Schweinfurt 05, 4
+1. FC Nürnberg II, 1
+
+FV Illertissen, 1
+SV Wacker Burghausen, 2
+
+Asante Kotoko SC, 1
+Nsoatreman FC, 0
+
+Samartex, 1
+Bibiani Gold Stars FC, 1
+
+FC Kyzylzhar, 0
+FC Ordabasy, 1
+
+Zhetysu Taldykorgan, 2
+Yelimay Semey, 0
+
+FK Auda, 1
+FK Tukums 2000, 1
+
+Ħamrun Spartans FC, 0
+Hibernians, 2
+
+Zabbar Saint Patrick FC, 1
+Marsaxlokk FC, 3
+
+Club Atlético Morelia, 2
+Celaya FC, 0
+
+Difaâ Hassani El-Jadidi, 1
+AS FAR Rabat, 0
+
+Raja Club Athletic, 1
+Fath Union Sport, 0
+
+RS Berkane, 0
+Ittihad Tanger, 0
+
+Levanger, 1
+Stabæk Fotball, 2
+
+Lyn FK, 2
+Egersund, 1
+
+Raufoss, 1
+Sandnes Ulf, 1
+
+Vålerenga IF, 4
+Mjøndalen, 2
+
+OKS Odra Opole, 1
+Znicz Pruszków, 1
+
+Hồng Lĩnh Hà Tĩnh, 0
+Quảng Nam, 0
+
+SHB Đà Nẵng, 1
+Hoàng Anh Gia Lai, 1

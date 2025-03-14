@@ -1,0 +1,251 @@
+Ferencváros TC, 1
+Tottenham Hotspur, 2
+
+Lazio, 4
+Nice, 1
+
+Maccabi Tel Aviv, 0
+FC Midtjylland, 2
+
+Olympiacos FC, 3
+Sporting Braga, 0
+
+Qarabağ, 1
+Malmö FF, 2
+
+RFS, 2
+Galatasaray, 2
+
+Real Sociedad, 1
+RSC Anderlecht, 2
+
+SK Slavia Praha, 1
+AFC Ajax, 1
+
+TSG Hoffenheim, 2
+Dynamo Kyiv, 0
+
+Athletic Club, 2
+AZ Alkmaar, 0
+
+Beşiktaş, 1
+Eintracht Frankfurt, 3
+
+FC Porto, 3
+Manchester United, 3
+
+FC Twente, 1
+Fenerbahçe, 1
+
+IF Elfsborg, 1
+Roma, 0
+
+PAOK, 0
+FCSB, 1
+
+Rangers, 1
+Olympique Lyonnais, 4
+
+Royale Union Saint-Gilloise, 0
+Bodø/Glimt, 0
+
+Viktoria Plzeň, 0
+Ludogorets, 0
+
+1. FC Heidenheim, 2
+NK Olimpija Ljubljana, 1
+
+Astana, 1
+FK TSC Bačka Topola, 0
+
+Cercle Brugge, 6
+FC St. Gallen 1879, 2
+
+Dinamo Minsk, 1
+Heart of Midlothian, 2
+
+FC Noah, 2
+Mladá Boleslav, 0
+
+Legia Warszawa, 1
+Real Betis, 0
+
+Molde FK, 3
+Larne FC, 0
+
+Omonia Nicosia, 4
+Víkingur Reykjavík, 0
+
+Chelsea, 4
+KAA Gent, 2
+
+FC København, 1
+Jagiellonia Białystok, 2
+
+FC Lugano, 3
+HJK, 0
+
+FC Petrocub Hîncesti, 1
+Pafos FC, 4
+
+FK Borac Banja Luka, 1
+Panathinaikos, 1
+
+Fiorentina, 2
+The New Saints, 0
+
+LASK, 2
+Djurgårdens IF, 2
+
+Shamrock Rovers, 1
+APOEL Nicosia, 1
+
+Criciúma, 2
+Atlético Goianiense, 0
+
+Fluminense, 1
+Cruzeiro, 0
+
+Operário-PR, 3
+Chapecoense, 2
+
+Colo Colo, 1
+Universidad Católica, 0
+
+Independiente Santa Fe, 1
+Deportivo Pereira, 1
+
+Odisha FC, 2
+Kerala Blasters, 2
+
+Avispa Fukuoka, 1
+Nagoya Grampus, 0
+
+Al-Ettifaq, 0
+Al-Raed, 1
+
+Al-Okhdood, 1
+Al-Ittihad, 2
+
+Al-Wehda, 2
+Al-Fayha, 2
+
+IFK Norrköping, 0
+IK Sirius, 2
+
+Eastern SC, 2
+Sanfrecce Hiroshima, 3
+
+Zhejiang, 1
+Persib Bandung, 0
+
+Selangor Football Club, 1
+DH Cebu FC, 0
+
+Incheon Hyundai Steel Red Angels, 3
+Sabah FC, 0
+
+Al-Shabab Manama, 0
+Malkiya Club, 0
+
+Deportes Magallanes, 1
+Deportes Recoleta, 1
+
+Santiago Wanderers, 2
+Santiago Morning, 2
+
+Atlético Cali, 2
+Boca Juniors de Cali, 0
+
+TPS, 3
+FF Jaro, 0
+
+FC St Pauli II U23, 2
+SV Meppen, 1
+
+Hamburger SV II U23, 3
+SV Todesfelde, 0
+
+SC Weiche Flensburg 08, 2
+VfB Oldenburg, 0
+
+TSV Havelse, 2
+Eintracht Norderstedt, 0
+
+VfB Lübeck, 1
+FC Teutonia 05 Ottensen, 4
+
+FC Augsburg II, 1
+SpVgg Bayreuth, 1
+
+SpVgg Greuther Fürth II, 0
+SpVgg Ansbach, 0
+
+SpVgg Hankofen-Hailing, 1
+FC Würzburger Kickers, 1
+
+TSV Aubstadt, 4
+DJK Vilzing, 2
+
+TSV Buchbach, 3
+SV Viktoria Aschaffenburg, 0
+
+Türkgücü München, 1
+TSV Schwaben Augsburg, 3
+
+Eintracht Bamberg 2010, 0
+Bayern München II, 2
+
+CSD Municipal, 4
+Xinabajul Huehue, 3
+
+Atyrau, 3
+FC Turan, 0
+
+FK Aktobe, 2
+Kairat Almaty, 1
+
+FK Zhenys, 2
+FC Tobol, 1
+
+Mosta FC, 0
+Floriana FC, 2
+
+Naxxar Lions FC, 0
+Melita FC, 0
+
+Balzan F.C., 2
+Gżira United FC, 1
+
+Birkirkara FC, 1
+Sliema Wanderers, 0
+
+AS Soliman, 0
+Etoile Sportive Du Sahel, 0
+
+CS Sfaxien, 2
+EGS Gafsa, 0
+
+ES Métlaoui, 1
+Espérance Tunis, 1
+
+Olympique Béja, 2
+JS Omrane, 1
+
+Stade Tunisien, 1
+CA Bizertin, 0
+
+US Monastir, 2
+US Ben Guerdane, 1
+
+US Tataouine, 1
+Avenir Sportif De Gabes, 2
+
+Club Africain, 1
+ES Zarzis, 0
+
+Becamex Bình Dương, 3
+Hồ Chí Minh City, 0
+
+Quy Nhơn Bình Định FC, 1
+Đông Á Thanh Hóa, 4

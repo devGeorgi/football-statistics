@@ -1,0 +1,209 @@
+IF Elfsborg, 2
+Sheriff Tiraspol, 0
+
+Silkeborg IF, 3
+Molde FK, 2
+
+Maccabi Petach Tikva, 0
+Sporting Braga, 5
+
+Trabzonspor, 1
+MFK Ružomberok, 0
+
+Botev Plovdiv, 0
+Panathinaikos, 4
+
+Cercle Brugge, 1
+Kilmarnock, 0
+
+FK Vojvodina, 1
+AFC Ajax, 3
+
+HNK Rijeka, 1
+FC Corvinul Hunedoara, 0
+
+SK Rapid Wien, 6
+Wisła Kraków, 1
+
+Astana, 1
+FC Milsami Orhei, 0
+
+FC Ararat-Armenia, 3
+FC Zimbru Chişinău, 1
+
+FC Ordabasy, 8
+Differdange FC 03, 6
+
+KF Llapi, 2
+Brøndby IF, 2
+
+NK Bravo, 1
+HŠK Zrinjski Mostar, 3
+
+Urartu, 0
+Baník Ostrava, 2
+
+AEK Larnaca, 0
+Paksi FC, 2
+
+FCI Levadia Tallinn, 0
+NK Osijek, 1
+
+FC Tobol, 0
+FC St. Gallen 1879, 1
+
+FK Transinvest, 0
+Mladá Boleslav, 1
+
+Pafos FC, 3
+FK Žalgiris, 0
+
+Polissya Zhytomyr, 1
+NK Olimpija Ljubljana, 2
+
+Sabah FK, 6
+Maccabi Haifa, 8
+
+Inter Club d'Escaldes, 0
+AEK Athens, 4
+
+Paide Linnameeskond, 4
+Stjarnan Garðabær, 0
+
+Caernarfon Town, 0
+Legia Warszawa, 5
+
+FC København, 5
+FC Bruno's Magpies, 1
+
+FC Torpedo Kutaisi, 1
+Omonia Nicosia, 2
+
+Progrès Niederkorn, 1
+Djurgårdens IF, 0
+
+SK Brann, 2
+Go Ahead Eagles, 1
+
+Sliema Wanderers, 0
+FC Noah, 0
+
+Tromsø IL, 1
+KuPS, 0
+
+Universitatea Craiova, 3
+NK Maribor, 2
+
+Cherno More Varna, 1
+Hapoel Be'er Sheva, 2
+
+FC Vaduz, 2
+St. Patrick's Athletic, 2
+
+FK Partizani, 0
+FC Iberia 1999, 0
+
+KF Egnatia, 0
+Víkingur Reykjavík, 2
+
+Neman Grodno, 0
+CFR 1907 Cluj, 5
+
+Víkingur Gøta, 0
+KAA Gent, 3
+
+DAC 1904, 1
+Zirə FK, 2
+
+Śląsk Wrocław, 3
+Riga FC, 1
+
+La Fiorita, 0
+Başakşehir FK, 4
+
+Shelbourne, 0
+FC Zürich, 0
+
+St. Mirren, 4
+Valur Reykjavík, 1
+
+FK Budućnost Podgorica, 1
+FC CSKA 1948 Sofia, 1
+
+HB Tórshavn, 0
+HNK Hajduk Split, 0
+
+Vitória SC, 4
+Floriana FC, 0
+
+Qingdao West Coast, 1
+Cangzhou Mighty Lions, 1
+
+Cerro Porteño, 1
+Sportivo Ameliano, 0
+
+Al-Mokawloon, 1
+Ceramica Cleopatra, 1
+
+Al Ahly FC, 1
+National Bank of Egypt, 0
+
+Smouha, 1
+Al-Masry, 0
+
+Universidad Técnica de Cajamarca, 1
+Alianza Atlético de Sullana, 1
+
+FC Cincinnati, 1
+Querétaro FC, 0
+
+CD Toluca, 3
+Chicago Fire, 1
+
+Real Salt Lake, 2
+Atlas FC, 1
+
+Portland Timbers, 4
+Colorado Rapids, 0
+
+FC Universitario de Vinto, 1
+Blooming, 0
+
+Club Always Ready, 0
+The Strongest, 0
+
+Juventude, 3
+Fluminense, 2
+
+Penang, 3
+Kelantan Darul Naim, 0
+
+Club Atlético Morelia, 1
+CD Tapatío, 4
+
+Geylang International, 0
+Hougang United, 1
+
+Rukh Lviv, 0
+Polissya Zhytomyr, 0
+
+Brescia, 2
+Genoa, 0
+
+Eibar, 0
+Athletic Club, 1
+
+FC Utrecht, 1
+Venezia, 2
+
+Boavista, 2
+Tondela, 3
+
+FC Argeș Pitești, 5
+ACS Unirea Bascov, 0
+
+Las Palmas, 2
+Al-Shabab, 1
+
+Nakhon Ratchasima Mazda FC, 1
+Port FC, 1

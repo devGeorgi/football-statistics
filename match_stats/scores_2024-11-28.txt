@@ -1,0 +1,185 @@
+AZ Alkmaar, 1
+Galatasaray, 1
+
+Athletic Club, 3
+IF Elfsborg, 0
+
+Beşiktaş, 1
+Maccabi Tel Aviv, 3
+
+Dynamo Kyiv, 1
+Viktoria Plzeň, 2
+
+Lazio, 0
+Ludogorets, 0
+
+Qarabağ, 1
+Olympique Lyonnais, 4
+
+RFS, 0
+PAOK, 2
+
+RSC Anderlecht, 2
+FC Porto, 2
+
+FC Midtjylland, 1
+Eintracht Frankfurt, 2
+
+FCSB, 0
+Olympiacos FC, 0
+
+FC Twente, 0
+Royale Union Saint-Gilloise, 1
+
+Ferencváros TC, 4
+Malmö FF, 1
+
+Manchester United, 3
+Bodø/Glimt, 2
+
+Nice, 1
+Rangers, 4
+
+Real Sociedad, 2
+AFC Ajax, 0
+
+SK Slavia Praha, 1
+Fenerbahçe, 2
+
+Sporting Braga, 3
+TSG Hoffenheim, 0
+
+Tottenham Hotspur, 2
+Roma, 2
+
+Astana, 1
+Vitória SC, 1
+
+1. FC Heidenheim, 0
+Chelsea, 2
+
+Cercle Brugge, 2
+Heart of Midlothian, 0
+
+Dinamo Minsk, 1
+FC København, 2
+
+FC Noah, 0
+Víkingur Reykjavík, 0
+
+FC St. Gallen 1879, 2
+FK TSC Bačka Topola, 2
+
+FK Borac Banja Luka, 2
+LASK, 1
+
+Molde FK, 0
+APOEL Nicosia, 1
+
+NK Celje, 3
+Jagiellonia Białystok, 3
+
+Panathinaikos, 1
+HJK, 0
+
+The New Saints, 0
+Djurgårdens IF, 1
+
+FC Lugano, 2
+KAA Gent, 0
+
+Fiorentina, 3
+Pafos FC, 2
+
+Mladá Boleslav, 2
+Real Betis, 1
+
+NK Olimpija Ljubljana, 1
+Larne FC, 0
+
+Omonia Nicosia, 0
+Legia Warszawa, 3
+
+SK Rapid Wien, 1
+Shamrock Rovers, 1
+
+Atlético San Luis, 3
+Tigres UANL, 0
+
+CF Monterrey, 1
+Pumas UNAM, 0
+
+Adelaide United, 2
+Perth Glory, 2
+
+Sportivo Luqueño, 0
+Olimpia, 1
+
+Tacuary, 1
+Sportivo Trinidense, 1
+
+Cerro Porteño, 2
+Libertad, 3
+
+Kerala Blasters, 0
+FC Goa, 1
+
+Al-Fayha, 0
+Al-Orobah, 1
+
+Al-Okhdood, 1
+Al-Kholood, 2
+
+Al-Fateh, 1
+Al-Riyadh, 2
+
+Kaya-Iloilo, 1
+Sanfrecce Hiroshima, 1
+
+Zhejiang, 4
+Lion City Sailors, 2
+
+Port FC, 2
+Persib Bandung, 2
+
+Selangor Football Club, 1
+Muang Thong United, 2
+
+BATE Borisov, 7
+FK Smorgon, 4
+
+CD Real Santa Cruz, 0
+Independiente Petrolero, 2
+
+Jorge Wilstermann, 2
+Oriente Petrolero, 2
+
+Unión Magdalena, 4
+Llaneros FC, 0
+
+Municipal Liberia, 0
+Deportivo Saprissa, 1
+
+Serbia, 0
+Sweden, 2
+
+Antigua GFC, 0
+CSD Municipal, 0
+
+Real Kashmir, 1
+Gokulam Kerala FC, 1
+
+Lazio U20, 2
+Lecce U20, 2
+
+CSM Ceahlăul Piatra Neamţ, 0
+FC Argeș Pitești, 0
+
+Lokomotiv Moscow, 3
+Dynamo Moscow, 5
+
+Russia, 1
+Azerbaijan, 0
+
+Slovakia, 2
+Greece, 1

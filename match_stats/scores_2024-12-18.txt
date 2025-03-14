@@ -70,9 +70,6 @@ CD Eldense, 0
 Deportes Tolima, 1
 Atlético Nacional, 1
 
-Stellenbosch, 0
-Mamelodi Sundowns, 1
-
 Valencia, 0
 Deportivo Abanca, 2
 
@@ -94,9 +91,6 @@ Bolívar, 4
 The Strongest, 8
 San Antonio Bulo-Bulo, 0
 
-Deportivo Saprissa, 2
-Herediano, 0
-
 OFI Crete, 5
 GE Panachaiki, 0
 
@@ -108,9 +102,6 @@ PAOK, 0
 
 Aizawl FC, 1
 Real Kashmir, 1
-
-Delhi FC, 3
-Shillong Lajong FC, 1
 
 PS Barito Putera, 1
 Persib Bandung, 2

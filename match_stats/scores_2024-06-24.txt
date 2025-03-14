@@ -1,0 +1,116 @@
+Albania, 0
+Spain, 1
+
+Croatia, 1
+Italy, 1
+
+Colombia, 2
+Paraguay, 1
+
+Brazil, 0
+Costa Rica, 0
+
+Sport Recife, 1
+Novorizontino, 2
+
+Henan Songshan Longmen, 1
+Qingdao West Coast, 0
+
+Nantong Zhiyun, 1
+Tianjin Jinmen Tiger, 1
+
+Shenzhen Peng City, 3
+Zhejiang, 2
+
+National Bank of Egypt, 5
+Baladiyet El Mahallah, 0
+
+El Dakhlya, 1
+ZED FC, 0
+
+Pharco FC, 1
+Al-Ittihad Alexandria, 0
+
+Gimcheon Sangmu FC, 2
+Daejeon Hana Citizen, 0
+
+Suwon FC, 1
+Gwangju FC, 0
+
+Gyeongnam FC, 0
+FC Anyang, 0
+
+Jeonnam Dragons, 1
+Suwon Samsung Bluewings, 1
+
+Seongnam FC, 0
+Chungnam Asan FC, 4
+
+Atlanta, 1
+Almirante Brown, 0
+
+AA Aparecidense, 2
+Náutico, 2
+
+ABC, 3
+Remo, 1
+
+Botafogo-SP, 0
+Monte Azul, 2
+
+Junkeren, 2
+Vålerenga IF II, 0
+
+Landskrona BoIS, 4
+Örgryte IS, 3
+
+Örebro SK, 1
+Trelleborgs FF, 1
+
+Östers IF, 4
+Helsingborgs IF, 0
+
+Örebro Syrianska BK, 0
+IF Karlstad Fotboll, 1
+
+FC Trollhättan, 1
+Jönköpings Södra, 2
+
+Norrköping DFK, 0
+IF Brommapojkarna, 0
+
+Becamex Bình Dương, 1
+Quy Nhơn Bình Định FC, 1
+
+Công An Hà Nội, 5
+Hoàng Anh Gia Lai, 0
+
+Hải Phòng, 0
+Hà Nội, 1
+
+Hồ Chí Minh City, 1
+Quảng Nam, 0
+
+Nam Định, 5
+Khánh Hoà, 1
+
+Sông Lam Nghệ An, 1
+Hồng Lĩnh Hà Tĩnh, 1
+
+Đông Á Thanh Hóa, 0
+Thể Công - Viettel, 5
+
+FC Struga Trim & Lum, 1
+FK Partizani, 0
+
+FK Borac Banja Luka, 2
+UTA Arad, 1
+
+FC Botoșani, 5
+SB Chiemgau Traunstein, 0
+
+Legia Warszawa, 0
+Universitatea Craiova, 1
+
+FC Silon Táborsko, 2
+MFK Chrudim, 1

@@ -88,9 +88,6 @@ FC Emmen, 1
 Roda JC Kerkrade, 0
 FC Dordrecht, 1
 
-SC Telstar, 3
-Helmond Sport, 0
-
 TOP Oss, 2
 Jong Ajax, 1
 
@@ -228,9 +225,6 @@ Aubagne FC, 7
 
 Dijon, 0
 Sochaux, 0
-
-Nancy, 1
-US Orléans, 0
 
 Paris 13 Atletico, 1
 Nîmes Olympique, 1

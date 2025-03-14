@@ -1,0 +1,314 @@
+Lithuania, 1
+Gibraltar, 0
+
+Georgia, 4
+Greece, 2
+
+Ukraine, 2
+Iceland, 1
+
+Wales, 4
+Poland, 5
+
+India, 1
+Afghanistan, 2
+
+Kuwait, 1
+Qatar, 2
+
+Syria, 7
+Myanmar, 0
+
+China, 4
+Singapore, 1
+
+Thailand, 0
+South Korea, 3
+
+Kyrgyzstan, 5
+Chinese Taipei, 1
+
+Malaysia, 0
+Oman, 2
+
+Uzbekistan, 3
+Hong Kong, 0
+
+Turkmenistan, 0
+Iran, 1
+
+Vietnam, 0
+Indonesia, 3
+
+Tajikistan, 1
+Saudi Arabia, 1
+
+Jordan, 7
+Pakistan, 0
+
+Bahrain, 3
+Nepal, 0
+
+Yemen, 0
+United Arab Emirates, 3
+
+Canberra United, 1
+Sydney FC, 0
+
+Zimbabwe, 1
+Kenya, 3
+
+Finland, 2
+Estonia, 1
+
+Latvia, 1
+Liechtenstein, 1
+
+Hungary, 2
+Kosovo, 0
+
+Malta, 0
+Belarus, 0
+
+Norway, 1
+Slovakia, 1
+
+Czechia, 2
+Armenia, 1
+
+Guyana, 4
+Cambodia, 1
+
+Vanuatu, 2
+Brunei Darussalam, 3
+
+Denmark, 2
+Faroe Islands, 0
+
+Romania, 2
+Colombia, 3
+
+Senegal, 1
+Benin, 0
+
+Uruguay, 1
+Côte d'Ivoire, 2
+
+Austria, 6
+Türkiye, 1
+
+England, 2
+Belgium, 2
+
+Germany, 2
+Netherlands, 1
+
+Ireland, 0
+Switzerland, 1
+
+Luxembourg, 2
+Kazakhstan, 1
+
+Scotland, 0
+Northern Ireland, 1
+
+Slovenia, 2
+Portugal, 0
+
+Egypt, 2
+Croatia, 4
+
+France, 3
+Chile, 2
+
+New Zealand, 2
+Tunisia, 4
+
+Spain, 3
+Brazil, 3
+
+Algeria, 3
+South Africa, 3
+
+Nigeria, 0
+Mali, 2
+
+Morocco, 0
+Mauritania, 0
+
+Togo, 1
+Libya, 1
+
+Honduras, 1
+El Salvador, 1
+
+Nicaragua, 0
+Cuba, 1
+
+Peru, 4
+Dominican Republic, 1
+
+Argentina, 3
+Costa Rica, 1
+
+Eswatini, 2
+Somalia, 2
+
+Mauritius, 1
+Chad, 2
+
+Liberia, 0
+Djibouti, 0
+
+South Sudan, 0
+São Tomé and Príncipe, 0
+
+Grêmio, 3
+Caxias, 2
+
+Atlético Huila, 1
+Deportes Quindío, 0
+
+Real Cartagena, 1
+Barranquilla FC, 1
+
+Bogotá FC, 0
+Tigres FC, 1
+
+Municipal Pérez Zeledón, 1
+Sporting FC, 2
+
+Santos de Guápiles, 0
+AD Guanacasteca, 0
+
+Municipal Liberia, 0
+LD Alajuelense, 4
+
+Altrincham, 4
+Wealdstone, 1
+
+Gateshead, 7
+Hartlepool United, 1
+
+Solihull Moors, 0
+Southend United, 3
+
+Norway U21, 4
+San Marino U21, 0
+
+Italy U21, 1
+Türkiye U21, 1
+
+Kazakhstan U21, 0
+Hungary U21, 3
+
+Spain U21, 1
+Belgium U21, 0
+
+Gibraltar U21, 0
+Georgia U21, 2
+
+North Macedonia U21, 0
+Sweden U21, 2
+
+Poland U21, 0
+Bulgaria U21, 1
+
+Germany U21, 2
+Israel U21, 0
+
+Montenegro U21, 1
+Finland U21, 2
+
+Albania U21, 1
+Switzerland U21, 3
+
+Azerbaijan U21, 0
+Ukraine U21, 3
+
+Serbia U21, 1
+Northern Ireland U21, 2
+
+England U21, 7
+Luxembourg U21, 0
+
+Greece U21, 1
+Andorra U21, 0
+
+Portugal U21, 5
+Croatia U21, 1
+
+Austria U21, 2
+Cyprus U21, 2
+
+Czechia U21, 4
+Iceland U21, 1
+
+Denmark U21, 3
+Lithuania U21, 0
+
+Belgium U19, 3
+Netherlands U19, 2
+
+Lithuania U19, 2
+France U19, 0
+
+Israel U19, 0
+Norway U19, 2
+
+Montenegro U19, 2
+Bosnia & Herzegovina U19, 3
+
+Denmark U19, 2
+Portugal U19, 0
+
+Greece U19, 3
+Serbia U19, 3
+
+Czechia U19, 2
+Scotland U19, 0
+
+Italy U19, 5
+Georgia U19, 0
+
+Germany U19, 2
+Türkiye U19, 0
+
+Romania U19, 1
+Croatia U19, 0
+
+Latvia U19, 1
+North Macedonia U19, 1
+
+Ukraine U19, 3
+Switzerland U19, 0
+
+Avranches, 1
+FC Villefranche Beaujolais, 3
+
+GOAL FC, 2
+Sochaux, 2
+
+1. FC Lokomotive Leipzig, 2
+FC Carl Zeiss Jena, 0
+
+Triestina, 3
+Alessandria, 1
+
+Cancún FC, 1
+CD Tapatío, 1
+
+Alebrijes de Oaxaca, 1
+Tepatitlán FC, 0
+
+AIK, 4
+Vålerenga IF, 0
+
+Portugal U20, 1
+Denmark U20, 4
+
+Czechia U20, 1
+England U20, 3
+
+Romania U20, 1
+Poland U20, 1

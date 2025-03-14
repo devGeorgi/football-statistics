@@ -1,0 +1,191 @@
+Girona FC, 4
+Osasuna, 0
+
+Las Palmas, 1
+Real Madrid, 1
+
+APOEL Nicosia, 4
+RFS, 5
+
+FC Petrocub Hîncesti, 1
+Ludogorets, 2
+
+IF Elfsborg, 4
+Molde FK, 3
+
+AFC Ajax, 3
+Jagiellonia Białystok, 0
+
+Beşiktaş, 5
+FC Lugano, 1
+
+RSC Anderlecht, 1
+Dinamo Minsk, 0
+
+FCSB, 1
+LASK, 0
+
+Heart of Midlothian, 0
+Viktoria Plzeň, 1
+
+FK Borac Banja Luka, 3
+Ferencváros TC, 4
+
+FK TSC Bačka Topola, 1
+Maccabi Tel Aviv, 5
+
+SK Rapid Wien, 2
+Sporting Braga, 2
+
+Shamrock Rovers, 0
+PAOK, 2
+
+Astana, 3
+SK Brann, 0
+
+HJK, 2
+Klaksvíkar Ítróttarfelag, 1
+
+Zirə FK, 1
+Omonia Nicosia, 0
+
+MFK Ružomberok, 3
+FC Noah, 1
+
+NK Olimpija Ljubljana, 5
+HNK Rijeka, 0
+
+Pafos FC, 3
+CFR 1907 Cluj, 0
+
+Paksi FC, 0
+Mladá Boleslav, 3
+
+Trabzonspor, 5
+FC St. Gallen 1879, 6
+
+The New Saints, 0
+FK Panevėžys, 0
+
+Cercle Brugge, 1
+Wisła Kraków, 4
+
+FC Drita, 0
+Legia Warszawa, 1
+
+HŠK Zrinjski Mostar, 0
+Vitória SC, 4
+
+Kilmarnock, 1
+FC København, 1
+
+Panathinaikos, 2
+RC Lens, 0
+
+UE Santa Coloma, 0
+Víkingur Reykjavík, 0
+
+NK Celje, 4
+Pyunik Yerevan, 1
+
+NK Maribor, 0
+Djurgårdens IF, 1
+
+1. FC Heidenheim, 3
+BK Häcken, 2
+
+Servette FC, 2
+Chelsea, 1
+
+Larne FC, 3
+Lincoln Red Imps, 1
+
+Puskás Akadémia, 5
+Fiorentina, 6
+
+Real Betis, 3
+FC Kryvbas Kryvyi Rih, 0
+
+Colo Colo, 2
+Ñublense, 1
+
+Huachipato, 2
+Palestino, 2
+
+CS 2 de Mayo, 1
+Sportivo Ameliano, 1
+
+Tacuary, 0
+Olimpia, 1
+
+Al-Riyadh, 3
+Al-Kholood, 1
+
+Al-Ittihad, 2
+Al-Taawoun, 1
+
+Al-Khaleej, 0
+Al-Shabab, 1
+
+Khon Kaen United, 0
+Buriram United, 3
+
+Al-Jazira, 2
+Al-Orooba, 0
+
+Al Wasl, 1
+Dibba Al-Hisn, 0
+
+Al-Nasr Dubai, 4
+Baniyas, 1
+
+Al-Sharjah, 1
+Al-Ittihad Kalba, 0
+
+Juventude, 2
+Corinthians, 1
+
+Hertha BSC II U23, 0
+1. FC Lokomotive Leipzig, 6
+
+Havadar Tehran, 0
+Tractor FC, 4
+
+Mes Rafsanjan FC, 3
+Aluminium Arak, 1
+
+Kheybar Khorramabad FC, 1
+Zob Ahan, 1
+
+Esteghlal Khuzestan, 1
+Esteghlal FC, 0
+
+Balzan F.C., 2
+Naxxar Lions FC, 0
+
+Marsaxlokk FC, 0
+Birkirkara FC, 2
+
+Gżira United FC, 2
+Mosta FC, 0
+
+Hibernians, 0
+Sliema Wanderers, 0
+
+Hougang United, 1
+Tampines Rovers, 1
+
+Lion City Sailors, 2
+Geylang International, 2
+
+Richmond Kickers, 3
+Spokane Velocity FC, 2
+
+Forward Madison FC, 8
+Union Omaha SC, 7
+
+AO Kavala, 2
+AS Makedonikos Neapolis, 0
+
+Balıkesirspor, 1
+Bursaspor, 3

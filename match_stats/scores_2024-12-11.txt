@@ -1,30 +1,3 @@
-GNK Dinamo Zagreb, 0
-Celtic, 0
-
-Girona FC, 0
-Liverpool, 1
-
-Atalanta, 2
-Real Madrid, 3
-
-Bayer 04 Leverkusen, 1
-Inter, 0
-
-Club Brugge KV, 2
-Sporting, 1
-
-RB Leipzig, 2
-Aston Villa, 3
-
-Red Bull Salzburg, 0
-Paris Saint-Germain, 3
-
-Shakhtar Donetsk, 1
-FC Bayern München, 5
-
-Stade Brestois, 1
-PSV Eindhoven, 0
-
 Atlético Madrid, 3
 ŠK Slovan Bratislava, 1
 
@@ -58,36 +31,6 @@ CF Pachuca, 3
 Fenerbahçe, 0
 Athletic Club, 2
 
-Girona U19, 2
-Liverpool U19, 2
-
-Shakhtar Donetsk U19, 0
-Bayern München U19, 2
-
-GNK Dinamo Zagreb U19, 2
-Celtic U19, 1
-
-Bayer Leverkusen U19, 0
-Inter U19, 1
-
-Stade Brestois U19, 1
-PSV Eindhoven U19, 3
-
-Club Brugge U19, 0
-Sporting U19, 1
-
-Red Bull Salzburg U19, 3
-Paris Saint-Germain U19, 2
-
-Atalanta U19, 0
-Real Madrid U19, 4
-
-RB Leipzig U19, 3
-Aston Villa U19, 4
-
-Benfica U19, 3
-Bologna U19, 0
-
 Lille U19, 1
 SK Sturm Graz U19, 1
 
@@ -111,18 +54,6 @@ Young Boys U19, 1
 
 Borussia Dortmund U19, 2
 Barcelona U19, 3
-
-Manchester United U19, 0
-AZ Alkmaar U19, 0
-
-Lokomotiva Zagreb U19, 4
-FC Farul Constanța U19, 1
-
-Olympiacos U19, 4
-AS Trenčín U19, 1
-
-Trabzonspor U19, 6
-Sarajevo U19, 1
 
 FC 2 Korriku U19, 1
 Dynamo Kyiv U19, 4
@@ -151,27 +82,6 @@ Real Madrid, 3
 Chelsea FC Women, 6
 FC Twente Vrouwen, 1
 
-Burnley, 0
-Derby County, 0
-
-Luton Town, 2
-Stoke City, 1
-
-Plymouth Argyle, 1
-Swansea City, 2
-
-Portsmouth, 0
-Norwich City, 0
-
-Sheffield Wednesday, 0
-Blackburn Rovers, 1
-
-Sunderland, 1
-Bristol City, 1
-
-Leeds United, 3
-Middlesbrough, 1
-
 Cardiff City, 0
 Preston North End, 2
 
@@ -190,57 +100,6 @@ Coventry City, 0
 Chennaiyin FC, 1
 Hyderabad FC, 0
 
-Mamelodi Sundowns, 0
-Chippa United, 0
-
-Orlando Pirates, 0
-Lamontville Golden Arrows, 0
-
-Stellenbosch, 0
-Royal AM, 0
-
-Burton Albion, 0
-Stevenage, 4
-
-Charlton Athletic, 0
-Leyton Orient, 2
-
-Cheltenham Town, 2
-Cambridge United, 1
-
-Chesterfield, 3
-Wigan Athletic, 2
-
-Doncaster Rovers, 0
-Port Vale, 1
-
-Morecambe, 0
-Lincoln City, 1
-
-Rotherham United, 3
-Tranmere Rovers, 2
-
-Stockport County, 2
-Bradford City, 3
-
-Walsall, 5
-Reading, 3
-
-Wycombe Wanderers, 1
-Swindon Town, 2
-
-Wrexham, 1
-Crewe Alexandra, 0
-
-Bolton Wanderers, 3
-Huddersfield Town, 1
-
-Colchester United, 2
-AFC Wimbledon, 0
-
-Exeter City, 1
-Birmingham City, 2
-
 Al-Ittihad Kalba, 3
 Al-Ain, 3
 
@@ -250,23 +109,11 @@ Nantes, 2
 Vélez Sarsfield, 0
 Central Córdoba, 1
 
-Singapore, 2
-Cambodia, 1
-
 Malaysia, 3
 East Timor, 2
 
 Philippines, 1
 Myanmar, 1
-
-San Antonio Bulo-Bulo, 1
-Bolívar, 3
-
-The Strongest, 2
-CD Real Tomayapo, 0
-
-Oriente Petrolero, 2
-Club Always Ready, 1
 
 CD Real Santa Cruz, 0
 Blooming, 1
@@ -277,41 +124,14 @@ Royal Pari Sion, 3
 Guabirá, 3
 Jorge Wilstermann, 1
 
-Unión Magdalena, 1
-Llaneros FC, 0
-
-Deportivo Saprissa, 2
-San Carlos, 0
-
 LD Alajuelense, 2
 Herediano, 2
-
-AFC Fylde, 2
-Ebbsfleet United, 0
-
-FC Halifax Town, 0
-Sutton United, 0
-
-Forest Green Rovers, 0
-Dagenham & Redbridge, 0
-
-Solihull Moors, 2
-Aldershot Town, 1
-
-Wealdstone, 3
-Altrincham, 3
 
 Sioni Bolnisi, 1
 FC Gagra, 1
 
 Panathinaikos, 0
 Atromitos Athens, 0
-
-Persija Jakarta, 1
-Borneo FC Samarinda, 1
-
-Persebaya Surabaya, 4
-Persik Kediri, 1
 
 PSIS Semarang, 2
 Bali United FC, 1
@@ -322,12 +142,6 @@ Persis Solo, 1
 PSBS Biak, 1
 Persita Tangerang, 3
 
-Chador Malu Yazd, 1
-Aluminium Arak, 1
-
-Esteghlal Khuzestan, 0
-Zob Ahan, 0
-
 Malavan Bandar Anzali FC, 1
 Persepolis FC, 2
 
@@ -337,29 +151,5 @@ Union Clodiense Chioggia, 1
 Valadares Gaia, 1
 Famalicão, 0
 
-Rio Ave U23, 1
-Torreense U23, 1
-
-Gil Vicente U23, 2
-Famalicão U23, 2
-
-Leixoes SC U23, 0
-Académico Viseu U23, 2
-
 Vizela U23, 3
 SC Braga U23, 1
-
-Portimonense U23, 3
-Estoril Praia U23, 0
-
-SC Farense U23, 0
-Santa Clara U23, 0
-
-FK Csíkszereda Miercurea Ciuc, 2
-FC Metaloglobus București, 1
-
-The Spartans FC, 1
-Stranraer, 3
-
-Barry Town, 2
-Cardiff Met FC, 1

@@ -52,9 +52,6 @@ Audax Italiano, 1
 Unión La Calera, 4
 Unión Española, 0
 
-Envigado FC, 0
-Deportivo Pasto, 1
-
 Fortaleza CEIF, 2
 Rionegro Águilas Doradas, 1
 
@@ -108,9 +105,6 @@ Club Ferro Carril Oeste, 0
 
 Defensores de Belgrano, 1
 Agropecuario Argentino, 1
-
-Club Atletico Colón, 2
-Nueva Chicago, 1
 
 Gwangju FC, 2
 Buriram United, 2
@@ -186,9 +180,6 @@ Ruch Chorzów, 1
 
 União Leiria, 1
 Académico Viseu FC, 1
-
-Kalcer Radomlje, 1
-NK Domžale, 0
 
 BK Häcken, 3
 Östers IF, 0

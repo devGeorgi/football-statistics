@@ -1,0 +1,224 @@
+Cruzeiro, 1
+Fortaleza, 2
+
+St. Johnstone, 1
+Aberdeen, 2
+
+Deportivo Riestra, 1
+Central Córdoba, 0
+
+Gimnasia y Esgrima, 0
+Rosario Central, 1
+
+Platense, 0
+Banfield, 1
+
+Morocco U23, 1
+Spain U23, 2
+
+France U23, 3
+Egypt U23, 1
+
+Chapecoense, 0
+Mirassol, 1
+
+Vila Nova FC, 2
+Paysandu SC, 2
+
+Atlético Nacional, 1
+Rionegro Águilas Doradas, 1
+
+Cracovia, 1
+Widzew Łódź, 3
+
+Vejle, 0
+FC Nordsjælland, 1
+
+Cumbayá FC, 1
+Técnico Universitario, 2
+
+Zamalek SC, 4
+ENPPI, 2
+
+Alianza Atlético de Sullana, 1
+Sport Huancayo, 1
+
+Cusco FC, 3
+Sport Boys, 1
+
+AFC Unirea 04 Slobozia, 0
+UTA Arad, 1
+
+FC Rapid București, 2
+Sepsi OSK, 2
+
+FC Cincinnati, 4
+New York City FC, 2
+
+CD Toluca, 2
+Sporting Kansas City, 1
+
+Houston Dynamo, 3
+Real Salt Lake, 0
+
+Club León, 4
+Colorado Rapids, 5
+
+HFX Wanderers FC, 3
+Vancouver FC, 2
+
+FC Spartak Moscow, 3
+Krylya Sovetov Samara, 0
+
+Atlanta, 1
+Gimnasia y Esgrima Mendoza, 2
+
+Club Ferro Carril Oeste, 3
+Agropecuario Argentino, 0
+
+Estudiantes de Río Cuarto, 2
+Aldosivi, 2
+
+Atlético de Rafaela, 1
+Temperley, 0
+
+Quilmes Atlético Club, 0
+San Martín de San Juan, 1
+
+Club Atletico Colón, 1
+Mitre, 2
+
+FC Melbourne Srbija, 5
+Modbury Jets, 2
+
+Lambton Jaffas, 1
+Melbourne Victory, 4
+
+South Melbourne, 1
+Wellington Phoenix, 0
+
+Olympic Kingsway, 4
+Edgeworth Eagles, 1
+
+CD Real Santa Cruz, 2
+Club Aurora, 2
+
+Blooming, 4
+Nacional Potosí, 1
+
+HŠK Zrinjski Mostar, 0
+FK Sloga Doboj, 0
+
+Ferroviário, 1
+Sampaio Corrêa, 1
+
+Remo, 1
+AA Aparecidense, 0
+
+Mirassol, 1
+VOCEM U23, 0
+
+Botafogo-SP, 1
+Barretos U23, 0
+
+Botev Vratsa, 1
+Beroe Stara Zagora, 2
+
+Curicó Unido, 1
+Deportes Recoleta, 0
+
+Universidad de Concepción, 2
+Deportes Limache, 0
+
+San Luis de Quillota, 1
+Rangers de Talca, 2
+
+San Marcos de Arica, 1
+Antofagasta, 1
+
+Atlético Cali, 3
+Bogotá FC, 0
+
+Barranquilla FC, 0
+Unión Magdalena, 0
+
+Boca Juniors de Cali, 0
+Cúcuta Deportivo, 0
+
+Bogotá FC, 0
+Real Cartagena, 0
+
+Leones FC, 0
+Internacional de Palmira, 0
+
+Llaneros FC, 0
+Atlético Cali, 0
+
+Orsomarso, 0
+Tigres FC, 0
+
+Real Cundinamarca, 0
+Atlético Huila, 0
+
+Real Santander, 0
+Deportes Quindío, 0
+
+Real Cundinamarca, 2
+Deportes Quindío, 1
+
+FC Zlín, 1
+SK Sigma Olomouc B, 0
+
+FC Torpedo Kutaisi, 2
+FC Samtredia, 1
+
+FH Hafnarfjörður, 2
+Víkingur Reykjavík, 3
+
+FK Žalgiris, 0
+FK Transinvest, 0
+
+ŁKS Łódź, 1
+Górnik Łęczna, 1
+
+SC Lusitânia, 3
+Académica Coimbra, 3
+
+Arsenal Tula, 2
+Enisey Krasnoyarsk, 1
+
+NK Olimpija Ljubljana, 2
+NK Nafta Lendava 1903, 0
+
+Ljungskile SK, 0
+Norrby IF, 4
+
+Lunds BK, 4
+Ängelholms FF, 2
+
+APO Levadiakos, 2
+Atromitos Athens, 0
+
+NPS Volos, 0
+PAS Lamia 1964, 1
+
+FK Admira Praha, 3
+TJ Sokol Živanice, 3
+
+Al-Sadd, 1
+Ismaily, 0
+
+Grosseto, 2
+Fiorentina, 7
+
+Niki Volou, 0
+MGS Panserraikos, 5
+
+H&W Welders, 0
+Linfield FC, 9
+
+Fulham, 1
+Sevilla, 2
+
+Grazer AK 1902, 3
+Al-Ahli, 3

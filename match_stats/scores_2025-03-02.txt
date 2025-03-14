@@ -376,9 +376,6 @@ Lanús, 1
 Vélez Sarsfield, 0
 Huracán, 2
 
-Alvarado, 0
-Quilmes Atlético Club, 0
-
 Deportivo Madryn, 2
 San Miguel, 1
 
@@ -414,9 +411,6 @@ TWL Elektra, 2
 
 Belshina Bobruisk, 1
 ML Vitebsk, 2
-
-Vitebsk, 2
-SFK Slutsk, 0
 
 HŠK Posušje, 1
 FK Željezničar, 1
@@ -466,12 +460,6 @@ Boca Juniors de Cali, 2
 Tigres FC, 1
 Leones FC, 1
 
-Municipal Santa Ana, 1
-Herediano, 1
-
-CS Cartaginés, 2
-Deportivo Saprissa, 1
-
 AEK Larnaca, 2
 ALS Omonia, 0
 
@@ -484,14 +472,8 @@ Sparta Praha B U21, 1
 Odense BK, 1
 Hobro, 1
 
-Tallinna Kalev, 1
-Tartu JK Tammeka, 2
-
 FC Dila Gori, 0
 Gareji, 0
-
-Dinamo Batumi, 0
-Dinamo Tbilisi, 0
 
 SV Waldhof Mannheim, 2
 Alemannia Aachen, 1
@@ -568,9 +550,6 @@ Chania F.C., 1
 Asteras B Aktor, 1
 GE Panachaiki, 2
 
-CSD Municipal, 2
-Cobán Imperial, 1
-
 Deportivo Malacateco, 1
 CD Marquense, 0
 
@@ -619,9 +598,6 @@ Trapani, 0
 Catania, 1
 Foggia, 1
 
-Monopoli, 2
-Messina, 1
-
 Benevento, 1
 Sorrento, 1
 
@@ -643,12 +619,6 @@ Zhetysu Taldykorgan, 1
 Astana, 1
 Kairat Almaty, 1
 
-FK Panevėžys, 1
-Šiauliai FA, 3
-
-FK Žalgiris, 2
-Džiugas Telšiai, 1
-
 Floriana FC, 2
 Mosta FC, 2
 
@@ -660,9 +630,6 @@ Venados, 0
 
 FK Sileks Kratovo, 3
 FC Struga Trim & Lum, 1
-
-KF Gostivar, 0
-FK Rabotnički Skopje, 0
 
 KF Shkupi, 3
 FK Pelister Bitola, 1

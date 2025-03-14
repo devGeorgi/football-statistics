@@ -73,9 +73,6 @@ América de Cali, 0
 Birmingham City, 4
 Cambridge United, 0
 
-Blackpool, 0
-Rotherham United, 0
-
 Bristol Rovers, 1
 Stockport County, 1
 
@@ -102,9 +99,6 @@ Accrington Stanley, 0
 
 Newport County, 1
 Carlisle United, 0
-
-Tranmere Rovers, 0
-Fleetwood Town, 0
 
 Walsall, 1
 Gillingham, 1
@@ -219,9 +213,6 @@ Sreenidi Deccan FC, 0
 
 Rimini, 3
 Trapani, 0
-
-Ballymena United, 0
-Larne FC, 0
 
 Linfield FC, 1
 Larne FC, 0

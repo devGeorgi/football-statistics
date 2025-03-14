@@ -1,0 +1,212 @@
+Dynamo Kyiv, 0
+Red Bull Salzburg, 2
+
+FC Midtjylland, 1
+ŠK Slovan Bratislava, 1
+
+Malmö FF, 0
+AC Sparta Praha, 2
+
+Young Boys, 3
+Galatasaray, 2
+
+The Strongest, 1
+Peñarol, 0
+
+Palmeiras, 2
+Botafogo, 2
+
+River Plate, 2
+Talleres, 1
+
+Vitória SC, 3
+HŠK Zrinjski Mostar, 0
+
+Fortaleza, 3
+Rosario Central, 1
+
+Independiente Medellín, 4
+Palestino, 0
+
+Lanús, 3
+LDU, 1
+
+Philadelphia Union, 0
+Columbus Crew, 1
+
+América Mineiro, 0
+Chapecoense, 0
+
+Guarani, 1
+Santos, 1
+
+Mirassol, 1
+Botafogo-SP, 2
+
+CRB, 0
+Ceará, 2
+
+Goiás, 4
+Brusque, 1
+
+Rosenborg BK, 4
+Lillestrøm SK, 0
+
+Club Atlético Grau, 1
+Los Chankas CYC, 1
+
+Sport Boys, 2
+Carlos A. Mannucci, 6
+
+Deportivo Garcilaso, 3
+Unión Comercio, 1
+
+Melgar, 2
+Club Sporting Cristal, 0
+
+Columbus Crew, 3
+Philadelphia Union, 1
+
+Los Angeles FC, 4
+Colorado Rapids, 0
+
+FC Tampa Bay Rowdies, 2
+Detroit City FC, 3
+
+ASSM Elgeco Plus, 1
+CD Lunda Sul, 1
+
+Central Córdoba, 3
+Newell's Old Boys, 2
+
+Nacional Potosí, 2
+Royal Pari Sion, 1
+
+Shanghai Port, 3
+Tianjin Jinmen Tiger, 0
+
+Shanghai Shenhua, 2
+Beijing Guoan, 1
+
+Boca Juniors de Cali, 1
+Real Cartagena, 4
+
+Bogotá FC, 1
+Internacional de Palmira, 2
+
+Real Santander, 2
+Barranquilla FC, 1
+
+Atlético Huila, 2
+Atlético Cali, 1
+
+Unión Magdalena, 1
+Cúcuta Deportivo, 1
+
+Kolding IF, 1
+Esbjerg, 2
+
+Odense BK, 3
+FC Fredericia, 0
+
+Vendsyssel FF, 0
+Hobro, 3
+
+Ceramica Cleopatra, 0
+ZED FC, 3
+
+Ismaily, 2
+Smouha, 0
+
+Pyramids FC, 4
+El Gouna FC, 0
+
+Zamalek SC, 4
+Tala'ea El-Gaish, 6
+
+IF Gnistan, 2
+IFK Mariehamn, 1
+
+FC Haka, 1
+Inter Turku, 2
+
+1.FC Phönix Lübeck, 3
+SV Todesfelde, 1
+
+SV Meppen, 5
+Bremer SV, 0
+
+TSV Havelse, 1
+Holstein Kiel II U23, 0
+
+Blau-Weiss Lohne, 1
+VfB Oldenburg, 0
+
+BSG Chemie Leipzig, 1
+Berliner FC Dynamo, 0
+
+FC Carl Zeiss Jena, 1
+Chemnitzer FC, 0
+
+FC Eilenburg, 2
+FSV Luckenwalde, 0
+
+SV Babelsberg 03, 1
+Greifswalder FC, 2
+
+Viktoria Berlin, 0
+1. FC Lokomotive Leipzig, 1
+
+CSD Municipal, 3
+Deportivo Achuapa, 0
+
+Bruk-Bet Termalica Nieciecza, 4
+Wisła Płock, 2
+
+OKS Odra Opole, 2
+Stal Stalowa Wola, 1
+
+Pogoń Siedlce, 0
+GKS Tychy, 1
+
+Hammarby IF, 1
+BK Häcken FF, 2
+
+Deportivo Táchira, 1
+Caracas F.C., 1
+
+Portuguesa FC, 2
+Angostura FC, 1
+
+PAS Thyella Katsikas, 2
+AS Aris Filiaton, 1
+
+Vigor Senigallia, 1
+Imolese, 0
+
+US Livorno 1915, 1
+Pistoiese, 1
+
+CD Móstoles URJC, 0
+CD Toledo, 1
+
+CD Atlético Baleares, 2
+UD Poblense, 1
+
+UE Sant Andreu, 3
+CE Manresa, 2
+
+Xerez CD, 2
+RB Linense, 0
+
+UD Melilla, 3
+Elche Ilicitano, 0
+
+CD Illescas, 0
+S.S. Reyes, 0
+
+Truong Tuoi Binh Phuoc, 1
+Quy Nhơn Bình Định FC, 1
+
+SHB Đà Nẵng, 1
+Quảng Nam, 2

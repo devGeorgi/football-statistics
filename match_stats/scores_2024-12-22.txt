@@ -154,9 +154,6 @@ FK Napredak Kruševac, 2
 Al Ahly FC, 6
 CR Belouizdad, 1
 
-West Bromwich Albion, 2
-Bristol City, 0
-
 Burgos Club de Fútbol, 1
 CD Tenerife, 0
 
@@ -252,9 +249,6 @@ Araz Naxçıvan PFK, 0
 
 San Antonio Bulo-Bulo, 0
 Bolívar, 2
-
-Herediano, 2
-LD Alajuelense, 0
 
 Omonia Aradippou, 2
 AEL Limassol, 2

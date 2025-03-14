@@ -1,0 +1,224 @@
+Zimbabwe, 0
+Lesotho, 2
+
+Nigeria, 1
+South Africa, 1
+
+Angola, 1
+Eswatini, 0
+
+Morocco, 2
+Zambia, 1
+
+Kenya, 1
+Burundi, 1
+
+Côte d'Ivoire, 1
+Gabon, 0
+
+Mozambique, 2
+Somalia, 1
+
+Uganda, 1
+Botswana, 0
+
+Madagascar, 2
+Comoros, 1
+
+Coritiba, 4
+Ituano, 2
+
+Novorizontino, 3
+Santos, 1
+
+Everton de Viña del Mar, 0
+Universidad de Chile, 0
+
+Unión Española, 0
+Unión La Calera, 1
+
+Derry City, 2
+Galway United, 0
+
+Shelbourne, 1
+Dundalk FC, 0
+
+Waterford FC, 4
+Sligo Rovers, 1
+
+Shamrock Rovers, 0
+Bohemian FC, 0
+
+Czechia, 7
+Malta, 1
+
+Albania, 3
+Azerbaijan, 1
+
+Belarus, 0
+Russia, 4
+
+Romania, 0
+Liechtenstein, 0
+
+England, 0
+Iceland, 1
+
+Germany, 2
+Greece, 1
+
+Poland, 3
+Ukraine, 1
+
+Scotland, 2
+Finland, 2
+
+Peru, 0
+Paraguay, 0
+
+Racing Louisville, 2
+Houston Dash, 0
+
+San Diego Wave FC, 1
+Orlando Pride, 1
+
+Al-Ain, 0
+Al Bataeh, 2
+
+ASO Chlef, 1
+JS Kabylie, 1
+
+CS Constantine, 1
+MC Oran, 1
+
+ES Ben Aknoun, 1
+ES Sétif, 0
+
+JS Saoura, 2
+USM Alger, 1
+
+MC Alger, 0
+CR Belouizdad, 0
+
+MC El Bayadh, 2
+US Biskra, 1
+
+NC Magra, 2
+Paradou AC, 0
+
+US Souf, 2
+USM Khenchela, 5
+
+San Lorenzo, 2
+Club Atlético Chacarita Juniors, 0
+
+Dalian Yingbo FC, 2
+Wuxi Wugou, 1
+
+Jiangxi Dingnan United, 2
+Suzhou Dongwu, 4
+
+Foshan Nanshi, 1
+Jiangxi Lushan FC, 1
+
+Qingdao Red Lions, 3
+Yanbian Longding, 2
+
+Yunnan Yukun, 4
+Shijiazhuang Gongfu, 1
+
+AB, 5
+Aarhus Fremad, 3
+
+Montenegro U21, 1
+Albania U21, 0
+
+FC Haka, 2
+IFK Mariehamn, 0
+
+FC Lahti, 0
+Inter Turku, 2
+
+VPS, 1
+Ilves, 1
+
+HJK, 4
+SJK, 1
+
+Cork City, 2
+Longford Town, 0
+
+Treaty United FC, 2
+Bray Wanderers, 0
+
+University College Dublin, 2
+Kerry FC, 1
+
+Blaublitz Akita, 1
+Roasso Kumamoto, 1
+
+Ehime FC, 1
+Mito Hollyhock, 0
+
+Shimizu S-Pulse, 1
+Fujieda MYFC, 0
+
+Tokushima Vortis, 0
+Yokohama FC, 1
+
+Ventforet Kofu, 1
+Vegalta Sendai, 1
+
+Renofa Yamaguchi FC, 1
+JEF United Chiba, 2
+
+Tochigi SC, 1
+Thespa Gunma, 1
+
+Don Bosco Garelli United, 4
+Manila Montet FC, 0
+
+Stallion Laguna, 8
+Philippine Air Force FC, 0
+
+BK Olympic, 1
+Torns IF, 0
+
+Tvååkers IF, 0
+Ariana FC, 2
+
+Dinamo Minsk, 4
+FC Minsk, 0
+
+Azerbaijan U19, 0
+Türkiye U19, 5
+
+Moldova U19, 2
+Kazakhstan U19, 2
+
+Sweden U21, 1
+England U20, 2
+
+Croatia U21, 2
+Ireland U21, 3
+
+Slovakia U21, 3
+Azerbaijan U21, 2
+
+Austria U21, 5
+Scotland U21, 0
+
+San Marino U21, 0
+Gibraltar U21, 0
+
+Uzbekistan U23, 1
+Mali U23, 1
+
+Egypt U23, 1
+Côte d'Ivoire U23, 0
+
+Mexico U23, 3
+Saudi Arabia U23, 2
+
+France U18, 1
+Korea Republic U21, 0

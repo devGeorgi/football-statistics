@@ -1,9 +1,6 @@
 Brighton & Hove Albion, 1
 Crystal Palace, 3
 
-Manchester City, 1
-Manchester United, 2
-
 Chelsea, 2
 Brentford, 1
 
@@ -75,9 +72,6 @@ FC Groningen, 0
 
 NEC Nijmegen, 1
 Sparta Rotterdam, 1
-
-AFC Ajax, 3
-Almere City FC, 0
 
 NAC Breda, 1
 AZ Alkmaar, 2
@@ -442,9 +436,6 @@ Taranto, 0
 Foggia, 1
 AZ Picerno, 0
 
-Sassuolo U20, 2
-Fiorentina U20, 0
-
 Hellas Verona U20, 1
 Cesena U20, 1
 
@@ -453,9 +444,6 @@ Naxxar Lions FC, 1
 
 Gżira United FC, 2
 Balzan F.C., 1
-
-MAS de Fès, 0
-Olympic Safi, 1
 
 Tondela, 2
 Portimonense, 0

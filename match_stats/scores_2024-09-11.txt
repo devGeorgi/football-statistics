@@ -1,0 +1,101 @@
+Internacional, 2
+Fortaleza, 1
+
+CRB, 1
+Sport Recife, 1
+
+América de Cali, 1
+Deportes Tolima, 0
+
+Sol de América, 0
+Libertad, 1
+
+Cerro Porteño, 1
+Sportivo Trinidense, 1
+
+Birmingham Legion FC, 2
+FC Tampa Bay Rowdies, 0
+
+Memphis 901 FC, 0
+Hartford Athletic, 0
+
+FC Tulsa, 1
+Las Vegas Lights, 1
+
+Port FC, 0
+Buriram United, 0
+
+Atlético Madrid, 2
+Granada, 0
+
+Adelaide United, 2
+Western Sydney Wanderers, 1
+
+HŠK Zrinjski Mostar, 3
+FK Sloga Doboj, 1
+
+Corinthians, 3
+Juventude, 1
+
+Athletico, 6
+Vasco da Gama, 6
+
+Deportes Quindío, 1
+Barranquilla FC, 0
+
+Cúcuta Deportivo, 0
+Llaneros FC, 1
+
+Unión Magdalena, 1
+Real Cundinamarca, 0
+
+Real Cartagena, 3
+Atlético Cali, 0
+
+AD Guanacasteca, 1
+Municipal Santa Ana, 0
+
+Deportivo Saprissa, 2
+Municipal Pérez Zeledón, 2
+
+SSV Jeddeloh, 2
+Hamburger SV II U23, 2
+
+SV Drochtersen/Assel, 2
+Bremer SV, 0
+
+1. FC Lokomotive Leipzig, 3
+FSV Zwickau, 2
+
+VFC Plauen, 2
+ZFC Meuselwitz, 3
+
+VSG Altglienicke, 4
+FC Carl Zeiss Jena, 2
+
+Deportivo Mixco, 1
+CSD Xelajú MC, 0
+
+Comunicaciones FC, 1
+Deportivo Achuapa, 0
+
+PSS Sleman, 1
+Borneo FC Samarinda, 1
+
+Uşakspor, 4
+1922 Konyaspor, 0
+
+Forward Madison FC, 2
+Charlotte Independence, 1
+
+Brazil U20, 3
+Cameroon U20, 1
+
+Spain U20, 2
+Canada U20, 1
+
+Colombia U20, 1
+South Korea U20, 0
+
+Mexico U20, 2
+USA U20, 3

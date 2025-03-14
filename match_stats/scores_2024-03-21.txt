@@ -1,0 +1,218 @@
+Gibraltar, 0
+Lithuania, 1
+
+Georgia, 2
+Luxembourg, 0
+
+Bosnia & Herzegovina, 1
+Ukraine, 2
+
+Greece, 5
+Kazakhstan, 0
+
+Israel, 1
+Iceland, 4
+
+Poland, 5
+Estonia, 1
+
+Wales, 4
+Finland, 1
+
+Qatar, 3
+Kuwait, 0
+
+Afghanistan, 0
+India, 0
+
+Singapore, 2
+China, 2
+
+Oman, 2
+Malaysia, 0
+
+Hong Kong, 0
+Uzbekistan, 2
+
+Iran, 5
+Turkmenistan, 0
+
+Indonesia, 1
+Vietnam, 0
+
+Iraq, 1
+Philippines, 0
+
+Saudi Arabia, 1
+Tajikistan, 0
+
+United Arab Emirates, 2
+Yemen, 1
+
+Nepal, 0
+Bahrain, 5
+
+Palestine, 5
+Bangladesh, 0
+
+San Lorenzo, 1
+Godoy Cruz, 0
+
+Técnico Universitario, 1
+Independiente Del Valle, 1
+
+Emelec, 2
+Delfín, 0
+
+Belarus, 0
+Montenegro, 2
+
+Cyprus, 1
+Latvia, 1
+
+Russia, 4
+Serbia, 0
+
+Malta, 2
+Slovenia, 2
+
+Guinea, 6
+Vanuatu, 0
+
+Portugal, 5
+Sweden, 2
+
+South Africa, 1
+Andorra, 1
+
+Venezuela, 1
+Italy, 2
+
+Ecuador, 2
+Guatemala, 0
+
+Defensa y Justicia, 1
+Atlético de Rafaela, 2
+
+Racing Club, 3
+San Martin de Burzaco, 0
+
+Talleres Remedios de Escalada, 0
+San Martín de San Juan, 0
+
+Patrocinense, 0
+Ipatinga, 3
+
+AO Itabaiana, 3
+Maranhão AC, 4
+
+Treze, 0
+Botafogo-PB, 0
+
+Belgium U21, 3
+Malta U21, 1
+
+Scotland U21, 4
+Kazakhstan U21, 1
+
+North Macedonia U21, 1
+Gibraltar U21, 0
+
+Israel U21, 1
+Poland U21, 2
+
+Portugal U21, 4
+Faroe Islands U21, 0
+
+Andorra U21, 0
+Croatia U21, 3
+
+Belarus U21, 1
+Greece U21, 0
+
+Namdhari Football Club, 2
+Rajasthan United FC, 0
+
+Celaya FC, 1
+Club Atlético Morelia, 2
+
+MC Oujda, 0
+Wydad Casablanca, 2
+
+USA, 3
+Jamaica, 1
+
+Panama, 0
+Mexico, 3
+
+Steel City FC, 0
+Michigan Stars, 1
+
+Carolina Core PC, 3
+Northern Virginia FC, 2
+
+Chattanooga Red Wolves SC, 4
+Brockton FC United, 2
+
+Crown Legacy FC, 0
+South Carolina United Heat, 1
+
+FC Motown, 0
+New York City FC II, 3
+
+Vereinigung Erzgebirge, 0
+Charlotte Independence, 2
+
+Western Mass Pioneers, 0
+Union Omaha SC, 4
+
+Lubbock Matadors SC, 2
+Arizona Monsoon FC, 1
+
+Colorado Rapids 2, 3
+Azteca FC, 0
+
+Ventura County FC, 2
+Irvine Zeta II FC, 1
+
+Borussia M'gladbach, 2
+KAS Eupen, 0
+
+VfB Stuttgart, 0
+SV 07 Elversberg, 0
+
+SK Sturm Graz, 0
+FC Blau Weiss Linz, 2
+
+Cádiz, 1
+Como, 1
+
+Zagłębie Sosnowiec, 0
+MFK Karviná, 1
+
+Slavia Sofia, 1
+Botev Vratsa, 3
+
+Portugal U20, 2
+Czechia U20, 2
+
+Romania U20, 0
+Italy U20, 0
+
+Morocco U20, 1
+England U19, 1
+
+Czechia U21, 3
+Northern Ireland U21, 0
+
+Hungary U21, 2
+Moldova U21, 0
+
+Spain U21, 0
+Slovakia U21, 2
+
+Netherlands U21, 1
+Norway U21, 2
+
+Japan U23, 1
+Mali U23, 3

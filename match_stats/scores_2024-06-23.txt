@@ -1,0 +1,281 @@
+Scotland, 0
+Hungary, 1
+
+Switzerland, 1
+Germany, 1
+
+USA, 2
+Bolivia, 0
+
+Uruguay, 3
+Panama, 1
+
+Athletico, 1
+Corinthians, 1
+
+Bahia, 4
+Cruzeiro, 1
+
+Fluminense, 0
+Flamengo, 1
+
+Atlético Mineiro, 1
+Fortaleza, 1
+
+Palmeiras, 3
+Juventude, 1
+
+Red Bull Bragantino, 2
+Vitória, 1
+
+Espanyol, 2
+Real Oviedo, 0
+
+Chapecoense, 1
+Paysandu SC, 2
+
+Vila Nova FC, 1
+Goiás, 0
+
+Modern Sport FC, 0
+Ismaily, 1
+
+Al-Masry, 0
+Ceramica Cleopatra, 2
+
+Pyramids FC, 3
+Al-Mokawloon, 1
+
+Vancouver FC, 0
+HFX Wanderers FC, 4
+
+Spokane Velocity FC, 1
+Lexington SC, 1
+
+Portland Thorns FC, 1
+Kansas City Current, 4
+
+NJ/NY Gotham FC, 0
+Washington Spirit, 2
+
+North Carolina Courage, 3
+Chicago Red Stars, 1
+
+Seattle Reign FC, 1
+Racing Louisville, 1
+
+Alvarado, 0
+San Martín de San Juan, 0
+
+Deportivo Maipú, 0
+Club Atlético Chacarita Juniors, 2
+
+Racing de Córdoba, 1
+Guillermo Brown, 2
+
+San Telmo, 0
+Mitre, 0
+
+Defensores Unidos, 2
+Club Atletico Colón, 1
+
+Chaco For Ever, 0
+Gimnasia y Tiro de Salta, 1
+
+Gimnasia Jujuy, 2
+San Martín de Tucumán, 0
+
+Güemes, 0
+Arsenal de Sarandí, 1
+
+Patronato, 4
+Agropecuario Argentino, 0
+
+Club Ferro Carril Oeste, 2
+Estudiantes de Buenos Aires, 2
+
+Atlético de Rafaela, 0
+Aldosivi, 2
+
+Dnepr Mogilev, 1
+Vitebsk, 2
+
+Torpedo-BelAZ Zhodino, 1
+FC Isloch Minsk Region, 0
+
+Dinamo Minsk, 2
+Neman Grodno, 1
+
+EC São José, 0
+Ypiranga FC, 1
+
+São Bernardo, 1
+Figueirense, 2
+
+Volta Redonda, 1
+Caxias, 0
+
+Associação Atlética Francana, 1
+Barretos U23, 0
+
+União Suzano AC, 1
+EC São Bernardo, 1
+
+AC Barnechea, 3
+Palestino, 2
+
+Antofagasta, 2
+Deportes Iquique, 1
+
+Deportes Santa Cruz, 1
+Audax Italiano, 1
+
+CD Trasandino de Los Andes, 1
+Coquimbo Unido, 1
+
+Comunal Cabrero, 0
+Rangers de Talca, 10
+
+Curicó Unido, 1
+Deportes Magallanes, 0
+
+Deportes Melipilla, 2
+Everton de Viña del Mar, 1
+
+Real San Joaquín, 2
+Unión Española, 2
+
+Santiago Wanderers, 1
+Universidad Católica, 0
+
+O'Higgins, 2
+Colo Colo, 2
+
+KA Akureyri, 3
+Fram Reykjavík, 2
+
+Breidablik Kópavogur, 1
+ÍA Akranes, 1
+
+FH Hafnarfjörður, 3
+Fylkir Reykjavík, 1
+
+Atyrau, 0
+FC Tobol, 0
+
+FK Zhenys, 1
+FC Ordabasy, 3
+
+FC Turan, 2
+Yelimay Semey, 2
+
+FK Aktobe, 1
+Shakhter Karagandy, 0
+
+Šiauliai FA, 0
+FK Banga Gargždai, 0
+
+FK Žalgiris, 4
+FK Sūduva Marijampolė, 0
+
+Kelantan Darul Naim, 1
+PDRM FC, 0
+
+Aalesunds FK, 1
+Ranheim IL, 2
+
+Bryne FK, 5
+Lyn FK, 3
+
+Mjøndalen, 0
+Egersund, 3
+
+Raufoss, 2
+IK Start, 1
+
+Stabæk Fotball, 1
+Levanger, 0
+
+Vålerenga IF, 8
+Sandnes Ulf, 0
+
+Åsane, 1
+Moss FK, 4
+
+Viking FK II, 3
+Kvik Halden, 3
+
+Brattvåg, 2
+Flekkerøy, 1
+
+Hødd IL, 1
+Sotra, 0
+
+Jerv, 3
+Lysekloster IL, 1
+
+IK Brage, 5
+GIF Sundsvall, 0
+
+IK Oddevold, 1
+Degerfors IF, 1
+
+Östersunds FK, 1
+Utsiktens BK, 0
+
+Skövde AIK, 0
+Sandvikens IF, 2
+
+Varbergs BoIS, 4
+Gefle IF, 3
+
+Assyriska FF, 2
+Sollentuna FF, 2
+
+Ljungskile SK, 0
+BK Olympic, 1
+
+Oskarshamns AIK, 0
+FC Rosengård, 2
+
+AIK, 0
+Hammarby IF, 2
+
+Piteå IF, 1
+Djurgårdens IF DFF, 0
+
+Vittsjö GIK, 0
+Växjö DFF, 0
+
+Kristianstads DFF, 3
+Linköpings FC, 1
+
+Montevideo Wanderers, 1
+River Plate UY, 3
+
+Liverpool UY, 1
+Boston River, 0
+
+Rampla Juniors, 1
+Miramar Misiones, 2
+
+Cerro Largo, 0
+Nacional, 4
+
+AIK, 1
+Viking FK, 2
+
+SK Líšeň, 2
+Baník Ostrava, 2
+
+Neudrossenfeld, 0
+SpVgg Bayreuth, 2
+
+Ludogorets, 1
+ŠK Slovan Bratislava, 0
+
+Universitatea Craiova, 1
+Pafos FC, 2
+
+Mineros de Zacatecas, 0
+Cruz Azul, 2

@@ -1,0 +1,65 @@
+Austria, 0
+France, 1
+
+Romania, 3
+Ukraine, 0
+
+Belgium, 0
+Slovakia, 1
+
+Atlético Mineiro, 0
+Palmeiras, 4
+
+Chapecoense, 0
+Operário-PR, 1
+
+Meizhou Hakka, 1
+Shanghai Port, 2
+
+El Gouna FC, 1
+National Bank of Egypt, 1
+
+Ismaily, 2
+ENPPI, 2
+
+Zamalek SC, 1
+Al-Masry, 2
+
+Northern Colorado Hailstorm FC, 2
+One Knoxville SC, 1
+
+ABC, 0
+Volta Redonda, 1
+
+Náutico, 0
+Floresta, 1
+
+Oeste, 0
+União Suzano AC, 0
+
+Provincial Ovalle, 1
+Cobresal, 3
+
+AC Barnechea, 1
+Deportes Limache, 0
+
+Central Norte, 1
+Antofagasta, 5
+
+Municipal Puente Alto, 1
+Universidad de Chile, 5
+
+Vålerenga IF II, 2
+Tromsdalen UIL, 3
+
+Brunei DPMM FC, 0
+Lion City Sailors, 2
+
+Trelleborgs FF, 1
+IK Brage, 0
+
+BK Häcken FF, 2
+Vittsjö GIK, 0
+
+Boston River, 0
+Cerro Largo, 2

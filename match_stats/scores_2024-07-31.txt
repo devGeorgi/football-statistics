@@ -1,0 +1,332 @@
+RFS, 1
+Bodø/Glimt, 3
+
+FC Midtjylland, 1
+UE Santa Coloma, 0
+
+FK Partizan, 0
+Dynamo Kyiv, 3
+
+Maccabi Tel Aviv, 0
+FCSB, 1
+
+Jagiellonia Białystok, 3
+FK Panevėžys, 1
+
+Dinamo Minsk, 1
+Ludogorets, 0
+
+FK Borac Banja Luka, 0
+PAOK, 1
+
+FK Auda, 2
+Cliftonville FC, 0
+
+BK Häcken, 6
+F91 Dudelange, 1
+
+Fehérvár FC, 0
+Sumqayıt FK, 0
+
+Austria Wien, 8
+Ilves, 8
+
+FC Spartak Trnava, 3
+FK Sarajevo, 0
+
+FK Mornar Bar, 6
+FK Radnički 1923, 4
+
+Club Atlético Unión de Santa Fe, 1
+Rosario Central, 0
+
+Boca Juniors, 3
+Banfield, 0
+
+Independiente Medellín, 1
+Boyacá Chicó FC, 0
+
+Al-Ittihad Alexandria, 0
+ENPPI, 0
+
+ZED FC, 3
+Modern Sport FC, 2
+
+Club Atlético Grau, 3
+Comerciantes Unidos, 0
+
+Los Chankas CYC, 3
+Club Sporting Cristal, 3
+
+Carlos A. Mannucci, 3
+Asociación Deportiva Tarma, 2
+
+Melgar, 1
+Universitario, 0
+
+San Jose Earthquakes, 1
+LA Galaxy, 2
+
+FC Dallas, 0
+FC Juárez, 2
+
+Tigres UANL, 2
+Club Puebla, 1
+
+Charlotte FC, 4
+Cruz Azul, 2
+
+Nashville SC, 0
+Mazatlán FC, 2
+
+Santos Laguna, 0
+DC United, 3
+
+Hartford Athletic, 1
+Detroit City FC, 0
+
+New Mexico United, 1
+Las Vegas Lights, 2
+
+Mitre, 2
+Temperley, 3
+
+San Telmo, 1
+Aldosivi, 2
+
+CD Real Tomayapo, 2
+Guabirá, 1
+
+Bolívar, 4
+San José, 0
+
+Nacional Potosí, 0
+Royal Pari Sion, 0
+
+Caxias, 1
+Confiança, 0
+
+Náutico, 1
+Ypiranga FC, 2
+
+Athletico, 2
+Red Bull Bragantino, 0
+
+CRB, 2
+Atlético Mineiro, 2
+
+Flamengo, 2
+Palmeiras, 0
+
+Atlético Goianiense, 1
+Vasco da Gama, 1
+
+Corinthians, 0
+Grêmio, 0
+
+Deportes Magallanes, 0
+Universidad de Concepción, 0
+
+Deportes Recoleta, 1
+Deportes Santa Cruz, 0
+
+Antofagasta, 0
+Deportes Temuco, 1
+
+Santiago Wanderers, 3
+Unión San Felipe, 0
+
+Deportes La Serena, 1
+Santiago Morning, 0
+
+Rangers de Talca, 3
+AC Barnechea, 0
+
+San Marcos de Arica, 2
+Curicó Unido, 3
+
+MFK Vyškov, 1
+FC Sellier & Bellot Vlašim, 1
+
+SK Líšeň, 0
+SK Slavia Praha B, 4
+
+1. SK Prostějov, 0
+FC Zlín, 2
+
+FC Silon Táborsko, 1
+Baník Ostrava B, 2
+
+FK Varnsdorf, 3
+Slezský FC Opava, 1
+
+MFK Chrudim, 1
+FC Zbrojovka Brno, 0
+
+SK Sigma Olomouc B, 1
+FK Viktoria Žižkov, 1
+
+Sparta Praha B U21, 4
+Vysočina Jihlava, 0
+
+Fylkir Reykjavík, 0
+Fram Reykjavík, 0
+
+Kuala Lumpur City FC, 3
+Sabah FC, 0
+
+Sri Pahang FC, 1
+Selangor Football Club, 1
+
+PDRM FC, 1
+Johor Darul Ta'zim, 1
+
+Mexico U20, 2
+Costa Rica U20, 1
+
+Honduras U20, 4
+Cuba U20, 6
+
+Stabæk Fotball, 3
+Sandnes Ulf, 0
+
+St. Johnstone B U21, 2
+Brechin City FC, 1
+
+Colombia, 0
+Canada, 1
+
+New Zealand, 1
+France, 2
+
+Australia, 1
+USA, 2
+
+Zambia, 1
+Germany, 4
+
+Brazil, 0
+Spain, 2
+
+Japan, 3
+Nigeria, 1
+
+1. FC Heidenheim, 1
+Parma, 0
+
+Aris Limassol, 0
+Udinese, 1
+
+Alcione Milano, 0
+Pro Sesto, 2
+
+Auxerre, 2
+Troyes, 1
+
+Cremonese, 3
+Trento, 2
+
+Guingamp, 3
+Stade Rennais, 0
+
+Pergolettese, 1
+Fiorenzuola, 0
+
+FK Radnički Pirot, 3
+FK Vlasina Vlasotince, 0
+
+Montpellier, 1
+Saint-Étienne, 2
+
+Pontedera, 2
+US Livorno 1915, 1
+
+Sokol Hostouň, 2
+Mladá Boleslav B, 3
+
+Valenciennes, 0
+RAAL La Louvière, 0
+
+NK Dubrava Tim Kabel, 2
+NK Kustošija, 2
+
+Sassuolo, 1
+Padova, 0
+
+AZ Alkmaar, 1
+Le Havre, 1
+
+Elche, 0
+CD Castellón, 6
+
+FC Cartagena, 1
+CD Eldense, 1
+
+Getafe, 0
+Real Zaragoza, 1
+
+Atlético Sanluqueño, 2
+RB Linense, 1
+
+Feyenoord, 1
+AS Monaco, 3
+
+Real Ávila CF, 2
+Gimnástica Segoviana, 1
+
+Sociedad Deportivo Tarazona, 1
+Burgos Club de Fútbol, 2
+
+Sportfreunde Baumberg, 2
+BW Konigsdorf, 3
+
+Olympique Lyonnais, 0
+Torino, 0
+
+SD Ponferradina, 0
+Sporting Gijón, 0
+
+Unionistas de Salamanca CF, 2
+Zamora, 0
+
+Cardiff City, 2
+Reading, 1
+
+Gil Vicente, 0
+Deportivo La Coruña, 0
+
+Harrogate Town, 0
+Middlesbrough, 0
+
+Oxford United, 2
+Southampton, 0
+
+Barnsley, 4
+Derby County, 3
+
+Córdoba, 5
+Rayo Vallecano, 3
+
+SC Farense, 3
+Al-Ittihad, 1
+
+Chelsea, 3
+Club América, 0
+
+Liverpool, 2
+Arsenal, 1
+
+Crystal Palace, 3
+Wolverhampton, 1
+
+RB Leipzig, 2
+Aston Villa, 0
+
+Milan, 1
+Real Madrid, 0
+
+Manchester United, 3
+Real Betis, 2
+
+Sanfrecce Hiroshima, 2
+VfB Stuttgart, 5

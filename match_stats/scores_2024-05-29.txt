@@ -1,0 +1,212 @@
+Olympiacos FC, 1
+Fiorentina, 0
+
+Cerro Porteño, 1
+Colo Colo, 1
+
+Fluminense, 3
+Alianza Lima, 2
+
+Barcelona SC, 2
+Cobresal, 1
+
+São Paulo, 2
+Talleres, 0
+
+Estudiantes de La Plata, 3
+Huachipato, 4
+
+Grêmio, 4
+The Strongest, 0
+
+Defensa y Justicia, 0
+Universidad César Vallejo, 1
+
+Independiente Medellín, 4
+Club Always Ready, 0
+
+Boca Juniors, 4
+Nacional Potosí, 0
+
+Fortaleza, 2
+Sportivo Trinidense, 1
+
+Lanús, 0
+Cuiabá, 1
+
+Metropolitanos, 1
+Deportivo Garcilaso, 1
+
+FK Tekstilac Odžaci, 1
+FK Javor Ivanjica, 0
+
+CF Montréal, 4
+DC United, 2
+
+Columbus Crew, 0
+New England Revolution, 0
+
+FC Cincinnati, 0
+Nashville SC, 2
+
+Inter Miami CF, 1
+Atlanta United, 3
+
+New York Red Bulls, 3
+Charlotte FC, 1
+
+Philadelphia Union, 0
+Toronto FC, 0
+
+Austin FC, 0
+Portland Timbers, 2
+
+Chicago Fire, 1
+Orlando City SC, 1
+
+Houston Dynamo, 3
+Colorado Rapids, 1
+
+Sporting Kansas City, 1
+Vancouver Whitecaps, 2
+
+LA Galaxy, 3
+FC Dallas, 1
+
+Seattle Sounders FC, 1
+Real Salt Lake, 1
+
+Los Angeles FC, 2
+Minnesota United, 0
+
+Bodø/Glimt, 1
+Sandefjord Fotball, 1
+
+SK Brann, 2
+Kristiansund BK, 1
+
+Tromsø IL, 3
+Fredrikstad FK, 0
+
+Mjällby AIF, 2
+BK Häcken, 1
+
+Louisville City FC, 5
+Detroit City FC, 1
+
+Monterey Bay FC, 0
+Charleston Battery, 0
+
+Ural Yekaterinburg, 0
+Akron Togliatti, 2
+
+Pari Nizhny Novgorod, 1
+Arsenal Tula, 2
+
+Catalonia, 2
+Panama, 2
+
+Ajman, 1
+Baniyas, 1
+
+Emirates Club, 1
+Al Bataeh, 3
+
+Al-Ain, 2
+Al Wasl, 4
+
+Hatta, 2
+Shabab Al-Ahli Dubai, 5
+
+El Porvenir, 0
+Godoy Cruz, 4
+
+EC São José, 1
+Volta Redonda, 3
+
+Pacific FC, 2
+Atlético Ottawa, 1
+
+Al-Mokawloon, 0
+Tersana SC, 1
+
+Al Ahly FC, 0
+Aluminium Nag Hammådi, 0
+
+Tala'ea El-Gaish, 1
+Port Fouad SC, 0
+
+Paide Linnameeskond, 0
+FCI Levadia Tallinn, 1
+
+Tallinna Kalev, 2
+Flora Tallinn, 3
+
+Czechia U17, 4
+Denmark U17, 6
+
+Austria U17, 2
+Serbia U17, 3
+
+Dinamo Tbilisi, 0
+FC Gagra, 0
+
+FC Dila Gori, 0
+FC Kolkheti-1913 Poti, 0
+
+FC Iberia 1999, 0
+FC Samgurali Tskhaltubo, 0
+
+FC Samtredia, 0
+Dinamo Batumi, 0
+
+FC Torpedo Kutaisi, 0
+FC Telavi, 0
+
+FC Würzburger Kickers, 1
+Hannover 96 II U23, 0
+
+FK Liepaja, 3
+Grobiņas SC, 0
+
+FK Metta, 0
+RFS, 6
+
+Riga FC, 3
+FK Tukums 2000, 0
+
+Philippine Army, 5
+Manila Montet FC, 0
+
+Club Africain, 0
+Espérance Tunis, 0
+
+Union Omaha SC, 4
+Central Valley Fuego, 1
+
+FC Epicentr Dunaivtsi, 1
+Veres Rivne, 1
+
+Obolon Kyiv, 1
+FC Livyi Bereh Kyiv, 0
+
+Hoàng Anh Gia Lai, 1
+Đông Á Thanh Hóa, 1
+
+Hồng Lĩnh Hà Tĩnh, 1
+Công An Hà Nội, 0
+
+Quy Nhơn Bình Định FC, 3
+Quảng Nam, 0
+
+Sabah FC, 2
+Selangor Football Club, 3
+
+Mali, 9
+Seychelles, 0
+
+Tanzania, 3
+South Sudan, 0
+
+Guatemala, 4
+Chile, 3

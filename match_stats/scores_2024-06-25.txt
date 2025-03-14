@@ -1,0 +1,152 @@
+Denmark, 0
+Serbia, 0
+
+England, 0
+Slovenia, 0
+
+France, 1
+Poland, 1
+
+Netherlands, 2
+Austria, 3
+
+Peru, 0
+Canada, 1
+
+Chile, 0
+Argentina, 1
+
+América Mineiro, 1
+Avaí, 1
+
+Mirassol, 0
+Santos, 0
+
+Ponte Preta, 3
+Ceará, 1
+
+Amazonas FC, 1
+Coritiba, 0
+
+Wuhan Three Towns, 0
+Shanghai Port, 2
+
+Shanghai Shenhua, 3
+Meizhou Hakka, 0
+
+Changchun Yatai, 2
+Shandong Taishan, 2
+
+Qingdao Hainiu, 1
+Chengdu Rongcheng, 5
+
+Al Ahly FC, 2
+Zamalek SC, 0
+
+Avispa Fukuoka, 2
+Yokohama F. Marinos, 1
+
+Cerezo Osaka, 1
+Sagan Tosu, 0
+
+FC Tokyo, 1
+Hokkaido Consadole Sapporo, 0
+
+Jubilo Iwata, 3
+Tokyo Verdy, 0
+
+Kashima Antlers, 0
+Gamba Osaka, 0
+
+Kawasaki Frontale, 1
+Shonan Bellmare, 1
+
+Kyoto Sanga FC, 2
+Kashiwa Reysol, 2
+
+Nagoya Grampus, 0
+Urawa Red Diamonds, 1
+
+Sanfrecce Hiroshima, 1
+Albirex Niigata, 1
+
+Vissel Kobe, 0
+Machida Zelvia, 0
+
+FC Seoul, 2
+Gangwon FC, 0
+
+Jeju SK, 1
+Incheon United, 0
+
+Jeonbuk Hyundai Motors, 1
+Pohang Steelers, 1
+
+Ulsan HD, 1
+Daegu FC, 0
+
+Cheonan City FC, 1
+Bucheon FC 1995, 2
+
+Gimpo FC, 1
+Cheongju FC, 1
+
+Seoul E-Land FC, 0
+Ansan Greeners FC, 3
+
+V-Varen Nagasaki, 3
+Iwaki FC, 1
+
+FK Liepaja, 1
+FK Metta, 5
+
+Lunds BK, 2
+Torns IF, 2
+
+ASC Olimpic Zărnești, 1
+AFC Unirea 04 Slobozia, 2
+
+FK Jablonec, 1
+FK Viktoria Žižkov, 1
+
+NK Maribor, 3
+FK Budućnost Podgorica, 0
+
+FC Thun, 3
+Stade Nyonnais, 0
+
+FC Rapid București, 1
+MFK Ružomberok, 1
+
+FC Winterthur, 4
+FC Baden, 1
+
+FV Illertissen, 1
+SGV Freiberg, 2
+
+IFK Göteborg, 1
+IFK Norrköping, 0
+
+KF Shkëndija, 0
+KF Llapi, 2
+
+FC Ismaning, 0
+Türkgücü München, 4
+
+RFC Liège, 3
+RFC Raeren-Eynatten, 1
+
+FC Rapperswil-Jona, 1
+FC Langenthal, 2
+
+Ballyclare Comrades, 2
+The New Saints, 3
+
+FC ŠTK 1914 Šamorín, 1
+FC Petržalka 1898, 1
+
+GKS Katowice, 0
+Polonia Bytom, 2
+
+Stal Mielec, 2
+Resovia Rzeszów, 2

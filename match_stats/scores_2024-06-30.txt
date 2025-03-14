@@ -1,0 +1,233 @@
+England, 2
+Slovakia, 1
+
+Spain, 4
+Georgia, 1
+
+Jamaica, 0
+Venezuela, 3
+
+Mexico, 0
+Ecuador, 0
+
+Atlético Mineiro, 1
+Atlético Goianiense, 1
+
+Fortaleza, 2
+Juventude, 1
+
+Grêmio, 1
+Fluminense, 0
+
+São Paulo, 3
+Bahia, 1
+
+Criciúma, 1
+Internacional, 1
+
+Flamengo, 2
+Cruzeiro, 1
+
+Vitória, 0
+Athletico, 1
+
+Avaí, 1
+Amazonas FC, 1
+
+Paysandu SC, 1
+Operário-PR, 1
+
+Guarani, 1
+Ponte Preta, 1
+
+Beijing Guoan, 2
+Shandong Taishan, 0
+
+Viking FK, 4
+Rosenborg BK, 2
+
+NJ/NY Gotham FC, 1
+Seattle Reign FC, 1
+
+Angel City FC, 0
+Orlando Pride, 3
+
+Chungnam Asan FC, 2
+Seoul E-Land FC, 0
+
+Gyeongnam FC, 2
+Jeonnam Dragons, 4
+
+Club Atlético Chacarita Juniors, 1
+Club Ferro Carril Oeste, 1
+
+Arsenal de Sarandí, 0
+Gimnasia Jujuy, 1
+
+Aldosivi, 1
+Deportivo Madryn, 0
+
+Deportivo Morón, 0
+Almagro, 0
+
+Guillermo Brown, 0
+Alvarado, 0
+
+Tristán Suárez, 2
+Almirante Brown, 2
+
+Nueva Chicago, 0
+Defensores de Belgrano, 0
+
+Gimnasia y Tiro de Salta, 0
+San Telmo, 3
+
+Estudiantes de Río Cuarto, 2
+Defensores Unidos, 1
+
+Mitre, 2
+Atlético de Rafaela, 0
+
+San Martín de San Juan, 1
+Güemes, 0
+
+San Martín de Tucumán, 2
+Deportivo Maipú, 1
+
+Club Atletico Colón, 1
+Atlanta, 1
+
+SFK Slutsk, 1
+FC Minsk, 0
+
+FC Isloch Minsk Region, 1
+Dnepr Mogilev, 1
+
+FK Arsenal Dzerzhinsk, 0
+Naftan Novopolotsk, 3
+
+Ferroviária, 1
+EC São José, 0
+
+Floresta, 2
+Caxias, 1
+
+Comercial-SP, 0
+Associação Atlética Francana, 0
+
+EC Primavera, 2
+Capivariano, 1
+
+Everton de Viña del Mar, 3
+Deportes Melipilla, 1
+
+Audax Italiano, 0
+Deportes Santa Cruz, 2
+
+Deportes Linares, 1
+Universidad de Concepción, 0
+
+Palestino, 3
+AC Barnechea, 0
+
+Ñublense, 4
+Rangers de Talca, 0
+
+Colo Colo, 3
+O'Higgins, 1
+
+IF Gnistan, 1
+EIF, 2
+
+IFK Mariehamn, 1
+HJK, 2
+
+MP, 0
+SalPa, 1
+
+Víkingur Reykjavík, 2
+Fram Reykjavík, 1
+
+Yelimay Semey, 1
+Zhetysu Taldykorgan, 1
+
+FK Aktobe, 3
+FC Tobol, 4
+
+FK Transinvest, 2
+Dainava Alytus, 1
+
+FC Hegelmann, 3
+FK Žalgiris, 1
+
+Club América, 2
+Tigres UANL, 1
+
+Arendal, 0
+SK Brann II, 2
+
+Sotra, 1
+Brattvåg, 2
+
+Davao Aguilas, 8
+Maharlika Manila FC, 0
+
+Trelleborgs FF, 1
+Östers IF, 4
+
+Örgryte IS, 2
+Skövde AIK, 0
+
+Assyriska FF, 1
+Umeå, 2
+
+Sollentuna FF, 2
+IFK Stocksund, 3
+
+Vasalunds IF, 0
+FBK Karlstad, 0
+
+BK Häcken FF, 0
+Kristianstads DFF, 0
+
+Linköpings FC, 2
+Växjö DFF, 1
+
+Vittsjö GIK, 0
+KIF Örebro DFF, 0
+
+Rosengård, 8
+Trelleborgs FF, 1
+
+FC Eilenburg, 1
+FSV Luckenwalde, 1
+
+TSG Backnang, 0
+Stuttgarter Kickers, 5
+
+BK Häcken, 4
+Halmstads BK, 2
+
+FK Jablonec, 0
+Universitatea Craiova, 0
+
+Universitatea Craiova, 1
+FC St. Gallen 1879, 2
+
+Kalcer Radomlje, 2
+FC Gloria Buzău, 2
+
+FK Spartak Subotica, 1
+APOEL Nicosia, 2
+
+Pafos FC, 1
+Legia Warszawa, 0
+
+Atlético Nacional, 2
+Bolívar, 0
+
+Cienciano, 2
+Universitario, 4
+
+NK Celje, 0
+FK Čukarički, 0

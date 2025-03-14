@@ -1,0 +1,176 @@
+Belgium, 0
+Italy, 1
+
+France, 0
+Israel, 0
+
+Greece, 0
+England, 3
+
+Ireland, 1
+Finland, 0
+
+Kazakhstan, 0
+Austria, 2
+
+Slovenia, 1
+Norway, 4
+
+Armenia, 0
+Faroe Islands, 1
+
+North Macedonia, 1
+Latvia, 0
+
+Venezuela, 1
+Brazil, 1
+
+Paraguay, 2
+Argentina, 1
+
+Ecuador, 4
+Bolivia, 0
+
+Madagascar, 2
+Tunisia, 3
+
+Lesotho, 1
+Central African Republic, 0
+
+Rwanda, 0
+Libya, 1
+
+Benin, 1
+Nigeria, 1
+
+Equatorial Guinea, 0
+Algeria, 0
+
+Niger, 4
+Sudan, 0
+
+South Sudan, 3
+Congo Republic, 2
+
+Burundi, 0
+Malawi, 0
+
+Burkina Faso, 0
+Senegal, 1
+
+North Korea, 2
+Iran, 3
+
+Qatar, 3
+Uzbekistan, 2
+
+United Arab Emirates, 3
+Kyrgyzstan, 0
+
+Kuwait, 1
+South Korea, 3
+
+Oman, 1
+Palestine, 0
+
+Iraq, 0
+Jordan, 0
+
+Bahrain, 0
+China, 1
+
+Alianza Valledupar FC, 0
+Atlético Bucaramanga, 4
+
+América de Cali, 3
+Once Caldas, 0
+
+Boyacá Chicó FC, 1
+Millonarios, 5
+
+Deportes Tolima, 1
+Atlético Nacional, 0
+
+Deportivo Pasto, 3
+Patriotas Boyacá, 2
+
+Deportivo Pereira, 4
+Deportivo La Equidad, 3
+
+Fortaleza CEIF, 0
+Rionegro Águilas Doradas, 1
+
+Independiente Medellín, 1
+Envigado FC, 0
+
+Independiente Santa Fe, 3
+Jaguares de Córdoba, 0
+
+Junior Barranquilla, 3
+Deportivo Cali, 0
+
+Brisbane Roar, 3
+Perth Glory, 0
+
+Singapore, 3
+Myanmar, 2
+
+Thailand, 0
+Lebanon, 0
+
+Malta, 2
+Liechtenstein, 0
+
+NK Varaždin, 5
+HNK Gorica, 6
+
+Celaya FC, 1
+Atlante FC, 1
+
+Leones Negros, 2
+CD Tapatío, 2
+
+Montserrat, 1
+Saint Vincent and the Grenadines, 2
+
+Bonaire, 0
+El Salvador, 1
+
+Jamaica, 0
+USA, 1
+
+Saint Kitts and Nevis, 2
+Cuba, 1
+
+Belize, 2
+French Guiana, 1
+
+FC Spartak Trnava, 4
+FK Železiarne Podbrezová, 3
+
+Danubio, 0
+Cerro, 0
+
+Boston River, 1
+Rampla Juniors, 0
+
+Montevideo Wanderers, 0
+Peñarol, 2
+
+Hà Nội, 1
+Becamex Bình Dương, 0
+
+Hồng Lĩnh Hà Tĩnh, 1
+Hoàng Anh Gia Lai, 0
+
+Quảng Nam, 1
+Sông Lam Nghệ An, 1
+
+Cyprus U21, 0
+Hungary U21, 1
+
+Slovakia U21, 3
+Netherlands U21, 3
+
+Sweden U21, 2
+Ireland U21, 0

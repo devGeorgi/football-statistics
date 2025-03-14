@@ -235,9 +235,6 @@ Rochdale, 3
 Aldershot Town, 2
 Woking, 2
 
-Altrincham, 0
-FC Halifax Town, 0
-
 Barnet, 3
 Sutton United, 3
 
@@ -276,9 +273,6 @@ Aduana Stars FC, 1
 
 Semen Padang FC, 1
 Arema FC, 2
-
-Esteghlal Khuzestan, 0
-Foolad Khuzestan, 0
 
 Chador Malu Yazd, 0
 Esteghlal FC, 0

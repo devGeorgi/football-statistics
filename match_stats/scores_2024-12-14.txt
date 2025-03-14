@@ -211,9 +211,6 @@ Granada, 0
 1. FC Magdeburg, 1
 SC Paderborn 07, 1
 
-FC Schalke 04, 1
-Fortuna Düsseldorf, 1
-
 SSV Ulm 1846, 1
 Hamburger SV, 1
 
@@ -511,9 +508,6 @@ Malaysia, 0
 Laos, 1
 Philippines, 1
 
-Araz Naxçıvan PFK, 0
-Sabah FK, 1
-
 Al-Ahli Club, 4
 A'Ali FC, 1
 
@@ -603,9 +597,6 @@ Borussia Dortmund II U23, 3
 
 TSV 1860 München, 0
 SC Verl, 4
-
-SSV Jeddeloh, 0
-1.FC Phönix Lübeck, 0
 
 SV Meppen, 1
 Eintracht Norderstedt, 1

@@ -1,0 +1,281 @@
+Unión La Calera, 0
+Universidad Católica, 0
+
+Patriotas Boyacá, 1
+Junior Barranquilla, 0
+
+Deportivo La Equidad, 1
+Independiente Medellín, 2
+
+Melbourne City, 3
+Central Coast Mariners, 0
+
+Newcastle Jets, 3
+Melbourne Victory, 2
+
+Western Sydney Wanderers, 3
+Western United, 1
+
+North Macedonia, 1
+Moldova, 1
+
+Armenia, 0
+Kosovo, 1
+
+Azerbaijan, 1
+Mongolia, 0
+
+Nigeria, 2
+Ghana, 1
+
+Liechtenstein, 0
+Faroe Islands, 4
+
+Norway, 1
+Czechia, 2
+
+Bermuda, 2
+Brunei Darussalam, 0
+
+Senegal, 3
+Gabon, 0
+
+Albania, 0
+Chile, 3
+
+Hungary, 1
+Türkiye, 0
+
+Netherlands, 4
+Scotland, 0
+
+Romania, 1
+Northern Ireland, 1
+
+Egypt, 1
+New Zealand, 0
+
+Spain, 0
+Colombia, 1
+
+Algeria, 3
+Bolivia, 2
+
+Morocco, 1
+Angola, 0
+
+Niger, 1
+Togo, 2
+
+Argentina, 3
+El Salvador, 0
+
+Peru, 2
+Nicaragua, 0
+
+Orlando Pride, 1
+Angel City FC, 1
+
+Utah Royals FC, 2
+North Carolina Courage, 1
+
+FC Fleury 91, 2
+Paris FC, 1
+
+Sampdoria, 1
+FC Como, 0
+
+SC Freiburg, 2
+TSG Hoffenheim, 4
+
+Costa Adeje Tenerife, 5
+Sevilla, 0
+
+Chad, 1
+Mauritius, 0
+
+São Tomé and Príncipe, 1
+South Sudan, 1
+
+Newell's Old Boys, 2
+Ferrocarril Midland, 0
+
+CA Independiente, 3
+Deportivo Laferrere, 0
+
+Jiangxi Lushan FC, 1
+Shijiazhuang Gongfu, 2
+
+Qingdao Red Lions, 1
+Chongqing Tonglianglong FC, 0
+
+Nanjing City, 0
+Yanbian Longding, 1
+
+Yunnan Yukun, 3
+Jiangxi Dingnan United, 0
+
+San Marino U21, 0
+Ireland U21, 7
+
+Italy U21, 2
+Latvia U21, 0
+
+Germany U21, 0
+Kosovo U21, 0
+
+Montenegro U21, 0
+Armenia U21, 0
+
+Albania U21, 0
+Finland U21, 0
+
+Azerbaijan U21, 1
+England U21, 5
+
+Luxembourg U21, 1
+Serbia U21, 1
+
+Slovenia U21, 3
+Bosnia & Herzegovina U21, 0
+
+Wales U21, 2
+Lithuania U21, 1
+
+Scotland U19, 2
+Georgia U19, 3
+
+Germany U19, 2
+Romania U19, 3
+
+FC Martigues, 2
+Avranches, 0
+
+FC Rouen, 0
+Le Mans, 1
+
+FC Versailles 78, 0
+Chamois Niortais, 0
+
+GOAL FC, 1
+FC Villefranche Beaujolais, 0
+
+Nîmes Olympique, 1
+Marignane Gignac FC, 1
+
+Red Star FC, 1
+Nancy, 1
+
+Sas Épinal, 1
+Dijon, 1
+
+Sochaux, 0
+Châteauroux, 2
+
+US Orléans, 1
+Cholet, 2
+
+FC 08 Homburg, 1
+VfB Stuttgart II U21, 2
+
+Bayern München II, 0
+FC Augsburg II, 0
+
+TSV Buchbach, 1
+1. FC Nürnberg II, 3
+
+Deportivo Malacateco, 2
+Antigua GFC, 2
+
+Inter Kashi FC, 2
+Shillong Lajong FC, 1
+
+Real Kashmir, 0
+Mohammedan SC, 0
+
+Athlone Town, 3
+Longford Town, 3
+
+Bray Wanderers, 3
+Wexford FC, 4
+
+Cobh Ramblers FC, 1
+University College Dublin, 2
+
+Finn Harps, 0
+Kerry FC, 0
+
+Treaty United FC, 0
+Cork City, 0
+
+Sestri Levante, 3
+Gubbio, 1
+
+Club Atletico La Paz, 2
+Alebrijes de Oaxaca, 1
+
+Torpedo Moscow, 0
+PFC Kuban Krasnodar, 0
+
+Seoul Gwanak Byeoksan Players FC, 1
+Gimpo FC, 3
+
+Changwon City, 0
+FC Mokpo, 1
+
+Daejeon Korail, 4
+Seoul E-Land FC, 6
+
+FC Anyang, 1
+Siheung City, 0
+
+Jinju Citizen FC, 1
+Chungnam Asan FC, 0
+
+Paju Citizen FC, 0
+Gyeongnam FC, 1
+
+Pocheon Citizen, 0
+Seongnam FC, 3
+
+Pyeongtaek Citizen FC, 1
+Gimhae City FC, 5
+
+Gyeongju KHNP, 0
+Ansan Greeners FC, 1
+
+Montevideo Wanderers, 0
+Boston River, 0
+
+Universidad Central, 1
+Portuguesa FC, 0
+
+HŠK Zrinjski Mostar, 1
+HNK Hajduk Split, 1
+
+Independiente Rivadavia, 4
+River Plate, 0
+
+Levski Sofia, 1
+FK Sportist Svoge, 0
+
+Hammarby Talang FF, 2
+Täby FK, 1
+
+Karlbergs BK, 0
+IFK Stocksund, 3
+
+Germany U20, 3
+France U20, 1
+
+Poland U20, 1
+England U20, 5
+
+Cyprus U21, 1
+Sweden U21, 6
+
+Türkiye U21, 2
+Georgia U21, 1
+
+Austria U21, 1
+Denmark U21, 1

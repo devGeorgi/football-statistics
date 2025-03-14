@@ -1,0 +1,197 @@
+FC Arouca, 0
+Vitória SC, 1
+
+Bodrum FK, 0
+Gaziantep FK, 1
+
+Çaykur Rizespor, 1
+Başakşehir FK, 1
+
+Frosinone, 0
+Pisa, 3
+
+Lecce, 2
+Mantova, 1
+
+Salernitana, 8
+Spezia, 7
+
+Cagliari, 3
+Carrarese, 1
+
+Tigre, 0
+Godoy Cruz, 2
+
+Luton Town, 1
+Burnley, 4
+
+Guarani, 2
+Vila Nova FC, 0
+
+Goiás, 2
+Ceará, 1
+
+Jong AZ Alkmaar, 6
+Roda JC Kerkrade, 1
+
+Jong PSV Eindhoven, 2
+Jong Ajax, 2
+
+Ümraniyespor, 3
+Çorum FK, 0
+
+Jaguares de Córdoba, 0
+Rionegro Águilas Doradas, 0
+
+Fortaleza CEIF, 1
+Deportivo Pereira, 0
+
+Piast Gliwice, 2
+GKS Katowice, 2
+
+Viborg FF, 2
+AaB, 3
+
+Tacuary, 2
+General Caballero, 1
+
+Nacional Asunción, 1
+Sportivo Luqueño, 0
+
+Técnico Universitario, 2
+Aucas, 0
+
+Ceramica Cleopatra, 0
+Smouha, 1
+
+Modern Sport FC, 1
+Al-Ittihad Alexandria, 1
+
+FC Petrolul Ploieşti, 0
+FC Universitatea Cluj, 0
+
+ACSM Politehnica Iași, 2
+FC Dinamo București, 2
+
+Hammarby IF, 3
+IF Brommapojkarna, 3
+
+Seattle Sounders FC, 4
+Pumas UNAM, 0
+
+Chiangrai United, 2
+Khon Kaen United, 0
+
+Gimnasia y Tiro de Salta, 1
+Club Atletico Colón, 0
+
+Temperley, 0
+Deportivo Madryn, 1
+
+San Antonio Bulo-Bulo, 2
+FC Universitario de Vinto, 1
+
+San José, 0
+Club Always Ready, 1
+
+Independiente Petrolero, 3
+Nacional Potosí, 3
+
+FK Sloga Doboj, 1
+FK Sarajevo, 3
+
+Floresta, 2
+Ypiranga FC, 2
+
+Sampaio Corrêa, 2
+ABC, 2
+
+Comercial-SP, 0
+Botafogo-SP, 0
+
+FK Septemvri Sofia, 0
+Lokomotiv Sofia, 1
+
+Cherno More Varna, 2
+Botev Vratsa, 1
+
+Deportes Recoleta, 5
+Universidad de Concepción, 0
+
+Deportes Limache, 1
+Unión San Felipe, 2
+
+Orsomarso, 1
+Tigres FC, 0
+
+Barranquilla FC, 1
+Unión Magdalena, 1
+
+MFK Vyškov, 1
+SK Slavia Praha B, 0
+
+SJK, 3
+VPS, 1
+
+KTP, 2
+PK-35, 1
+
+KR Reykjavík, 1
+FH Hafnarfjörður, 0
+
+ÍA Akranes, 1
+Fram Reykjavík, 0
+
+Semen Padang FC, 1
+Borneo FC Samarinda, 3
+
+Athlone Town, 2
+Wexford FC, 3
+
+Vålerenga IF II, 1
+Kjelsås, 0
+
+Grorud, 0
+Skeid, 0
+
+Wisła Kraków, 3
+Ruch Chorzów, 1
+
+Felgueiras, 0
+Portimonense, 0
+
+FC Argeș Pitești, 2
+CSM Focșani 2007, 0
+
+FC Ufa, 0
+Ural Yekaterinburg, 2
+
+KAMAZ Naberezhnye Chelny, 1
+Torpedo Moscow, 1
+
+NK Bravo, 1
+FC Koper, 0
+
+Landskrona BoIS, 0
+GIF Sundsvall, 0
+
+Örgryte IS, 3
+Örebro SK, 1
+
+Jönköpings Södra, 1
+FC Trollhättan, 1
+
+Norrby IF, 1
+Torslanda IK, 0
+
+LNZ Cherkasy, 0
+Oleksandria, 2
+
+Barcelona, 0
+AS Monaco, 3
+
+CD Illescas, 2
+Rayo Vallecano B, 0
+
+Lecce, 0
+Monopoli, 0

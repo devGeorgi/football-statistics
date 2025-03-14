@@ -304,9 +304,6 @@ SV Horn, 0
 SKN St. Pölten, 3
 Kapfenberger SV, 1
 
-SV Stripfing, 1
-SV Lafnitz, 1
-
 Admira Wacker, 3
 Schwarz-Weiß Bregenz, 2
 
@@ -328,9 +325,6 @@ FCM Traiskirchen, 0
 Young Violets Austria Wien, 3
 SV Gloggnitz, 1
 
-Neftçi Baku PFK, 0
-Turan Tovuz, 0
-
 Sumqayıt FK, 0
 Kəpəz PFK, 0
 
@@ -339,9 +333,6 @@ Dynamo Brest, 0
 
 FK Sloboda Tuzla, 1
 GOŠK Gabela, 1
-
-Botev Vratsa, 0
-FK Krumovgrad, 0
 
 FC CSKA 1948 Sofia, 2
 Lokomotiv Plovdiv, 1
@@ -384,9 +375,6 @@ Al-Masry, 1
 
 Zamalek SC, 2
 Modern Sport FC, 1
-
-Flora Tallinn, 0
-Pärnu JK Vaprus, 1
 
 Bourg-en-Bresse, 1
 Nancy, 0
@@ -498,9 +486,6 @@ Lucchese, 1
 
 SPAL, 0
 Arezzo, 2
-
-Virtus Entella, 3
-Pontedera, 1
 
 Torino U20, 0
 Sassuolo U20, 1
@@ -616,9 +601,6 @@ O'Higgins U20, 0
 Olimpia U20, 2
 Danubio U20, 3
 
-Schaffhausen, 1
-FC Vaduz, 1
-
 Stade Nyonnais, 0
 Étoile Carouge FC, 3
 
@@ -651,9 +633,6 @@ Quy Nhơn Bình Định FC, 0
 
 Briton Ferry Llansawel AFC, 3
 Barry Town, 4
-
-Connah's Quay Nomads, 3
-Aberystwyth Town, 0
 
 Newtown AFC, 2
 Flint Town United, 2

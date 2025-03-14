@@ -1,0 +1,143 @@
+Peñarol, 4
+The Strongest, 0
+
+Botafogo, 2
+Palmeiras, 1
+
+Talleres, 0
+River Plate, 1
+
+RFS, 7
+UE Santa Coloma, 0
+
+Astana, 6
+FC Corvinul Hunedoara, 1
+
+Fehérvár FC, 0
+Omonia Nicosia, 2
+
+Rosario Central, 1
+Fortaleza, 1
+
+LDU, 1
+Lanús, 2
+
+Palestino, 2
+Independiente Medellín, 2
+
+Internacional, 2
+Juventude, 1
+
+Hull City, 1
+Sheffield Wednesday, 2
+
+Plymouth Argyle, 3
+Cheltenham Town, 0
+
+Leeds United, 0
+Middlesbrough, 3
+
+Al-Masry, 0
+ZED FC, 1
+
+Zamalek SC, 1
+Tala'ea El-Gaish, 3
+
+ENPPI, 1
+Al Ahly FC, 1
+
+Pyramids FC, 1
+El Dakhlya, 0
+
+Fredrikstad FK, 1
+Haugesund, 0
+
+Forge FC, 2
+HFX Wanderers FC, 0
+
+Miami FC, 1
+Memphis 901 FC, 5
+
+New Mexico United, 3
+FC Tulsa, 3
+
+Sacramento Republic FC, 2
+El Paso Locomotive FC, 0
+
+Forward Madison FC, 0
+Charlotte Independence, 0
+
+Argentinos Juniors, 5
+Huracán, 6
+
+East Bengal FC, 2
+Altyn Asyr FK, 3
+
+Al-Ahli Club, 0
+Al-Kuwait, 1
+
+Real Madrid, 2
+Atalanta, 0
+
+Levanger, 1
+Mjøndalen, 1
+
+Sandnes Ulf, 0
+Aalesunds FK, 2
+
+Al-Taawoun, 0
+Al-Nassr, 2
+
+Clyde FC, 2
+Rangers B U21, 3
+
+East Stirlingshire, 3
+East Kilbride, 5
+
+Monagas, 1
+Universidad Central, 3
+
+Academia Puerto Cabello, 0
+Deportivo La Guaira, 1
+
+AO Egaleo, 1
+PAS Giannina, 1
+
+Fossombrone, 8
+Orvietana, 9
+
+Ghiviborgo, 4
+Grosseto, 4
+
+Pro Vercelli, 0
+Piacenza, 0
+
+CD Badajoz, 2
+CP Cacereño, 1
+
+CD Cortes, 0
+Utebo FC, 2
+
+Real Murcia, 1
+UD Melilla, 1
+
+SD Ejea, 1
+Lleida Esportiu, 0
+
+San Roque de Lepe, 1
+Recreativo de Huelva, 0
+
+CE Europa, 5
+Girona B, 2
+
+RB Linense, 0
+AD Ceuta, 1
+
+Unión Deportiva Ourense, 1
+Celta Vigo B, 2
+
+Zamora, 3
+Salamanca UDS, 1
+
+CD Arnedo, 0
+SD Logroñés, 4

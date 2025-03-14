@@ -13,9 +13,6 @@ Manchester City, 1
 Liverpool, 2
 Newcastle United, 0
 
-Real Sociedad, 0
-Real Madrid, 1
-
 Ñublense, 1
 Boston River, 1
 
@@ -99,9 +96,6 @@ Al-Taawoun, 0
 
 Al-Riyadh, 0
 Al-Fayha, 0
-
-Al-Khaleej, 1
-Al-Ittihad, 1
 
 Sekhukhune United, 2
 Mamelodi Sundowns, 4
@@ -232,9 +226,6 @@ OFI Crete, 1
 Olympiacos FC, 6
 AEK Athens, 0
 
-Tractor FC, 0
-Sepahan S.C., 0
-
 Esteghlal Khuzestan, 1
 Malavan Bandar Anzali FC, 2
 
@@ -252,9 +243,6 @@ Kedah, 0
 
 AP Brera Strumica, 5
 FK Arsimi 1973, 4
-
-FC Struga Trim & Lum, 1
-KF Gostivar, 0
 
 FK Detonit Plačkovica, 0
 KF Shkëndija, 1
@@ -309,9 +297,6 @@ Etoile Sportive Du Sahel, 0
 
 Fatih Karagümrük, 1
 İskenderun A.Ş., 2
-
-MKE Ankaragücü, 1
-Alanyaspor, 1
 
 Trabzonspor, 5
 Çaykur Rizespor, 2

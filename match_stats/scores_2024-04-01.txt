@@ -1,0 +1,428 @@
+Villarreal, 1
+Atlético Madrid, 2
+
+Cagliari, 1
+Hellas Verona, 1
+
+Sassuolo, 1
+Udinese, 1
+
+Lecce, 0
+Roma, 0
+
+Inter, 2
+Empoli, 0
+
+Portimonense, 3
+Sporting Braga, 5
+
+KRC Genk, 1
+Royale Union Saint-Gilloise, 0
+
+Platense, 1
+Godoy Cruz, 2
+
+Birmingham City, 1
+Preston North End, 0
+
+Coventry City, 1
+Cardiff City, 2
+
+Middlesbrough, 2
+Sheffield Wednesday, 0
+
+Plymouth Argyle, 0
+Bristol City, 1
+
+Rotherham United, 2
+Millwall, 1
+
+Stoke City, 1
+Huddersfield Town, 1
+
+Sunderland, 1
+Blackburn Rovers, 5
+
+Swansea City, 0
+Queens Park Rangers, 1
+
+West Bromwich Albion, 2
+Watford, 2
+
+Ipswich Town, 3
+Southampton, 2
+
+Leeds United, 3
+Hull City, 1
+
+Como, 2
+Südtirol, 0
+
+Cosenza, 1
+Brescia, 2
+
+Lecco, 1
+Cittadella, 1
+
+Parma, 0
+Catanzaro, 2
+
+Pisa, 4
+Palermo, 3
+
+Spezia, 2
+Ascoli, 1
+
+Venezia, 2
+Reggiana, 3
+
+Cremonese, 0
+Feralpisalò, 1
+
+U.C Sampdoria, 4
+Ternana, 1
+
+Ajaccio, 0
+Auxerre, 1
+
+FC Emmen, 0
+FC Groningen, 3
+
+Jong PSV Eindhoven, 2
+Roda JC Kerkrade, 3
+
+Keçiörengücü, 1
+Çorum FK, 2
+
+Şanlıurfaspor, 2
+Sakaryaspor, 0
+
+Central Coast Mariners, 2
+Melbourne City, 1
+
+Stal Mielec, 0
+Lech Poznań, 0
+
+Widzew Łódź, 3
+MKS Korona Kielce, 1
+
+Górnik Zabrze, 1
+Legia Warszawa, 3
+
+FC København, 1
+Brøndby IF, 2
+
+FC Midtjylland, 2
+FC Nordsjælland, 3
+
+Silkeborg IF, 2
+AGF, 2
+
+Blackpool, 0
+Wycombe Wanderers, 0
+
+Bolton Wanderers, 5
+Reading, 2
+
+Bristol Rovers, 0
+Shrewsbury Town, 0
+
+Burton Albion, 1
+Barnsley, 3
+
+Cambridge United, 3
+Wigan Athletic, 1
+
+Carlisle United, 1
+Lincoln City, 3
+
+Charlton Athletic, 0
+Stevenage, 0
+
+Cheltenham Town, 1
+Exeter City, 2
+
+Leyton Orient, 1
+Peterborough United, 2
+
+Northampton Town, 2
+Port Vale, 0
+
+Oxford United, 4
+Fleetwood Town, 0
+
+Grimsby Town, 1
+Bradford City, 1
+
+Crewe Alexandra, 0
+Forest Green Rovers, 3
+
+Harrogate Town, 5
+Gillingham, 1
+
+Mansfield Town, 0
+Accrington Stanley, 0
+
+Morecambe, 2
+Barrow, 1
+
+Newport County, 0
+Crawley Town, 4
+
+Notts County, 3
+Milton Keynes Dons, 3
+
+Stockport County, 1
+AFC Wimbledon, 0
+
+Sutton United, 3
+Swindon Town, 1
+
+Tranmere Rovers, 1
+Colchester United, 1
+
+Walsall, 2
+Salford City, 1
+
+Hyderabad FC, 0
+Mumbai City FC, 3
+
+Dundalk FC, 0
+Drogheda United, 0
+
+Shelbourne, 0
+Derry City, 0
+
+St. Patrick's Athletic, 3
+Sligo Rovers, 0
+
+Waterford FC, 1
+Shamrock Rovers, 2
+
+Galway United, 0
+Bohemian FC, 2
+
+Fredrikstad FK, 0
+Bodø/Glimt, 2
+
+Lillestrøm SK, 2
+Kristiansund BK, 3
+
+Molde FK, 4
+Strømsgodset, 0
+
+Rosenborg BK, 2
+Sandefjord Fotball, 0
+
+Tromsø IL, 2
+SK Brann, 4
+
+Viking FK, 1
+Sarpsborg 08, 0
+
+Al-Ahli, 1
+Al-Ittihad, 0
+
+Al-Hazem, 0
+Damac FC, 0
+
+Al-Raed, 0
+Al-Khaleej, 1
+
+FC Dinamo București, 1
+FC Petrolul Ploieşti, 1
+
+IFK Göteborg, 1
+Djurgårdens IF, 4
+
+IK Sirius, 3
+Halmstads BK, 0
+
+AIK, 1
+Västerås SK, 0
+
+IF Elfsborg, 2
+IFK Värnamo, 2
+
+Yverdon-Sport FC, 0
+Young Boys, 0
+
+FC St. Gallen 1879, 1
+FC Luzern, 1
+
+Grasshopper Club Zürich, 0
+FC Lausanne-Sport, 1
+
+Daejeon Hana Citizen, 2
+Ulsan HD, 0
+
+Pohang Steelers, 1
+Suwon FC, 1
+
+PT Prachuap FC, 2
+Trat FC, 1
+
+Defensores de Belgrano, 0
+San Telmo, 1
+
+Mitre, 0
+Aldosivi, 1
+
+San Martín de Tucumán, 1
+Chaco For Ever, 0
+
+Jorge Wilstermann, 3
+San José, 4
+
+EC Democrata, 4
+Ipatinga, 1
+
+Santiago Morning, 3
+AC Barnechea, 1
+
+Municipal Grecia, 2
+CS Cartaginés, 0
+
+Hobro, 1
+Kolding IF, 1
+
+Hillerød, 4
+Boldklubben af 1893, 0
+
+HB Køge, 5
+AC Horsens, 0
+
+Brabrand, 1
+Esbjerg, 2
+
+FC Roskilde, 0
+Aarhus Fremad, 1
+
+Middelfart, 3
+Thisted, 0
+
+Nykøbing FC, 1
+FA 2000, 0
+
+Fremad Amager, 1
+AB, 0
+
+AFC Fylde, 0
+Gateshead, 0
+
+Aldershot Town, 1
+Dorking Wanderers, 1
+
+Altrincham, 1
+Oldham Athletic, 0
+
+Barnet, 3
+Oxford City, 1
+
+Bromley, 1
+Woking, 1
+
+Chesterfield, 1
+Kidderminster Harriers, 3
+
+Dagenham & Redbridge, 1
+Ebbsfleet United, 1
+
+Eastleigh, 2
+Maidenhead United, 3
+
+Rochdale, 1
+Hartlepool United, 1
+
+Southend United, 4
+Boreham Wood, 2
+
+Wealdstone, 0
+Solihull Moors, 1
+
+Chamois Niortais, 0
+US Orléans, 0
+
+1.FC Phönix Lübeck, 2
+Hannover 96 II U23, 3
+
+Bremer SV, 4
+SSV Jeddeloh, 2
+
+SC Spelle-Venhaus, 0
+SC Weiche Flensburg 08, 3
+
+Víkingur Reykjavík, 5
+Valur Reykjavík, 3
+
+TRAU FC, 0
+Churchill Brothers SC, 2
+
+Persebaya Surabaya, 0
+Dewa United FC, 0
+
+Cobh Ramblers FC, 1
+Longford Town, 1
+
+Wexford FC, 1
+Cork City, 1
+
+Athlone Town, 1
+Treaty United FC, 0
+
+Finn Harps, 2
+Bray Wanderers, 0
+
+University College Dublin, 1
+Kerry FC, 1
+
+Hapoel Jerusalem, 2
+Hapoel Tel Aviv, 0
+
+Aalesunds FK, 1
+Stabæk Fotball, 1
+
+Bryne FK, 3
+IK Start, 1
+
+Kongsvinger, 2
+Ranheim IL, 1
+
+Mjøndalen, 1
+Raufoss, 1
+
+Moss FK, 3
+Lyn FK, 0
+
+Sandnes Ulf, 3
+Egersund, 4
+
+Vålerenga IF, 1
+Sogndal IL, 1
+
+Åsane, 2
+Levanger, 2
+
+Zagłębie Sosnowiec, 0
+GKS Katowice, 4
+
+Motor Lublin, 1
+GKS Tychy, 1
+
+Benfica B U21, 1
+Académico Viseu FC, 1
+
+CD Mafra, 2
+Torreense, 1
+
+PFC Kuban Krasnodar, 1
+Dinamo Makhachkala, 1
+
+IK Brage, 1
+Varbergs BoIS, 0
+
+FC Vaduz, 1
+FC Thun, 0
+
+Rukh Lviv, 1
+LNZ Cherkasy, 0

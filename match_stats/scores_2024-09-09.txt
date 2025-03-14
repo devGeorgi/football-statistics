@@ -1,0 +1,149 @@
+France, 2
+Belgium, 0
+
+Israel, 1
+Italy, 2
+
+Norway, 2
+Austria, 1
+
+Slovenia, 3
+Kazakhstan, 0
+
+Montenegro, 1
+Wales, 2
+
+Türkiye, 3
+Iceland, 1
+
+Cyprus, 0
+Kosovo, 4
+
+Romania, 3
+Lithuania, 1
+
+Madagascar, 1
+Comoros, 1
+
+Lesotho, 0
+Morocco, 1
+
+Equatorial Guinea, 2
+Togo, 2
+
+Niger, 1
+Ghana, 1
+
+Angola, 2
+Sudan, 1
+
+Ethiopia, 0
+DR Congo, 2
+
+Uganda, 2
+Congo Republic, 0
+
+Burundi, 0
+Senegal, 1
+
+Albacete Balompié, 0
+Eibar, 1
+
+CD Castellón, 1
+Cádiz, 3
+
+Botafogo-SP, 1
+Goiás, 0
+
+Ponte Preta, 0
+Chapecoense, 2
+
+Valour FC, 1
+Atlético Ottawa, 1
+
+Mongolia, 2
+East Timor, 0
+
+Macau, 0
+Brunei Darussalam, 1
+
+São Bernardo, 2
+Remo, 2
+
+Universidad de Concepción, 1
+Santiago Morning, 2
+
+Universidad de Chile, 0
+Palestino, 1
+
+Internacional de Palmira, 0
+Deportes Quindío, 0
+
+Llaneros FC, 0
+Bogotá FC, 0
+
+Real Cundinamarca, 0
+Real Cartagena, 0
+
+Real Santander, 0
+Atlético Huila, 0
+
+Tigres FC, 0
+Boca Juniors de Cali, 0
+
+Bogotá FC, 1
+Real Santander, 0
+
+Netherlands U21, 3
+Georgia U21, 1
+
+Virtus Entella, 2
+Ascoli, 1
+
+Guadeloupe, 1
+Suriname, 0
+
+Martinique, 2
+Guyana, 2
+
+Guatemala, 0
+Costa Rica, 0
+
+Curaçao, 4
+Saint Martin, 0
+
+Grenada, 1
+Saint Lucia, 2
+
+Haiti, 6
+Sint Maarten, 0
+
+Aruba, 0
+Puerto Rico, 1
+
+Torpedo Moscow, 2
+Arsenal Tula, 2
+
+Rodina Moscow, 2
+Sokol Saratov, 0
+
+Baltika Kaliningrad, 2
+FC Tyumen, 1
+
+Vasalunds IF, 3
+Hammarby Talang FF, 0
+
+Norrby IF, 0
+Falkenbergs FF, 1
+
+France U19, 2
+Poland U19, 1
+
+England U21, 4
+Austria U21, 1
+
+China U21, 0
+Uzbekistan U21, 0
+
+United Arab Emirates U23, 1
+Bahrain U23, 1

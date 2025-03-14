@@ -265,9 +265,6 @@ Karmiotissa Polemidion, 1
 AEK Larnaca, 4
 Enosis Neon Paralimniou, 1
 
-HJK, 2
-IFK Mariehamn, 1
-
 Aubagne FC, 1
 FC Villefranche Beaujolais, 2
 
@@ -318,9 +315,6 @@ Dewa United FC, 1
 
 Dundalk FC, 1
 Athlone Town, 0
-
-Kerry FC, 2
-Finn Harps, 0
 
 Treaty United FC, 2
 Cobh Ramblers FC, 3

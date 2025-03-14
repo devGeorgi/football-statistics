@@ -1,0 +1,134 @@
+Australia, 3
+China, 1
+
+Atlético Mineiro, 2
+Grêmio, 1
+
+FC Bayern München, 5
+Arsenal Women, 2
+
+Vålerenga, 0
+Juventus, 1
+
+Hammarby IF, 2
+SKN St. Pölten, 0
+
+Manchester City W.F.C., 2
+Barcelona, 0
+
+Botafogo-SP, 3
+Guarani, 2
+
+Paysandu SC, 2
+Chapecoense, 0
+
+América de Cali, 0
+Independiente Medellín, 0
+
+Atlético Bucaramanga, 0
+Deportivo Pereira, 0
+
+Deportes Tolima, 0
+Alianza Valledupar FC, 0
+
+Deportivo La Equidad, 0
+Junior Barranquilla, 0
+
+Jaguares de Córdoba, 0
+Boyacá Chicó FC, 0
+
+Millonarios, 0
+Fortaleza CEIF, 0
+
+Once Caldas, 0
+Deportivo Pasto, 0
+
+Rionegro Águilas Doradas, 0
+Deportivo Cali, 0
+
+Envigado FC, 0
+Deportivo Pasto, 1
+
+Atlético Nacional, 1
+Deportivo Cali, 1
+
+North Carolina FC, 2
+FC Tulsa, 0
+
+El Paso Locomotive FC, 2
+San Antonio FC, 2
+
+New Mexico United, 1
+Phoenix Rising FC, 2
+
+Orange County SC, 2
+Colorado Springs Switchbacks FC, 0
+
+Sacramento Republic FC, 2
+Monterey Bay FC, 2
+
+Wuhan Chegu JHUN, 0
+Incheon Hyundai Steel Red Angels, 2
+
+BG College of Asian Scholars, 0
+Melbourne City, 3
+
+Odisha, 1
+Hồ Chí Minh City, 3
+
+Deportes Puerto Montt, 5
+Huachipato, 1
+
+Coquimbo Unido, 0
+Universidad de Chile, 0
+
+Real Santander, 0
+Cúcuta Deportivo, 2
+
+US Orléans, 4
+Valenciennes, 1
+
+US Virgin Islands, 0
+Barbados, 5
+
+Anguilla, 0
+Belize, 1
+
+British Virgin Islands, 1
+Saint Kitts and Nevis, 3
+
+Altay, 0
+Karaman FK, 1
+
+Giresunspor, 0
+Viranşehir Belediye Spor, 1
+
+Osmaniyespor FK, 1
+Diyarbekir Spor AŞ, 0
+
+Bulvarspor, 0
+İnegölspor, 1
+
+Büyükçekmece Tepecikspor, 0
+Serik Belediyespor, 1
+
+Türk Metal 1963 SK, 1
+Pazarspor, 3
+
+The New Saints, 1
+Caernarfon Town, 2
+
+1. FC Köln, 3
+VfL Bochum 1848, 2
+
+Fortuna Düsseldorf, 0
+Heracles Almelo, 1
+
+Germany U19, 2
+Spain U19, 1
+
+France U19, 1
+Denmark U19, 1
+
+Ireland U19, 2
+Greece U19, 2

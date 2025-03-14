@@ -1,0 +1,200 @@
+Bosnia & Herzegovina, 1
+Netherlands, 1
+
+Hungary, 1
+Germany, 1
+
+Albania, 1
+Ukraine, 2
+
+Czechia, 2
+Georgia, 1
+
+Montenegro, 3
+Türkiye, 1
+
+Wales, 4
+Iceland, 1
+
+Slovakia, 1
+Estonia, 0
+
+Sweden, 6
+Azerbaijan, 0
+
+Malta, 0
+Andorra, 0
+
+Pontevedra CF, 4
+Levante UD, 1
+
+Bolivia, 2
+Paraguay, 2
+
+Colombia, 0
+Ecuador, 1
+
+Argentina, 1
+Peru, 0
+
+Chile, 4
+Venezuela, 2
+
+Brazil, 1
+Uruguay, 1
+
+Egypt, 1
+Botswana, 1
+
+Mauritania, 1
+Cape Verde, 0
+
+Côte d'Ivoire, 4
+Chad, 0
+
+Sierra Leone, 0
+Zambia, 2
+
+Tanzania, 1
+Guinea, 0
+
+DR Congo, 1
+Ethiopia, 2
+
+Guinea-Bissau, 1
+Mozambique, 2
+
+Mali, 6
+Eswatini, 0
+
+Cameroon, 2
+Zimbabwe, 1
+
+Kenya, 0
+Namibia, 0
+
+Congo Republic, 0
+Uganda, 1
+
+South Africa, 3
+South Sudan, 0
+
+Senegal, 2
+Burundi, 0
+
+North Korea, 0
+Uzbekistan, 1
+
+Kyrgyzstan, 2
+Iran, 3
+
+United Arab Emirates, 5
+Qatar, 0
+
+Palestine, 1
+South Korea, 1
+
+Oman, 0
+Iraq, 1
+
+Kuwait, 1
+Jordan, 1
+
+China, 1
+Japan, 3
+
+Indonesia, 2
+Saudi Arabia, 0
+
+Bahrain, 2
+Australia, 2
+
+AFC Wimbledon, 2
+Accrington Stanley, 2
+
+Tajikistan, 3
+Afghanistan, 1
+
+Russia, 4
+Syria, 0
+
+Gibraltar, 1
+Moldova, 1
+
+Bradford City, 0
+Rotherham United, 1
+
+Municipal Liberia, 1
+San Carlos, 2
+
+LD Alajuelense, 2
+Herediano, 0
+
+Czechia U21, 1
+Belgium U21, 1
+
+Norway U21, 2
+Finland U21, 1
+
+Croatia U21, 9
+Georgia U21, 9
+
+Türkgücü München, 0
+SpVgg Greuther Fürth II, 0
+
+Grobiņas SC, 2
+JDFS Alberts, 3
+
+Antigua and Barbuda, 0
+Dominica, 0
+
+Dominican Republic, 6
+Bermuda, 1
+
+Canada, 3
+Suriname, 0
+
+Mexico, 4
+Honduras, 0
+
+Guadeloupe, 1
+Cayman Islands, 0
+
+French Guiana, 2
+Belize, 2
+
+Guyana, 5
+Barbados, 3
+
+Rampla Juniors, 0
+River Plate UY, 3
+
+Hải Phòng, 2
+Hoàng Anh Gia Lai, 0
+
+Hồng Lĩnh Hà Tĩnh, 1
+Hồ Chí Minh City, 1
+
+Becamex Bình Dương, 1
+Nam Định, 4
+
+Đông Á Thanh Hóa, 1
+SHB Đà Nẵng, 0
+
+Bosnia & Herzegovina U21, 1
+Bulgaria U21, 0
+
+Greece U21, 1
+Hungary U21, 1
+
+Türkiye U21, 1
+Serbia U21, 2
+
+France U21, 2
+Germany U21, 2
+
+Italy U21, 2
+Ukraine U21, 2
+
+Spain U21, 2
+Denmark U21, 1

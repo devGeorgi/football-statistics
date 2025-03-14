@@ -1,0 +1,254 @@
+Djibouti, 1
+Ethiopia, 1
+
+DR Congo, 1
+Togo, 0
+
+Mauritania, 0
+Senegal, 1
+
+São Tomé and Príncipe, 0
+Liberia, 1
+
+Namibia, 0
+Tunisia, 0
+
+Criciúma, 2
+Cuiabá, 5
+
+Sporting Gijón, 0
+Espanyol, 1
+
+Avaí, 0
+Chapecoense, 0
+
+América Mineiro, 2
+Ponte Preta, 0
+
+Valour FC, 0
+Atlético Ottawa, 2
+
+York United FC, 2
+Vancouver FC, 2
+
+Birmingham Legion FC, 0
+Indy Eleven, 1
+
+Italy, 1
+Bosnia & Herzegovina, 0
+
+Montenegro, 1
+Georgia, 3
+
+Slovakia, 4
+Wales, 0
+
+France, 0
+Canada, 0
+
+Argentina, 1
+Ecuador, 0
+
+Kansas City Current, 5
+Seattle Reign FC, 2
+
+Real Madrid, 1
+Athletic Bilbao, 0
+
+Barcelona, 5
+Real Betis, 1
+
+FC Levante Badalona, 3
+Valencia, 0
+
+Granada, 0
+Levante UD, 3
+
+Sevilla, 1
+Atlético Madrid, 1
+
+Villarreal CF, 2
+Sporting Huelva, 0
+
+Alvarado, 2
+Arsenal de Sarandí, 1
+
+Defensores Unidos, 0
+Almirante Brown, 1
+
+Deportivo Maipú, 1
+Estudiantes de Buenos Aires, 0
+
+Güemes, 0
+San Martín de Tucumán, 0
+
+Racing de Córdoba, 0
+San Martín de San Juan, 0
+
+San Telmo, 0
+Aldosivi, 0
+
+Deportivo Madryn, 0
+Club Atletico Colón, 0
+
+Chaco For Ever, 1
+Mitre, 1
+
+Club Ferro Carril Oeste, 0
+Talleres Remedios de Escalada, 1
+
+Patronato, 0
+Guillermo Brown, 0
+
+Athletic Club, 3
+Volta Redonda, 2
+
+Botafogo-PB, 1
+Ferroviário, 0
+
+Náutico, 2
+Caxias, 2
+
+Remo, 0
+São Bernardo, 1
+
+CRB, 6
+Fortaleza, 5
+
+Nykøbing FC, 2
+Middelfart, 1
+
+SC Weiche Flensburg 08, 2
+TuS Bersenbrück, 1
+
+Aduana Stars FC, 2
+Nsoatreman FC, 2
+
+Bibiani Gold Stars FC, 2
+Medeama, 0
+
+Bofoakwa Tano, 0
+Berekum Chelsea, 1
+
+Heart of Lions, 2
+Legon Cities, 0
+
+Karela United, 4
+Samartex, 2
+
+Nations FC, 1
+Bechem United, 1
+
+Accra Hearts of Oak, 0
+Accra Great Olympics, 0
+
+Carrarese, 1
+L.R. Vicenza, 0
+
+Bermuda, 1
+Honduras, 6
+
+Grenada, 0
+Costa Rica, 3
+
+Barbados, 1
+Haiti, 3
+
+Montserrat, 1
+Panama, 3
+
+Dominica, 2
+Jamaica, 3
+
+Saint Vincent and the Grenadines, 1
+El Salvador, 3
+
+Aalesunds FK, 4
+Kongsvinger, 4
+
+Bryne FK, 1
+Åsane, 0
+
+IK Start, 1
+Lyn FK, 4
+
+Mjøndalen, 3
+Ranheim IL, 3
+
+Raufoss, 0
+Levanger, 0
+
+Sogndal IL, 2
+Egersund, 2
+
+Stabæk Fotball, 0
+Sandnes Ulf, 0
+
+Vålerenga IF, 5
+Moss FK, 1
+
+Viking FK II, 2
+Notodden FK, 3
+
+Hødd IL, 2
+Arendal, 1
+
+Ørn-Horten, 0
+Lysekloster IL, 2
+
+Eidsvold Turn, 2
+Alta IF, 2
+
+Junkeren, 3
+Ullensaker Kisa, 0
+
+Kaya-Iloilo, 9
+Mendiola FC, 1
+
+Täby FK, 1
+IF Karlstad Fotboll, 2
+
+United IK Nordic, 0
+Umeå, 1
+
+AFC Eskilstuna, 1
+Karlbergs BK, 1
+
+IFK Stocksund, 4
+Örebro Syrianska BK, 1
+
+Sollentuna FF, 0
+Vasalunds IF, 1
+
+FC Trollhättan, 1
+Ängelholms FF, 1
+
+Piteå IF, 1
+Vittsjö GIK, 0
+
+Kristianstads DFF, 2
+BK Häcken FF, 2
+
+South Georgia Tormenta FC, 1
+Greenville Triumph SC, 3
+
+Progreso, 1
+River Plate UY, 0
+
+Rampla Juniors, 0
+Boston River, 0
+
+Cerro Largo, 2
+Danubio, 2
+
+Cerro, 3
+Nacional, 0
+
+Estonia U21, 5
+Latvia U21, 7
+
+Côte d'Ivoire U23, 4
+Mexico U23, 1
+
+France U18, 4
+Saudi Arabia U23, 0

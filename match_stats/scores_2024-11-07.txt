@@ -1,0 +1,206 @@
+Genoa, 1
+Como, 1
+
+Bodø/Glimt, 1
+Qarabağ, 2
+
+Eintracht Frankfurt, 1
+SK Slavia Praha, 0
+
+FCSB, 2
+FC Midtjylland, 0
+
+Galatasaray, 3
+Tottenham Hotspur, 2
+
+IF Elfsborg, 1
+Sporting Braga, 1
+
+Ludogorets, 1
+Athletic Club, 2
+
+Nice, 2
+FC Twente, 2
+
+Olympiacos FC, 1
+Rangers, 1
+
+Royale Union Saint-Gilloise, 1
+Roma, 1
+
+AFC Ajax, 5
+Maccabi Tel Aviv, 0
+
+AZ Alkmaar, 3
+Fenerbahçe, 1
+
+Dynamo Kyiv, 0
+Ferencváros TC, 4
+
+Lazio, 2
+FC Porto, 1
+
+Manchester United, 2
+PAOK, 0
+
+RFS, 1
+RSC Anderlecht, 1
+
+TSG Hoffenheim, 2
+Olympique Lyonnais, 2
+
+Viktoria Plzeň, 2
+Real Sociedad, 1
+
+Víkingur Reykjavík, 2
+FK Borac Banja Luka, 0
+
+FC Petrocub Hîncesti, 0
+SK Rapid Wien, 3
+
+FK TSC Bačka Topola, 4
+FC Lugano, 1
+
+HJK, 0
+NK Olimpija Ljubljana, 2
+
+KAA Gent, 1
+Omonia Nicosia, 0
+
+Legia Warszawa, 4
+Dinamo Minsk, 0
+
+Pafos FC, 1
+Astana, 0
+
+Shamrock Rovers, 2
+The New Saints, 1
+
+APOEL Nicosia, 2
+Fiorentina, 1
+
+Chelsea, 8
+FC Noah, 0
+
+Djurgårdens IF, 2
+Panathinaikos, 1
+
+FC København, 2
+Başakşehir FK, 2
+
+Heart of Midlothian, 0
+1. FC Heidenheim, 2
+
+Jagiellonia Białystok, 3
+Molde FK, 0
+
+LASK, 0
+Cercle Brugge, 0
+
+Larne FC, 1
+FC St. Gallen 1879, 2
+
+Real Betis, 2
+NK Celje, 1
+
+Vitória SC, 2
+Mladá Boleslav, 1
+
+Talleres, 1
+Lanús, 2
+
+Defensa y Justicia, 2
+Argentinos Juniors, 1
+
+Platense, 0
+Deportivo Riestra, 0
+
+Vélez Sarsfield, 1
+Tigre, 0
+
+West Bromwich Albion, 0
+Burnley, 0
+
+Western Sydney Wanderers, 4
+Newcastle Jets, 1
+
+Junior Barranquilla, 0
+Millonarios, 0
+
+Deportivo Pasto, 3
+América de Cali, 1
+
+Deportivo Pereira, 1
+Atlético Nacional, 1
+
+Al-Ittihad Alexandria, 1
+Haras El Hedoud, 0
+
+Ghazl El Mahalla, 2
+Tala'ea El-Gaish, 3
+
+Kerala Blasters, 1
+Hyderabad FC, 2
+
+Al-Qadsiah, 2
+Al-Fayha, 0
+
+Al-Kholood, 0
+Al-Shabab, 2
+
+Al-Orobah, 0
+Al-Ittihad, 2
+
+Western United, 0
+Central Coast Mariners, 0
+
+MC Oran, 1
+ES Sétif, 0
+
+Eastern SC, 1
+Kaya-Iloilo, 2
+
+Lion City Sailors, 2
+Persib Bandung, 3
+
+Zhejiang, 1
+Port FC, 2
+
+Neftçi Baku PFK, 2
+Şamaxı FK, 2
+
+FC CSKA 1948 Sofia, 1
+CSKA Sofia, 3
+
+Santos de Guápiles, 1
+Municipal Santa Ana, 0
+
+Municipal Pérez Zeledón, 1
+Deportivo Saprissa, 2
+
+Skive, 2
+AGF, 3
+
+Gżira United FC, 1
+Ħamrun Spartans FC, 2
+
+Marsaxlokk FC, 1
+Hibernians, 1
+
+Birkirkara FC, 1
+Floriana FC, 3
+
+Naxxar Lions FC, 0
+Sliema Wanderers, 3
+
+Tepatitlán FC, 1
+CD Tapatío, 1
+
+Dorados de Sinaloa, 3
+Atlante FC, 1
+
+Ruch Chorzów, 5
+Chrobry Głogów, 0
+
+CSC 1599 Șelimbăr, 0
+CSM Reşiţa, 3

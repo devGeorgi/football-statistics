@@ -28,9 +28,6 @@ Parma, 0
 1. FC Heidenheim, 2
 1. FC Union Berlin, 0
 
-1. FSV Mainz 05, 2
-VfL Bochum 1848, 0
-
 FC St. Pauli, 0
 Eintracht Frankfurt, 1
 
@@ -94,17 +91,11 @@ Celtic, 4
 Hibernian, 3
 Motherwell, 1
 
-St. Mirren, 0
-Dundee United, 1
-
 Birmingham City, 2
 Lincoln City, 1
 
 Bristol City, 1
 Wolverhampton, 2
-
-Middlesbrough, 0
-Blackburn Rovers, 1
 
 Liverpool, 4
 Accrington Stanley, 0
@@ -382,9 +373,6 @@ América-SE, 1
 AO Itabaiana, 2
 AD Carmópolis, 1
 
-San Carlos, 0
-Deportivo Saprissa, 1
-
 LD Alajuelense, 6
 Municipal Santa Ana, 3
 
@@ -556,9 +544,6 @@ Clyde FC, 0
 Edinburgh City F.C., 0
 Peterhead, 1
 
-Forfar Athletic, 1
-Elgin City, 1
-
 Stirling Albion, 0
 The Spartans FC, 0
 
@@ -582,9 +567,6 @@ Flint Town United, 0
 
 Cardiff Met FC, 0
 The New Saints, 0
-
-Connah's Quay Nomads, 0
-Bala Town, 0
 
 Newtown AFC, 0
 Penybont, 0

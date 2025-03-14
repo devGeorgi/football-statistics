@@ -109,9 +109,6 @@ CA Independiente, 3
 Club Atlético Unión de Santa Fe, 1
 Boca Juniors, 1
 
-Huracán, 0
-Estudiantes de La Plata, 0
-
 River Plate, 1
 Instituto De Córdoba, 0
 
@@ -174,9 +171,6 @@ Atlético Bucaramanga, 1
 
 AD Guanacasteca, 1
 Puntarenas FC, 1
-
-San Carlos, 0
-LD Alajuelense, 0
 
 Deportivo Saprissa, 1
 Santos de Guápiles, 0

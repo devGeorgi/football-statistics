@@ -4,7 +4,7 @@ import os
 from datetime import datetime, timedelta
 
 # Configuration - Edit these dates as needed
-start_date = datetime.now() - timedelta(days=90)
+start_date = datetime.now() - timedelta(days=365)
 end_date = datetime.now() - timedelta(days=1)
 DATES = [(start_date + timedelta(days=i)).strftime("%Y-%m-%d") for i in range((end_date - start_date).days + 1)]
 
@@ -13,6 +13,7 @@ HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36"
 }
 OUTPUT_DIR = "match_stats"
+PROCESSED_DATES_FILE = "processed_dates.json"
 
 def initialize_team():
     """Return a new team structure with default values"""
@@ -28,6 +29,18 @@ def create_directory():
     """Create output directory if it doesn't exist"""
     if not os.path.exists(OUTPUT_DIR):
         os.makedirs(OUTPUT_DIR)
+
+def load_processed_dates():
+    """Load processed dates from file"""
+    if os.path.exists(PROCESSED_DATES_FILE):
+        with open(PROCESSED_DATES_FILE, 'r', encoding='utf-8') as f:
+            return set(json.load(f))
+    return set()
+
+def save_processed_dates(processed_dates):
+    """Save processed dates to file"""
+    with open(PROCESSED_DATES_FILE, 'w', encoding='utf-8') as f:
+        json.dump(list(processed_dates), f, indent=4)
 
 def get_matches(date):
     """Fetch matches for a specific date"""
@@ -48,8 +61,14 @@ def process_matches(date, events, teams, processed_matches):
         try:
             ht = event['homeTeam']['name']
             at = event['awayTeam']['name']
-            hsc = event.get('homeScore', {}).get('current', 0)
-            asc = event.get('awayScore', {}).get('current', 0)
+            hsc = event.get('homeScore', {}).get('current', None)
+            asc = event.get('awayScore', {}).get('current', None)
+            
+            # Skip unplayed or postponed matches where scores are None
+            if hsc is None or asc is None:
+                print(f"Skipping unplayed/postponed match: {ht} vs {at}")
+                continue
+                
             match_id = (ht, at, hsc, asc)
 
             # Skip if match already processed
@@ -70,9 +89,13 @@ def process_matches(date, events, teams, processed_matches):
             elif hsc < asc:
                 ht_result = 'l'
                 at_result = 'w'
-            else:
+            elif hsc == asc:
                 ht_result = 'd'
                 at_result = 'd'
+            else:
+                # This should not happen, but just in case
+                print(f"Unexpected score situation: {ht} {hsc} - {asc} {at}")
+                continue
 
             # Update home team stats
             if hsc > asc:
@@ -85,7 +108,7 @@ def process_matches(date, events, teams, processed_matches):
                 teams[ht]["winstreak"] = 0
                 teams[ht]["games_without_win"] += 1
                 teams[ht]["games_without_loss"] = 0
-            else:
+            elif hsc == asc:
                 teams[ht]["winstreak"] = 0
                 teams[ht]["losestreak"] = 0
                 teams[ht]["games_without_win"] += 1
@@ -102,7 +125,7 @@ def process_matches(date, events, teams, processed_matches):
                 teams[at]["winstreak"] = 0
                 teams[at]["games_without_win"] += 1
                 teams[at]["games_without_loss"] = 0
-            else:
+            elif asc == hsc:
                 teams[at]["winstreak"] = 0
                 teams[at]["losestreak"] = 0
                 teams[at]["games_without_win"] += 1
@@ -120,12 +143,6 @@ def process_matches(date, events, teams, processed_matches):
 
             # Create match record for output file
             match_records.append(f"{ht}, {hsc}\n{at}, {asc}")
-            
-            # Print match details
-            print(f"Match: {ht} {hsc} - {asc} {at}")
-            print(f"{ht} stats: {json.dumps(teams[ht], indent=2)}")
-            print(f"{at} stats: {json.dumps(teams[at], indent=2)}")
-            print("-" * 40)
 
         except KeyError as e:
             print(f"Error processing match: Missing key {e}")
@@ -167,8 +184,13 @@ def main():
 
     create_directory()
     processed_matches = set()
+    processed_dates = load_processed_dates()
 
     for date in DATES:
+        if date in processed_dates:
+            print(f"\nSkipping {date}, already processed.")
+            continue
+
         print(f"\nProcessing {date}...")
         events = get_matches(date)
         
@@ -178,6 +200,9 @@ def main():
             
         match_records = process_matches(date, events, teams, processed_matches)
         save_data(date, match_records, teams)
+        processed_dates.add(date)
+
+    save_processed_dates(processed_dates)
 
 if __name__ == "__main__":
     main()

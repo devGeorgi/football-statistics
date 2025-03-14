@@ -301,12 +301,6 @@ CSC 1599 Șelimbăr, 0
 FCU 1948 Craiova, 0
 FC Argeș Pitești, 1
 
-Airdrieonians, 1
-Raith Rovers, 0
-
-Hamilton Academical, 1
-Dunfermline Athletic, 0
-
 Livingston, 3
 Greenock Morton, 2
 

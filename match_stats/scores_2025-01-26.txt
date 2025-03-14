@@ -22,9 +22,6 @@ Leganés, 0
 Barcelona, 7
 Valencia, 1
 
-Udinese, 1
-Roma, 2
-
 Lecce, 0
 Inter, 4
 
@@ -45,9 +42,6 @@ Olympique Lyonnais, 1
 
 RC Lens, 1
 Angers, 0
-
-Toulouse, 1
-Montpellier, 2
 
 Nice, 2
 Olympique de Marseille, 0
@@ -139,9 +133,6 @@ Portuguesa, 1
 Botafogo-SP, 0
 São Bernardo, 1
 
-São Paulo, 3
-Corinthians, 1
-
 Guarani, 2
 EC Noroeste, 0
 
@@ -180,9 +171,6 @@ Once Caldas, 0
 
 Al-Ittihad Alexandria, 1
 Ismaily, 0
-
-Tala'ea El-Gaish, 0
-Pharco FC, 0
 
 Al Ahly FC, 2
 Pyramids FC, 2
@@ -379,9 +367,6 @@ Arminia Bielefeld, 4
 SC Wiedenbrück, 0
 SV Rödinghausen, 1
 
-Turkspor Dortmund 2000, 0
-MSV Duisburg, 3
-
 Asante Kotoko SC, 1
 Karela United, 0
 
@@ -450,9 +435,6 @@ Alcione Milano, 1
 
 AlbinoLeffe, 0
 Giana Erminio, 3
-
-Caldiero Terme, 2
-Trento, 0
 
 Triestina, 1
 Lecco, 1
@@ -561,9 +543,6 @@ Espérance Tunis, 2
 
 Club Africain, 0
 US Ben Guerdane, 0
-
-Club Nacional, 2
-Peñarol, 1
 
 Rayo Zuliano, 1
 Caracas F.C., 1

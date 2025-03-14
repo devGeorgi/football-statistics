@@ -1,0 +1,110 @@
+Independiente Del Valle, 2
+Liverpool UY, 1
+
+Palmeiras, 0
+San Lorenzo, 0
+
+Libertad, 2
+Nacional, 1
+
+River Plate, 2
+Deportivo Táchira, 0
+
+Saint-Étienne, 2
+Metz, 1
+
+Cruzeiro, 1
+Universidad Católica del Ecuador, 0
+
+Unión La Calera, 0
+Alianza Valledupar FC, 1
+
+Athletico, 0
+Sportivo Ameliano, 1
+
+Danubio, 0
+Rayo Zuliano, 0
+
+FK Inđija, 1
+FK Železničar Pančevo, 2
+
+Cremonese, 0
+Venezia, 0
+
+Sakaryaspor, 1
+Bodrum FK, 3
+
+MFK Vyškov, 0
+MFK Karviná, 1
+
+SK Dynamo České Budějovice, 2
+FC Silon Táborsko, 1
+
+Sagan Tosu, 0
+FC Tokyo, 1
+
+USM Alger, 0
+ES Ben Aknoun, 2
+
+FC Minsk, 0
+Shakhtyor Soligorsk, 0
+
+FK Gomel, 0
+Vitebsk, 0
+
+CD Real Santa Cruz, 2
+San José, 3
+
+Ypiranga FC, 1
+Figueirense, 0
+
+Botev Vratsa, 5
+FC Marek 1915 Dupnitsa, 3
+
+Al-Masry, 1
+Gomhoryet Shebin, 0
+
+Ismaily, 2
+Canal SC, 1
+
+Zamalek SC, 0
+Proxy SC, 0
+
+Portugal U17, 2
+Poland U17, 1
+
+Italy U17, 6
+England U17, 5
+
+Valur Reykjavík, 5
+Stjarnan Garðabær, 1
+
+Breidablik Kópavogur, 1
+Víkingur Reykjavík, 1
+
+Borneo FC Samarinda, 4
+Bali United FC, 2
+
+Motor Lublin, 4
+Górnik Łęczna, 2
+
+MZKS Arka Gdynia, 4
+OKS Odra Opole, 2
+
+Thể Công - Viettel, 2
+Hải Phòng, 1
+
+Becamex Bình Dương, 1
+Hồ Chí Minh City, 2
+
+Nam Định, 1
+Sông Lam Nghệ An, 1
+
+Roma, 5
+Milan, 2
+
+Venezuela, 0
+Colombia, 2
+
+Australia, 1
+China, 1

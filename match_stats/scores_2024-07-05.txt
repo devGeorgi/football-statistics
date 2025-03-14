@@ -1,0 +1,344 @@
+Spain, 2
+Germany, 1
+
+Portugal, 3
+France, 5
+
+Venezuela, 4
+Canada, 5
+
+Club Puebla, 1
+Santos Laguna, 0
+
+Querétaro FC, 1
+Club Tijuana, 2
+
+FC Juárez, 2
+Atlas FC, 2
+
+Ceará, 0
+Santos, 1
+
+Brusque, 0
+Ponte Preta, 0
+
+Tianjin Jinmen Tiger, 2
+Changchun Yatai, 2
+
+Shanghai Shenhua, 6
+Shandong Taishan, 0
+
+Kashima Antlers, 2
+Hokkaido Consadole Sapporo, 0
+
+Machida Zelvia, 1
+Nagoya Grampus, 0
+
+Tokyo Verdy, 1
+Cerezo Osaka, 1
+
+Albirex Niigata, 3
+Sagan Tosu, 4
+
+Jubilo Iwata, 2
+Kawasaki Frontale, 2
+
+Urawa Red Diamonds, 2
+Shonan Bellmare, 3
+
+Gamba Osaka, 4
+Yokohama F. Marinos, 0
+
+Kashiwa Reysol, 3
+FC Tokyo, 2
+
+Forge FC, 3
+Vancouver FC, 3
+
+Charleston Battery, 2
+Birmingham Legion FC, 0
+
+Rhode Island FC, 3
+Indy Eleven, 3
+
+South Georgia Tormenta FC, 0
+One Knoxville SC, 1
+
+Portland Thorns FC, 1
+San Diego Wave FC, 0
+
+Jeju SK, 3
+FC Seoul, 2
+
+Daegu FC, 3
+Pohang Steelers, 3
+
+Gimpo FC, 3
+Chungnam Asan FC, 3
+
+Busan I Park, 2
+Bucheon FC 1995, 2
+
+Atlético de Rafaela, 0
+Gimnasia y Tiro de Salta, 0
+
+Torpedo-BelAZ Zhodino, 3
+Slavia Mozyr, 0
+
+XV de Piracicaba, 4
+União São João, 2
+
+Jiangxi Dingnan United, 1
+Guangzhou FC, 3
+
+Jiangxi Lushan FC, 0
+Guangxi Pingguo Haliao, 1
+
+Nanjing City, 0
+Shanghai Jiading Huilong, 0
+
+Shijiazhuang Gongfu, 2
+Wuxi Wugou, 4
+
+Yunnan Yukun, 2
+Foshan Nanshi, 0
+
+JäPS, 0
+KTP, 0
+
+Fujieda MYFC, 3
+Mito Hollyhock, 1
+
+Iwaki FC, 0
+Oita Trinita, 1
+
+Ventforet Kofu, 1
+Tokushima Vortis, 3
+
+Yokohama FC, 1
+Blaublitz Akita, 0
+
+Shimizu S-Pulse, 2
+JEF United Chiba, 0
+
+Fagiano Okayama, 2
+Vegalta Sendai, 0
+
+Montedio Yamagata, 1
+Tochigi SC, 0
+
+Renofa Yamaguchi FC, 1
+Kagoshima United, 0
+
+V-Varen Nagasaki, 2
+Roasso Kumamoto, 0
+
+RFS, 7
+FS Jelgava, 0
+
+FK Kauno Žalgiris, 1
+FK Žalgiris, 0
+
+Šiauliai FA, 1
+FK Transinvest, 0
+
+Manila Montet FC, 0
+Manila Digger FC, 0
+
+Tuloy FC, 6
+Loyola FC, 2
+
+DH Cebu FC, 1
+Stallion Laguna, 2
+
+DH Cebu FC, 0
+Mendiola FC, 0
+
+Don Bosco Garelli United, 0
+Manila Digger FC, 7
+
+Loyola FC, 0
+Kaya-Iloilo, 0
+
+Albirex Niigata Singapore, 0
+Geylang International, 6
+
+Young Lions, 0
+Tampines Rovers, 2
+
+BK Häcken FF, 7
+Trelleborgs FF, 0
+
+Norrköping DFK, 2
+Kristianstads DFF, 0
+
+Hammarby IF, 4
+AIK, 0
+
+Piteå IF, 0
+Linköpings FC, 2
+
+Vittsjö GIK, 0
+Rosengård, 3
+
+Hồng Lĩnh Hà Tĩnh, 3
+PVF-Công An Nhân Dân, 2
+
+AFC Ajax, 0
+PEC Zwolle, 1
+
+WSG Tirol, 2
+FC Vaduz, 4
+
+MTK Budapest, 1
+FK Čukarički, 1
+
+AC Sparta Praha, 3
+FC Spartak Trnava, 0
+
+Basel, 1
+Eintracht Braunschweig, 1
+
+SF Siegen, 0
+1. FC Köln, 6
+
+NK Nafta Lendava 1903, 0
+Zagłębie Lubin, 1
+
+FK Spartak Subotica, 2
+GFK Sloboda Užice, 0
+
+FC Slovan Liberec, 2
+FC Universitatea Cluj, 0
+
+SV Tillmitsch, 0
+DSV Leoben, 4
+
+Wolfsberger AC, 3
+Kalcer Radomlje, 2
+
+FC Winterthur, 4
+Kufstein, 0
+
+SC Weiz, 2
+Kapfenberger SV, 1
+
+Young Violets Austria Wien, 3
+Floridsdorfer AC, 2
+
+Zenit St. Petersburg, 1
+Talleres, 0
+
+Ilzer SV, 4
+Deutschlandsberger SC, 0
+
+SC Cambuur, 3
+VfB Oldenburg, 2
+
+Aberystwyth Town, 0
+Radcliffe FC, 1
+
+Beşiktaş, 0
+Ümraniyespor, 0
+
+ESMTK, 1
+III. Kerületi TVE, 0
+
+FC Marek 1915 Dupnitsa, 0
+Slavia Sofia, 2
+
+Szentlőrinc SE, 6
+Pécsi MFC, 1
+
+FC Lendorf, 7
+FC Rothenthurn, 0
+
+HNK Gorica, 1
+FK Hebar Pazardzhik, 0
+
+Kaposvári Rákóczi, 3
+Kozármisleny FC, 2
+
+Schwarz-Weiß Bregenz, 1
+SC Rheindorf Altach, 2
+
+AS Monaco, 0
+Servette FC, 1
+
+FC Hradec Králové, 2
+Sparta Praha B U21, 0
+
+FC Liefering, 5
+SK Bischofshofen, 1
+
+FC Sellier & Bellot Vlašim, 2
+FC Silon Táborsko, 3
+
+FK Spišská Nová Ves, 0
+MFK Tatran Liptovský Mikuláš, 1
+
+FK Železiarne Podbrezová, 5
+FC Zbrojovka Brno, 2
+
+GKS Katowice, 2
+OKS Odra Opole, 0
+
+Gyirmót Győr, 1
+ŠK Slovan Bratislava B U21, 0
+
+KFC Komárno, 4
+FK Pohronie, 0
+
+MKS Chojniczanka Chojnice, 1
+Olimpia Grudziądz, 2
+
+Mladá Boleslav, 2
+Vysočina Jihlava, 1
+
+MŠK Púchov, 5
+SK Hanácká Slavia Kroměříž, 0
+
+NK Olimpija Ljubljana, 3
+1. FC Slovácko, 1
+
+NK Slaven Belupo, 0
+Kecskemét TE, 0
+
+Neuchâtel Xamax, 1
+SR Delemont, 0
+
+Podbeskidzie Bielsko-Biała, 2
+FC Zlín, 4
+
+Puszcza Niepołomice, 1
+Polonia Bytom, 1
+
+SC Brühl SG, 1
+FC Wil 1900, 5
+
+SK Líšeň, 2
+MFK Skalica, 2
+
+SK Sigma Olomouc, 2
+MŠK Žilina, 0
+
+Érdi VSE, 2
+Budaörsi SC, 2
+
+ŁKS Łódź, 3
+Stal Mielec, 1
+
+Zawisza Bydgoszcz, 0
+GKS Wikielec, 2
+
+Eintracht Mahlsdorf, 2
+FSV Luckenwalde, 4
+
+TSV Hartberg, 2
+SV Lafnitz, 3
+
+Guiseley, 0
+Huddersfield Town, 7
+
+Costa Rica U20, 1
+El Salvador U20, 0

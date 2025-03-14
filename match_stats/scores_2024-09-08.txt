@@ -1,0 +1,365 @@
+Croatia, 1
+Poland, 0
+
+Portugal, 2
+Scotland, 1
+
+Denmark, 2
+Serbia, 0
+
+Switzerland, 1
+Spain, 4
+
+Slovakia, 2
+Azerbaijan, 0
+
+Sweden, 3
+Estonia, 0
+
+Luxembourg, 0
+Belarus, 1
+
+Bulgaria, 1
+Northern Ireland, 0
+
+Gibraltar, 2
+Liechtenstein, 2
+
+Gambia, 1
+Tunisia, 2
+
+Racing de Ferrol, 0
+Mirandés, 0
+
+FC Cartagena, 0
+Levante UD, 1
+
+CD Eldense, 1
+Almería, 0
+
+Real Zaragoza, 3
+Elche, 0
+
+Ceará, 2
+Operário-PR, 1
+
+América Mineiro, 3
+Guarani, 0
+
+Coritiba, 2
+Novorizontino, 2
+
+SC Telstar, 4
+MVV Maastricht, 0
+
+Huachipato, 1
+O'Higgins, 0
+
+Independiente Santa Fe, 0
+Boyacá Chicó FC, 0
+
+Once Caldas, 1
+Millonarios, 1
+
+Alianza Valledupar FC, 1
+Fortaleza CEIF, 1
+
+Deportivo Pasto, 1
+Independiente Medellín, 0
+
+Malaysia, 1
+Lebanon, 0
+
+NJ/NY Gotham FC, 2
+Houston Dash, 1
+
+Chicago Red Stars, 0
+Orlando Pride, 1
+
+San Diego Wave FC, 1
+North Carolina Courage, 4
+
+Deportivo Abanca, 0
+Barcelona, 3
+
+Valencia, 1
+FC Levante Badalona, 1
+
+San Telmo, 3
+Atlético de Rafaela, 2
+
+Brown de Adrogué, 2
+Almirante Brown, 2
+
+Defensores de Belgrano, 2
+Defensores Unidos, 0
+
+Guillermo Brown, 0
+San Martín de Tucumán, 1
+
+Alvarado, 0
+Club Ferro Carril Oeste, 2
+
+Gimnasia Jujuy, 2
+Gimnasia y Tiro de Salta, 0
+
+Gimnasia y Esgrima Mendoza, 1
+Mitre, 1
+
+Racing de Córdoba, 1
+San Miguel, 0
+
+All Boys, 0
+Estudiantes de Buenos Aires, 0
+
+Deportivo Morón, 2
+Estudiantes de Río Cuarto, 1
+
+Patronato, 1
+Quilmes Atlético Club, 1
+
+KFC Sparta Petegem, 1
+SV Zulte Waregem, 3
+
+K. Lyra-Lierse, 3
+RFC Meux, 0
+
+KVV Thes Sport Tessenderlo, 3
+RFC Seraing, 6
+
+Koninklijke Lierse Sportkring, 3
+KFC Houtvenne, 2
+
+Lommel SK, 0
+Belisia Bilzen SV, 1
+
+RFC Liège, 3
+ET.Elsautoise, 1
+
+Royal Knokke FC, 3
+OC Charleroi, 5
+
+Union Rochefortoise, 6
+Hamme, 5
+
+KMSK Deinze, 3
+SC Dikkelvenne, 0
+
+Botafogo-PB, 0
+Volta Redonda, 0
+
+Antofagasta, 3
+Deportes Santa Cruz, 2
+
+Deportes Temuco, 1
+Curicó Unido, 1
+
+Rangers de Talca, 1
+Unión San Felipe, 1
+
+Huachipato, 0
+CD Imperial Unido, 0
+
+Coquimbo Unido, 1
+Deportes Iquique, 0
+
+Orsomarso, 1
+Leones FC, 1
+
+Boca Juniors de Cali, 1
+Internacional de Palmira, 2
+
+Gibraltar U21, 0
+North Macedonia U21, 2
+
+FC St Pauli II U23, 2
+Blau-Weiss Lohne, 1
+
+SV Werder Bremen II U23, 4
+SV Meppen, 1
+
+Bremer SV, 1
+TSV Havelse, 2
+
+SV Drochtersen/Assel, 2
+Eintracht Norderstedt, 1
+
+1. FSV Mainz 05 II U23, 0
+1. Göppinger SV, 0
+
+Eintracht Trier, 0
+Kickers Offenbach, 3
+
+Accra Hearts of Oak, 0
+Basake Holy Stars FC, 1
+
+Aduana Stars FC, 1
+Heart of Lions, 1
+
+Bibiani Gold Stars FC, 2
+Legon Cities, 1
+
+Karela United, 0
+Asante Kotoko SC, 1
+
+Nations FC, 0
+Bechem United, 0
+
+Nsoatreman FC, 2
+Young Apostles FC, 0
+
+Medeama, 1
+Accra Lions FC, 0
+
+Deportivo Achuapa, 0
+Juventud Pinulteca FC, 0
+
+Deportivo Achuapa, 2
+CSD Zacapa, 2
+
+Pro Vercelli, 0
+Giana Erminio, 1
+
+Triestina, 0
+Caldiero Terme, 1
+
+Arzignano Valchiampo, 1
+Padova, 4
+
+Pianese, 2
+US Campobasso 1919, 0
+
+Carpi, 2
+Perugia, 0
+
+Legnago Salus, 0
+Vis Pesaro, 1
+
+Pontedera, 4
+Sestri Levante, 1
+
+SPAL, 2
+Lucchese, 3
+
+Torres, 0
+Milan Futuro, 0
+
+Sorrento, 2
+Team Altamura, 1
+
+Avellino, 0
+Audace Cerignola, 0
+
+Benevento, 4
+Potenza Calcio, 1
+
+Foggia, 1
+Monopoli, 4
+
+Giugliano, 0
+Cavese, 0
+
+Alebrijes de Oaxaca, 1
+Venados, 0
+
+Saint Vincent and the Grenadines, 2
+Montserrat, 0
+
+El Salvador, 2
+Bonaire, 1
+
+Eik-Tønsberg, 1
+SK Brann II, 2
+
+Vard Haugesund, 2
+Hødd IL, 0
+
+Arendal, 0
+Sotra, 1
+
+Vålerenga IF II, 2
+Junkeren, 5
+
+Ullensaker Kisa, 2
+Tromsdalen UIL, 1
+
+Arna-Bjørnar, 1
+Kolbotn, 2
+
+Lyn, 0
+Stabæk Fotball, 1
+
+SK Brann Kvinner, 1
+Åsane, 0
+
+Neftekhimik Nizhnekamsk, 0
+Enisey Krasnoyarsk, 1
+
+Ayr United, 3
+Raith Rovers, 2
+
+Queen's Park FC, 1
+Edinburgh City F.C., 0
+
+Friska Viljor FC, 3
+IFK Stocksund, 3
+
+FBK Karlstad, 1
+IF Karlstad Fotboll, 1
+
+Assyriska FF, 2
+Piteå IF, 1
+
+Onsala BK, 0
+BK Olympic, 2
+
+Ängelholms FF, 2
+Jönköpings Södra, 2
+
+FC Trollhättan, 0
+Lunds BK, 2
+
+Hammarby IF, 1
+Kristianstads DFF, 2
+
+Piteå IF, 3
+Trelleborgs FF, 1
+
+Vittsjö GIK, 0
+Djurgårdens IF DFF, 0
+
+Al Bataeh, 2
+Al-Jazira, 1
+
+Dibba Al-Hisn, 0
+Baniyas, 3
+
+Ajman, 1
+Shabab Al-Ahli Dubai, 1
+
+Rampla Juniors, 2
+Progreso, 0
+
+Fénix, 1
+Cerro Largo, 0
+
+Danubio, 2
+Boston River, 0
+
+Nacional, 1
+Liverpool UY, 0
+
+Estonia U19, 2
+Czechia U19, 3
+
+Argentina U20, 1
+Costa Rica U20, 0
+
+Netherlands U20, 0
+North Korea U20, 2
+
+Austria U20, 0
+Japan U20, 2
+
+New Zealand U20, 1
+Ghana U20, 3

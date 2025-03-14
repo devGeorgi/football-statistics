@@ -1,0 +1,104 @@
+Türkiye, 3
+Georgia, 1
+
+Portugal, 2
+Czechia, 1
+
+Guarani, 3
+Ituano, 3
+
+Novorizontino, 1
+Amazonas FC, 1
+
+Paysandu SC, 1
+CRB, 1
+
+Smouha, 3
+El Dakhlya, 2
+
+Al-Ittihad Alexandria, 0
+Al Ahly FC, 1
+
+ZED FC, 2
+Pharco FC, 2
+
+Yokohama F. Marinos, 3
+Sanfrecce Hiroshima, 2
+
+Las Vegas Lights, 3
+Colorado Springs Switchbacks FC, 3
+
+Lokomotiv Gomel, 0
+FC Isloch Minsk Region, 5
+
+FC Molodechno, 0
+Torpedo-BelAZ Zhodino, 2
+
+São Bernardo, 0
+Sampaio Corrêa, 0
+
+San Antonio Unido, 6
+Unión La Calera, 5
+
+Juvenil Seminario, 2
+Deportes Magallanes, 5
+
+Ganzhou Ruishi FC, 1
+Nantong Zhiyun, 3
+
+Langfang Glory City FC, 3
+Qingdao Hainiu, 5
+
+Nõmme Kalju, 2
+Tallinna Kalev, 0
+
+Paide Linnameeskond, 0
+Pärnu JK Vaprus, 1
+
+Fylkir Reykjavík, 3
+IF Vestri, 2
+
+Fram Reykjavík, 1
+HK Kópavogur, 2
+
+Stjarnan Garðabær, 4
+FH Hafnarfjörður, 2
+
+ÍA Akranes, 2
+KR Reykjavík, 1
+
+Valur Reykjavík, 2
+Víkingur Reykjavík, 2
+
+Dainava Alytus, 2
+Šiauliai FA, 2
+
+Bucheon FC 1995, 2
+Gwangju FC, 3
+
+Gimpo FC, 1
+Jeonbuk Hyundai Motors, 0
+
+Incheon United, 4
+Gimcheon Sangmu FC, 3
+
+Pohang Steelers, 6
+Suwon Samsung Bluewings, 5
+
+Seongnam FC, 6
+Cheongju FC, 5
+
+Ulsan HD, 7
+Gyeongnam FC, 4
+
+Daejeon Hana Citizen, 7
+Jeju SK, 8
+
+FC Seoul, 5
+Gangwon FC, 4
+
+Quảng Nam, 4
+Sông Lam Nghệ An, 2
+
+Đông Á Thanh Hóa, 1
+Khánh Hoà, 1

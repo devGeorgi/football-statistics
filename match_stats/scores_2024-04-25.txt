@@ -1,0 +1,170 @@
+Brighton & Hove Albion, 0
+Manchester City, 4
+
+Udinese, 1
+Roma, 2
+
+Cerro Porteño, 0
+Fluminense, 0
+
+Cobresal, 0
+Talleres, 2
+
+Barcelona SC, 0
+São Paulo, 2
+
+Palestino, 3
+Millonarios, 1
+
+Club Always Ready, 2
+Universidad César Vallejo, 0
+
+Independiente Medellín, 2
+Defensa y Justicia, 1
+
+Delfín, 1
+Internacional, 2
+
+Fortaleza, 4
+Boca Juniors, 2
+
+Nacional Asunción, 2
+Racing de Montevideo, 2
+
+Metropolitanos, 0
+Lanús, 2
+
+SC Heerenveen, 0
+PSV Eindhoven, 8
+
+Go Ahead Eagles, 1
+Feyenoord, 3
+
+Royal Antwerp FC, 0
+Royale Union Saint-Gilloise, 3
+
+Brisbane Roar, 3
+Adelaide United, 4
+
+Qingdao West Coast, 0
+Nantong Zhiyun, 2
+
+Shenzhen Peng City, 1
+Qingdao Hainiu, 3
+
+Cangzhou Mighty Lions, 2
+Henan Songshan Longmen, 3
+
+Changchun Yatai, 0
+Meizhou Hakka, 1
+
+Wuhan Three Towns, 2
+Tianjin Jinmen Tiger, 1
+
+Zhejiang, 1
+Beijing Guoan, 2
+
+Al-Fayha, 1
+Al-Tai, 0
+
+Al-Riyadh, 2
+Al-Ahli, 1
+
+Al-Wehda, 0
+Al-Hazem, 2
+
+Universitatea Craiova, 0
+CFR 1907 Cluj, 1
+
+UTA Arad, 3
+SC Oțelul Galați, 1
+
+FC Hermannstadt, 2
+FC Petrolul Ploieşti, 0
+
+Djurgårdens IF, 0
+Malmö FF, 1
+
+Halmstads BK, 2
+Hammarby IF, 1
+
+IFK Norrköping, 4
+IF Elfsborg, 2
+
+Kalmar FF, 2
+GAIS Göteborg, 3
+
+Västerås SK, 2
+Mjällby AIF, 1
+
+Ural Yekaterinburg, 0
+FC Rostov, 1
+
+Fakel Voronezh, 0
+Krylya Sovetov Samara, 1
+
+Akhmat Grozny, 1
+FC Sochi, 0
+
+CSKA Moscow, 0
+FC Spartak Moscow, 0
+
+Qatar U23, 2
+Japan U23, 4
+
+South Korea U23, 12
+Indonesia U23, 13
+
+FC Fredericia, 2
+AaB, 1
+
+Deportivo Malacateco, 3
+CSD Municipal, 2
+
+Xinabajul Huehue, 0
+Antigua GFC, 1
+
+Arema FC, 3
+PSM Makassar, 2
+
+Persib Bandung, 2
+Borneo FC Samarinda, 1
+
+PSIS Semarang, 3
+Persikabo 1973, 0
+
+Persis Solo, 1
+Persita Tangerang, 2
+
+Shams Azar Qazvin, 0
+Paykan, 0
+
+Cancún FC, 0
+Atlante FC, 1
+
+Mineros de Zacatecas, 0
+Leones Negros, 0
+
+Oppsal, 0
+Vålerenga IF, 4
+
+Eik-Tønsberg, 2
+Fredrikstad FK, 5
+
+Hønefoss BK, 1
+Sarpsborg 08, 2
+
+Bruk-Bet Termalica Nieciecza, 0
+OKS Odra Opole, 1
+
+Motor Lublin, 1
+Chrobry Głogów, 1
+
+GKS Katowice, 0
+Górnik Łęczna, 0
+
+União Leiria, 0
+Penafiel, 2
+
+NŠ Mura, 6
+NK Rogaška, 7

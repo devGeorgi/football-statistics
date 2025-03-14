@@ -1,0 +1,125 @@
+Spain, 1
+Italy, 0
+
+Slovenia, 1
+Serbia, 1
+
+Denmark, 1
+England, 1
+
+Argentina, 2
+Canada, 0
+
+Vitória, 4
+Atlético Mineiro, 2
+
+Flamengo, 2
+Bahia, 1
+
+Palmeiras, 2
+Red Bull Bragantino, 1
+
+Vila Nova FC, 1
+Mirassol, 0
+
+Ceará, 0
+Sport Recife, 0
+
+Ñublense, 3
+Huachipato, 0
+
+Forward Madison FC, 2
+Union Omaha SC, 0
+
+Deportes Quillón, 0
+Colo Colo, 6
+
+Marcos Trincado, 1
+Unión Española, 5
+
+Brujas de Salamanca, 0
+Coquimbo Unido, 3
+
+Unión Glorias Navales, 0
+Universidad Católica, 2
+
+Shanghai Mitsubishi Heavy Industries Fly, 4
+Chengdu Rongcheng, 5
+
+Guangxi Hengchen FC, 0
+Shanghai Port, 2
+
+Shaanxi Union FC, 4
+Changchun Yatai, 5
+
+Foshan Nanshi, 0
+Shanghai Shenhua, 1
+
+Rizhao Yuqi, 0
+Henan Songshan Longmen, 1
+
+Wuxi Wugou, 1
+Meizhou Hakka, 0
+
+Yunnan Yukun, 4
+Tianjin Jinmen Tiger, 6
+
+SJK Akatemia, 0
+KTP, 3
+
+FK Tukums 2000, 2
+FK Liepaja, 1
+
+Valmiera FC, 3
+FK Metta, 0
+
+Hougang United, 3
+Balestier Khalsa, 3
+
+Vasalunds IF, 0
+FC Stockholm Internazionale, 2
+
+IFK Stocksund, 1
+Hammarby Talang FF, 0
+
+Karlbergs BK, 2
+United IK Nordic, 1
+
+Eskilsminne IF, 2
+Ariana FC, 0
+
+Falkenbergs FF, 0
+Lunds BK, 1
+
+Tvååkers IF, 2
+Onsala BK, 1
+
+Rosengård, 4
+KIF Örebro DFF, 0
+
+Trelleborgs FF, 0
+BK Häcken FF, 2
+
+CS Sfaxien, 0
+Espérance Tunis, 0
+
+Công An Hà Nội, 5
+Hải Phòng, 1
+
+FC Struga Trim & Lum, 3
+Tikveš Kavadarci, 4
+
+FC Iberia 1999, 2
+SFC Shturmi, 2
+
+Hutnik Kraków, 2
+Sandecja Nowy Sącz, 3
+
+Legia Warszawa, 2
+OKS Odra Opole, 1
+
+SK Brann, 5
+Kristiansund BK, 0
+
+Sandefjord Fotball, 4
+Fredrikstad FK, 2

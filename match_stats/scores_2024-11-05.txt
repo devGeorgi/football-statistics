@@ -1,0 +1,197 @@
+PSV Eindhoven, 4
+Girona FC, 0
+
+ŠK Slovan Bratislava, 1
+GNK Dinamo Zagreb, 4
+
+Bologna, 0
+AS Monaco, 1
+
+Borussia Dortmund, 1
+SK Sturm Graz, 0
+
+Celtic, 3
+RB Leipzig, 1
+
+Lille, 1
+Juventus, 1
+
+Liverpool, 4
+Bayer 04 Leverkusen, 0
+
+Real Madrid, 1
+Milan, 3
+
+Sporting, 4
+Manchester City, 1
+
+Chiclana CF, 0
+Osasuna, 5
+
+Bahia, 0
+São Paulo, 3
+
+Botafogo, 3
+Vasco da Gama, 0
+
+Internacional, 2
+Criciúma, 0
+
+ŠK Slovan Bratislava U19, 2
+GNK Dinamo Zagreb U19, 2
+
+PSV Eindhoven U19, 1
+Girona U19, 1
+
+Sporting U19, 2
+Manchester City U19, 0
+
+Bologna U19, 0
+AS Monaco U19, 0
+
+Celtic U19, 3
+RB Leipzig U19, 2
+
+Liverpool U19, 4
+Bayer Leverkusen U19, 1
+
+Borussia Dortmund U19, 2
+SK Sturm Graz U19, 3
+
+Lille U19, 0
+Juventus U19, 0
+
+Real Madrid U19, 2
+Milan U19, 1
+
+Shakhtar Donetsk U19, 3
+Young Boys U19, 2
+
+Sarajevo U19, 3
+Maccabi Petach Tikva U19, 0
+
+Midtjylland U19, 5
+FC Progres Niederkorn U19, 0
+
+Kairat Almaty U19, 0
+Real Betis U19, 5
+
+Gimnasia y Esgrima, 0
+Central Córdoba, 0
+
+San Lorenzo, 1
+Estudiantes de La Plata, 1
+
+CA Independiente, 3
+Club Atlético Unión de Santa Fe, 0
+
+Newell's Old Boys, 2
+Huracán, 4
+
+Club León, 0
+Mazatlán FC, 0
+
+Santos Laguna, 0
+CD Guadalajara, 2
+
+Pumas UNAM, 2
+Querétaro FC, 0
+
+Bristol City, 1
+Sheffield United, 2
+
+Oxford United, 1
+Hull City, 0
+
+Queens Park Rangers, 1
+Middlesbrough, 4
+
+Sheffield Wednesday, 2
+Norwich City, 0
+
+Plymouth Argyle, 1
+Portsmouth, 0
+
+Swansea City, 1
+Watford, 0
+
+Amazonas FC, 1
+América Mineiro, 0
+
+Brusque, 0
+Botafogo-SP, 1
+
+Mirassol, 4
+Coritiba, 1
+
+Bnei Sakhnin, 2
+Beitar Jerusalem, 1
+
+Fortaleza CEIF, 2
+Deportivo La Equidad, 1
+
+Burton Albion, 0
+Crawley Town, 0
+
+Stockport County, 0
+Wycombe Wanderers, 5
+
+Orlando Pirates, 1
+Richards Bay FC, 0
+
+Cambridge United, 1
+Chelsea U21, 0
+
+Peterborough United, 4
+Crystal Palace U21, 1
+
+Northampton Town, 3
+Leicester City U21, 0
+
+Swindon Town, 2
+Tottenham U21, 1
+
+Cheltenham Town, 1
+Reading, 0
+
+Johor Darul Ta'zim, 3
+Ulsan HD, 0
+
+Pohang Steelers, 4
+Shandong Taishan, 2
+
+Yokohama F. Marinos, 5
+Buriram United, 0
+
+Pakhtakor Tashkent, 0
+Al-Rayyan, 1
+
+Al-Nassr, 5
+Al-Ain, 1
+
+Al-Wehdat, 1
+FC Istiklol, 0
+
+Sepahan S.C., 3
+Al-Sharjah, 1
+
+Royal Pari Sion, 0
+Jorge Wilstermann, 0
+
+CS Cartaginés, 2
+Municipal Liberia, 1
+
+ČSK Uherský Brod, 0
+FK Jablonec, 1
+
+FK Csíkszereda Miercurea Ciuc, 5
+CSM Slatina, 1
+
+FC Spartak Moscow, 0
+FC Rostov, 1
+
+Dynamo Moscow, 1
+Lokomotiv Moscow, 2
+
+FC ViOn Zlaté Moravce, 6
+MFK Dolný Kubín, 1
