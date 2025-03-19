@@ -19,6 +19,18 @@ Wolverhampton, 4
 Manchester City, 0
 Tottenham Hotspur, 4
 
+Hellas Verona, 0
+Inter, 5
+
+Milan, 0
+Juventus, 0
+
+Parma, 1
+Atalanta, 3
+
+Genoa, 2
+Cagliari, 2
+
 Valencia, 4
 Real Betis, 2
 
@@ -33,18 +45,6 @@ Mallorca, 3
 
 Celta Vigo, 2
 Barcelona, 2
-
-Hellas Verona, 0
-Inter, 5
-
-Milan, 0
-Juventus, 0
-
-Parma, 1
-Atalanta, 3
-
-Genoa, 2
-Cagliari, 2
 
 Bayer 04 Leverkusen, 5
 1. FC Heidenheim, 2
@@ -166,9 +166,6 @@ FK Čukarički, 2
 FK Spartak Subotica, 1
 FK Novi Pazar, 1
 
-FK Jedinstvo Ub, 0
-FK Crvena zvezda, 0
-
 FK Vojvodina, 0
 FK Tekstilac Odžaci, 0
 
@@ -252,9 +249,6 @@ Reggiana, 1
 
 Paris FC, 0
 Annecy FC, 0
-
-USL Dunkerque, 0
-Ajaccio, 0
 
 Bastia, 0
 Lorient, 0
@@ -349,26 +343,14 @@ Newport County, 0
 AFC Wimbledon, 0
 Walsall, 1
 
-Bradford City, 0
-Accrington Stanley, 0
-
 Carlisle United, 0
 Doncaster Rovers, 0
 
 Chesterfield, 1
 Barrow, 0
 
-Fleetwood Town, 0
-Milton Keynes Dons, 0
-
 Gillingham, 1
 Harrogate Town, 2
-
-Port Vale, 0
-Crewe Alexandra, 0
-
-Salford City, 0
-Bromley, 0
 
 Swindon Town, 2
 Morecambe, 3
@@ -526,9 +508,6 @@ Stade de Reims, 4
 Le Havre AC, 0
 Olympique Lyonnais, 3
 
-Strasbourg, 0
-Nantes, 0
-
 Paris Saint-Germain, 6
 Dijon FCO, 1
 
@@ -577,17 +556,11 @@ ES Sétif, 1
 ES Mostaganem, 1
 JS Saoura, 1
 
-Gimnasia y Esgrima Mendoza, 0
-San Martín de Tucumán, 0
-
 Admira Wacker, 4
 FC Liefering, 0
 
 Kapfenberger SV, 2
 SV Horn, 0
-
-SC Austria Lustenau, 0
-SV Stripfing, 0
 
 Səbail FK, 0
 Qarabağ, 3
@@ -610,9 +583,6 @@ FC Isloch Minsk Region, 3
 Naftan Novopolotsk, 0
 FK Arsenal Dzerzhinsk, 0
 
-Torpedo-BelAZ Zhodino, 0
-Shakhtyor Soligorsk, 0
-
 Vitebsk, 2
 Dynamo Brest, 0
 
@@ -621,9 +591,6 @@ San Antonio Bulo-Bulo, 0
 
 Royal Pari Sion, 0
 Jorge Wilstermann, 1
-
-FK Sloga Doboj, 0
-HŠK Posušje, 0
 
 FK Velež Mostar, 3
 NK Široki Brijeg, 1
@@ -651,6 +618,9 @@ Real Cartagena, 1
 
 Santos de Guápiles, 2
 Sporting FC, 1
+
+San Carlos, 0
+Deportivo Saprissa, 0
 
 LD Alajuelense, 4
 Puntarenas FC, 0
@@ -721,15 +691,6 @@ SG Dynamo Dresden, 1
 SpVgg Unterhaching, 1
 SV Wehen Wiesbaden, 1
 
-Hamburger SV II U23, 0
-VfB Lübeck, 0
-
-Holstein Kiel II U23, 0
-SSV Jeddeloh, 0
-
-SC Weiche Flensburg 08, 0
-Bremer SV, 0
-
 SV Werder Bremen II U23, 2
 FC Teutonia 05 Ottensen, 3
 
@@ -763,14 +724,8 @@ SC Rot-Weiß Oberhausen, 2
 Sportfreunde Lotte, 0
 Wuppertaler SV, 1
 
-1. Göppinger SV, 0
-SGV Freiberg, 0
-
 FC 08 Homburg, 0
 Eintracht Trier, 1
-
-FC 08 Villingen, 0
-SG Barockstadt Fulda-Lehnerz, 0
 
 FC Gießen, 1
 Bahlinger SC, 0
@@ -790,14 +745,8 @@ SV Viktoria Aschaffenburg, 3
 1. FC Schweinfurt 05, 2
 Eintracht Bamberg 2010, 0
 
-FV Illertissen, 0
-SpVgg Hankofen-Hailing, 0
-
 SV Wacker Burghausen, 1
 DJK Vilzing, 3
-
-SpVgg Ansbach, 0
-FC Würzburger Kickers, 0
 
 TSV Schwaben Augsburg, 0
 FC Augsburg II, 3
@@ -901,9 +850,6 @@ Moghreb Atlético Tetuán, 2
 RS Berkane, 2
 Hassania d'Agadir, 1
 
-Ballymena United, 0
-Larne FC, 0
-
 Carrick Rangers, 0
 Dungannon Swifts, 1
 
@@ -936,6 +882,12 @@ Pogoń Siedlce, 1
 
 Feirense, 1
 Marítimo, 0
+
+Vizela, 0
+UD Oliveirense, 0
+
+SC Braga B, 0
+CD Trofense, 0
 
 SC Lusitânia, 0
 SC São João Ver, 2
@@ -982,44 +934,11 @@ Torpedo Moscow, 2
 Chernomorets Novorossijsk, 2
 KAMAZ Naberezhnye Chelny, 1
 
-Airdrieonians, 0
-Livingston, 0
-
-Greenock Morton, 0
-Partick Thistle, 0
-
-Hamilton Academical, 0
-Raith Rovers, 0
-
 Ayr United, 1
 Dunfermline Athletic, 0
 
-Alloa Athletic, 0
-Dumbarton, 0
-
-Cove Rangers, 0
-Stenhousemuir, 0
-
-Kelty Hearts F.C., 0
-Arbroath, 0
-
-Queen of The South, 0
-Inverness Caledonian Thistle, 0
-
 Montrose, 2
 Annan Athletic, 1
-
-Bonnyrigg Rose, 0
-Stirling Albion, 0
-
-Edinburgh City F.C., 0
-East Fife, 0
-
-Elgin City, 0
-Clyde FC, 0
-
-Forfar Athletic, 0
-Peterhead, 0
 
 Hougang United, 2
 Geylang International, 3
@@ -1055,13 +974,10 @@ Dynamo Kyiv, 3
 Chornomorets Odesa, 1
 
 Shakhtar Donetsk, 6
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 
 Obolon Kyiv, 0
 FC Kryvbas Kryvyi Rih, 1
-
-Caernarfon Town, 0
-Barry Town, 0
 
 Cardiff Met FC, 3
 Aberystwyth Town, 0

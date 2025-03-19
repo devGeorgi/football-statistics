@@ -85,9 +85,6 @@ Al-Qadsiah, 0
 Al-Orobah, 1
 Al-Fateh, 0
 
-Al-Hilal, 0
-Al-Ittihad, 0
-
 Al-Wehda, 0
 Al-Kholood, 1
 
@@ -96,9 +93,6 @@ Djurgårdens IF, 2
 
 IF Elfsborg, 2
 IFK Norrköping, 2
-
-Al-Ittihad Kalba, 0
-Al-Ain, 0
 
 ES Sétif, 1
 MC El Bayadh, 0
@@ -132,9 +126,6 @@ Arema FC, 1
 
 Riga FC, 1
 Valmiera FC, 0
-
-Club Atlético Morelia, 0
-Celaya FC, 0
 
 FC Bihor Oradea, 0
 Steaua București, 1

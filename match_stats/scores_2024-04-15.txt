@@ -1,14 +1,14 @@
 Chelsea, 6
 Everton, 0
 
-Osasuna, 0
-Valencia, 1
-
 Fiorentina, 1
 Genoa, 1
 
 Atalanta, 2
 Hellas Verona, 2
+
+Osasuna, 0
+Valencia, 1
 
 Vizela, 0
 Chaves, 1
@@ -42,6 +42,9 @@ FK Radnički 1923, 2
 
 AD Alcorcón, 1
 Villarreal B, 0
+
+Grenoble Foot 38, 0
+Angers, 0
 
 Jong Ajax, 2
 SC Cambuur, 1
@@ -184,26 +187,11 @@ Panathinaikos B, 1
 Fram Reykjavík, 0
 Víkingur Reykjavík, 1
 
-Borneo FC Samarinda, 0
-Arema FC, 0
-
-PS Barito Putera, 0
-Persija Jakarta, 0
-
-PSS Sleman, 0
-Dewa United FC, 0
-
 Persikabo 1973, 3
 Bali United FC, 2
 
 Persebaya Surabaya, 0
 Dewa United FC, 3
-
-Persib Bandung, 0
-Persebaya Surabaya, 0
-
-Persik Kediri, 0
-Persita Tangerang, 0
 
 Hapoel Be'er Sheva, 1
 Maccabi Tel Aviv, 0

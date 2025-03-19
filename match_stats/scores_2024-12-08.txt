@@ -10,6 +10,15 @@ Brighton & Hove Albion, 2
 Tottenham Hotspur, 3
 Chelsea, 4
 
+Hellas Verona, 1
+Empoli, 4
+
+Venezia, 2
+Como, 2
+
+Napoli, 0
+Lazio, 1
+
 Leganés, 0
 Real Sociedad, 3
 
@@ -21,15 +30,6 @@ Deportivo Alavés, 2
 
 Atlético Madrid, 4
 Sevilla, 3
-
-Hellas Verona, 1
-Empoli, 4
-
-Venezia, 2
-Como, 2
-
-Napoli, 0
-Lazio, 1
 
 VfL Wolfsburg, 4
 1. FSV Mainz 05, 3
@@ -478,23 +478,11 @@ Arminia Bielefeld, 0
 FC Viktoria Köln, 2
 VfL Osnabrück, 0
 
-Bremer SV, 0
-SV Meppen, 0
-
 Holstein Kiel II U23, 0
 TSV Havelse, 1
 
-FC St Pauli II U23, 0
-FC Teutonia 05 Ottensen, 0
-
-SV Todesfelde, 0
-1.FC Phönix Lübeck, 0
-
 SV Babelsberg 03, 3
 BSG Chemie Leipzig, 1
-
-Viktoria Berlin, 0
-VFC Plauen, 0
 
 ZFC Meuselwitz, 0
 FSV Luckenwalde, 1
@@ -531,9 +519,6 @@ Feralpisalò, 0
 
 Alcione Milano, 0
 AlbinoLeffe, 2
-
-Union Clodiense Chioggia, 0
-Padova, 0
 
 Virtus Entella, 4
 Pineto, 1
@@ -652,7 +637,7 @@ FC Vaduz, 2
 FC Aarau, 1
 FC Stade-Lausanne-Ouchy, 0
 
-Inhulets Petrove, 1
+Ingulets Petrove, 1
 Zorya Luhansk, 0
 
 Kolos Kovalivka, 0

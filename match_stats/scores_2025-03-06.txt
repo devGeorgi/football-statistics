@@ -82,15 +82,6 @@ Macarthur FC, 0
 Hyderabad FC, 1
 Punjab FC, 3
 
-Al-Orobah, 0
-Al-Ettifaq, 0
-
-Al-Riyadh, 0
-Al-Okhdood, 0
-
-Al-Taawoun, 0
-Damac FC, 0
-
 Al-Kholood, 2
 Al-Fateh, 1
 
@@ -150,9 +141,6 @@ Cobán Imperial, 1
 
 Inter Kashi FC, 3
 Namdhari Football Club, 2
-
-Rajasthan United FC, 0
-Gokulam Kerala FC, 0
 
 Churchill Brothers SC, 6
 Shillong Lajong FC, 1

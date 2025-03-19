@@ -67,9 +67,6 @@ Sport Recife, 4
 Exeter City, 0
 Lincoln City, 0
 
-Birmingham City, 0
-Stevenage, 0
-
 Blackpool, 0
 Northampton Town, 0
 
@@ -79,23 +76,8 @@ Crawley Town, 0
 Cambridge United, 1
 Barnsley, 1
 
-Charlton Athletic, 0
-Peterborough United, 0
-
-Leyton Orient, 0
-Mansfield Town, 0
-
-Reading, 0
-Shrewsbury Town, 0
-
 Stockport County, 1
 Wrexham, 0
-
-Wigan Athletic, 0
-Burton Albion, 0
-
-Wycombe Wanderers, 0
-Huddersfield Town, 0
 
 Accrington Stanley, 2
 Swindon Town, 2
@@ -127,12 +109,6 @@ Port Vale, 1
 Newport County, 0
 Grimsby Town, 0
 
-Walsall, 0
-Gillingham, 0
-
-Tranmere Rovers, 0
-Fleetwood Town, 0
-
 Sportivo Luqueño, 0
 Sportivo Ameliano, 2
 
@@ -141,6 +117,9 @@ Guaraní, 2
 
 Bray Wanderers, 1
 Drogheda United, 3
+
+Kyoto Sanga FC, 0
+Kashima Antlers, 0
 
 Newcastle Jets, 1
 Wellington Phoenix, 0
@@ -277,9 +256,6 @@ York City, 0
 Hamburger SV II U23, 2
 SSV Jeddeloh, 0
 
-VfB Lübeck, 0
-FC St Pauli II U23, 0
-
 1. FSV Mainz 05 II U23, 0
 SC Freiburg II U23, 1
 
@@ -361,17 +337,11 @@ Lecco, 0
 Novara, 0
 Union Clodiense Chioggia, 0
 
-US Campobasso 1919, 0
-Milan Futuro, 0
-
 Pineto, 3
 Perugia, 1
 
 Pontedera, 1
 Pianese, 2
-
-Juventus Next Gen U23, 0
-Turris, 0
 
 Giugliano, 1
 Potenza Calcio, 2

@@ -4,6 +4,15 @@ Nottingham Forest, 2
 Manchester City, 2
 Arsenal, 2
 
+Monza, 1
+Bologna, 2
+
+Roma, 3
+Udinese, 0
+
+Inter, 1
+Milan, 2
+
 Getafe, 1
 Leganés, 1
 
@@ -15,15 +24,6 @@ Barcelona, 5
 
 Rayo Vallecano, 1
 Atlético Madrid, 1
-
-Monza, 1
-Bologna, 2
-
-Roma, 3
-Udinese, 0
-
-Inter, 1
-Milan, 2
 
 Al-Ain, 6
 Auckland City, 2
@@ -349,9 +349,6 @@ FC Lugano, 0
 FC Winterthur, 1
 Young Boys, 4
 
-AmaZulu FC, 0
-Sekhukhune United, 0
-
 Atlético Ottawa, 1
 Pacific FC, 1
 
@@ -634,6 +631,9 @@ Basake Holy Stars FC, 0
 Accra Hearts of Oak, 2
 Bechem United, 0
 
+PAOK B, 0
+Iraklis 1908, 0
+
 GS Diagoras Rodou, 0
 AS Makedonikos Neapolis, 0
 
@@ -645,9 +645,6 @@ AO Egaleo, 3
 
 CSD Municipal, 5
 CSD Zacapa, 0
-
-CSD Municipal, 0
-Juventud Pinulteca FC, 0
 
 Fram Reykjavík, 2
 Fylkir Reykjavík, 0
@@ -798,9 +795,6 @@ Eidsvold Turn, 2
 
 Vålerenga IF II, 0
 Strømmen IF, 2
-
-Chrobry Głogów, 0
-Wisła Kraków, 0
 
 GKS Tychy, 0
 Stal Stalowa Wola, 0

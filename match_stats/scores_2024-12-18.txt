@@ -142,9 +142,6 @@ Kelantan Darul Naim, 0
 Kedah, 1
 Penang, 0
 
-Terengganu, 0
-Kuching City, 0
-
 Sporting, 2
 Santa Clara, 1
 

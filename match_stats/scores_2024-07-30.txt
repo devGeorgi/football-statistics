@@ -289,9 +289,6 @@ Eintracht Frankfurt, 4
 Real Oviedo, 3
 Al-Ettifaq, 2
 
-Albacete Balompié, 0
-CF Intercity, 0
-
 FK Omladinac Novi Banovci, 0
 FK Inđija, 2
 
@@ -300,9 +297,6 @@ Paços de Ferreira, 0
 
 Nonthaburi United, 1
 Saimit Kabin United, 4
-
-Willem II Tilburg, 0
-Helmond Sport, 0
 
 Urawa Red Diamonds, 1
 Newcastle United, 4

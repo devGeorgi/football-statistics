@@ -1,9 +1,6 @@
 Fulham, 2
 Brentford, 1
 
-Celta Vigo, 1
-Getafe, 0
-
 Empoli, 1
 Como, 0
 
@@ -12,6 +9,9 @@ Genoa, 1
 
 Lazio, 2
 Cagliari, 1
+
+Celta Vigo, 1
+Getafe, 0
 
 CD Nacional, 2
 Santa Clara, 0
@@ -42,9 +42,6 @@ OFK Beograd, 1
 
 FK Čukarički, 2
 FK Železničar Pančevo, 0
-
-Levante UD, 0
-Málaga, 0
 
 Ajaccio, 0
 Metz, 1
@@ -112,9 +109,6 @@ BG Pathum United, 2
 FC Bayern München, 1
 Eintracht Frankfurt, 1
 
-CR Belouizdad, 0
-JS Saoura, 0
-
 All Boys, 1
 Club Atletico Colón, 1
 
@@ -138,12 +132,6 @@ Al-Gharafa, 1
 
 Al-Hilal, 3
 Esteghlal FC, 0
-
-CD Real Tomayapo, 0
-San Antonio Bulo-Bulo, 0
-
-Oriente Petrolero, 0
-CD Real Santa Cruz, 0
 
 FK Radnik Bijeljina, 3
 GOŠK Gabela, 1

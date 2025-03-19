@@ -1,11 +1,11 @@
 Nottingham Forest, 1
 Crystal Palace, 0
 
-Valencia, 2
-Las Palmas, 3
-
 Hellas Verona, 0
 Monza, 3
+
+Valencia, 2
+Las Palmas, 3
 
 Bodrum FK, 0
 Çaykur Rizespor, 1
@@ -78,6 +78,9 @@ Nongbua Pitchaya, 1
 
 All Boys, 3
 Agropecuario Argentino, 0
+
+Brown de Adrogué, 0
+Gimnasia y Esgrima Mendoza, 0
 
 Gwangju FC, 3
 Johor Darul Ta'zim, 1

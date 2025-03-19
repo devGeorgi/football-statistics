@@ -1,8 +1,8 @@
-Leganés, 0
-Rayo Vallecano, 1
-
 Parma, 1
 Lecce, 3
+
+Leganés, 0
+Rayo Vallecano, 1
 
 SV Werder Bremen, 1
 1. FSV Mainz 05, 0
@@ -178,9 +178,6 @@ Dibba Al-Hisn, 0
 Al-Jazira, 0
 Baniyas, 1
 
-KMSK Deinze, 0
-KSC Lokeren-Temse, 0
-
 RFC Liège, 2
 RFC Seraing, 1
 
@@ -192,9 +189,6 @@ Fiorentina, 0
 
 Eintracht Frankfurt, 3
 Bayer Leverkusen, 2
-
-SGS Essen, 0
-1. FC Köln, 0
 
 Real Madrid, 5
 Espanyol, 0

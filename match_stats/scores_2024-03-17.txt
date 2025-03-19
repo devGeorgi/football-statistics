@@ -1,6 +1,15 @@
 West Ham United, 1
 Aston Villa, 1
 
+Hellas Verona, 1
+Milan, 3
+
+Roma, 1
+Sassuolo, 0
+
+Inter, 1
+Napoli, 1
+
 Sevilla, 1
 Celta Vigo, 2
 
@@ -15,15 +24,6 @@ Real Betis, 0
 
 Atlético Madrid, 0
 Barcelona, 3
-
-Hellas Verona, 1
-Milan, 3
-
-Roma, 1
-Sassuolo, 0
-
-Inter, 1
-Napoli, 1
 
 SC Freiburg, 2
 Bayer 04 Leverkusen, 3
@@ -99,9 +99,6 @@ KRC Genk, 1
 
 Oud-Heverlee Leuven, 1
 KV Mechelen, 0
-
-Dundee FC, 0
-Rangers, 0
 
 Chelsea, 4
 Leicester City, 2
@@ -274,9 +271,6 @@ Técnico Universitario, 0
 El Nacional, 0
 Emelec, 1
 
-Tala'ea El-Gaish, 0
-Zamalek SC, 0
-
 FCSB, 2
 Sepsi OSK, 1
 
@@ -432,12 +426,6 @@ Santiago Wanderers, 2
 
 Real Cundinamarca, 1
 Boca Juniors de Cali, 0
-
-Sporting FC, 0
-LD Alajuelense, 0
-
-CS Cartaginés, 0
-Santos de Guápiles, 0
 
 Anorthosis Famagusta, 0
 AEK Larnaca, 1

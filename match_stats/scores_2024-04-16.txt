@@ -82,12 +82,6 @@ Al-Wakrah, 0
 Al Markhiya, 3
 Al-Gharafa, 2
 
-Ajman, 0
-Al Bataeh, 0
-
-Al-Jazira, 0
-Khor Fakkan, 0
-
 CR Belouizdad, 1
 Paradou AC, 1
 
@@ -115,8 +109,14 @@ NK Široki Brijeg, 1
 Deportivo Saprissa, 2
 Municipal Liberia, 2
 
+FC Halifax Town, 0
+Ebbsfleet United, 0
+
 Oxford City, 1
 Bromley, 3
+
+Rochdale, 0
+Boreham Wood, 0
 
 Wealdstone, 0
 Eastleigh, 1
@@ -136,9 +136,6 @@ FC Samtredia, 1
 SpVgg Greuther Fürth II, 3
 FC Würzburger Kickers, 1
 
-Bali United FC, 0
-Bhayangkara Presisi Indonesia FC, 0
-
 Bhayangkara Presisi Indonesia FC, 7
 Persik Kediri, 0
 
@@ -147,9 +144,6 @@ PSIS Semarang, 1
 
 Borneo FC Samarinda, 0
 Madura United FC, 4
-
-PSIS Semarang, 0
-RANS Nusantara FC, 0
 
 Wexford FC, 2
 Longford Town, 2
@@ -219,9 +213,6 @@ Hwaseong FC, 1
 
 Gimcheon Sangmu FC, 3
 Busan I Park, 2
-
-Gimpo FC, 0
-FC Anyang, 0
 
 Gyeongnam FC, 1
 Jeonnam Dragons, 0

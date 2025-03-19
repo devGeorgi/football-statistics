@@ -1,11 +1,11 @@
 West Ham United, 0
 Newcastle United, 1
 
-Espanyol, 1
-Girona FC, 1
-
 Lazio, 1
 Udinese, 1
+
+Espanyol, 1
+Girona FC, 1
 
 Famalicão, 1
 Rio Ave, 0
@@ -51,9 +51,6 @@ MKE Ankaragücü, 1
 
 Beitar Jerusalem, 1
 Hapoel Be'er Sheva, 1
-
-Unión Española, 0
-Universidad de Chile, 0
 
 Deportivo Cali, 0
 Boyacá Chicó FC, 0
@@ -165,6 +162,9 @@ Tondela, 1
 
 Portimonense U23, 3
 Leixoes SC U23, 3
+
+Baltika Kaliningrad, 0
+Rotor Volgograd, 0
 
 Livingston, 0
 St. Johnstone, 1

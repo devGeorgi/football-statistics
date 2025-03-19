@@ -112,6 +112,9 @@ FC Samgurali Tskhaltubo, 1
 Asante Kotoko SC, 1
 Nsoatreman FC, 2
 
+AO Egaleo, 0
+Panathinaikos B, 0
+
 GS Diagoras Rodou, 1
 Olympiacos B, 0
 

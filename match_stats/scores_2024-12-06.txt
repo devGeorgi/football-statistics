@@ -1,11 +1,11 @@
-Celta Vigo, 2
-Mallorca, 0
-
 Inter, 3
 Parma, 1
 
 Atalanta, 2
 Milan, 1
+
+Celta Vigo, 2
+Mallorca, 0
 
 VfB Stuttgart, 3
 1. FC Union Berlin, 2
@@ -124,14 +124,8 @@ Al-Nassr, 1
 Sepsi OSK, 2
 FC Rapid București, 0
 
-Orlando Pirates, 0
-Lamontville Golden Arrows, 0
-
 Richards Bay FC, 0
 Supersport United, 1
-
-Stellenbosch, 0
-Royal AM, 0
 
 FC Spartak Moscow, 3
 Pari Nizhny Novgorod, 0
@@ -235,9 +229,6 @@ Paris 13 Atletico, 1
 SC Verl, 1
 1. FC Saarbrücken, 1
 
-SC Weiche Flensburg 08, 0
-VfB Lübeck, 0
-
 Hamburger SV II U23, 2
 Eintracht Norderstedt, 1
 
@@ -319,9 +310,6 @@ FC Corvinul Hunedoara, 0
 Concordia Chiajna, 9
 CS Mioveni, 0
 
-FC Argeș Pitești, 0
-Viitorul Pandurii Târgu Jiu, 0
-
 CSM Reşiţa, 0
 FC Voluntari, 2
 
@@ -333,9 +321,6 @@ FC Wil 1900, 2
 
 FC Livyi Bereh Kyiv, 3
 LNZ Cherkasy, 1
-
-Haverfordwest County AFC, 0
-Briton Ferry Llansawel AFC, 0
 
 Australia, 6
 Chinese Taipei, 0

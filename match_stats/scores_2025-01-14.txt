@@ -49,9 +49,6 @@ Nice, 1
 Guingamp, 11
 Sochaux, 10
 
-Haguenau, 0
-USL Dunkerque, 0
-
 Le Mans, 5
 Valenciennes, 4
 
@@ -82,9 +79,6 @@ Oxford United, 1
 Wellington Phoenix, 0
 Sydney FC, 0
 
-Exeter City, 0
-Mansfield Town, 0
-
 NorthEast United, 1
 FC Goa, 1
 
@@ -96,9 +90,6 @@ Colchester United, 1
 
 Chesterfield, 3
 Rotherham United, 4
-
-Leyton Orient, 0
-Stevenage, 0
 
 Lincoln City, 0
 Bolton Wanderers, 1
@@ -145,9 +136,6 @@ Braintree Town, 2
 Altrincham, 4
 Maidenhead United, 0
 
-Dagenham & Redbridge, 0
-Woking, 0
-
 Ebbsfleet United, 1
 Yeovil Town, 1
 
@@ -156,9 +144,6 @@ Barnet, 0
 
 Gateshead, 1
 FC Halifax Town, 3
-
-Hartlepool United, 0
-Tamworth, 0
 
 Solihull Moors, 0
 Eastleigh, 1
@@ -205,9 +190,6 @@ SGA Sirnitz, 0
 Újpest, 2
 HNK Hajduk Split, 1
 
-FC Buderich 02, 0
-Fortuna Düsseldorf II U23, 0
-
 Simmeringer SC, 0
 SC Krems, 6
 
@@ -216,9 +198,6 @@ Eintracht Frankfurt II, 3
 
 Universidad Católica, 3
 Atlético Tucumán, 2
-
-CA Independiente, 0
-Olimpia, 0
 
 Moreton City Excelsior FC, 1
 Peninsula Power, 3

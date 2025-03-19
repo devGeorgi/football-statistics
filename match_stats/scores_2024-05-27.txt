@@ -25,9 +25,6 @@ El Gouna FC, 0
 Al-Ittihad Alexandria, 0
 Zamalek SC, 2
 
-Al Ahly FC, 0
-ZED FC, 0
-
 Unión Comercio, 1
 Cienciano, 1
 
@@ -105,9 +102,6 @@ San Antonio Bulo-Bulo, 0
 
 Royal Pari Sion, 2
 Independiente Petrolero, 2
-
-Tombense, 0
-Caxias, 0
 
 Botev Plovdiv, 0
 Arda Kardzhali, 1

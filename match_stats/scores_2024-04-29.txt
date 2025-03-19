@@ -1,8 +1,8 @@
-Barcelona, 4
-Valencia, 2
-
 Genoa, 3
 Cagliari, 0
+
+Barcelona, 4
+Valencia, 2
 
 CF Estrela Amadora, 0
 SC Farense, 3

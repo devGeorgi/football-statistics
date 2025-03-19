@@ -22,9 +22,6 @@ FK Partizan, 1
 Avaí, 0
 Ceará, 1
 
-Sport Recife, 0
-Operário-PR, 0
-
 Coritiba, 0
 Mirassol, 1
 
@@ -115,9 +112,6 @@ Colorado Springs Switchbacks FC, 1
 Phoenix Rising FC, 2
 El Paso Locomotive FC, 0
 
-Pari Nizhny Novgorod, 0
-Rubin Kazan, 0
-
 Argentina U23, 0
 Guinea U23, 1
 
@@ -180,9 +174,6 @@ San Carlos, 3
 
 Puntarenas FC, 0
 Municipal Liberia, 0
-
-Vysočina Jihlava, 0
-FC Zbrojovka Brno, 0
 
 Slezský FC Opava, 3
 FC Sellier & Bellot Vlašim, 3
@@ -276,9 +267,6 @@ River Plate UY, 1
 
 Llay Welfare, 3
 Denbigh Town, 1
-
-Afan Lido, 0
-Cardiff City, 0
 
 Afan Lido, 1
 Cardiff City U21, 3
@@ -507,9 +495,6 @@ FA 2000, 0
 
 Legia II Warszawa, 0
 Polonia Środa Wielkopolska, 3
-
-Port FC, 0
-PT Prachuap FC, 0
 
 FC Liefering, 1
 SV Sandhausen, 2

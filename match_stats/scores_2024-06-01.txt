@@ -205,9 +205,6 @@ Deportivo Madryn, 1
 Naftan Novopolotsk, 2
 FC Isloch Minsk Region, 1
 
-Dinamo Minsk, 0
-FK Arsenal Dzerzhinsk, 0
-
 FK Arsenal Dzerzhinsk, 1
 Dinamo Minsk, 2
 
@@ -468,9 +465,6 @@ EGS Gafsa, 1
 
 US Tataouine, 0
 AS Soliman, 2
-
-Progreso, 0
-Cerro Largo, 0
 
 Montevideo Wanderers, 2
 Rampla Juniors, 1

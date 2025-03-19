@@ -13,18 +13,6 @@ Wolverhampton, 2
 Bournemouth, 2
 Manchester United, 2
 
-Atlético Madrid, 3
-Girona FC, 1
-
-Rayo Vallecano, 0
-Getafe, 0
-
-Mallorca, 0
-Real Madrid, 1
-
-Cádiz, 0
-Barcelona, 1
-
 Lecce, 1
 Empoli, 0
 
@@ -36,6 +24,18 @@ Monza, 0
 
 Napoli, 2
 Frosinone, 2
+
+Atlético Madrid, 3
+Girona FC, 1
+
+Rayo Vallecano, 0
+Getafe, 0
+
+Mallorca, 0
+Real Madrid, 1
+
+Cádiz, 0
+Barcelona, 1
 
 1. FSV Mainz 05, 4
 TSG Hoffenheim, 1
@@ -292,9 +292,6 @@ Bastia, 3
 Caen, 1
 Rodez AF, 0
 
-Grenoble Foot 38, 0
-Angers, 0
-
 Quevilly - Rouen Métropole, 4
 Auxerre, 3
 
@@ -483,9 +480,6 @@ Sarpsborg 08, 2
 
 Alianza Atlético de Sullana, 2
 Unión Comercio, 0
-
-Deportivo Garcilaso, 0
-Club Sporting Cristal, 0
 
 Melgar, 2
 Carlos A. Mannucci, 0
@@ -1276,14 +1270,11 @@ FC Sion, 3
 FC Thun, 1
 AC Bellinzona, 0
 
-Espérance Tunis, 0
 CS Sfaxien, 0
-
 Etoile Sportive Du Sahel, 0
-Club Africain, 0
 
+Club Africain, 0
 Stade Tunisien, 0
-US Monastir, 0
 
 Avenir Sportif De La Marsa, 2
 US Ben Guerdane, 1

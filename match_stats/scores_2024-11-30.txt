@@ -13,18 +13,6 @@ Bournemouth, 4
 West Ham United, 2
 Arsenal, 5
 
-Barcelona, 1
-Las Palmas, 2
-
-Deportivo Alavés, 1
-Leganés, 1
-
-Espanyol, 3
-Celta Vigo, 1
-
-Real Valladolid, 0
-Atlético Madrid, 5
-
 Como, 1
 Monza, 1
 
@@ -36,6 +24,18 @@ Venezia, 0
 
 Udinese, 0
 Genoa, 2
+
+Barcelona, 1
+Las Palmas, 2
+
+Deportivo Alavés, 1
+Leganés, 1
+
+Espanyol, 3
+Celta Vigo, 1
+
+Real Valladolid, 0
+Atlético Madrid, 5
 
 1. FC Union Berlin, 1
 Bayer 04 Leverkusen, 2
@@ -349,6 +349,9 @@ Górnik Zabrze, 4
 Carlisle United, 1
 Crewe Alexandra, 1
 
+Fleetwood Town, 0
+Colchester United, 0
+
 Macará, 1
 Universidad Católica del Ecuador, 2
 
@@ -535,17 +538,11 @@ AEL Limassol, 0
 Karmiotissa Polemidion, 1
 Anorthosis Famagusta, 1
 
-Apollon Limassol, 2
-Ethnikos Achnas, 2
-
 FC Roskilde, 0
 FC Fredericia, 2
 
 Braintree Town, 2
 Gateshead, 2
-
-Eastleigh, 0
-Oldham Athletic, 0
 
 Ebbsfleet United, 0
 Boston United, 0
@@ -553,23 +550,11 @@ Boston United, 0
 FC Halifax Town, 0
 Southend United, 2
 
-Forest Green Rovers, 0
-Dagenham & Redbridge, 0
-
 Hartlepool United, 0
 Barnet, 0
 
-Rochdale, 0
-Tamworth, 0
-
-Solihull Moors, 0
-Aldershot Town, 0
-
 Sutton United, 2
 AFC Fylde, 0
-
-Wealdstone, 0
-Altrincham, 0
 
 Woking, 0
 Yeovil Town, 2
@@ -661,20 +646,11 @@ FC 08 Homburg, 0
 1. FC Nürnberg II, 3
 FC Würzburger Kickers, 3
 
-DJK Vilzing, 0
-SpVgg Ansbach, 0
-
 Eintracht Bamberg 2010, 1
 SpVgg Greuther Fürth II, 0
 
 SV Viktoria Aschaffenburg, 0
 Bayern München II, 2
-
-SpVgg Hankofen-Hailing, 0
-Türkgücü München, 0
-
-TSV Aubstadt, 0
-TSV Schwaben Augsburg, 0
 
 TSV Buchbach, 3
 FV Illertissen, 0
@@ -700,9 +676,6 @@ Dempo SC, 2
 Sreenidi Deccan FC, 2
 Churchill Brothers SC, 1
 
-Bali United FC, 0
-Persib Bandung, 0
-
 PSIS Semarang, 1
 Semen Padang FC, 0
 
@@ -711,9 +684,6 @@ Lecco, 0
 
 Renate, 1
 Trento, 1
-
-Atalanta U23, 0
-Union Clodiense Chioggia, 0
 
 Caldiero Terme, 1
 Arzignano Valchiampo, 2
@@ -879,9 +849,6 @@ Olympique Béja, 0
 
 FC Kryvbas Kryvyi Rih, 3
 Polissya Zhytomyr, 1
-
-Zorya Luhansk, 0
-Karpaty Lviv, 0
 
 Oleksandria, 3
 Chornomorets Odesa, 0

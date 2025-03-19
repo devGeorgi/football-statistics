@@ -397,6 +397,9 @@ PSIS Semarang, 0
 FC Turan, 0
 FC Tobol, 2
 
+FK Panevėžys, 0
+Džiugas Telšiai, 0
+
 CDS Tampico Madero, 4
 Dorados de Sinaloa, 3
 

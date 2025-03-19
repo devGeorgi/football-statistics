@@ -4,18 +4,6 @@ Wolverhampton, 1
 Tottenham Hotspur, 1
 Manchester United, 0
 
-Espanyol, 1
-Athletic Club, 1
-
-Real Valladolid, 0
-Sevilla, 4
-
-Mallorca, 3
-Las Palmas, 1
-
-Real Betis, 3
-Real Sociedad, 0
-
 Monza, 0
 Lecce, 0
 
@@ -27,6 +15,18 @@ Roma, 1
 
 Juventus, 1
 Inter, 0
+
+Espanyol, 1
+Athletic Club, 1
+
+Real Valladolid, 0
+Sevilla, 4
+
+Mallorca, 3
+Las Palmas, 1
+
+Real Betis, 3
+Real Sociedad, 0
 
 SV Werder Bremen, 1
 TSG Hoffenheim, 3
@@ -214,9 +214,6 @@ Everton de Viña del Mar, 1
 Unión Magdalena, 0
 Deportivo La Equidad, 0
 
-Atlético Nacional, 0
-Deportes Tolima, 0
-
 FC Hradec Králové, 2
 Bohemians Praha 1905, 2
 
@@ -288,9 +285,6 @@ FCSB, 2
 
 Grasshopper Club Zürich, 1
 Servette FC, 2
-
-Ratchaburi, 0
-True Bangkok United, 0
 
 Manchester United Women, 3
 Crystal Palace Women, 1
@@ -484,35 +478,8 @@ SV Werder Bremen II U23, 4
 Holstein Kiel II U23, 1
 VfB Lübeck, 1
 
-BSG Chemie Leipzig, 0
-Hertha Zehlendorf, 0
-
-ZFC Meuselwitz, 0
-Greifswalder FC, 0
-
-FSV Zwickau, 0
-FC Rot-Weiß Erfurt, 0
-
 FSV Frankfurt, 1
 SC Freiburg II U23, 0
-
-Aduana Stars FC, 0
-Young Apostles FC, 0
-
-Asante Kotoko SC, 0
-Berekum Chelsea, 0
-
-Karela United, 0
-Legon Cities, 0
-
-Medeama, 0
-Basake Holy Stars FC, 0
-
-Nsoatreman FC, 0
-Accra Lions FC, 0
-
-Vision FC, 0
-Samartex, 0
 
 Deportivo Achuapa, 0
 Cobán Imperial, 2
@@ -651,9 +618,6 @@ Vilaverdense FC, 1
 
 Torreense U23, 1
 Sporting U23, 0
-
-ND Primorje, 0
-FC Koper, 0
 
 NŠ Mura, 0
 NK Celje, 0

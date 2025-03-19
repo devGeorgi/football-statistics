@@ -7,18 +7,6 @@ Chelsea, 6
 Liverpool, 2
 Brentford, 0
 
-Real Madrid, 3
-Real Valladolid, 0
-
-Leganés, 2
-Las Palmas, 1
-
-Deportivo Alavés, 0
-Real Betis, 0
-
-Atlético Madrid, 3
-Girona FC, 0
-
 Fiorentina, 0
 Venezia, 0
 
@@ -30,6 +18,18 @@ Bologna, 0
 
 Roma, 1
 Empoli, 2
+
+Real Madrid, 3
+Real Valladolid, 0
+
+Leganés, 2
+Las Palmas, 1
+
+Deportivo Alavés, 0
+Real Betis, 0
+
+Atlético Madrid, 3
+Girona FC, 0
 
 VfL Wolfsburg, 2
 FC Bayern München, 3
@@ -94,9 +94,6 @@ Red Bull Bragantino, 1
 Kasımpaşa, 2
 Adana Demirspor, 2
 
-Samsunspor, 0
-Başakşehir FK, 0
-
 Antalyaspor, 3
 Hatayspor, 2
 
@@ -147,9 +144,6 @@ HNK Rijeka, 2
 
 OFK Beograd, 3
 FK Radnički 1923, 5
-
-FK Spartak Subotica, 0
-FK Partizan, 0
 
 FK Vojvodina, 1
 FK Napredak Kruševac, 2
@@ -208,9 +202,6 @@ Juve Stabia, 0
 Mantova, 3
 Cosenza, 2
 
-Botafogo-SP, 0
-Guarani, 0
-
 Chapecoense, 0
 CRB, 0
 
@@ -262,12 +253,6 @@ FC Slovan Liberec, 0
 Dukla Praha, 3
 SK Dynamo České Budějovice, 0
 
-Mladá Boleslav, 0
-SK Slavia Praha, 0
-
-Viktoria Plzeň, 0
-SK Sigma Olomouc, 0
-
 GKS Katowice, 3
 Jagiellonia Białystok, 1
 
@@ -310,9 +295,6 @@ Fredrikstad FK, 0
 Molde FK, 3
 HamKam, 0
 
-SK Brann, 0
-KFUM Oslo, 0
-
 Sandefjord Fotball, 1
 Kristiansund BK, 0
 
@@ -354,9 +336,6 @@ IFK Värnamo, 1
 
 Basel, 2
 Yverdon-Sport FC, 0
-
-FC St. Gallen 1879, 0
-FC Zürich, 0
 
 Philadelphia Union, 3
 Colorado Rapids, 5
@@ -475,9 +454,6 @@ Sumqayıt FK, 1
 Zirə FK, 0
 Şamaxı FK, 1
 
-Şamaxı FK, 0
-Zirə FK, 0
-
 Neman Grodno, 3
 Dnepr Mogilev, 1
 
@@ -516,9 +492,6 @@ San Luis de Quillota, 0
 
 Deportes Limache, 1
 Deportes Recoleta, 0
-
-Cúcuta Deportivo, 0
-Atlético Huila, 0
 
 Real Cartagena, 2
 Unión Magdalena, 0
@@ -612,9 +585,6 @@ SGV Freiberg, 1
 
 FC Bayern München, 1
 VfL Wolfsburg, 0
-
-Juventud Pinulteca FC, 0
-Cobán Imperial, 0
 
 Deportivo Achuapa, 3
 CD Marquense, 0
@@ -739,9 +709,6 @@ Ullensaker Kisa, 4
 Junkeren, 2
 Tromsdalen UIL, 3
 
-Wisła Kraków, 0
-Miedź Legnica, 0
-
 ŁKS Łódź, 3
 Chrobry Głogów, 0
 
@@ -821,16 +788,7 @@ Rukh Lviv, 3
 Zorya Luhansk, 0
 
 FC Kryvbas Kryvyi Rih, 1
-Inhulets Petrove, 1
-
-Rampla Juniors, 0
-Progreso, 0
-
-Danubio, 0
-Boston River, 0
-
-Miramar Misiones, 0
-Peñarol, 0
+Ingulets Petrove, 1
 
 UCAM Murcia, 3
 Torrent CF, 0

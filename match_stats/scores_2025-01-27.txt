@@ -1,11 +1,11 @@
-Deportivo Alavés, 1
-Celta Vigo, 1
-
 Venezia, 1
 Hellas Verona, 1
 
 Genoa, 2
 Monza, 0
+
+Deportivo Alavés, 1
+Celta Vigo, 1
 
 AVS - Futebol SAD, 1
 Gil Vicente, 0

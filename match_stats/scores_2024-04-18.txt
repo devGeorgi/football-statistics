@@ -76,9 +76,6 @@ Lamphun Warrior, 2
 Deportivo Maipú, 8
 Juventud Unida Universitario, 9
 
-Juventud Unida Universitario, 0
-Deportivo Maipú, 0
-
 Indonesia U23, 1
 Australia U23, 0
 
@@ -117,9 +114,6 @@ Oldham Athletic, 2
 
 NoPS, 1
 Pallo-Iirot, 3
-
-Dewa United FC, 0
-Madura United FC, 0
 
 Paykan, 2
 Havadar Tehran, 2

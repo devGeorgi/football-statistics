@@ -85,9 +85,6 @@ Derby County, 0
 West Bromwich Albion, 0
 Middlesbrough, 1
 
-Beitar Jerusalem, 0
-Maccabi Haifa, 0
-
 Barnsley, 2
 Wycombe Wanderers, 2
 
@@ -123,9 +120,6 @@ Peterborough United, 0
 
 Reading, 3
 Burton Albion, 1
-
-AFC Wimbledon, 0
-Crewe Alexandra, 0
 
 Bromley, 2
 Chesterfield, 2
@@ -205,20 +199,20 @@ First Vienna, 6
 Wiener Viktoria, 1
 FCM Traiskirchen, 1
 
+SV Leobendorf, 0
+FC Marchfeld Donauauen, 0
+
 Young Violets Austria Wien, 2
 SC Krems, 1
-
-Al-Muharraq, 0
-Bahrain SC, 0
-
-Al Riffa, 0
-Sitra Club, 0
 
 CD Real Santa Cruz, 2
 Nacional Potosí, 4
 
 FC Kolkheti-1913 Poti, 2
 FC Dila Gori, 2
+
+FC Gagra, 0
+Dinamo Tbilisi, 0
 
 Dinamo Batumi, 1
 FC Samtredia, 2

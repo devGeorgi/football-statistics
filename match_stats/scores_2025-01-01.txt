@@ -61,9 +61,6 @@ Peterborough United, 2
 Cambridge United, 1
 Reading, 3
 
-Crawley Town, 0
-Charlton Athletic, 0
-
 Lincoln City, 0
 Rotherham United, 1
 
@@ -124,17 +121,11 @@ Barnet, 1
 Ebbsfleet United, 0
 Dagenham & Redbridge, 2
 
-FC Halifax Town, 0
-AFC Fylde, 0
-
 Forest Green Rovers, 2
 Yeovil Town, 1
 
 Hartlepool United, 2
 Oldham Athletic, 1
-
-Rochdale, 0
-Altrincham, 0
 
 Sutton United, 1
 Aldershot Town, 1

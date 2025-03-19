@@ -1,8 +1,8 @@
-Espanyol, 2
-Real Valladolid, 1
-
 Roma, 3
 Genoa, 1
+
+Espanyol, 2
+Real Valladolid, 1
 
 Eintracht Frankfurt, 2
 Borussia Dortmund, 0
@@ -132,9 +132,6 @@ BG Pathum United, 0
 
 Liverpool FC Women, 2
 Brighton, 1
-
-KMSK Deinze, 0
-Lommel SK, 0
 
 Patro Eisden Maasmechelen, 4
 KSC Lokeren-Temse, 1

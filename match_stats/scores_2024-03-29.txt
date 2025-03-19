@@ -1,8 +1,8 @@
-Cádiz, 1
-Granada, 0
-
 Napoli, 0
 Atalanta, 3
+
+Cádiz, 1
+Granada, 0
 
 Lille, 2
 RC Lens, 1
@@ -409,15 +409,6 @@ Neftçi Baku PFK, 1
 Kəpəz PFK, 1
 Qarabağ, 6
 
-Al-Hidd, 0
-Al-Shabab Manama, 0
-
-Al-Muharraq, 0
-Al Riffa, 0
-
-Al Najma Manama, 0
-Al Hala Muharraq, 0
-
 Dnepr Mogilev, 0
 FK Arsenal Dzerzhinsk, 0
 
@@ -426,9 +417,6 @@ FK Smorgon, 1
 
 Naftan Novopolotsk, 0
 BATE Borisov, 0
-
-CD Real Santa Cruz, 0
-The Strongest, 0
 
 Igman Konjic, 2
 FK Sloga Doboj, 0
@@ -685,6 +673,9 @@ Shakhtar Donetsk, 3
 Cerro Largo, 0
 Racing de Montevideo, 2
 
+Peñarol, 0
+Nacional, 0
+
 Zamora, 1
 Angostura FC, 2
 
@@ -696,9 +687,6 @@ Hải Phòng, 0
 
 Connah's Quay Nomads, 0
 Newtown AFC, 0
-
-The New Saints, 0
-Bala Town, 0
 
 Barry Town, 0
 Penybont, 0

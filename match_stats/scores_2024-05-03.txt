@@ -4,23 +4,14 @@ Everton, 1
 Arsenal, 3
 Bournemouth, 0
 
-Getafe, 0
-Athletic Club, 2
-
 Torino, 0
 Bologna, 0
 
+Getafe, 0
+Athletic Club, 2
+
 TSG Hoffenheim, 1
 RB Leipzig, 1
-
-Lille, 0
-Olympique Lyonnais, 0
-
-Nice, 0
-Paris Saint-Germain, 0
-
-Stade de Reims, 0
-Olympique de Marseille, 0
 
 Toulouse, 1
 Montpellier, 2
@@ -213,9 +204,6 @@ Drogheda United, 0
 
 Asociación Deportiva Tarma, 2
 Universitario, 0
-
-Cienciano, 0
-Unión Comercio, 0
 
 Cienciano, 1
 Universidad César Vallejo, 1

@@ -19,18 +19,6 @@ Everton, 2
 Bournemouth, 0
 Chelsea, 1
 
-Mallorca, 1
-Villarreal, 2
-
-Espanyol, 3
-Deportivo Alavés, 2
-
-Sevilla, 1
-Getafe, 0
-
-Real Sociedad, 0
-Real Madrid, 2
-
 Como, 2
 Bologna, 2
 
@@ -42,6 +30,18 @@ Venezia, 0
 
 Genoa, 1
 Roma, 1
+
+Mallorca, 1
+Villarreal, 2
+
+Espanyol, 3
+Deportivo Alavés, 2
+
+Sevilla, 1
+Getafe, 0
+
+Real Sociedad, 0
+Real Madrid, 2
 
 Borussia M'gladbach, 1
 VfB Stuttgart, 3
@@ -391,20 +391,8 @@ Deportivo Pasto, 0
 Rionegro Águilas Doradas, 1
 Independiente Medellín, 1
 
-Baník Ostrava, 0
-SK Slavia Praha, 0
-
-FK Pardubice, 0
-SK Sigma Olomouc, 0
-
-Dukla Praha, 0
-1. FC Slovácko, 0
-
 KS Lechia Gdańsk, 1
 Radomiak Radom, 0
-
-Śląsk Wrocław, 0
-Stal Mielec, 0
 
 Cracovia, 2
 Pogoń Szczecin, 1
@@ -417,9 +405,6 @@ Puszcza Niepołomice, 1
 
 FC Midtjylland, 2
 FC København, 1
-
-Birmingham City, 0
-Wrexham, 0
 
 Blackpool, 2
 Exeter City, 1
@@ -528,9 +513,6 @@ Cape Town City FC, 1
 
 Marumo Gallants FC, 1
 Kaizer Chiefs, 2
-
-Orlando Pirates, 0
-Chippa United, 0
 
 Polokwane City, 2
 AmaZulu FC, 1
@@ -718,20 +700,8 @@ Tristán Suárez, 2
 Atlético de Rafaela, 0
 San Martín de San Juan, 0
 
-Floridsdorfer AC, 0
-FC Liefering, 0
-
 Schwarz-Weiß Bregenz, 4
 SV Lafnitz, 1
-
-Sturm Graz II, 0
-SV Stripfing, 0
-
-SV Horn, 0
-First Vienna, 0
-
-Sportunion Mauer, 0
-SR Donaufeld, 0
 
 Şamaxı FK, 1
 Sumqayıt FK, 0
@@ -814,9 +784,6 @@ Bogotá FC, 3
 Santos de Guápiles, 1
 Deportivo Saprissa, 2
 
-LD Alajuelense, 0
-Herediano, 0
-
 Municipal Liberia, 0
 AD Guanacasteca, 1
 
@@ -828,18 +795,6 @@ APOEL Nicosia, 3
 
 Pafos FC, 3
 Anorthosis Famagusta, 1
-
-FC Silon Táborsko, 0
-FK Varnsdorf, 0
-
-SK Líšeň, 0
-Sparta Praha B U21, 0
-
-FK Viktoria Žižkov, 0
-Baník Ostrava B, 0
-
-SK Sigma Olomouc B, 0
-Slezský FC Opava, 0
 
 Vendsyssel FF, 0
 Hillerød, 3
@@ -921,18 +876,6 @@ FF Jaro, 3
 
 FC Rouen, 1
 Valenciennes, 1
-
-Dinamo Batumi, 0
-Dinamo Tbilisi, 0
-
-FC Dila Gori, 0
-FC Samtredia, 0
-
-FC Gagra, 0
-FC Torpedo Kutaisi, 0
-
-FC Kolkheti-1913 Poti, 0
-FC Iberia 1999, 0
 
 FC Telavi, 0
 FC Gagra, 1
@@ -1020,9 +963,6 @@ TSV Steinbach Haiger, 2
 
 1. FC Nürnberg II, 2
 SpVgg Hankofen-Hailing, 2
-
-SV Wacker Burghausen, 0
-Eintracht Bamberg 2010, 0
 
 SpVgg Ansbach, 2
 TSV Buchbach, 2
@@ -1317,9 +1257,6 @@ FC Trollhättan, 1
 
 Lunds BK, 4
 Oskarshamns AIK, 2
-
-Djurgårdens IF DFF, 0
-Linköpings FC, 0
 
 KIF Örebro DFF, 0
 Rosengård, 4

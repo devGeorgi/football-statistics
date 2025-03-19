@@ -94,9 +94,6 @@ Monterey Bay FC, 1
 North Carolina FC, 4
 Miami FC, 1
 
-New Mexico United, 0
-Sacramento Republic FC, 0
-
 San Antonio FC, 2
 Phoenix Rising FC, 1
 
@@ -187,9 +184,6 @@ União Suzano AC, 1
 Coquimbo Unido, 4
 Cobresal, 0
 
-Deportes Puerto Montt, 0
-Huachipato, 0
-
 Santiago Wanderers, 2
 Palestino, 2
 
@@ -262,23 +256,14 @@ Rosenborg Kvinner, 4
 SK Brann Kvinner, 2
 Åsane, 1
 
-Maharlika Manila FC, 0
-United City FC, 0
-
 United City FC, 2
 Taguig FC, 2
 
 Philippine Air Force FC, 2
 Philippine Army, 0
 
-Taguig FC, 0
-Tuloy FC, 0
-
 Maharlika Manila FC, 0
 Mendiola FC, 1
-
-Philippine Army, 0
-Don Bosco Garelli United, 0
 
 Lion City Sailors, 3
 Tanjong Pagar United, 0
@@ -321,9 +306,6 @@ Alemannia Aachen, 1
 
 Hannover 96, 2
 SC Verl, 1
-
-KAA Gent, 0
-KMSK Deinze, 0
 
 Lech Poznań, 1
 Dundee FC, 1

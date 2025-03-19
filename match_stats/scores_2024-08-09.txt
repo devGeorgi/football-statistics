@@ -268,9 +268,6 @@ Kəpəz PFK, 0
 Slavia Mozyr, 1
 Vitebsk, 2
 
-Dinamo Minsk, 0
-FC Minsk, 0
-
 Nacional Potosí, 3
 San Antonio Bulo-Bulo, 1
 
@@ -285,30 +282,6 @@ FK Spartak Varna, 1
 
 Arda Kardzhali, 2
 FK Hebar Pazardzhik, 1
-
-Atlético Cali, 0
-Real Santander, 0
-
-Atlético Huila, 0
-Bogotá FC, 0
-
-Barranquilla FC, 0
-Boca Juniors de Cali, 0
-
-Cúcuta Deportivo, 0
-Orsomarso, 0
-
-Deportes Quindío, 0
-Unión Magdalena, 0
-
-Internacional de Palmira, 0
-Real Cundinamarca, 0
-
-Real Cartagena, 0
-Llaneros FC, 0
-
-Tigres FC, 0
-Leones FC, 0
 
 Municipal Liberia, 4
 Santos de Guápiles, 0
@@ -499,12 +472,6 @@ CSM Slatina, 3
 CSM Reşiţa, 1
 CSC Dumbrăviţa, 1
 
-CS Unirea Ungheni 2018, 0
-FC Corvinul Hunedoara, 0
-
-FC Argeș Pitești, 0
-CSM Focșani 2007, 0
-
 Viitorul Pandurii Târgu Jiu, 1
 FK Csíkszereda Miercurea Ciuc, 4
 
@@ -555,12 +522,6 @@ Vorskla Poltava, 3
 
 Veres Rivne, 1
 Dynamo Kyiv, 2
-
-Peñarol, 0
-Cerro Largo, 0
-
-Deportivo Táchira, 0
-Portuguesa FC, 0
 
 Newtown AFC, 4
 Aberystwyth Town, 1

@@ -49,9 +49,6 @@ ES Ben Aknoun, 2
 FC Minsk, 0
 Shakhtyor Soligorsk, 0
 
-FK Gomel, 0
-Vitebsk, 0
-
 CD Real Santa Cruz, 2
 San José, 3
 
@@ -66,9 +63,6 @@ Gomhoryet Shebin, 0
 
 Ismaily, 2
 Canal SC, 1
-
-Zamalek SC, 0
-Proxy SC, 0
 
 Portugal U17, 2
 Poland U17, 1

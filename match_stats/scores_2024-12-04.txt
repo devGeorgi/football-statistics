@@ -175,16 +175,13 @@ Ulsan HD, 2
 Al-Wakrah, 0
 Ravshan, 2
 
-Mohun Bagan Super Giant, 0
-Tractor FC, 0
-
 Al-Quwa Al-Jawiya, 0
 Al-Taawoun, 1
 
 Al Khalidiyah, 4
 Altyn Asyr FK, 0
 
-Al-Kuwait, 2
+Al Kuwait SC, 2
 Al Hussein Irbid, 2
 
 Shabab Al-Ahli Dubai, 3
@@ -295,20 +292,14 @@ Famalicão U23, 0
 Santa Clara U23, 0
 Portimonense U23, 1
 
-FK Crvena zvezda, 0
-OFK Beograd, 0
-
 FK Napredak Kruševac, 5
 FK Javor Ivanjica, 4
-
-FK Radnik Surdulica, 0
-FK Partizan, 0
 
 FK Vojvodina, 3
 RFK Grafičar Beograd, 1
 
-FK Čukarički, 0
-FK Radnički Niš, 0
+NK Bravo, 0
+Kalcer Radomlje, 0
 
 Schaffhausen, 0
 Young Boys, 1
@@ -333,6 +324,9 @@ Isparta 32 Spor, 2
 
 Ankara Demirspor, 1
 Kastamonuspor, 3
+
+Oleksandria, 0
+Dynamo Kyiv, 0
 
 Rukh Lviv, 1
 Polissya Zhytomyr, 1

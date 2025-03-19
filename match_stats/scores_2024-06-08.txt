@@ -28,9 +28,6 @@ Eibar, 0
 Amazonas FC, 2
 Brusque, 1
 
-CRB, 0
-Botafogo-SP, 0
-
 Guarani, 0
 Operário-PR, 1
 
@@ -208,9 +205,6 @@ Asante Kotoko SC, 2
 Montedio Yamagata, 0
 Oita Trinita, 0
 
-V-Varen Nagasaki, 0
-Iwaki FC, 0
-
 Fagiano Okayama, 1
 Kagoshima United, 1
 
@@ -253,9 +247,6 @@ Sotra, 1
 Eik-Tønsberg, 2
 Flekkerøy, 1
 
-Jerv, 0
-Kvik Halden, 0
-
 Brattvåg, 2
 Vard Haugesund, 0
 
@@ -280,17 +271,11 @@ Kolbotn, 1
 Røa, 1
 Stabæk Fotball, 0
 
-Åsane, 0
-Avaldsnes, 0
-
 Åsane, 1
 Arna-Bjørnar, 1
 
 SK Brann Kvinner, 1
 LSK Kvinner FK, 0
-
-Manila Digger FC, 0
-Taguig FC, 0
 
 United City FC, 1
 Tuloy FC, 0

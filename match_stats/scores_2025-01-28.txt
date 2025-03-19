@@ -25,6 +25,9 @@ AE Velo Clube, 1
 Western United, 2
 Central Coast Mariners, 2
 
+Fortaleza CEIF, 0
+Envigado FC, 0
+
 Bolton Wanderers, 3
 Northampton Town, 1
 
@@ -66,9 +69,6 @@ Morecambe, 0
 
 Chesterfield, 3
 Bromley, 0
-
-Colchester United, 0
-Port Vale, 0
 
 Fleetwood Town, 2
 Walsall, 0
@@ -144,9 +144,6 @@ Coquimbo Unido, 2
 
 Sporting FC, 2
 Municipal Liberia, 1
-
-CS Cartaginés, 0
-Municipal Santa Ana, 0
 
 Omonia Nicosia, 3
 AEL Limassol, 0

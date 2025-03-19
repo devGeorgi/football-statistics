@@ -238,7 +238,7 @@ Al-Taawoun, 3
 Al-Quwa Al-Jawiya, 2
 Altyn Asyr FK, 1
 
-Al-Kuwait, 0
+Al Kuwait SC, 0
 Nasaf Qarshi, 0
 
 Shabab Al-Ahli Dubai, 3
@@ -306,6 +306,9 @@ Comunicaciones FC, 1
 
 Persebaya Surabaya, 2
 Persis Solo, 1
+
+Torres, 0
+Milan Futuro, 0
 
 FC Kaysar, 0
 Astana, 1

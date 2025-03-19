@@ -25,6 +25,9 @@ Western United, 0
 Brisbane Roar, 0
 Newcastle Jets, 1
 
+Maccabi Bney Reine, 0
+Hapoel Jerusalem, 0
+
 Maccabi Haifa, 1
 Beitar Jerusalem, 3
 

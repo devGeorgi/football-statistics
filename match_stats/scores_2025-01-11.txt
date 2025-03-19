@@ -1,15 +1,3 @@
-Deportivo Alavés, 0
-Girona FC, 1
-
-Real Valladolid, 1
-Real Betis, 0
-
-Espanyol, 1
-Leganés, 1
-
-Sevilla, 1
-Valencia, 1
-
 Empoli, 1
 Lecce, 3
 
@@ -24,6 +12,18 @@ Cagliari, 1
 
 Genoa, 1
 Parma, 0
+
+Deportivo Alavés, 0
+Girona FC, 1
+
+Real Valladolid, 1
+Real Betis, 0
+
+Espanyol, 1
+Leganés, 1
+
+Sevilla, 1
+Valencia, 1
 
 1. FC Heidenheim, 2
 1. FC Union Berlin, 0
@@ -190,9 +190,6 @@ Amiens SC, 0
 Lorient, 0
 Metz, 0
 
-Helmond Sport, 0
-FC Emmen, 0
-
 SC Telstar, 1
 Jong PSV Eindhoven, 0
 
@@ -226,29 +223,8 @@ Maccabi Tel Aviv, 2
 Rotherham United, 3
 Bolton Wanderers, 1
 
-Grimsby Town, 0
-Notts County, 0
-
-Salford City, 0
-Chesterfield, 0
-
 Walsall, 5
 Tranmere Rovers, 1
-
-AFC Wimbledon, 0
-Cheltenham Town, 0
-
-Accrington Stanley, 0
-Newport County, 0
-
-Carlisle United, 0
-Milton Keynes Dons, 0
-
-Morecambe, 0
-Doncaster Rovers, 0
-
-Port Vale, 0
-Barrow, 0
 
 Swindon Town, 0
 Crewe Alexandra, 0
@@ -274,14 +250,8 @@ Al-Ittihad, 1
 Magesi FC, 0
 AmaZulu FC, 1
 
-Mamelodi Sundowns, 0
-Orlando Pirates, 0
-
 Marumo Gallants FC, 1
 Cape Town City FC, 0
-
-Chippa United, 0
-Royal AM, 0
 
 Western Sydney Wanderers, 1
 Central Coast Mariners, 3
@@ -487,20 +457,17 @@ CODM Meknès, 1
 Olympic Safi, 2
 SC Chabab Mohammédia, 1
 
-Ballymena United, 0
-Glentoran FC, 0
-
 Crusaders FC, 1
 Dungannon Swifts, 5
-
-Glenavon, 0
-Coleraine FC, 0
 
 Linfield FC, 3
 Carrick Rangers, 0
 
 Loughgall, 0
 Portadown FC, 1
+
+Académico Viseu FC, 0
+Vizela, 0
 
 Felgueiras, 1
 Paços de Ferreira, 0
@@ -523,29 +490,14 @@ Queen's Park FC, 0
 Alloa Athletic, 1
 Queen of The South, 1
 
-Annan Athletic, 0
-Inverness Caledonian Thistle, 0
-
-Cove Rangers, 0
-Montrose, 0
-
-Dumbarton, 0
-Arbroath, 0
-
 Kelty Hearts F.C., 0
 Stenhousemuir, 0
-
-Bonnyrigg Rose, 0
-Stranraer, 0
 
 East Fife, 3
 Clyde FC, 0
 
 Edinburgh City F.C., 0
 Peterhead, 1
-
-Stirling Albion, 0
-The Spartans FC, 0
 
 AS Soliman, 0
 Stade Tunisien, 2
@@ -561,15 +513,6 @@ Briton Ferry Llansawel AFC, 6
 
 Bala Town, 0
 Caernarfon Town, 2
-
-Caernarfon Town, 0
-Flint Town United, 0
-
-Cardiff Met FC, 0
-The New Saints, 0
-
-Newtown AFC, 0
-Penybont, 0
 
 Darmstadt 98, 1
 FC St. Gallen 1879, 0

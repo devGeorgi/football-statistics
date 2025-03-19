@@ -19,9 +19,6 @@ Shamrock Rovers, 0
 SS Virtus, 1
 FCSB, 7
 
-Red Bull Bragantino, 0
-Internacional, 0
-
 Mirassol, 1
 CRB, 0
 
@@ -63,9 +60,6 @@ Tegevajaro Miyazaki, 1
 
 Hokkaido Consadole Sapporo, 6
 Montedio Yamagata, 3
-
-Japan Soccer College, 0
-Renofa Yamaguchi FC, 0
 
 Kashima Antlers, 2
 Fujieda MYFC, 1

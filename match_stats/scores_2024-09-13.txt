@@ -163,20 +163,11 @@ Beijing Guoan, 2
 Tianjin Jinmen Tiger, 1
 Henan Songshan Longmen, 0
 
-Colo Colo, 0
-Universidad Católica, 0
-
 Patriotas Boyacá, 1
 Atlético Bucaramanga, 2
 
 Jaguares de Córdoba, 2
 Envigado FC, 1
-
-Mladá Boleslav, 0
-FC Slovan Liberec, 0
-
-Viktoria Plzeň, 0
-FK Teplice, 0
 
 Motor Lublin, 1
 Górnik Zabrze, 0
@@ -214,14 +205,8 @@ Mumbai City FC, 2
 Odisha FC, 2
 Chennaiyin FC, 3
 
-Derry City, 0
-Bohemian FC, 0
-
 Shamrock Rovers, 4
 Sligo Rovers, 0
-
-Shelbourne, 0
-St. Patrick's Athletic, 0
 
 Waterford FC, 2
 Dundalk FC, 1
@@ -264,9 +249,6 @@ Al-Khaleej, 0
 
 Damac FC, 3
 Al-Okhdood, 1
-
-Al-Ittihad, 0
-Al-Wehda, 0
 
 Al-Nassr, 1
 Al-Ahli, 1
@@ -328,9 +310,6 @@ Al-Shahaniya, 2
 Al-Sadd, 1
 Umm-Salal SC, 3
 
-Nakhon Pathom United, 0
-Chiangrai United, 0
-
 KSC Lokeren-Temse, 2
 Patro Eisden Maasmechelen, 2
 
@@ -379,35 +358,8 @@ Melbourne Victory, 4
 Kapfenberger SV, 0
 SC Austria Lustenau, 2
 
-Rapid Wien II, 0
-SKU Amstetten, 0
-
 SV Ried, 0
 ASK Voitsberg, 0
-
-SKN St. Pölten, 0
-Admira Wacker, 0
-
-ASV Siegendorf, 0
-SV Gloggnitz, 0
-
-FC Mauerwerk, 0
-Wiener Sport-Club, 0
-
-FCM Traiskirchen, 0
-Wiener Viktoria, 0
-
-SV Oberwart, 0
-Favoritner AC, 0
-
-TWL Elektra, 0
-SC Neusiedl 1919, 0
-
-Young Violets Austria Wien, 0
-SC Krems, 0
-
-SV Leobendorf, 0
-FC Marchfeld Donauauen, 0
 
 Araz Naxçıvan PFK, 1
 Kəpəz PFK, 0
@@ -429,15 +381,6 @@ FK Spartak Varna, 1
 
 Deportes Recoleta, 1
 San Luis de Quillota, 2
-
-FC Sellier & Bellot Vlašim, 0
-SK Slavia Praha B, 0
-
-FC Zlín, 0
-Vysočina Jihlava, 0
-
-MFK Vyškov, 0
-MFK Chrudim, 0
 
 FC Roskilde, 2
 Hvidovre, 0
@@ -511,15 +454,6 @@ TSV Aubstadt, 2
 SV Viktoria Aschaffenburg, 0
 FC Augsburg II, 0
 
-Accra Lions FC, 0
-Vision FC, 0
-
-Asante Kotoko SC, 0
-Nsoatreman FC, 0
-
-Samartex, 0
-Bibiani Gold Stars FC, 0
-
 KR Reykjavík, 0
 Víkingur Reykjavík, 3
 
@@ -543,9 +477,6 @@ Longford Town, 0
 
 Kerry FC, 1
 Cork City, 4
-
-Wexford FC, 0
-Bray Wanderers, 0
 
 AlbinoLeffe, 3
 Pergolettese, 0
@@ -643,12 +574,6 @@ CSC 1599 Șelimbăr, 0
 CSC Dumbrăviţa, 1
 FC Bihor Oradea, 0
 
-CSM Reşiţa, 0
-FK Csíkszereda Miercurea Ciuc, 0
-
-FC Argeș Pitești, 0
-Concordia Chiajna, 0
-
 Steaua București, 1
 CSM Focșani 2007, 0
 
@@ -707,7 +632,7 @@ Obolon Kyiv, 0
 Oleksandria, 0
 
 Chornomorets Odesa, 1
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 
 Defensor Sporting, 1
 Racing de Montevideo, 2

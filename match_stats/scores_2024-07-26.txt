@@ -40,9 +40,6 @@ Dundalk FC, 1
 Drogheda United, 2
 Waterford FC, 0
 
-Unión Comercio, 0
-Club Atlético Grau, 0
-
 Comerciantes Unidos, 2
 Carlos A. Mannucci, 1
 
@@ -163,9 +160,6 @@ First Vienna, 3
 SV Oberwart, 0
 SV Stripfing, 2
 
-Dinamo Minsk, 0
-Neman Grodno, 0
-
 FK Smorgon, 1
 Belshina Bobruisk, 2
 
@@ -195,9 +189,6 @@ Deportes Limache, 0
 
 Atlético Cali, 2
 Leones FC, 2
-
-Real Santander, 0
-Real Cundinamarca, 0
 
 Real Cartagena, 1
 Atlético Huila, 0
@@ -300,9 +291,6 @@ Kuching City, 1
 
 Kelantan Darul Naim, 1
 Perak FC, 3
-
-Negeri Sembilan, 0
-Sabah FC, 0
 
 Venados, 1
 Tepatitlán FC, 1

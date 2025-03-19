@@ -124,9 +124,6 @@ England U19, 10
 Spain U19, 0
 Ireland U19, 0
 
-IF Gnistan, 0
-IFK Mariehamn, 0
-
 EIF, 0
 Inter Turku, 7
 

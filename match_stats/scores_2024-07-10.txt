@@ -40,9 +40,6 @@ Cruzeiro, 2
 Athletico, 1
 Bahia, 3
 
-Cuiabá, 0
-Juventude, 0
-
 Vasco da Gama, 2
 Corinthians, 0
 
@@ -153,9 +150,6 @@ Hertha BSC, 1
 
 FC Lugano II U21, 0
 FC Mendrisio, 1
-
-York City, 0
-Huddersfield Town, 0
 
 Cardiff City, 0
 Kidderminster Harriers, 1

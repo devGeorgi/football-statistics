@@ -1,11 +1,11 @@
 Brighton & Hove Albion, 3
 Chelsea, 0
 
-Girona FC, 1
-Getafe, 2
-
 Bologna, 3
 Torino, 2
+
+Girona FC, 1
+Getafe, 2
 
 FC Augsburg, 0
 RB Leipzig, 0
@@ -199,9 +199,6 @@ Dibba Al-Hisn, 2
 Al-Nasr Dubai, 0
 Al Wasl, 1
 
-KMSK Deinze, 0
-Patro Eisden Maasmechelen, 0
-
 Koninklijke Lierse Sportkring, 0
 SV Zulte Waregem, 0
 
@@ -292,17 +289,8 @@ FC Rouen, 0
 FC Viktoria Köln, 3
 Alemannia Aachen, 1
 
-Berliner FC Dynamo, 0
-FSV Luckenwalde, 0
-
-Hertha BSC II U23, 0
-VSG Altglienicke, 0
-
 MSV Duisburg, 0
 SC Paderborn 07 II, 0
-
-Accra Hearts of Oak, 0
-Nations FC, 0
 
 Shillong Lajong FC, 4
 Sreenidi Deccan FC, 0
@@ -366,9 +354,6 @@ Renofa Yamaguchi FC, 0
 
 V-Varen Nagasaki, 3
 Roasso Kumamoto, 2
-
-PDRM FC, 0
-Negeri Sembilan, 0
 
 Terengganu, 1
 Kuala Lumpur City FC, 2
@@ -483,9 +468,6 @@ GKS Bełchatów, 0
 
 Steaua București, 0
 CS Tunari, 1
-
-Vysočina Jihlava, 0
-TJ Sokol Živanice, 0
 
 Asker, 6
 Frigg, 0

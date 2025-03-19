@@ -214,6 +214,9 @@ Singapore, 1
 Accra Lions FC, 2
 Accra Hearts of Oak, 3
 
+Berekum Chelsea, 0
+Dreams, 0
+
 Karela United, 1
 Vision FC, 1
 
@@ -237,24 +240,6 @@ Raja Club Athletic, 0
 
 Marítimo, 1
 UD Oliveirense, 2
-
-Académico Viseu FC, 0
-Vizela, 0
-
-FC Alverca, 0
-Tondela, 0
-
-FC Porto B, 0
-Portimonense, 0
-
-Felgueiras, 0
-Paços de Ferreira, 0
-
-Leixões SC, 0
-Torreense, 0
-
-União Leiria, 0
-Chaves, 0
 
 CS Sfaxien, 0
 Espérance Tunis, 1

@@ -46,9 +46,6 @@ Sampaio Corrêa, 0
 Vitória, 1
 Botafogo, 2
 
-Athletico, 0
-Ypiranga FC, 0
-
 Corinthians, 2
 América-RN, 1
 
@@ -91,9 +88,6 @@ Inter Turku, 0
 JäPS, 2
 TPS, 1
 
-Accra Lions FC, 0
-Dreams, 0
-
 Dreams, 2
 Legon Cities, 0
 
@@ -105,6 +99,9 @@ AEPS Aiolikos Mytilene, 1
 
 Iraklis 1908, 1
 Kampaniakos, 2
+
+GS Ilioupolis, 0
+Ionikos, 0
 
 L.R. Vicenza, 2
 Padova, 0

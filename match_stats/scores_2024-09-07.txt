@@ -43,6 +43,9 @@ Sporting Kansas City, 1
 Chicago Fire, 1
 DC United, 2
 
+Houston Dynamo, 0
+Los Angeles FC, 0
+
 Vancouver Whitecaps, 0
 FC Dallas, 0
 
@@ -133,41 +136,14 @@ Jaguares de Córdoba, 0
 Deportes Tolima, 1
 Deportivo Cali, 1
 
-Rionegro Águilas Doradas, 0
-Atlético Bucaramanga, 0
-
 Barnsley, 2
 Bristol Rovers, 1
-
-Cambridge United, 0
-Bolton Wanderers, 0
 
 Charlton Athletic, 1
 Rotherham United, 1
 
-Exeter City, 0
-Birmingham City, 0
-
-Huddersfield Town, 0
-Blackpool, 0
-
-Leyton Orient, 0
-Peterborough United, 0
-
-Lincoln City, 0
-Northampton Town, 0
-
-Stockport County, 0
-Reading, 0
-
-Wigan Athletic, 0
-Stevenage, 0
-
 Wrexham, 3
 Shrewsbury Town, 0
-
-Wycombe Wanderers, 0
-Mansfield Town, 0
 
 Barrow, 1
 Swindon Town, 1
@@ -190,9 +166,6 @@ Morecambe, 0
 Doncaster Rovers, 1
 Gillingham, 0
 
-Fleetwood Town, 0
-Salford City, 0
-
 Milton Keynes Dons, 1
 Walsall, 0
 
@@ -201,9 +174,6 @@ Port Vale, 4
 
 Notts County, 2
 Accrington Stanley, 0
-
-Tranmere Rovers, 0
-AFC Wimbledon, 0
 
 Melgar, 3
 Comerciantes Unidos, 0
@@ -246,9 +216,6 @@ Lexington SC, 1
 
 Spokane Velocity FC, 3
 Central Valley Fuego, 2
-
-Russia, 0
-Thailand, 0
 
 USA, 1
 Canada, 2
@@ -352,9 +319,6 @@ Votuporanguense, 1
 AC Barnechea, 1
 San Marcos de Arica, 1
 
-Deportes Magallanes, 0
-Deportes Recoleta, 0
-
 San Luis de Quillota, 0
 Santiago Wanderers, 0
 
@@ -445,9 +409,6 @@ SC Rot-Weiß Oberhausen, 4
 Bahlinger SC, 1
 SGV Freiberg, 3
 
-Eintracht Frankfurt II, 0
-FC Gießen, 0
-
 FC 08 Homburg, 6
 FC 08 Villingen, 0
 
@@ -486,12 +447,6 @@ Samartex, 0
 
 Vision FC, 0
 Berekum Chelsea, 0
-
-CSD Municipal, 0
-Antigua GFC, 0
-
-Deportivo Mixco, 0
-Comunicaciones FC, 0
 
 CSD Xelajú MC, 2
 Xinabajul Huehue, 0
@@ -586,9 +541,6 @@ Saint Kitts and Nevis, 4
 Carrick Rangers, 0
 Portadown FC, 1
 
-Cliftonville FC, 0
-Coleraine FC, 0
-
 Dungannon Swifts, 1
 Glentoran FC, 0
 
@@ -597,9 +549,6 @@ Loughgall, 2
 
 Larne FC, 0
 Ballymena United, 1
-
-Linfield FC, 0
-Crusaders FC, 0
 
 Lysekloster IL, 3
 Jerv, 0
@@ -619,17 +568,11 @@ Kjelsås, 0
 Gjøvik-Lyn, 0
 Eidsvold Turn, 2
 
-Skeid, 0
-Stjørdals/Blink, 0
-
 Grorud, 3
 Alta IF, 1
 
 LSK Kvinner FK, 1
 Røa, 0
-
-FC Bihor Oradea, 0
-FCU 1948 Craiova, 0
 
 Shinnik Yaroslavl, 2
 FC Ufa, 0
@@ -675,9 +618,6 @@ Annan Athletic, 5
 
 The Spartans FC, 0
 Livingston, 2
-
-Rangers B U21, 0
-Fraserburgh FC, 0
 
 Karlbergs BK, 2
 Täby FK, 2

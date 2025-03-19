@@ -250,17 +250,8 @@ Al-Sadd, 5
 Umm-Salal SC, 0
 Al-Gharafa, 1
 
-Lamphun Warrior, 0
-Buriram United, 0
-
 Nakhon Pathom United, 1
 BG Pathum United, 4
-
-Jong KRC Genk U23, 0
-KMSK Deinze, 0
-
-RWD Molenbeek, 0
-KSC Lokeren-Temse, 0
 
 RFC Seraing, 2
 Club NXT U23, 3
@@ -324,9 +315,6 @@ FCM Traiskirchen, 0
 
 Young Violets Austria Wien, 3
 SV Gloggnitz, 1
-
-Sumqayıt FK, 0
-Kəpəz PFK, 0
 
 Torpedo-BelAZ Zhodino, 1
 Dynamo Brest, 0
@@ -556,6 +544,9 @@ Pogoń Siedlce, 0
 Feirense, 0
 Chaves, 1
 
+Penafiel, 3
+FC Alverca, 2
+
 SC Braga, 4
 Vilaverdense FC, 0
 
@@ -568,17 +559,11 @@ CSM Ceahlăul Piatra Neamţ, 1
 CSM Slatina, 0
 CS Unirea Ungheni 2018, 1
 
-CS Mioveni, 0
-Chindia Târgoviște, 0
-
 Concordia Chiajna, 2
 CSC 1599 Șelimbăr, 2
 
 FC Corvinul Hunedoara, 0
 FC Metaloglobus București, 1
-
-Steaua București, 0
-Viitorul Pandurii Târgu Jiu, 0
 
 FC Bihor Oradea, 2
 FC Voluntari, 4
@@ -636,9 +621,6 @@ Barry Town, 4
 
 Newtown AFC, 2
 Flint Town United, 2
-
-Lunds BK, 0
-Trelleborgs FF, 0
 
 Sollentuna FF, 1
 Vasalunds IF, 1

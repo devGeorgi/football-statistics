@@ -79,9 +79,6 @@ Orlando Pirates, 1
 Lamontville Golden Arrows, 1
 Mamelodi Sundowns, 1
 
-Polokwane City, 0
-Royal AM, 0
-
 Richards Bay FC, 2
 Sekhukhune United, 1
 
@@ -186,12 +183,6 @@ CRB, 1
 
 Vitória, 1
 AA Altos, 1
-
-Confiança, 0
-Bahia, 0
-
-Audax Italiano, 0
-Deportes Concepción, 0
 
 Puntarenas FC, 1
 CS Cartaginés, 0

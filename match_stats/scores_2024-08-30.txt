@@ -166,9 +166,6 @@ Shelbourne, 1
 Galway United, 1
 Derry City, 0
 
-Kyoto Sanga FC, 0
-Kashima Antlers, 0
-
 Machida Zelvia, 2
 Urawa Red Diamonds, 2
 
@@ -499,9 +496,6 @@ Milan U20, 1
 Mito Hollyhock, 3
 Ehime FC, 1
 
-Tokushima Vortis, 0
-Shimizu S-Pulse, 0
-
 Ventforet Kofu, 1
 Kagoshima United, 0
 
@@ -644,13 +638,10 @@ Obolon Kyiv, 0
 Zorya Luhansk, 2
 
 Rukh Lviv, 5
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 
 Karpaty Lviv, 1
 Vorskla Poltava, 1
-
-Defensor Sporting, 0
-Racing de Montevideo, 0
 
 Haverfordwest County AFC, 3
 Newtown AFC, 0

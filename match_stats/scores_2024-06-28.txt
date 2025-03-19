@@ -46,9 +46,6 @@ Sanfrecce Hiroshima, 1
 Yokohama F. Marinos, 1
 Tokyo Verdy, 2
 
-Fredrikstad FK, 0
-Haugesund, 0
-
 Odds BK, 1
 Kristiansund BK, 1
 
@@ -96,9 +93,6 @@ FK Gomel, 0
 
 Dynamo Brest, 1
 Vitebsk, 1
-
-Barretos U23, 0
-Botafogo-SP, 0
 
 San Antonio Unido, 0
 Universidad de Chile, 0
@@ -261,9 +255,6 @@ Wolfsberger AC, 5
 
 SC Weiz, 1
 SK Sturm Graz, 6
-
-St. Veit/Glan, 0
-Wolfsberger AC, 0
 
 Wiener Sport-Club, 1
 SKU Amstetten, 4

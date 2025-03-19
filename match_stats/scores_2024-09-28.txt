@@ -16,18 +16,6 @@ Fulham, 1
 Wolverhampton, 1
 Liverpool, 2
 
-Getafe, 2
-Deportivo Alavés, 0
-
-Rayo Vallecano, 1
-Leganés, 1
-
-Real Sociedad, 3
-Valencia, 0
-
-Osasuna, 4
-Barcelona, 2
-
 Udinese, 2
 Inter, 3
 
@@ -39,6 +27,18 @@ Atalanta, 1
 
 Torino, 2
 Lazio, 3
+
+Getafe, 2
+Deportivo Alavés, 0
+
+Rayo Vallecano, 1
+Leganés, 1
+
+Real Sociedad, 3
+Valencia, 0
+
+Osasuna, 4
+Barcelona, 2
 
 1. FSV Mainz 05, 0
 1. FC Heidenheim, 2
@@ -304,9 +304,6 @@ LASK, 1
 Hapoel Ironi Kiryat Shmona, 0
 Maccabi Haifa, 4
 
-Hapoel Hadera, 0
-Ashdod SC, 0
-
 Hapoel Jerusalem, 4
 Maccabi Petach Tikva, 1
 
@@ -396,9 +393,6 @@ Exeter City, 0
 
 Barnsley, 1
 Stockport County, 1
-
-AFC Wimbledon, 0
-Accrington Stanley, 0
 
 Bromley, 1
 Milton Keynes Dons, 1
@@ -559,23 +553,11 @@ Suwon FC, 0
 Ansan Greeners FC, 0
 Busan I Park, 5
 
-Chiangrai United, 0
-Lamphun Warrior, 0
-
 Nakhon Pathom United, 0
 Sukhothai, 1
 
-Buriram United, 0
-Muang Thong United, 0
-
 Lamphun Warrior, 4
 Rayong FC, 1
-
-PT Prachuap FC, 0
-BG Pathum United, 0
-
-Khon Kaen United, 0
-Uthai Thani FC, 0
 
 Khor Fakkan, 0
 Al-Ittihad Kalba, 2
@@ -670,12 +652,6 @@ Patronato, 0
 Talleres Remedios de Escalada, 0
 Alvarado, 2
 
-Atlanta, 0
-San Telmo, 0
-
-Club Ferro Carril Oeste, 0
-Deportivo Maipú, 0
-
 Club Atletico Colón, 2
 Defensores de Belgrano, 0
 
@@ -723,9 +699,6 @@ Torpedo-BelAZ Zhodino, 1
 
 Independiente Petrolero, 0
 San José, 1
-
-FC Universitario de Vinto, 0
-Oriente Petrolero, 0
 
 FK Sloboda Tuzla, 0
 FK Sloga Doboj, 3
@@ -939,9 +912,6 @@ Wuppertaler SV, 0
 
 FC Schalke 04 II U23, 1
 MSV Duisburg, 2
-
-KFC Uerdingen 05, 0
-Fortuna Düsseldorf II U23, 0
 
 1. Göppinger SV, 0
 FC 08 Homburg, 1
@@ -1322,7 +1292,7 @@ Karpaty Lviv, 1
 Polissya Zhytomyr, 3
 
 Obolon Kyiv, 2
-Inhulets Petrove, 1
+Ingulets Petrove, 1
 
 Miramar Misiones, 0
 Rampla Juniors, 0

@@ -10,6 +10,12 @@ West Ham United, 1
 Fulham, 0
 Manchester United, 1
 
+Lecce, 0
+Inter, 4
+
+Lazio, 1
+Fiorentina, 2
+
 Rayo Vallecano, 2
 Girona FC, 1
 
@@ -21,12 +27,6 @@ Leganés, 0
 
 Barcelona, 7
 Valencia, 1
-
-Lecce, 0
-Inter, 4
-
-Lazio, 1
-Fiorentina, 2
 
 TSG Hoffenheim, 2
 Eintracht Frankfurt, 2
@@ -115,9 +115,6 @@ CD Castellón, 0
 Málaga, 1
 Real Zaragoza, 2
 
-Racing de Ferrol, 0
-Burgos Club de Fútbol, 0
-
 Darmstadt 98, 0
 SC Paderborn 07, 1
 
@@ -163,11 +160,11 @@ Hapoel Hadera, 1
 Independiente Santa Fe, 2
 Deportivo Pereira, 1
 
+Junior Barranquilla, 0
+Deportivo Cali, 0
+
 Alianza Valledupar FC, 1
 Independiente Medellín, 1
-
-Atlético Nacional, 0
-Once Caldas, 0
 
 Al-Ittihad Alexandria, 1
 Ismaily, 0
@@ -234,9 +231,6 @@ RFC Liège, 2
 
 Club NXT U23, 2
 RAAL La Louvière, 1
-
-SK Beveren, 0
-KMSK Deinze, 0
 
 FC Carl Zeiss Jena, 0
 TSG Hoffenheim, 3

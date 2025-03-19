@@ -127,6 +127,9 @@ EC São José, 2
 CD Concón National, 3
 Santiago Wanderers, 5
 
+Langfang Glory City FC, 3
+Qingdao Hainiu, 5
+
 Llaneros FC, 6
 Orsomarso, 5
 
@@ -174,9 +177,6 @@ KA Akureyri, 1
 
 FK Transinvest, 3
 FK Panevėžys, 0
-
-FK Banga Gargždai, 0
-FC Hegelmann, 0
 
 Džiugas Telšiai, 0
 FK Žalgiris, 4

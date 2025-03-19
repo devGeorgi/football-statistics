@@ -76,9 +76,6 @@ Mamelodi Sundowns, 5
 Racing Club, 1
 Talleres Remedios de Escalada, 2
 
-Deportivo Morón, 0
-San Miguel, 0
-
 Iraq U23, 2
 Indonesia U23, 1
 
@@ -127,23 +124,11 @@ Orsomarso, 0
 Sønderjyske Fodbold, 2
 FC Fredericia, 1
 
-Dinamo Batumi, 0
-FC Telavi, 0
-
-Dinamo Tbilisi, 0
-FC Iberia 1999, 0
-
-FC Dila Gori, 0
-FC Torpedo Kutaisi, 0
-
-FC Gagra, 0
-FC Samtredia, 0
-
-FC Kolkheti-1913 Poti, 0
-FC Samgurali Tskhaltubo, 0
-
 FC Telavi, 0
 FC Dila Gori, 1
+
+FC Torpedo Kutaisi, 0
+Dinamo Tbilisi, 0
 
 Tokushima Vortis, 0
 Ehime FC, 0

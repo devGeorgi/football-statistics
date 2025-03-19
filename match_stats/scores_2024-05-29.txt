@@ -43,9 +43,6 @@ FK Javor Ivanjica, 0
 CF Montréal, 4
 DC United, 2
 
-Columbus Crew, 0
-New England Revolution, 0
-
 FC Cincinnati, 0
 Nashville SC, 2
 
@@ -130,9 +127,6 @@ Atlético Ottawa, 1
 Al-Mokawloon, 0
 Tersana SC, 1
 
-Al Ahly FC, 0
-Aluminium Nag Hammådi, 0
-
 Tala'ea El-Gaish, 1
 Port Fouad SC, 0
 
@@ -148,21 +142,6 @@ Denmark U17, 6
 Austria U17, 2
 Serbia U17, 3
 
-Dinamo Tbilisi, 0
-FC Gagra, 0
-
-FC Dila Gori, 0
-FC Kolkheti-1913 Poti, 0
-
-FC Iberia 1999, 0
-FC Samgurali Tskhaltubo, 0
-
-FC Samtredia, 0
-Dinamo Batumi, 0
-
-FC Torpedo Kutaisi, 0
-FC Telavi, 0
-
 FC Würzburger Kickers, 1
 Hannover 96 II U23, 0
 
@@ -177,9 +156,6 @@ FK Tukums 2000, 0
 
 Philippine Army, 5
 Manila Montet FC, 0
-
-Club Africain, 0
-Espérance Tunis, 0
 
 Union Omaha SC, 4
 Central Valley Fuego, 1

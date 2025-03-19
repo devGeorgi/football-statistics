@@ -271,12 +271,6 @@ Arsenal de Sarandí, 0
 Alvarado, 1
 Tristán Suárez, 2
 
-Atlanta, 0
-Mitre, 0
-
-Quilmes Atlético Club, 0
-San Martín de Tucumán, 0
-
 Club Atletico Colón, 3
 Estudiantes de Río Cuarto, 0
 
@@ -300,9 +294,6 @@ Caxias, 0
 
 São Bernardo, 0
 Ferroviária, 0
-
-Confiança, 0
-Ferroviário, 0
 
 Tombense, 1
 Figueirense, 1
@@ -360,6 +351,9 @@ Municipal Santa Ana, 0
 
 Sporting FC, 3
 Deportivo Saprissa, 1
+
+Municipal Pérez Zeledón, 0
+Herediano, 0
 
 FC Silon Táborsko, 3
 SK Slavia Praha B, 1
@@ -424,9 +418,6 @@ IF Vestri, 1
 KA Akureyri, 1
 Víkingur Reykjavík, 0
 
-BFC Daugava Daugavpils, 0
-RFS, 0
-
 Valmiera FC, 0
 Grobiņas SC, 0
 
@@ -448,9 +439,6 @@ Bryne FK, 2
 IK Start, 1
 Vålerenga IF, 2
 
-Levanger, 0
-Mjøndalen, 0
-
 Lyn FK, 3
 Åsane, 1
 
@@ -462,9 +450,6 @@ Sogndal IL, 0
 
 Raufoss, 0
 Stabæk Fotball, 0
-
-Sandnes Ulf, 0
-Aalesunds FK, 0
 
 Strømmen IF, 3
 Gjøvik-Lyn, 0

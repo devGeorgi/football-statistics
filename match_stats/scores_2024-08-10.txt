@@ -133,9 +133,6 @@ Amazonas FC, 2
 ADO Den Haag, 1
 VVV-Venlo, 1
 
-Yeni Malatyaspor, 0
-Pendikspor, 0
-
 İstanbulspor, 3
 Manisa FK, 2
 
@@ -189,9 +186,6 @@ FC Slovan Liberec, 1
 
 SK Slavia Praha, 2
 SK Sigma Olomouc, 0
-
-Motor Lublin, 0
-Jagiellonia Białystok, 0
 
 MKS Korona Kielce, 0
 Cracovia, 2
@@ -319,9 +313,6 @@ Alianza Atlético de Sullana, 1
 Sport Boys, 2
 Los Chankas CYC, 1
 
-Melgar, 0
-Comerciantes Unidos, 0
-
 Alianza Lima, 0
 Asociación Deportiva Tarma, 0
 
@@ -423,9 +414,6 @@ Uthai Thani FC, 0
 
 Zalaegerszegi TE, 3
 Paksi FC, 1
-
-FC Spartak Trnava, 0
-KFC Komárno, 0
 
 MŠK Žilina, 3
 MFK Zemplín Michalovce, 1
@@ -616,9 +604,6 @@ Sutton United, 1
 Yeovil Town, 0
 Hartlepool United, 1
 
-Paide Linnameeskond, 0
-Narva Trans, 0
-
 Pärnu JK Vaprus, 1
 FCI Levadia Tallinn, 4
 
@@ -630,18 +615,6 @@ MP, 4
 
 SalPa, 0
 TPS, 0
-
-Dinamo Batumi, 0
-FC Samgurali Tskhaltubo, 0
-
-FC Dila Gori, 0
-FC Telavi, 0
-
-FC Iberia 1999, 0
-FC Samtredia, 0
-
-FC Kolkheti-1913 Poti, 0
-FC Gagra, 0
 
 FC Samtredia, 1
 FC Kolkheti-1913 Poti, 3
@@ -768,9 +741,6 @@ Novara, 6
 
 Triestina, 0
 Trento, 1
-
-Pineto, 0
-Pescara, 0
 
 Cavese, 0
 Trapani, 1
@@ -955,9 +925,6 @@ Trelleborgs FF, 2
 Östersunds FK, 0
 Östers IF, 0
 
-Örgryte IS, 0
-Örebro SK, 0
-
 IK Oddevold, 2
 Sandvikens IF, 2
 
@@ -1001,19 +968,10 @@ Chornomorets Odesa, 0
 Zorya Luhansk, 1
 
 Kolos Kovalivka, 0
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 
 Obolon Kyiv, 0
 Rukh Lviv, 4
-
-Liverpool UY, 0
-Racing de Montevideo, 0
-
-River Plate UY, 0
-Nacional, 0
-
-Boston River, 0
-Deportivo Maldonado, 0
 
 Barry Town, 1
 Bala Town, 1

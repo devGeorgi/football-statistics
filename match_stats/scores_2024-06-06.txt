@@ -61,9 +61,6 @@ Rwanda, 0
 Libya, 2
 Mauritius, 1
 
-Congo Republic, 0
-Niger, 0
-
 Algeria, 1
 Guinea, 2
 

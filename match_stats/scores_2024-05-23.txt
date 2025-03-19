@@ -127,6 +127,9 @@ SJK Akatemia, 1
 MP, 1
 FF Jaro, 4
 
+FC Samtredia, 0
+FC Dila Gori, 0
+
 FC Iberia 1999, 0
 FC Kolkheti-1913 Poti, 2
 
@@ -156,9 +159,6 @@ Ross County, 2
 
 Balestier Khalsa, 2
 Tampines Rovers, 4
-
-NK Nafta Lendava 1903, 0
-Kalcer Radomlje, 0
 
 IK Brage, 0
 Degerfors IF, 1

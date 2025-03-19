@@ -46,9 +46,6 @@ Bahia, 0
 Puntarenas FC, 1
 LD Alajuelense, 1
 
-Municipal Liberia, 0
-CS Cartaginés, 0
-
 TPS, 0
 JIPPO Joensuu, 1
 

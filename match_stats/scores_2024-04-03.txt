@@ -106,12 +106,6 @@ Göztepe, 2
 Wuhan Three Towns, 2
 Cangzhou Mighty Lions, 3
 
-Modern Sport FC, 0
-Al Ahly FC, 0
-
-Zamalek SC, 0
-Baladiyet El Mahallah, 0
-
 Ceramica Cleopatra, 1
 ZED FC, 1
 
@@ -157,9 +151,6 @@ CF Pachuca, 5
 NK Lokomotiva Zagreb, 0
 HNK Rijeka, 1
 
-Al Duhail, 0
-Al-Sadd, 0
-
 BG Pathum United, 1
 Buriram United, 1
 
@@ -168,9 +159,6 @@ Uthai Thani FC, 2
 
 Ratchaburi, 1
 True Bangkok United, 2
-
-Club Atlético Unión de Santa Fe, 0
-Gimnasia y Esgrima Mendoza, 0
 
 Instituto De Córdoba, 1
 Talleres Remedios de Escalada, 2
@@ -285,12 +273,6 @@ Ferencváros TC, 2
 
 Neroca FC, 1
 Sreenidi Deccan FC, 1
-
-PSM Makassar, 0
-PSIS Semarang, 0
-
-RANS Nusantara FC, 0
-PS Barito Putera, 0
 
 Aluminium Arak, 1
 Havadar Tehran, 1

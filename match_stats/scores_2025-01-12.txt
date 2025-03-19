@@ -1,12 +1,6 @@
 Real Madrid, 2
 Barcelona, 5
 
-Las Palmas, 1
-Getafe, 2
-
-Atlético Madrid, 1
-Osasuna, 0
-
 Venezia, 0
 Inter, 1
 
@@ -15,6 +9,12 @@ Roma, 2
 
 Napoli, 2
 Hellas Verona, 0
+
+Las Palmas, 1
+Getafe, 2
+
+Atlético Madrid, 1
+Osasuna, 0
 
 RB Leipzig, 4
 SV Werder Bremen, 2
@@ -190,9 +190,6 @@ Al Shamal SC, 0
 True Bangkok United, 3
 Buriram United, 2
 
-Club NXT U23, 0
-KMSK Deinze, 0
-
 SK Beveren, 0
 RAAL La Louvière, 0
 
@@ -319,9 +316,6 @@ Crotone, 3
 Latina, 4
 Turris, 1
 
-Potenza Calcio, 0
-Benevento, 0
-
 Cagliari U20, 3
 Cremonese U20, 0
 
@@ -346,15 +340,6 @@ Hassania d'Agadir, 0
 MAS de Fès, 2
 Moghreb Atlético Tetuán, 1
 
-AS FAR Rabat, 0
-Difaâ Hassani El-Jadidi, 0
-
-Fath Union Sport, 0
-Raja Club Athletic, 0
-
-Ittihad Tanger, 0
-RS Berkane, 0
-
 Wydad Casablanca, 2
 Union Touarga Sport, 1
 
@@ -378,9 +363,6 @@ Anadia, 0
 
 Vilaverdense FC, 0
 Lusitânia Lourosa, 2
-
-SC Lusitânia, 0
-Oliveira Hospital, 0
 
 SC Covilhã, 1
 Atletico CP, 3

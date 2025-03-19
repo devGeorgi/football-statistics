@@ -79,8 +79,14 @@ Racing de Córdoba, 1
 Atlanta, 0
 Nueva Chicago, 0
 
+Atlético de Rafaela, 0
+Brown de Adrogué, 0
+
 Chaco For Ever, 3
 Defensores de Belgrano, 0
+
+Estudiantes de Río Cuarto, 0
+Mitre, 0
 
 Club Atletico Colón, 1
 Gimnasia y Tiro de Salta, 0
@@ -124,26 +130,14 @@ Bibiani Gold Stars FC, 2
 Real Tamale United, 1
 Accra Lions FC, 0
 
-Kampaniakos, 0
-PAOK B, 0
-
 GS Ilioupolis, 0
 Athens Kallithea FC, 4
-
-GS Diagoras Rodou, 0
-Olympiacos B, 0
-
-AO Egaleo, 0
-Panathinaikos B, 0
 
 Bray Wanderers, 1
 Longford Town, 1
 
 Crotone, 0
 Casertana, 0
-
-Defensor Sporting, 0
-Danubio, 0
 
 Angostura FC, 1
 Academia Puerto Cabello, 0

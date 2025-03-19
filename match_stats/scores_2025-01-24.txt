@@ -1,8 +1,8 @@
-Las Palmas, 1
-Osasuna, 1
-
 Torino, 2
 Cagliari, 0
+
+Las Palmas, 1
+Osasuna, 1
 
 VfL Wolfsburg, 2
 Holstein Kiel, 2
@@ -109,26 +109,8 @@ Central Coast Mariners, 0
 Newcastle Jets, 2
 Perth Glory, 2
 
-Brisbane Roar, 0
-Adelaide United, 0
-
 Macarthur FC, 1
 Melbourne City, 0
-
-Alianza Valledupar FC, 0
-Independiente Medellín, 0
-
-Deportes Tolima, 0
-Deportivo Pasto, 0
-
-Fortaleza CEIF, 0
-Envigado FC, 0
-
-Junior Barranquilla, 0
-Deportivo Cali, 0
-
-Rionegro Águilas Doradas, 0
-Deportivo La Equidad, 0
 
 Boyacá Chicó FC, 1
 Atlético Bucaramanga, 0
@@ -243,9 +225,6 @@ US Orléans, 0
 
 FC Viktoria Köln, 1
 SV Waldhof Mannheim, 0
-
-FC Gütersloh, 0
-Sportfreunde Lotte, 0
 
 SC Rot-Weiß Oberhausen, 3
 Wuppertaler SV, 2

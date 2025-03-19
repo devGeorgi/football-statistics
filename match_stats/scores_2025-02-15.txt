@@ -19,18 +19,6 @@ Brentford, 1
 Crystal Palace, 1
 Everton, 2
 
-Leganés, 3
-Deportivo Alavés, 3
-
-Osasuna, 1
-Real Madrid, 1
-
-Atlético Madrid, 1
-Celta Vigo, 1
-
-Villarreal, 1
-Valencia, 1
-
 Atalanta, 0
 Cagliari, 0
 
@@ -42,6 +30,18 @@ Hellas Verona, 0
 
 Fiorentina, 0
 Como, 2
+
+Leganés, 3
+Deportivo Alavés, 3
+
+Osasuna, 1
+Real Madrid, 1
+
+Atlético Madrid, 1
+Celta Vigo, 1
+
+Villarreal, 1
+Valencia, 1
 
 1. FC Union Berlin, 1
 Borussia M'gladbach, 2
@@ -406,9 +406,6 @@ Al-Fayha, 2
 Al-Wehda, 1
 Al-Ittihad, 4
 
-Al-Okhdood, 0
-Al-Ahli, 0
-
 FC Petrolul Ploieşti, 0
 UTA Arad, 1
 
@@ -444,9 +441,6 @@ Gimcheon Sangmu FC, 1
 
 Chiangrai United, 1
 Uthai Thani FC, 0
-
-Khon Kaen United, 0
-Muang Thong United, 0
 
 RAAL La Louvière, 4
 RFC Seraing, 1
@@ -559,9 +553,6 @@ HŠK Posušje, 1
 GOŠK Gabela, 1
 NK Široki Brijeg, 2
 
-FK Sarajevo, 0
-FK Borac Banja Luka, 0
-
 Bangu Atlético Clube, 0
 Madureira, 3
 
@@ -631,9 +622,6 @@ Real Cundinamarca, 4
 Tigres FC, 1
 Atlético Huila, 1
 
-Patriotas Boyacá, 0
-Barranquilla FC, 0
-
 Jaguares de Córdoba, 1
 Orsomarso, 1
 
@@ -642,9 +630,6 @@ AD Guanacasteca, 0
 
 Ethnikos Achnas, 1
 ALS Omonia, 0
-
-ALS Omonia, 0
-Nea Salamina Famagusta, 0
 
 Anorthosis Famagusta, 0
 Aris Limassol, 3
@@ -718,15 +703,6 @@ SV Sandhausen, 0
 SSV Jeddeloh, 1
 1.FC Phönix Lübeck, 1
 
-SV Babelsberg 03, 0
-Chemnitzer FC, 0
-
-Viktoria Berlin, 0
-FC Eilenburg, 0
-
-FC Carl Zeiss Jena, 0
-VFC Plauen, 0
-
 Hallescher FC, 0
 1. FC Lokomotive Leipzig, 1
 
@@ -753,9 +729,6 @@ Fortuna Düsseldorf II U23, 1
 
 FC Gießen, 0
 Eintracht Trier, 3
-
-Bibiani Gold Stars FC, 0
-Heart of Lions, 0
 
 CSD Municipal, 2
 Comunicaciones FC, 1

@@ -322,14 +322,8 @@ SR Donaufeld, 1
 TWL Elektra, 4
 Wiener Viktoria, 0
 
-Şamaxı FK, 0
-Qarabağ, 0
-
 Dynamo Brest, 3
 Shakhtyor Soligorsk, 0
-
-Naftan Novopolotsk, 0
-Dinamo Minsk, 0
 
 Vitebsk, 0
 FK Arsenal Dzerzhinsk, 0
@@ -414,9 +408,6 @@ Bourg-en-Bresse, 1
 
 FC Rouen, 2
 Nancy, 2
-
-FC Versailles 78, 0
-Le Mans, 0
 
 Nîmes Olympique, 1
 US Orléans, 2
@@ -571,23 +562,14 @@ Viitorul Pandurii Târgu Jiu, 1
 CS Mioveni, 0
 FC Voluntari, 1
 
-Chindia Târgoviște, 0
-CSC 1599 Șelimbăr, 0
-
 Concordia Chiajna, 0
 CSM Ceahlăul Piatra Neamţ, 2
-
-FC Bihor Oradea, 0
-FC Argeș Pitești, 0
 
 FC Metaloglobus București, 3
 CS Unirea Ungheni 2018, 0
 
 FK Csíkszereda Miercurea Ciuc, 4
 AFC Câmpulung Muscel, 1
-
-Steaua București, 0
-CSM Reşiţa, 0
 
 Rotor Volgograd, 2
 Baltika Kaliningrad, 0

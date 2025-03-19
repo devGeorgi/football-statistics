@@ -187,9 +187,6 @@ True Bangkok United, 4
 Al-Gharafa, 1
 Shabab Al-Ahli Dubai, 0
 
-Orenburg, 0
-Lokomotiv Moscow, 0
-
 Church Boys United, 1
 Paro FC, 2
 
@@ -216,9 +213,6 @@ KäPa, 0
 
 Sabah FC, 1
 Selangor Football Club, 2
-
-Arna-Bjørnar, 0
-Kolbotn, 0
 
 Arna-Bjørnar, 0
 Kolbotn, 2
@@ -261,9 +255,6 @@ Portuguesa FC, 0
 
 Inter de Barinas, 1
 Metropolitanos, 3
-
-AE Kifisia, 0
-SFK Pierikos, 0
 
 AS Makedonikos Neapolis, 0
 Kalamata FC, 1

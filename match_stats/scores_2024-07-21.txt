@@ -127,9 +127,6 @@ Fredrikstad FK, 1
 Haugesund, 1
 Viking FK, 0
 
-Kristiansund BK, 0
-Sandefjord Fotball, 0
-
 Rosenborg BK, 0
 Lillestrøm SK, 0
 
@@ -321,9 +318,6 @@ Junkeren, 2
 
 GKS Tychy, 2
 Miedź Legnica, 2
-
-ŁKS Łódź, 0
-Wisła Kraków, 0
 
 Neftekhimik Nizhnekamsk, 2
 FC Ufa, 1

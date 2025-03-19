@@ -67,9 +67,6 @@ Libertad, 1
 Tacuary, 1
 Nacional Asunción, 0
 
-Egersund, 0
-Kongsvinger, 0
-
 Lyn FK, 1
 Kongsvinger, 2
 
@@ -166,9 +163,6 @@ Young Apostles FC, 1
 Vision FC, 0
 Dreams, 1
 
-PAOK B, 0
-Ethnikos Neou Keramidiou, 0
-
 Chania F.C., 0
 AE Kifisia, 3
 
@@ -183,9 +177,6 @@ Pro Vercelli, 0
 
 Feralpisalò, 2
 Triestina, 0
-
-Padova, 0
-Atalanta U23, 0
 
 Arezzo, 0
 Pescara, 0

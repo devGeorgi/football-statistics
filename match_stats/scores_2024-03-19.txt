@@ -13,9 +13,6 @@ Notts County, 3
 Cumbayá FC, 2
 Mushuc Runa, 1
 
-Libertad, 0
-LDU, 0
-
 Orense SC, 1
 Imbabura Sporting Club, 2
 
@@ -27,6 +24,9 @@ CR Belouizdad, 0
 
 USM Alger, 2
 ES Sétif, 0
+
+Gimnasia y Tiro de Salta, 0
+Almirante Brown, 0
 
 Deportes Quindío, 1
 Real Cartagena, 0

@@ -76,7 +76,7 @@ WFC Kolos Kovalivka, 1
 MS Kiryat Gat, 0
 Pogoń Szczecin, 1
 
-SFK Rīga, 6
+RFS, 6
 Flora Tallinn Women, 7
 
 ZFK Ljuboten, 2
@@ -96,9 +96,6 @@ Racing de Santander, 1
 
 De Graafschap, 2
 FC Eindhoven, 0
-
-Junior Barranquilla, 0
-Deportivo Pereira, 0
 
 Bohemian FC, 1
 Shelbourne, 1
@@ -228,12 +225,6 @@ TSV Aubstadt, 1
 
 1. FC Schweinfurt 05, 2
 Türkgücü München, 0
-
-FC Augsburg II, 0
-Bayern München II, 0
-
-Medeama, 0
-Accra Lions FC, 0
 
 CD Marquense, 0
 Cobán Imperial, 1

@@ -178,9 +178,6 @@ FC Teutonia 05 Ottensen, 4
 FC Augsburg II, 1
 SpVgg Bayreuth, 1
 
-SpVgg Greuther Fürth II, 0
-SpVgg Ansbach, 0
-
 SpVgg Hankofen-Hailing, 1
 FC Würzburger Kickers, 1
 

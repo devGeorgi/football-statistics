@@ -1,11 +1,11 @@
-Rayo Vallecano, 3
-Osasuna, 1
-
 Parma, 2
 Udinese, 3
 
 Lazio, 2
 Hellas Verona, 1
+
+Rayo Vallecano, 3
+Osasuna, 1
 
 CF Estrela Amadora, 2
 Boavista, 2
@@ -136,17 +136,11 @@ Orsomarso, 0
 Omonia Nicosia, 1
 AEK Larnaca, 0
 
-1. SK Prostějov, 0
-FC Zbrojovka Brno, 0
-
 FC Fredericia, 1
 Hobro, 1
 
 Accra Lions FC, 0
 Vision FC, 2
-
-Cobán Imperial, 0
-CSD Municipal, 0
 
 Fylkir Reykjavík, 0
 Víkingur Reykjavík, 6

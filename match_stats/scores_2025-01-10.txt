@@ -1,8 +1,8 @@
-Rayo Vallecano, 2
-Celta Vigo, 1
-
 Lazio, 1
 Como, 1
+
+Rayo Vallecano, 2
+Celta Vigo, 1
 
 Borussia Dortmund, 2
 Bayer 04 Leverkusen, 3
@@ -61,9 +61,6 @@ Red Star FC, 1
 Excelsior, 1
 FC Dordrecht, 0
 
-FC Den Bosch, 0
-Jong FC Utrecht Youth, 0
-
 FC Eindhoven, 1
 FC Volendam, 3
 
@@ -109,9 +106,6 @@ Damac FC, 2
 Al-Ahli, 3
 Al-Shabab, 2
 
-Richards Bay FC, 0
-Polokwane City, 0
-
 Canberra United, 2
 Western United, 1
 
@@ -144,9 +138,6 @@ Al-Orooba, 0
 
 Al-Ain, 0
 Shabab Al-Ahli Dubai, 1
-
-Lommel SK, 0
-Royal Francs Borains, 0
 
 Juventus, 3
 Sampdoria, 0

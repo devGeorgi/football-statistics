@@ -11,7 +11,7 @@ PAOK, 2
 MS Kiryat Gat, 1
 
 Vorskla Poltava, 5
-SFK Rīga, 0
+RFS, 0
 
 Atlético Madrid, 4
 Rosenborg Kvinner, 5
@@ -39,9 +39,6 @@ Stockport County, 4
 
 Port Vale, 7
 Wolverhampton U21, 6
-
-Wrexham, 0
-Salford City, 0
 
 Carlisle United, 1
 Nottingham Forest U21, 2
@@ -73,23 +70,11 @@ Walsall, 5
 Bromley, 8
 Cambridge United, 7
 
-Charlton Athletic, 0
-Chelsea U21, 0
-
 Gillingham, 1
 Peterborough United, 2
 
 Leyton Orient, 1
 Arsenal U21, 2
-
-Colchester United, 0
-Milton Keynes Dons, 0
-
-Burton Albion, 0
-Notts County, 0
-
-Northampton Town, 0
-Leicester City U21, 0
 
 Exeter City, 2
 Swindon Town, 1

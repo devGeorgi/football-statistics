@@ -1,8 +1,8 @@
-Rayo Vallecano, 1
-Las Palmas, 3
-
 Lecce, 1
 Empoli, 1
+
+Rayo Vallecano, 1
+Las Palmas, 3
 
 1. FC Union Berlin, 0
 SC Freiburg, 0
@@ -481,9 +481,6 @@ Santa Clara U23, 0
 CS Afumați, 1
 FC Argeș Pitești, 1
 
-CSM Ceahlăul Piatra Neamţ, 0
-Viitorul Pandurii Târgu Jiu, 0
-
 CS Mioveni, 2
 FC Bihor Oradea, 1
 
@@ -515,7 +512,7 @@ Chornomorets Odesa, 0
 Vorskla Poltava, 1
 
 FC Livyi Bereh Kyiv, 0
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 
 LNZ Cherkasy, 0
 Obolon Kyiv, 1

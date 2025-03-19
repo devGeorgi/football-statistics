@@ -286,9 +286,6 @@ Ratchaburi, 0
 Nakhon Ratchasima Mazda FC, 2
 Nongbua Pitchaya, 1
 
-Nongbua Pitchaya, 0
-True Bangkok United, 0
-
 PT Prachuap FC, 0
 Port FC, 0
 
@@ -366,9 +363,6 @@ Rapid Wien II, 3
 
 FC Mauerwerk, 0
 SC Neusiedl 1919, 3
-
-FCM Traiskirchen, 0
-Wiener Sport-Club, 0
 
 TWL Elektra, 1
 SC Krems, 1
@@ -544,6 +538,9 @@ FV Illertissen, 1
 AEK B, 2
 GS Ilioupolis, 2
 
+Persebaya Surabaya, 0
+Dewa United FC, 0
+
 Persik Kediri, 0
 PSBS Biak, 1
 
@@ -634,9 +631,6 @@ Kuching City, 1
 Negeri Sembilan, 2
 Kelantan Darul Naim, 3
 
-Sabah FC, 0
-Kedah, 0
-
 Floriana FC, 2
 Gżira United FC, 1
 
@@ -693,9 +687,6 @@ Concordia Chiajna, 1
 
 FC Voluntari, 1
 CS Unirea Ungheni 2018, 3
-
-Steaua București, 0
-FK Csíkszereda Miercurea Ciuc, 0
 
 Viitorul Pandurii Târgu Jiu, 0
 Chindia Târgoviște, 3

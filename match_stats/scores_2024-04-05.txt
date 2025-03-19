@@ -256,9 +256,6 @@ Vitebsk, 1
 FC Minsk, 2
 FK Smorgon, 3
 
-FK Smorgon, 0
-FC Minsk, 0
-
 SFK Slutsk, 0
 Dnepr Mogilev, 1
 
@@ -279,9 +276,6 @@ Guangxi Pingguo Haliao, 1
 
 Wuxi Wugou, 1
 Qingdao Red Lions, 6
-
-Jiangxi Dingnan United, 0
-Nanjing City, 0
 
 Nanjing City, 3
 Jiangxi Dingnan United, 2
@@ -402,9 +396,6 @@ Chamois Niortais, 1
 
 Sas Épinal, 2
 Nîmes Olympique, 1
-
-Sochaux, 0
-Nancy, 0
 
 US Orléans, 1
 Marignane Gignac FC, 1

@@ -175,9 +175,6 @@ TS Galaxy, 1
 Blackpool, 7
 Liverpool U21, 8
 
-Al-Wakrah, 0
-Mohun Bagan Super Giant, 0
-
 Tractor FC, 7
 Ravshan, 0
 
@@ -190,7 +187,7 @@ Al-Quwa Al-Jawiya, 1
 Nasaf Qarshi, 1
 Al Hussein Irbid, 2
 
-Al-Kuwait, 3
+Al Kuwait SC, 3
 Shabab Al-Ahli Dubai, 3
 
 Sydney FC, 0
@@ -210,9 +207,6 @@ Selangor Football Club, 0
 
 HŠK Zrinjski Mostar, 1
 FK Sarajevo, 1
-
-AD Guanacasteca, 0
-Puntarenas FC, 0
 
 San Carlos, 0
 Herediano, 0
@@ -261,12 +255,6 @@ Akhmat Grozny, 0
 
 1. FC Tatran Prešov, 2
 FK Rača Bratislava, 1
-
-FC Spartak Trnava, 0
-FK Železiarne Podbrezová, 0
-
-MFK Ružomberok, 0
-KFC Komárno, 0
 
 MFK Zemplín Michalovce, 4
 MŠK Žilina, 5

@@ -13,6 +13,15 @@ Southampton, 0
 Everton, 1
 Fulham, 1
 
+Napoli, 1
+Lecce, 0
+
+Atalanta, 6
+Hellas Verona, 1
+
+Parma, 1
+Empoli, 1
+
 Real Valladolid, 1
 Villarreal, 2
 
@@ -24,15 +33,6 @@ Girona FC, 0
 
 Real Madrid, 0
 Barcelona, 4
-
-Napoli, 1
-Lecce, 0
-
-Atalanta, 6
-Hellas Verona, 1
-
-Parma, 1
-Empoli, 1
 
 FC Augsburg, 2
 Borussia Dortmund, 1
@@ -241,9 +241,6 @@ Paysandu SC, 1
 Mirassol, 3
 Ponte Preta, 0
 
-Amazonas FC, 0
-Botafogo-SP, 0
-
 Excelsior, 0
 SC Cambuur, 1
 
@@ -336,9 +333,6 @@ Zagłębie Lubin, 2
 
 Brøndby IF, 0
 FC København, 0
-
-Blackpool, 0
-Wigan Athletic, 0
 
 Bolton Wanderers, 1
 Peterborough United, 0
@@ -622,9 +616,6 @@ US Biskra, 0
 Club Atletico Colón, 1
 Deportivo Madryn, 1
 
-Deportivo Morón, 0
-Temperley, 0
-
 Estudiantes de Río Cuarto, 0
 Atlético de Rafaela, 0
 
@@ -700,8 +691,8 @@ Zirə FK, 1
 Səbail FK, 0
 Sumqayıt FK, 1
 
-A'Ali FC, 0
-Al-Shabab Manama, 0
+Al Najma Manama, 0
+Al-Muharraq, 0
 
 Bahrain SC, 1
 Al-Shabab Manama, 2
@@ -1095,15 +1086,6 @@ Kongsvinger, 1
 
 Sogndal IL, 0
 Åsane, 2
-
-Kaya-Iloilo, 0
-Loyola FC, 0
-
-DH Cebu FC, 0
-Taguig FC, 0
-
-Stallion Laguna, 0
-Davao Aguilas, 0
 
 OKS Odra Opole, 0
 Miedź Legnica, 2

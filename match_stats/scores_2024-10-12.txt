@@ -82,9 +82,6 @@ Swindon Town, 3
 Doncaster Rovers, 1
 Crewe Alexandra, 1
 
-Fleetwood Town, 0
-Colchester United, 0
-
 Gillingham, 1
 Accrington Stanley, 2
 
@@ -99,9 +96,6 @@ Grimsby Town, 2
 
 Tranmere Rovers, 0
 Bradford City, 2
-
-Walsall, 0
-Bromley, 0
 
 Guaraní, 1
 Sportivo Ameliano, 1
@@ -211,12 +205,6 @@ US Biskra, 2
 JS Kabylie, 2
 CS Constantine, 3
 
-ASO Chlef, 0
-USM Khenchela, 0
-
-ES Mostaganem, 0
-USM Alger, 0
-
 CR Belouizdad, 2
 MC El Bayadh, 3
 
@@ -231,9 +219,6 @@ Patronato, 0
 
 Estudiantes de Buenos Aires, 2
 Güemes, 0
-
-Atlanta, 0
-Deportivo Madryn, 0
 
 Club Atletico Colón, 0
 San Telmo, 1
@@ -295,9 +280,6 @@ Azerbaijan U21, 0
 SSV Jeddeloh, 1
 Blau-Weiss Lohne, 1
 
-1. FC Bocholt, 0
-MSV Duisburg, 0
-
 1. FC Düren, 0
 Wuppertaler SV, 0
 
@@ -325,9 +307,6 @@ Eintracht Frankfurt II, 1
 SGV Freiberg, 1
 KSV Hessen Kassel, 0
 
-TSG Hoffenheim II U23, 0
-1. FSV Mainz 05 II U23, 0
-
 TSV Steinbach Haiger, 3
 FC 08 Villingen, 1
 
@@ -336,9 +315,6 @@ FC Würzburger Kickers, 4
 
 FV Illertissen, 0
 1. FC Nürnberg II, 2
-
-SpVgg Greuther Fürth II, 0
-Bayern München II, 0
 
 SpVgg Hankofen-Hailing, 1
 FC Augsburg II, 1
@@ -357,9 +333,6 @@ Berekum Chelsea, 1
 
 Heart of Lions, 0
 Vision FC, 0
-
-Legon Cities, 0
-Asante Kotoko SC, 0
 
 AE Larisa, 3
 Iraklis 1908, 0
@@ -390,9 +363,6 @@ Lecco, 1
 
 Giana Erminio, 0
 Padova, 1
-
-Pescara, 0
-Milan Futuro, 0
 
 Pontedera, 2
 Torres, 3
@@ -442,9 +412,6 @@ British Virgin Islands, 0
 Carrick Rangers, 2
 Coleraine FC, 1
 
-Coleraine FC, 0
-Cliftonville FC, 0
-
 Crusaders FC, 2
 Linfield FC, 3
 
@@ -474,9 +441,6 @@ Lyn, 0
 
 FC Alverca, 2
 Penafiel, 2
-
-Vizela, 0
-UD Oliveirense, 0
 
 Oliveira Hospital, 1
 UD Santarém, 2

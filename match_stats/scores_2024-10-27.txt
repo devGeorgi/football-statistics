@@ -10,18 +10,6 @@ Manchester United, 1
 Arsenal, 2
 Liverpool, 2
 
-Leganés, 3
-Celta Vigo, 0
-
-Getafe, 1
-Valencia, 1
-
-Real Betis, 1
-Atlético Madrid, 0
-
-Real Sociedad, 0
-Osasuna, 2
-
 Lazio, 3
 Genoa, 0
 
@@ -33,6 +21,18 @@ Juventus, 4
 
 Fiorentina, 5
 Roma, 1
+
+Leganés, 3
+Celta Vigo, 0
+
+Getafe, 1
+Valencia, 1
+
+Real Betis, 1
+Atlético Madrid, 0
+
+Real Sociedad, 0
+Osasuna, 2
 
 VfL Bochum 1848, 0
 FC Bayern München, 5
@@ -216,9 +216,6 @@ SK Sturm Graz, 2
 
 Fortaleza CEIF, 0
 Atlético Nacional, 1
-
-Deportivo Pereira, 0
-Atlético Nacional, 0
 
 Deportivo Cali, 1
 Atlético Bucaramanga, 0
@@ -535,17 +532,8 @@ AO Egaleo, 0
 GS Ilioupolis, 0
 Kalamata FC, 2
 
-Deportivo Guastatoya, 0
-Antigua GFC, 0
-
-Xinabajul Huehue, 0
-Juventud Pinulteca FC, 0
-
 Xinabajul Huehue, 2
 CSD Zacapa, 0
-
-Comunicaciones FC, 0
-Cobán Imperial, 0
 
 Víkingur Reykjavík, 0
 Breidablik Kópavogur, 3

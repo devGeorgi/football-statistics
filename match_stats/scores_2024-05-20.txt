@@ -49,12 +49,6 @@ Wuhan Three Towns, 1
 Cobresal, 2
 Coquimbo Unido, 3
 
-Unión Española, 0
-Unión La Calera, 0
-
-Audax Italiano, 0
-Huachipato, 0
-
 Huachipato, 0
 Audax Italiano, 1
 
@@ -115,6 +109,9 @@ Rosenborg BK, 2
 Universidad Técnica de Cajamarca, 2
 Sport Boys, 4
 
+Cienciano, 0
+Universitario, 0
+
 FC Dinamo București, 2
 FK Csíkszereda Miercurea Ciuc, 0
 
@@ -148,17 +145,11 @@ Emirates Club, 0
 Khor Fakkan, 1
 Al-Sharjah, 3
 
-Al-Ain, 0
-Al Wasl, 0
-
 Al-Wahda FC, 0
 Al-Ain, 2
 
 Al Bataeh, 1
 Hatta, 1
-
-Emirates Club, 0
-Al Bataeh, 0
 
 1. FC Köln, 0
 Eintracht Frankfurt, 1
@@ -246,9 +237,6 @@ FC CSKA 1948 Sofia, 0
 
 Slavia Sofia, 3
 Botev Plovdiv, 1
-
-Santiago Morning, 0
-Deportes Recoleta, 0
 
 Deportes Limache, 1
 San Marcos de Arica, 3

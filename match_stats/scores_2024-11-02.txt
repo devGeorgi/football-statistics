@@ -16,18 +16,6 @@ Everton, 0
 Wolverhampton, 2
 Crystal Palace, 2
 
-Osasuna, 1
-Real Valladolid, 0
-
-Girona FC, 4
-Leganés, 3
-
-Villarreal, 0
-Rayo Vallecano, 0
-
-Valencia, 0
-Real Madrid, 0
-
 Bologna, 1
 Lecce, 0
 
@@ -36,6 +24,12 @@ Juventus, 2
 
 Monza, 0
 Milan, 1
+
+Osasuna, 1
+Real Valladolid, 0
+
+Girona FC, 4
+Leganés, 3
 
 Eintracht Frankfurt, 7
 VfL Bochum 1848, 2
@@ -123,9 +117,6 @@ MGS Panserraikos, 1
 
 Athens Kallithea FC, 1
 Panetolikos, 1
-
-Hibernian, 0
-Aberdeen, 0
 
 St. Johnstone, 1
 Heart of Midlothian, 2
@@ -352,9 +343,6 @@ Novorizontino, 2
 Goiás, 1
 Guarani, 0
 
-Ituano, 0
-CRB, 0
-
 FC Den Bosch, 1
 Roda JC Kerkrade, 1
 
@@ -421,6 +409,9 @@ Palestino, 3
 Deportivo La Equidad, 3
 Alianza Valledupar FC, 2
 
+Envigado FC, 0
+Junior Barranquilla, 0
+
 Rionegro Águilas Doradas, 0
 Deportes Tolima, 1
 
@@ -441,9 +432,6 @@ Stal Mielec, 0
 
 Motor Lublin, 4
 Pogoń Szczecin, 2
-
-Zagłębie Lubin, 0
-Śląsk Wrocław, 0
 
 Puszcza Niepołomice, 2
 Lech Poznań, 0
@@ -715,9 +703,6 @@ ASO Chlef, 0
 MC Oran, 1
 CS Constantine, 0
 
-USM Alger, 0
-MC Alger, 0
-
 San Telmo, 1
 Gimnasia Jujuy, 0
 
@@ -754,9 +739,6 @@ FC Mauerwerk, 0
 Favoritner AC, 2
 SR Donaufeld, 4
 
-East Riffa, 0
-Sitra Club, 0
-
 BATE Borisov, 0
 Neman Grodno, 3
 
@@ -768,12 +750,6 @@ Vitebsk, 0
 
 Naftan Novopolotsk, 0
 Shakhtyor Soligorsk, 0
-
-FC Universitario de Vinto, 0
-Club Always Ready, 0
-
-Bolívar, 0
-Nacional Potosí, 0
 
 FK Sloga Doboj, 0
 HŠK Zrinjski Mostar, 1
@@ -892,9 +868,6 @@ Hannover 96 II U23, 0
 Hamburger SV II U23, 1
 SV Drochtersen/Assel, 1
 
-Kickers Emden, 0
-FC Teutonia 05 Ottensen, 0
-
 VfB Oldenburg, 1
 TSV Havelse, 1
 
@@ -909,9 +882,6 @@ FC Gütersloh, 2
 
 Fortuna Düsseldorf II U23, 0
 SC Fortuna Köln, 1
-
-SC Paderborn 07 II, 0
-SC Wiedenbrück, 0
 
 SC Rot-Weiß Oberhausen, 2
 SV Rödinghausen, 2
@@ -987,6 +957,9 @@ Deportivo Mixco, 1
 
 Antigua GFC, 0
 Cobán Imperial, 2
+
+CSD Zacapa, 0
+Comunicaciones FC, 0
 
 Borneo FC Samarinda, 1
 Dewa United FC, 0
@@ -1173,6 +1146,9 @@ Lyn FK, 2
 
 SK Brann Kvinner, 1
 Vålerenga, 2
+
+DH Cebu FC, 0
+Taguig FC, 0
 
 Kotwica Kołobrzeg, 0
 OKS Odra Opole, 1

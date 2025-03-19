@@ -19,9 +19,6 @@ Hibernian, 1
 Dundee FC, 1
 Dundee United, 2
 
-Al-Hilal Omdurman, 0
-MC Alger, 0
-
 Melbourne City, 2
 Wellington Phoenix, 0
 
@@ -42,9 +39,6 @@ AFC Wimbledon, 2
 
 Mohun Bagan Super Giant, 3
 Hyderabad FC, 0
-
-Yverdon-Sport FC, 0
-FC Winterthur, 0
 
 Western United, 2
 Newcastle Jets, 0

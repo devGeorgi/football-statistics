@@ -71,9 +71,6 @@ Kaizer Chiefs, 2
 TS Galaxy, 2
 
 Royal AM, 0
-Mamelodi Sundowns, 0
-
-Royal AM, 0
 Cape Town Spurs FC, 1
 
 Supersport United, 1
@@ -81,6 +78,9 @@ Sekhukhune United, 1
 
 Al-Wahda FC, 1
 Al-Nasr Dubai, 0
+
+Talleres Remedios de Escalada, 0
+Racing de Córdoba, 0
 
 Patronato, 0
 San Miguel, 1

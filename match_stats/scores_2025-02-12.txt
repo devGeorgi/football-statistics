@@ -85,8 +85,8 @@ Bandırmaspor, 1
 Pendikspor, 1
 Boluspor, 0
 
-Alianza Valledupar FC, 0
-Fortaleza CEIF, 0
+Deportivo Cali, 0
+Atlético Bucaramanga, 0
 
 Deportivo Pasto, 3
 Boyacá Chicó FC, 0
@@ -220,6 +220,9 @@ Confiança, 1
 Náutico, 0
 Juazeirense, 0
 
+Deportivo Saprissa, 0
+Puntarenas FC, 0
+
 Deportivo Mixco, 2
 Deportivo Malacateco, 1
 
@@ -228,9 +231,6 @@ CSD Municipal, 2
 
 Antigua GFC, 6
 Xinabajul Huehue, 0
-
-Comunicaciones FC, 0
-CSD Xelajú MC, 0
 
 Gokulam Kerala FC, 0
 Real Kashmir, 1

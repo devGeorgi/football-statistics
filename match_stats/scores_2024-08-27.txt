@@ -124,9 +124,6 @@ Al-Qadsiah, 1
 Crewe Alexandra, 5
 Liverpool U21, 1
 
-Grimsby Town, 0
-Manchester City U21, 0
-
 Port FC, 4
 Sukhothai, 1
 
@@ -139,16 +136,13 @@ Ratchaburi, 0
 PT Prachuap FC, 3
 Rayong FC, 0
 
-Hume City, 1
-FC Melbourne Srbija, 0
-
 Moreton City Excelsior FC, 3
 Perth Glory, 2
 
 North West Sydney Spirit, 0
 Melbourne Victory, 4
 
-Oakleigh Cannons, 5
+Oakleigh Cannons FC, 5
 Heidelberg United FC, 2
 
 ASV Siegendorf, 0

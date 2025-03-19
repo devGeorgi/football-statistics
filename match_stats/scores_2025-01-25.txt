@@ -16,18 +16,6 @@ Arsenal, 1
 Manchester City, 3
 Chelsea, 1
 
-Mallorca, 0
-Real Betis, 1
-
-Atlético Madrid, 1
-Villarreal, 1
-
-Sevilla, 1
-Espanyol, 1
-
-Real Valladolid, 0
-Real Madrid, 3
-
 Como, 1
 Atalanta, 2
 
@@ -39,6 +27,18 @@ Bologna, 1
 
 Milan, 3
 Parma, 2
+
+Mallorca, 0
+Real Betis, 1
+
+Atlético Madrid, 1
+Villarreal, 1
+
+Sevilla, 1
+Espanyol, 1
+
+Real Valladolid, 0
+Real Madrid, 3
 
 1. FSV Mainz 05, 2
 VfB Stuttgart, 0
@@ -114,9 +114,6 @@ Panetolikos, 0
 
 Aberdeen, 0
 St. Mirren, 3
-
-Celtic, 0
-Dundee FC, 0
 
 Heart of Midlothian, 3
 Kilmarnock, 2
@@ -460,9 +457,6 @@ AO Itabaiana, 1
 Sergipe, 0
 Falcon-SE FC, 1
 
-Colo Colo, 0
-Universidad de Chile, 0
-
 Municipal Liberia, 0
 Santos de Guápiles, 1
 
@@ -759,9 +753,6 @@ Cove Rangers, 4
 
 Annan Athletic, 2
 Montrose, 2
-
-Arbroath, 0
-Kelty Hearts F.C., 0
 
 East Fife, 4
 Edinburgh City F.C., 1

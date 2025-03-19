@@ -145,9 +145,6 @@ Lyn, 1
 Røa, 2
 Kolbotn, 1
 
-SK Brann Kvinner, 0
-Avaldsnes, 0
-
 SK Brann Kvinner, 5
 Arna-Bjørnar, 1
 

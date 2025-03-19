@@ -11,7 +11,8 @@ def initialize_team():
         "losestreak": 0,
         "games_without_win": 0,
         "games_without_loss": 0,
-        "last_matches_with_opponents": []
+        "match_history": [],
+        "last_streak_match": None
     }
 
 def get_available_dates():
@@ -76,7 +77,7 @@ def load_match_data(date):
     
     return matches
 
-def process_match(match, teams, processed_matches):
+def process_match(match, teams, processed_matches, date):
     """Process a single match and update team statistics"""
     ht = match["home_team"]
     at = match["away_team"]
@@ -112,49 +113,101 @@ def process_match(match, teams, processed_matches):
         print(f"Unexpected score situation: {ht} {hsc} - {asc} {at}")
         return
     
-    # Update home team stats
-    if hsc > asc:
+    # Create compact match records with date and score
+    ht_match_detail = [
+        date,           # date
+        at,             # opponent
+        ht_result,      # result (w/l/d)
+        f"{hsc}-{asc}"  # score
+    ]
+    
+    at_match_detail = [
+        date,           # date
+        ht,             # opponent
+        at_result,      # result (w/l/d)
+        f"{asc}-{hsc}"  # score
+    ]
+    
+    # Track previous streak values to detect changes
+    ht_prev_without_win = teams[ht]["games_without_win"]
+    ht_prev_without_loss = teams[ht]["games_without_loss"]
+    at_prev_without_win = teams[at]["games_without_win"]
+    at_prev_without_loss = teams[at]["games_without_loss"]
+
+    # Update home team stats based on match result
+    if hsc > asc:  # Home team won
+        # Record this win if it's the start of a new win streak
         teams[ht]["winstreak"] += 1
         teams[ht]["losestreak"] = 0
         teams[ht]["games_without_win"] = 0
         teams[ht]["games_without_loss"] += 1
-    elif hsc < asc:
+        # Store this match as the last win before a potential "without win" streak
+        teams[ht]["last_streak_match"] = ht_match_detail
+        
+    elif hsc < asc:  # Home team lost
+        # Record this loss as the transition point for "games_without_loss"
+        if teams[ht]["games_without_loss"] > 0:
+            teams[ht]["last_streak_match"] = ht_match_detail
+            teams[ht]["match_history"] = []
+        
         teams[ht]["losestreak"] += 1
         teams[ht]["winstreak"] = 0
         teams[ht]["games_without_win"] += 1
         teams[ht]["games_without_loss"] = 0
-    elif hsc == asc:
+        
+    elif hsc == asc:  # Draw
         teams[ht]["winstreak"] = 0
         teams[ht]["losestreak"] = 0
         teams[ht]["games_without_win"] += 1
         teams[ht]["games_without_loss"] += 1
+
+    # Always add the current match to match history - it's part of the current streak
+    teams[ht]["match_history"].append(ht_match_detail)
     
-    # Update away team stats
-    if asc > hsc:
+    # For 'games_without_loss' streak, keep all those matches
+    if teams[ht]["games_without_loss"] > 0:
+        # Ensure we only keep the matches that are part of the current streak
+        teams[ht]["match_history"] = teams[ht]["match_history"][-teams[ht]["games_without_loss"]:]
+    # For 'games_without_win' streak, keep all those matches 
+    elif teams[ht]["games_without_win"] > 0:
+        teams[ht]["match_history"] = teams[ht]["match_history"][-teams[ht]["games_without_win"]:]
+
+    # Update away team stats based on match result
+    if asc > hsc:  # Away team won
         teams[at]["winstreak"] += 1
         teams[at]["losestreak"] = 0
         teams[at]["games_without_win"] = 0
         teams[at]["games_without_loss"] += 1
-    elif asc < hsc:
+        # Store this match as the last win before a potential "without win" streak
+        teams[at]["last_streak_match"] = at_match_detail
+        
+    elif asc < hsc:  # Away team lost
+        # Record this loss as the transition point for "games_without_loss"
+        if teams[at]["games_without_loss"] > 0:
+            teams[at]["last_streak_match"] = at_match_detail
+            teams[at]["match_history"] = []
+        
         teams[at]["losestreak"] += 1
         teams[at]["winstreak"] = 0
         teams[at]["games_without_win"] += 1
         teams[at]["games_without_loss"] = 0
-    elif asc == hsc:
+        
+    elif asc == hsc:  # Draw
         teams[at]["winstreak"] = 0
         teams[at]["losestreak"] = 0
         teams[at]["games_without_win"] += 1
         teams[at]["games_without_loss"] += 1
     
-    # Update last matches with opponents
-    teams[ht]["last_matches_with_opponents"].append(f"{ht_result} vs {at}")
-    teams[at]["last_matches_with_opponents"].append(f"{at_result} vs {ht}")
-    teams[ht]["last_matches_with_opponents"] = teams[ht]["last_matches_with_opponents"][-max(teams[ht]["games_without_win"], teams[ht]["games_without_loss"], 1):]
-    teams[at]["last_matches_with_opponents"] = teams[at]["last_matches_with_opponents"][-max(teams[at]["games_without_win"], teams[at]["games_without_loss"], 1):]
+    # Always add the current match to match history - it's part of the current streak
+    teams[at]["match_history"].append(at_match_detail)
     
-    # Ensure no duplicate entries for the same match
-    teams[ht]["last_matches_with_opponents"] = list(dict.fromkeys(teams[ht]["last_matches_with_opponents"]))
-    teams[at]["last_matches_with_opponents"] = list(dict.fromkeys(teams[at]["last_matches_with_opponents"]))
+    # For 'games_without_loss' streak, keep all those matches
+    if teams[at]["games_without_loss"] > 0:
+        # Ensure we only keep the matches that are part of the current streak
+        teams[at]["match_history"] = teams[at]["match_history"][-teams[at]["games_without_loss"]:]
+    # For 'games_without_win' streak, keep all those matches
+    elif teams[at]["games_without_win"] > 0:
+        teams[at]["match_history"] = teams[at]["match_history"][-teams[at]["games_without_win"]:]
 
 def rebuild_statistics():
     """Rebuild team statistics from saved match data files"""
@@ -176,7 +229,7 @@ def rebuild_statistics():
         matches = load_match_data(date)
         
         for match in matches:
-            process_match(match, teams, processed_matches)
+            process_match(match, teams, processed_matches, date)
     
     # Save updated team statistics
     try:

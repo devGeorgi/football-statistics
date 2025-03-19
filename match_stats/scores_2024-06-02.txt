@@ -220,6 +220,9 @@ Club Ferro Carril Oeste, 4
 Torpedo-BelAZ Zhodino, 4
 Dnepr Mogilev, 2
 
+FK Gomel, 0
+Vitebsk, 0
+
 Caxias, 2
 Figueirense, 1
 
@@ -276,21 +279,6 @@ SJK Akatemia, 1
 
 MP, 1
 KTP, 2
-
-Dinamo Batumi, 0
-FC Kolkheti-1913 Poti, 0
-
-Dinamo Tbilisi, 0
-FC Samgurali Tskhaltubo, 0
-
-FC Dila Gori, 0
-FC Gagra, 0
-
-FC Iberia 1999, 0
-FC Telavi, 0
-
-FC Torpedo Kutaisi, 0
-FC Samtredia, 0
 
 FC Dila Gori, 1
 FC Kolkheti-1913 Poti, 1

@@ -1,8 +1,8 @@
-Real Valladolid, 1
-Valencia, 0
-
 Empoli, 0
 Torino, 1
+
+Real Valladolid, 1
+Valencia, 0
 
 SC Freiburg, 3
 VfL Wolfsburg, 2
@@ -133,12 +133,6 @@ ACSM Politehnica Iași, 0
 AmaZulu FC, 2
 Royal AM, 1
 
-Orlando Pirates, 0
-Sekhukhune United, 0
-
-Stellenbosch, 0
-Mamelodi Sundowns, 0
-
 Western Sydney Wanderers, 5
 Western United, 1
 
@@ -183,9 +177,6 @@ JS Kabylie, 2
 
 East Timor, 0
 Singapore, 3
-
-Qarabağ, 0
-Sumqayıt FK, 0
 
 Şamaxı FK, 0
 Səbail FK, 0
@@ -240,9 +231,6 @@ SV Waldhof Mannheim, 1
 
 Kickers Emden, 3
 FC Teutonia 05 Ottensen, 2
-
-BSG Chemie Leipzig, 0
-ZFC Meuselwitz, 0
 
 FC Rot-Weiß Erfurt, 3
 Viktoria Berlin, 0
@@ -310,9 +298,6 @@ FC Argeș Pitești, 3
 CS Afumați, 0
 Steaua București, 4
 
-CS Mioveni, 0
-FCU 1948 Craiova, 0
-
 CS Unirea Ungheni 2018, 1
 CSM Focșani 2007, 1
 
@@ -321,9 +306,6 @@ FK Csíkszereda Miercurea Ciuc, 3
 
 FC Voluntari, 1
 CSC Dumbrăviţa, 0
-
-Viitorul Pandurii Târgu Jiu, 0
-AFC Metalul Buzău, 0
 
 CSC 1599 Șelimbăr, 1
 FC Bihor Oradea, 1

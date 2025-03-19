@@ -64,9 +64,6 @@ Stade Lavallois, 1
 Troyes, 1
 Stade Rennais, 0
 
-Tours FC, 0
-AS Cannes, 0
-
 FC Espaly Saint-Marcel, 2
 Paris Saint-Germain, 4
 
@@ -124,9 +121,6 @@ Al-Ain, 2
 Club Brugge KV, 2
 KRC Genk, 1
 
-Royal Antwerp FC, 0
-RSC Anderlecht, 0
-
 Maricá FC, 1
 Boavista, 0
 
@@ -135,9 +129,6 @@ Sampaio Corrêa-RJ, 0
 
 Volta Redonda, 1
 Fluminense, 0
-
-AD Picuiense, 0
-Treze, 0
 
 Botafogo-PB, 3
 EC Patos, 0
@@ -169,20 +160,17 @@ FC Hradec Kralove B, 0
 FC ŠTK 1914 Šamorín, 2
 FC Spartak Trnava, 3
 
-AFC Fylde, 0
-Oldham Athletic, 0
-
 Boston United, 0
 Southend United, 0
-
-Rochdale, 0
-York City, 0
 
 Sutton United, 2
 Wealdstone, 2
 
 Panathinaikos, 1
 Olympiacos FC, 1
+
+SC Covilhã, 0
+SC Lusitânia, 0
 
 Sporting Braga, 2
 Lusitano Évora, 1
@@ -195,9 +183,6 @@ Estoril Praia U23, 2
 
 ETO FC Győr, 3
 SK Sigma Olomouc, 1
-
-KF Ferizaj, 0
-KF Trepça Mitrovicë, 0
 
 AC Sparta Praha, 3
 Bodø/Glimt, 0

@@ -1,3 +1,6 @@
+Atalanta, 2
+Como, 3
+
 Sevilla, 2
 Real Valladolid, 1
 
@@ -6,9 +9,6 @@ Osasuna, 0
 
 Real Madrid, 3
 Deportivo Alavés, 2
-
-Atalanta, 2
-Como, 3
 
 River Plate, 1
 Colo Colo, 0
@@ -93,6 +93,9 @@ Blackpool, 2
 
 Leyton Orient, 2
 Peterborough United, 2
+
+Wigan Athletic, 0
+Stevenage, 0
 
 Universidad Técnica de Cajamarca, 2
 Carlos A. Mannucci, 0

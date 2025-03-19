@@ -70,8 +70,8 @@ Kuwait, 1
 Saudi Arabia, 1
 Indonesia, 1
 
-Vorskla Poltava, 5
-RFS, 0
+Cuiabá, 0
+Juventude, 0
 
 Paysandu SC, 0
 Amazonas FC, 1
@@ -91,14 +91,8 @@ Universidad de Chile, 5
 Qingdao Red Lions, 0
 Shanghai Jiading Huilong, 0
 
-Atlético Cali, 0
-Boca Juniors de Cali, 0
-
 Tigres FC, 1
 Bogotá FC, 0
-
-Deportes Quindío, 0
-Atlético Huila, 0
 
 Latvia U21, 0
 Norway U21, 1

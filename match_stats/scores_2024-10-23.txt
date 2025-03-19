@@ -178,9 +178,6 @@ Gimnasia y Esgrima, 2
 Shanghai Shenhua, 2
 Kawasaki Frontale, 0
 
-Mohun Bagan Super Giant, 0
-Al-Wakrah, 0
-
 Ravshan, 1
 Tractor FC, 3
 
@@ -210,9 +207,6 @@ Bolívar, 3
 
 Independiente Petrolero, 2
 Royal Pari Sion, 2
-
-The Strongest, 0
-Oriente Petrolero, 0
 
 FK Spartak Varna, 1
 Lokomotiv Plovdiv, 0

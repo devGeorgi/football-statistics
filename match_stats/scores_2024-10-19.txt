@@ -16,18 +16,6 @@ Everton, 2
 Bournemouth, 2
 Arsenal, 0
 
-Athletic Club, 4
-Espanyol, 1
-
-Osasuna, 1
-Real Betis, 2
-
-Girona FC, 0
-Real Sociedad, 1
-
-Celta Vigo, 1
-Real Madrid, 2
-
 Como, 1
 Parma, 1
 
@@ -42,6 +30,18 @@ Lazio, 0
 
 Empoli, 0
 Napoli, 1
+
+Athletic Club, 4
+Espanyol, 1
+
+Osasuna, 1
+Real Betis, 2
+
+Girona FC, 0
+Real Sociedad, 1
+
+Celta Vigo, 1
+Real Madrid, 2
 
 1. FSV Mainz 05, 0
 RB Leipzig, 2
@@ -330,9 +330,6 @@ Grazer AK 1902, 2
 
 Maccabi Bney Reine, 1
 Hapoel Ironi Kiryat Shmona, 0
-
-Bnei Sakhnin, 0
-Beitar Jerusalem, 0
 
 Hapoel Haifa, 1
 Ironi Tiberias, 0
@@ -703,12 +700,6 @@ Deportivo Morón, 1
 Alvarado, 0
 San Martín de Tucumán, 2
 
-All Boys, 0
-Agropecuario Argentino, 0
-
-Brown de Adrogué, 0
-Gimnasia y Esgrima Mendoza, 0
-
 Racing de Córdoba, 3
 Arsenal de Sarandí, 1
 
@@ -730,12 +721,6 @@ Wiener Sport-Club, 2
 Neftçi Baku PFK, 3
 Səbail FK, 1
 
-A'Ali FC, 0
-Malkiya Club, 0
-
-Bahrain SC, 0
-Al-Shabab Manama, 0
-
 Naftan Novopolotsk, 0
 Vitebsk, 4
 
@@ -756,24 +741,6 @@ Blooming, 0
 
 Bolívar, 0
 Club Aurora, 1
-
-FK Sloboda Tuzla, 0
-HŠK Zrinjski Mostar, 0
-
-FK Sloga Doboj, 0
-GOŠK Gabela, 0
-
-FK Velež Mostar, 0
-HŠK Posušje, 0
-
-FK Željezničar, 0
-FK Radnik Bijeljina, 0
-
-Igman Konjic, 0
-FK Sarajevo, 0
-
-NK Široki Brijeg, 0
-FK Borac Banja Luka, 0
 
 FK Sarajevo, 4
 FK Velež Mostar, 0
@@ -907,6 +874,9 @@ MP, 0
 Dinamo Tbilisi, 5
 FC Telavi, 1
 
+FC Kolkheti-1913 Poti, 0
+FC Samtredia, 0
+
 Energie Cottbus, 1
 SV Sandhausen, 1
 
@@ -973,9 +943,6 @@ SC Wiedenbrück, 1
 Sportfreunde Lotte, 4
 1. FC Bocholt, 1
 
-Turkspor Dortmund 2000, 0
-FC Schalke 04 II U23, 0
-
 Eintracht Frankfurt II, 1
 SGV Freiberg, 1
 
@@ -1023,9 +990,6 @@ GE Panachaiki, 0
 
 CSD Municipal, 3
 Deportivo Mixco, 0
-
-Antigua GFC, 0
-Comunicaciones FC, 0
 
 CD Marquense, 1
 CSD Xelajú MC, 2
@@ -1346,7 +1310,7 @@ Polissya Zhytomyr, 0
 FC Livyi Bereh Kyiv, 0
 
 LNZ Cherkasy, 2
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 
 Progreso, 2
 River Plate UY, 0

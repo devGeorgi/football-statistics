@@ -145,9 +145,6 @@ Portsmouth, 1
 Bristol City, 0
 Sheffield Wednesday, 0
 
-Unión La Calera, 0
-Colo Colo, 0
-
 Mumbai City FC, 0
 Bengaluru FC, 0
 
@@ -169,9 +166,6 @@ US Biskra, 1
 Ravshan, 0
 Al-Wakrah, 1
 
-Tractor FC, 0
-Mohun Bagan Super Giant, 0
-
 Altyn Asyr FK, 0
 Al Khalidiyah, 1
 
@@ -182,7 +176,7 @@ Nasaf Qarshi, 2
 Shabab Al-Ahli Dubai, 1
 
 Al Hussein Irbid, 2
-Al-Kuwait, 1
+Al Kuwait SC, 1
 
 Kaya-Iloilo, 1
 Sydney FC, 4
@@ -229,6 +223,9 @@ MFK Chrudim, 3
 SK Líšeň, 2
 Sparta Praha B U21, 2
 
+SK Sigma Olomouc B, 0
+Slezský FC Opava, 0
+
 1. SK Prostějov, 3
 FC Zbrojovka Brno, 1
 
@@ -240,9 +237,6 @@ Narva Trans, 0
 
 Holstein Kiel II U23, 1
 SV Werder Bremen II U23, 3
-
-SSV Jeddeloh, 0
-1.FC Phönix Lübeck, 0
 
 SV Drochtersen/Assel, 2
 Blau-Weiss Lohne, 0

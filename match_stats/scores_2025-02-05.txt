@@ -175,12 +175,6 @@ Aizawl FC, 0
 Johor Darul Ta'zim, 4
 PDRM FC, 0
 
-Benfica, 0
-Sporting Braga, 0
-
-O Elvas CAD, 0
-FC Tirsense, 0
-
 Estrela Amadora U23, 0
 Famalicão U23, 0
 
@@ -207,9 +201,6 @@ KF Gostivar, 1
 
 Kickers Emden, 5
 SV Werder Bremen II U23, 2
-
-Rekord Bielsko-Biała, 0
-Pniówek Pawłowice Śląskie, 0
 
 FK Slavia Orlova, 2
 Bospor Bohumín, 7

@@ -10,6 +10,15 @@ Fulham, 1
 Liverpool, 2
 Manchester City, 0
 
+Parma, 3
+Lazio, 1
+
+Torino, 0
+Napoli, 1
+
+Lecce, 1
+Juventus, 1
+
 Villarreal, 2
 Girona FC, 2
 
@@ -21,15 +30,6 @@ Athletic Club, 2
 
 Real Sociedad, 2
 Real Betis, 0
-
-Parma, 3
-Lazio, 1
-
-Torino, 0
-Napoli, 1
-
-Lecce, 1
-Juventus, 1
 
 1. FSV Mainz 05, 2
 TSG Hoffenheim, 0
@@ -376,6 +376,9 @@ Nueva Chicago, 0
 Neftçi Baku PFK, 0
 Qarabağ, 3
 
+Malkiya Club, 0
+Bahrain SC, 0
+
 FC Isloch Minsk Region, 1
 Vitebsk, 0
 
@@ -436,26 +439,14 @@ Rot-Weiss Essen, 0
 SV Wehen Wiesbaden, 3
 FC Viktoria Köln, 1
 
-Bremer SV, 0
-SV Drochtersen/Assel, 0
-
 FC Teutonia 05 Ottensen, 0
 SV Todesfelde, 1
-
-1.FC Phönix Lübeck, 0
-SV Werder Bremen II U23, 0
-
-SSV Jeddeloh, 0
-SC Weiche Flensburg 08, 0
 
 1. FC Lokomotive Leipzig, 0
 FC Rot-Weiß Erfurt, 0
 
 Hertha BSC II U23, 3
 Hertha Zehlendorf, 0
-
-Viktoria Berlin, 0
-Chemnitzer FC, 0
 
 SC Freiburg II U23, 1
 KSV Hessen Kassel, 1

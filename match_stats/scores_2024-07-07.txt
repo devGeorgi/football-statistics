@@ -28,9 +28,6 @@ Club León, 1
 CF Pachuca, 0
 CF Monterrey, 1
 
-Houston Dynamo, 0
-Los Angeles FC, 0
-
 San Jose Earthquakes, 1
 Chicago Fire, 0
 
@@ -175,9 +172,6 @@ Ypiranga FC, 0
 Tombense, 0
 Náutico, 0
 
-Botafogo-SP, 0
-Comercial-SP, 0
-
 Monte Azul, 3
 Barretos U23, 1
 
@@ -220,14 +214,8 @@ Sotra, 1
 Stabæk Fotball, 2
 Vålerenga, 6
 
-Davao Aguilas, 0
-Philippine Air Force FC, 0
-
 Kaya-Iloilo, 1
 Davao Aguilas, 0
-
-Jagiellonia Białystok, 0
-Wisła Kraków, 0
 
 Fénix, 1
 River Plate UY, 0

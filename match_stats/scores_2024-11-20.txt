@@ -76,14 +76,8 @@ FK Borac Banja Luka, 2
 Universidad de Chile, 1
 Ñublense, 0
 
-Municipal Santa Ana, 0
-AD Guanacasteca, 0
-
 AD Guanacasteca, 2
 Puntarenas FC, 1
-
-LD Alajuelense, 0
-Puntarenas FC, 0
 
 FC Teutonia 05 Ottensen, 1
 FC St Pauli II U23, 4

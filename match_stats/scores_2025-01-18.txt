@@ -13,18 +13,6 @@ Crystal Palace, 2
 Arsenal, 2
 Aston Villa, 2
 
-Girona FC, 1
-Sevilla, 2
-
-Leganés, 1
-Atlético Madrid, 0
-
-Real Betis, 1
-Deportivo Alavés, 3
-
-Getafe, 1
-Barcelona, 1
-
 Bologna, 3
 Monza, 1
 
@@ -36,6 +24,18 @@ Napoli, 3
 
 Fiorentina, 1
 Torino, 1
+
+Girona FC, 1
+Sevilla, 2
+
+Leganés, 1
+Atlético Madrid, 0
+
+Real Betis, 1
+Deportivo Alavés, 3
+
+Getafe, 1
+Barcelona, 1
 
 1. FC Heidenheim, 0
 FC St. Pauli, 2
@@ -337,9 +337,6 @@ FC St. Gallen 1879, 1
 Lamontville Golden Arrows, 1
 TS Galaxy, 1
 
-Magesi FC, 0
-Mamelodi Sundowns, 0
-
 Chippa United, 2
 Marumo Gallants FC, 2
 
@@ -439,9 +436,6 @@ Botafogo-PB, 1
 Sport Recife, 1
 Retrô, 1
 
-AD Jaguar, 0
-Decisão Sertânia, 0
-
 Dorense FC, 0
 AD Carmópolis, 0
 
@@ -468,9 +462,6 @@ Solihull Moors, 0
 
 Eastleigh, 1
 Altrincham, 2
-
-FC Halifax Town, 0
-Dagenham & Redbridge, 0
 
 Forest Green Rovers, 1
 Rochdale, 0
@@ -567,6 +558,9 @@ PS Barito Putera, 4
 
 Borneo FC Samarinda, 3
 Arema FC, 1
+
+Persik Kediri, 0
+PSS Sleman, 0
 
 Atalanta U23, 3
 Triestina, 1
@@ -693,9 +687,6 @@ Racing Power Football Club, 3
 
 Annan Athletic, 0
 Inverness Caledonian Thistle, 3
-
-Elgin City, 0
-Bonnyrigg Rose, 0
 
 Peterhead, 3
 Stirling Albion, 2

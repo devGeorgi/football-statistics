@@ -103,17 +103,8 @@ Adelaide United, 2
 Hapoel Ironi Kiryat Shmona, 0
 Maccabi Netanya, 1
 
-Chesterfield, 0
-Gillingham, 0
-
 Crewe Alexandra, 4
 Bromley, 1
-
-Fleetwood Town, 0
-AFC Wimbledon, 0
-
-Newport County, 0
-Morecambe, 0
 
 Punjab FC, 0
 Kerala Blasters, 1
@@ -123,9 +114,6 @@ Sekhukhune United, 1
 
 Cape Town City FC, 1
 Kaizer Chiefs, 0
-
-Rayong FC, 0
-BG Pathum United, 0
 
 Al Bataeh, 0
 Al-Jazira, 3

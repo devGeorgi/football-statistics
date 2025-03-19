@@ -196,9 +196,6 @@ Znicz Pruszków, 0
 MZKS Arka Gdynia, 1
 Ruch Chorzów, 1
 
-Górnik Łęczna, 0
-Wisła Kraków, 0
-
 Balestier Khalsa, 3
 Hougang United, 1
 

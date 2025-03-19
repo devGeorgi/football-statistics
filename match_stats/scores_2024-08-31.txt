@@ -16,6 +16,18 @@ Wolverhampton, 1
 West Ham United, 1
 Manchester City, 3
 
+Bologna, 1
+Empoli, 1
+
+Lecce, 1
+Cagliari, 0
+
+Lazio, 2
+Milan, 2
+
+Napoli, 2
+Parma, 1
+
 Barcelona, 7
 Real Valladolid, 0
 
@@ -30,18 +42,6 @@ Mallorca, 1
 
 Valencia, 1
 Villarreal, 1
-
-Bologna, 1
-Empoli, 1
-
-Lecce, 1
-Cagliari, 0
-
-Lazio, 2
-Milan, 2
-
-Napoli, 2
-Parma, 1
 
 Eintracht Frankfurt, 3
 TSG Hoffenheim, 1
@@ -427,9 +427,6 @@ Barrow, 1
 Morecambe, 0
 Newport County, 1
 
-Salford City, 0
-Milton Keynes Dons, 0
-
 Swindon Town, 1
 Notts County, 2
 
@@ -604,9 +601,6 @@ FC Košice, 0
 FK Železiarne Podbrezová, 1
 Dukla Banská Bystrica, 1
 
-Estudiantes de Buenos Aires, 0
-Agropecuario Argentino, 0
-
 San Martín de Tucumán, 1
 San Martín de San Juan, 0
 
@@ -627,9 +621,6 @@ SV Gloggnitz, 0
 
 SV Leobendorf, 0
 SR Donaufeld, 1
-
-Neftçi Baku PFK, 0
-Şamaxı FK, 0
 
 Şamaxı FK, 0
 Neftçi Baku PFK, 0
@@ -745,9 +736,6 @@ Middelfart, 4
 Thisted, 0
 Næstved Boldklub, 1
 
-AFC Fylde, 0
-Southend United, 0
-
 Aldershot Town, 4
 Maidenhead United, 3
 
@@ -796,12 +784,6 @@ SJK Akatemia, 1
 FC Versailles 78, 0
 Nancy, 0
 
-Dinamo Tbilisi, 0
-FC Dila Gori, 0
-
-FC Iberia 1999, 0
-Dinamo Batumi, 0
-
 FC Kolkheti-1913 Poti, 0
 FC Telavi, 0
 
@@ -843,9 +825,6 @@ Greifswalder FC, 2
 
 Berliner FC Dynamo, 2
 Hertha Zehlendorf, 0
-
-FC Carl Zeiss Jena, 0
-FC Rot-Weiß Erfurt, 0
 
 Hallescher FC, 2
 FC Eilenburg, 2
@@ -894,9 +873,6 @@ Eintracht Bamberg 2010, 2
 
 Cobán Imperial, 3
 Deportivo Guastatoya, 0
-
-Deportivo Mixco, 0
-CSD Xelajú MC, 0
 
 CD Marquense, 2
 Deportivo Malacateco, 2
@@ -1087,12 +1063,6 @@ Amarante FC, 3
 CSM Slatina, 0
 FC Argeș Pitești, 0
 
-Chindia Târgoviște, 0
-CS Afumați, 0
-
-FK Csíkszereda Miercurea Ciuc, 0
-AFC Metalul Buzău, 0
-
 FC Corvinul Hunedoara, 1
 CSM Ceahlăul Piatra Neamţ, 1
 
@@ -1212,12 +1182,6 @@ Polissya Zhytomyr, 4
 
 Veres Rivne, 1
 FC Livyi Bereh Kyiv, 3
-
-Danubio, 0
-River Plate UY, 0
-
-Boston River, 0
-Fénix, 0
 
 Bala Town, 1
 Penybont, 2

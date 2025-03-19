@@ -178,9 +178,6 @@ Athletico, 2
 Botev Vratsa, 4
 Beroe Stara Zagora, 2
 
-Deportes Concepción, 0
-Unión Española, 0
-
 AC Sparta Praha, 3
 Dukla Praha, 0
 
@@ -195,9 +192,6 @@ York City, 3
 
 Tamworth, 1
 Rochdale, 1
-
-Wealdstone, 0
-Boston United, 0
 
 Germany, 4
 Austria, 1
@@ -274,12 +268,6 @@ Inter Kashi FC, 1
 SC Bengaluru, 2
 Shillong Lajong FC, 0
 
-Taguig FC, 0
-Loyola FC, 0
-
-Manila Digger FC, 0
-Kaya-Iloilo, 0
-
 Ruch Chorzów, 2
 MKS Korona Kielce, 0
 
@@ -303,9 +291,6 @@ FC Argeș Pitești, 1
 
 Livingston, 3
 Greenock Morton, 2
-
-Queen's Park FC, 0
-Ayr United, 0
 
 Arbroath, 2
 Kelty Hearts F.C., 1

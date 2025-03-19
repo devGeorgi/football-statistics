@@ -1,11 +1,11 @@
-Sevilla, 2
-Mallorca, 1
-
 Roma, 1
 Bologna, 3
 
 Milan, 1
 Inter, 2
+
+Sevilla, 2
+Mallorca, 1
 
 SC Farense, 1
 Benfica, 3
@@ -73,6 +73,9 @@ St. Patrick's Athletic, 1
 Shelbourne, 0
 Shamrock Rovers, 0
 
+Sligo Rovers, 0
+Galway United, 0
+
 FC Petrolul Ploieşti, 1
 UTA Arad, 1
 
@@ -111,9 +114,6 @@ Al Najma Manama, 2
 
 Busaiteen, 2
 Al-Muharraq, 1
-
-Independiente Petrolero, 0
-San Antonio Bulo-Bulo, 0
 
 San Antonio Bulo-Bulo, 6
 Independiente Petrolero, 1

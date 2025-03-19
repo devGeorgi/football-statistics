@@ -31,6 +31,9 @@ Swansea City, 0
 Stoke City, 1
 Blackburn Rovers, 0
 
+Dukla Praha, 0
+MFK Karviná, 0
+
 Pharco FC, 2
 National Bank of Egypt, 1
 
@@ -70,9 +73,6 @@ Argentino de Quilmes, 0
 Huracán, 2
 San Martín Formosa, 1
 
-Vélez Sarsfield, 0
-Central Córdoba, 0
-
 Lion City Sailors, 1
 Sanfrecce Hiroshima, 1
 
@@ -93,9 +93,6 @@ HNK Kruševo, 1
 
 FK Velež Mostar, 1
 NK Široki Brijeg, 2
-
-FK Borac Banja Luka, 0
-FK Famos Vojkovići, 0
 
 Vitória, 0
 Náutico, 2
@@ -157,9 +154,6 @@ Persita Tangerang, 1
 Persebaya Surabaya, 1
 PSIS Semarang, 1
 
-Catania, 0
-Turris, 0
-
 Cavese, 3
 Messina, 3
 
@@ -183,9 +177,6 @@ Foggia, 2
 
 Benevento, 1
 Crotone, 1
-
-Taranto, 0
-Potenza Calcio, 0
 
 FK Liepaja, 0
 FK Tukums 2000, 0

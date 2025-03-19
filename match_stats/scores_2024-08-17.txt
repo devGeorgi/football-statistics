@@ -271,9 +271,6 @@ Bandırmaspor, 2
 Erzurumspor FK, 1
 MKE Ankaragücü, 0
 
-Esenler Erokspor, 0
-Yeni Malatyaspor, 0
-
 Manisa FK, 2
 Sakaryaspor, 2
 
@@ -300,9 +297,6 @@ Universidad de Chile, 4
 
 Ñublense, 1
 Everton de Viña del Mar, 1
-
-Deportivo Pereira, 0
-Alianza Valledupar FC, 0
 
 Junior Barranquilla, 2
 Fortaleza CEIF, 1
@@ -420,9 +414,6 @@ Club Atlético Grau, 0
 
 Club Sporting Cristal, 0
 Alianza Lima, 0
-
-SC Oțelul Galați, 0
-CFR 1907 Cluj, 0
 
 FC Botoșani, 1
 UTA Arad, 0
@@ -559,12 +550,6 @@ Associação Black Bulls, 7
 Nsingizini Hotspur, 0
 Stellenbosch, 3
 
-FC 15 de Agosto Guinea, 0
-AS Otohô, 0
-
-ASSM Elgeco Plus, 0
-CD Lunda Sul, 0
-
 El Kanemi Warriors, 1
 Dadje FC, 1
 
@@ -591,12 +576,6 @@ Alvarado, 1
 
 San Miguel, 2
 All Boys, 1
-
-Atlanta, 0
-Deportivo Morón, 0
-
-Quilmes Atlético Club, 0
-Agropecuario Argentino, 0
 
 Chaco For Ever, 0
 San Martín de Tucumán, 1
@@ -709,6 +688,9 @@ Shijiazhuang Gongfu, 1
 Atlético Huila, 2
 Bogotá FC, 1
 
+Internacional de Palmira, 0
+Real Cundinamarca, 0
+
 Cúcuta Deportivo, 0
 Orsomarso, 1
 
@@ -784,20 +766,8 @@ FC Kuressaare, 1
 TPS, 5
 KäPa, 3
 
-FC Iberia 1999, 0
-Dinamo Tbilisi, 0
-
-FC Samgurali Tskhaltubo, 0
-FC Kolkheti-1913 Poti, 0
-
-FC Kolkheti-1913 Poti, 2
-FC Gagra, 1
-
 FC Dila Gori, 1
 FC Telavi, 1
-
-SV Werder Bremen II U23, 0
-1.FC Phönix Lübeck, 0
 
 VfB Lübeck, 2
 Holstein Kiel II U23, 2
@@ -837,9 +807,6 @@ Bahlinger SC, 2
 
 FSV Frankfurt, 2
 SGV Freiberg, 1
-
-1. FC Nürnberg II, 0
-FC Würzburger Kickers, 0
 
 SpVgg Greuther Fürth II, 2
 Eintracht Bamberg 2010, 2
@@ -901,20 +868,11 @@ Sampdoria U20, 1
 Ehime FC, 3
 Oita Trinita, 2
 
-Astana, 0
-Atyrau, 0
-
 Yelimay Semey, 6
 FC Turan, 0
 
 FK Sūduva Marijampolė, 1
 FK Kauno Žalgiris, 1
-
-FK Panevėžys, 0
-FK Transinvest, 0
-
-Kelantan Darul Naim, 0
-Kuching City, 0
 
 Floriana FC, 3
 Melita FC, 3
@@ -1009,9 +967,6 @@ Vilaverdense FC, 0
 SC São João Ver, 0
 Amarante FC, 3
 
-SC Lusitânia, 0
-1º Dezembro, 0
-
 CSM Focșani 2007, 0
 AFC Metalul Buzău, 3
 
@@ -1020,9 +975,6 @@ Rodina Moscow, 0
 
 KAMAZ Naberezhnye Chelny, 3
 SKA-Khabarovsk, 0
-
-Alania Vladikavkaz, 0
-Arsenal Tula, 0
 
 Arsenal Tula, 0
 Alania Vladikavkaz, 0
@@ -1065,9 +1017,6 @@ Forfar Athletic, 1
 
 Edinburgh City F.C., 2
 Bonnyrigg Rose, 2
-
-Elgin City, 0
-The Spartans FC, 0
 
 Peterhead, 1
 Stranraer, 0
@@ -1124,7 +1073,7 @@ FC Trollhättan, 3
 Ariana FC, 2
 
 Polissya Zhytomyr, 1
-Inhulets Petrove, 1
+Ingulets Petrove, 1
 
 Karpaty Lviv, 1
 Dynamo Kyiv, 3
@@ -1140,6 +1089,9 @@ Al-Sharjah, 1
 
 Liverpool UY, 1
 Racing de Montevideo, 1
+
+Peñarol, 0
+Cerro Largo, 0
 
 Boston River, 1
 Deportivo Maldonado, 0

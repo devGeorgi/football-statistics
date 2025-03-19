@@ -22,30 +22,6 @@ Guarani, 2
 Paysandu SC, 2
 Chapecoense, 0
 
-América de Cali, 0
-Independiente Medellín, 0
-
-Atlético Bucaramanga, 0
-Deportivo Pereira, 0
-
-Deportes Tolima, 0
-Alianza Valledupar FC, 0
-
-Deportivo La Equidad, 0
-Junior Barranquilla, 0
-
-Jaguares de Córdoba, 0
-Boyacá Chicó FC, 0
-
-Millonarios, 0
-Fortaleza CEIF, 0
-
-Once Caldas, 0
-Deportivo Pasto, 0
-
-Rionegro Águilas Doradas, 0
-Deportivo Cali, 0
-
 Envigado FC, 0
 Deportivo Pasto, 1
 
@@ -87,6 +63,9 @@ Cúcuta Deportivo, 2
 
 US Orléans, 4
 Valenciennes, 1
+
+Medeama, 0
+Samartex, 0
 
 US Virgin Islands, 0
 Barbados, 5

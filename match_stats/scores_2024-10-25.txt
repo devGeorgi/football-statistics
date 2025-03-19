@@ -304,9 +304,6 @@ Malkiya Club, 1
 Slavia Mozyr, 0
 FK Smorgon, 0
 
-San José, 0
-Club Aurora, 0
-
 FK Željezničar, 2
 FK Radnik Bijeljina, 0
 
@@ -640,12 +637,6 @@ Skeid, 1
 Vålerenga IF II, 1
 Eidsvold Turn, 6
 
-PFF Development Club Youth, 0
-Mendiola FC, 0
-
-Maharlika Manila FC, 0
-Manila Digger FC, 0
-
 Chrobry Głogów, 3
 Kotwica Kołobrzeg, 2
 
@@ -663,9 +654,6 @@ Atletico CP, 2
 
 CSC 1599 Șelimbăr, 0
 FC Argeș Pitești, 0
-
-CS Afumați, 0
-Viitorul Pandurii Târgu Jiu, 0
 
 CSM Slatina, 0
 FC Bihor Oradea, 0
@@ -734,7 +722,7 @@ Polissya Zhytomyr, 1
 Kolos Kovalivka, 1
 
 Oleksandria, 2
-Inhulets Petrove, 1
+Ingulets Petrove, 1
 
 Thể Công - Viettel, 1
 Becamex Bình Dương, 0

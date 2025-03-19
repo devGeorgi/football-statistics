@@ -22,18 +22,6 @@ Wolverhampton, 0
 Brentford, 1
 Manchester United, 1
 
-Getafe, 0
-Sevilla, 1
-
-Almería, 0
-Osasuna, 3
-
-Valencia, 0
-Mallorca, 0
-
-Barcelona, 1
-Las Palmas, 0
-
 Genoa, 1
 Frosinone, 1
 
@@ -45,6 +33,18 @@ Juventus, 0
 
 Fiorentina, 1
 Milan, 2
+
+Getafe, 0
+Sevilla, 1
+
+Almería, 0
+Osasuna, 3
+
+Valencia, 0
+Mallorca, 0
+
+Barcelona, 1
+Las Palmas, 0
 
 Bayer 04 Leverkusen, 2
 TSG Hoffenheim, 1
@@ -472,9 +472,6 @@ New Mexico United, 1
 One Knoxville SC, 1
 South Georgia Tormenta FC, 0
 
-Chattanooga Red Wolves SC, 0
-Union Omaha SC, 0
-
 FC Sochi, 2
 CSKA Moscow, 2
 
@@ -616,9 +613,6 @@ Defensores Unidos, 0
 Tristán Suárez, 1
 Club Ferro Carril Oeste, 1
 
-San Martín de Tucumán, 0
-Chaco For Ever, 0
-
 FC Dornbirn, 4
 SV Horn, 0
 
@@ -639,15 +633,6 @@ Turan Tovuz, 1
 
 Sabah FK, 0
 Zirə FK, 1
-
-Al-Ahli Club, 0
-Al Khalidiyah, 0
-
-Busaiteen, 0
-Sitra Club, 0
-
-Manama Club, 0
-East Riffa, 0
 
 Vitebsk, 2
 Slavia Mozyr, 3
@@ -759,9 +744,6 @@ FC Samtredia, 1
 
 FC Gagra, 0
 FC Samgurali Tskhaltubo, 0
-
-1. FC Saarbrücken, 0
-Rot-Weiss Essen, 0
 
 Borussia Dortmund II U23, 1
 SV Waldhof Mannheim, 2
@@ -984,9 +966,6 @@ AZ Picerno, 1
 
 Brindisi, 2
 Virtus Francavilla, 0
-
-Aksu, 0
-FC Kaysar, 0
 
 FC Kyzylzhar, 0
 FC Tobol, 0

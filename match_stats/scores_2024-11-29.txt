@@ -292,9 +292,6 @@ FC Ingolstadt 04, 0
 Kickers Emden, 1
 VfB Oldenburg, 1
 
-Holstein Kiel II U23, 0
-VfB Lübeck, 0
-
 SV Meppen, 2
 Blau-Weiss Lohne, 2
 
@@ -303,9 +300,6 @@ Berliner FC Dynamo, 0
 
 SV Babelsberg 03, 1
 ZFC Meuselwitz, 1
-
-VSG Altglienicke, 0
-FSV Luckenwalde, 0
 
 1. FC Schweinfurt 05, 0
 SpVgg Bayreuth, 0
@@ -391,9 +385,6 @@ FC Bihor Oradea, 0
 FC Voluntari, 1
 AFC Metalul Buzău, 1
 
-Viitorul Pandurii Târgu Jiu, 0
-AFC Câmpulung Muscel, 0
-
 FC Corvinul Hunedoara, 1
 FK Csíkszereda Miercurea Ciuc, 1
 
@@ -422,7 +413,7 @@ FC Vaduz, 2
 Schaffhausen, 2
 
 Vorskla Poltava, 0
-Inhulets Petrove, 3
+Ingulets Petrove, 3
 
 LNZ Cherkasy, 1
 Veres Rivne, 2

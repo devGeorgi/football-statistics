@@ -160,9 +160,6 @@ Ashdod SC, 1
 Bnei Sakhnin, 0
 Ironi Tiberias, 0
 
-Maccabi Bney Reine, 0
-Hapoel Jerusalem, 0
-
 Hapoel Hadera, 1
 Hapoel Be'er Sheva, 2
 
@@ -237,9 +234,6 @@ Richards Bay FC, 0
 
 Melbourne Victory, 4
 Western Sydney Wanderers, 4
-
-Muang Thong United, 0
-Uthai Thani FC, 0
 
 Atlético Madrid, 1
 Real Madrid, 2
@@ -376,9 +370,6 @@ Amarante FC, 0
 Varzim SC, 3
 Vilaverdense FC, 2
 
-SC Covilhã, 0
-SC Lusitânia, 0
-
 Famalicão, 1
 Racing Power Football Club, 4
 
@@ -417,9 +408,6 @@ Forfar Athletic, 0
 
 Edinburgh City F.C., 2
 Bonnyrigg Rose, 0
-
-Peterhead, 0
-Stranraer, 0
 
 ES Métlaoui, 0
 US Monastir, 0

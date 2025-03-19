@@ -25,9 +25,6 @@ LDU, 1
 Millonarios, 1
 Flamengo, 1
 
-Liverpool UY, 0
-Independiente Del Valle, 0
-
 Deportivo Táchira, 0
 River Plate, 2
 
@@ -45,15 +42,6 @@ Argentinos Juniors, 3
 
 Racing de Montevideo, 1
 Corinthians, 1
-
-AFC Ajax, 0
-Go Ahead Eagles, 0
-
-FC Volendam, 0
-Feyenoord, 0
-
-RKC Waalwijk, 0
-Almere City FC, 0
 
 Vitesse, 1
 Sparta Rotterdam, 4
@@ -285,15 +273,6 @@ Medeama, 0
 
 Kisvárda FC, 3
 MTK Budapest, 2
-
-Bhayangkara Presisi Indonesia FC, 0
-Persik Kediri, 0
-
-PSS Sleman, 0
-Arema FC, 0
-
-Persita Tangerang, 0
-Persib Bandung, 0
 
 Catania, 4
 Padova, 2

@@ -1,15 +1,3 @@
-Deportivo Alavés, 0
-Getafe, 1
-
-Valencia, 2
-Leganés, 0
-
-Real Sociedad, 2
-Espanyol, 1
-
-Sevilla, 1
-Barcelona, 4
-
 Cagliari, 2
 Parma, 1
 
@@ -21,6 +9,18 @@ Bologna, 0
 
 Napoli, 1
 Udinese, 1
+
+Deportivo Alavés, 0
+Getafe, 1
+
+Valencia, 2
+Leganés, 0
+
+Real Sociedad, 2
+Espanyol, 1
+
+Sevilla, 1
+Barcelona, 4
 
 Holstein Kiel, 2
 VfL Bochum 1848, 2
@@ -250,9 +250,6 @@ FC Winterthur, 2
 FC Zürich, 1
 FC St. Gallen 1879, 2
 
-Lamontville Golden Arrows, 0
-Royal AM, 0
-
 Sekhukhune United, 1
 Supersport United, 1
 
@@ -442,35 +439,8 @@ ZFC Meuselwitz, 2
 VSG Altglienicke, 1
 Hallescher FC, 2
 
-VFC Plauen, 0
-FSV Zwickau, 0
-
 SC Fortuna Köln, 3
 1. FC Köln II U23, 3
-
-Basake Holy Stars FC, 0
-Bibiani Gold Stars FC, 0
-
-Bechem United, 0
-Accra Hearts of Oak, 0
-
-Berekum Chelsea, 0
-Nsoatreman FC, 0
-
-Heart of Lions, 0
-Dreams, 0
-
-Legon Cities, 0
-Vision FC, 0
-
-Nations FC, 0
-Aduana Stars FC, 0
-
-Samartex, 0
-Medeama, 0
-
-Young Apostles FC, 0
-Asante Kotoko SC, 0
 
 Cobán Imperial, 0
 Antigua GFC, 1

@@ -10,18 +10,6 @@ Southampton, 2
 Ipswich Town, 0
 Manchester City, 6
 
-Celta Vigo, 1
-Athletic Club, 2
-
-Real Madrid, 4
-Las Palmas, 1
-
-Osasuna, 1
-Rayo Vallecano, 1
-
-Valencia, 1
-Real Sociedad, 0
-
 Cagliari, 4
 Lecce, 1
 
@@ -33,6 +21,18 @@ Lazio, 3
 
 Inter, 3
 Empoli, 1
+
+Celta Vigo, 1
+Athletic Club, 2
+
+Real Madrid, 4
+Las Palmas, 1
+
+Osasuna, 1
+Rayo Vallecano, 1
+
+Valencia, 1
+Real Sociedad, 0
 
 1. FC Union Berlin, 2
 1. FSV Mainz 05, 1
@@ -310,17 +310,11 @@ Afogados da Ingazeira FC, 0
 Central SC, 2
 Náutico, 1
 
-América-SE, 0
-Confiança, 0
-
 AO Itabaiana, 1
 Sergipe, 1
 
 CS Cartaginés, 0
 Municipal Liberia, 1
-
-AD Guanacasteca, 0
-Deportivo Saprissa, 0
 
 Municipal Pérez Zeledón, 1
 Municipal Santa Ana, 0
@@ -436,9 +430,6 @@ Zabbar Saint Patrick FC, 1
 Leones Negros, 4
 Dorados de Sinaloa, 0
 
-Difaâ Hassani El-Jadidi, 0
-MAS de Fès, 0
-
 Hassania d'Agadir, 2
 MAS de Fès, 2
 
@@ -465,9 +456,6 @@ Damaiense, 1
 
 Marítimo, 1
 SCU Torreense, 0
-
-SC Braga, 0
-Vilaverdense FC, 0
 
 Sporting CP, 5
 Famalicão, 0

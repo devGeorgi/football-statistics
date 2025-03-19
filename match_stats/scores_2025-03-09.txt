@@ -7,6 +7,15 @@ Bournemouth, 2
 Manchester United, 1
 Arsenal, 1
 
+Napoli, 2
+Fiorentina, 1
+
+Empoli, 0
+Roma, 1
+
+Juventus, 0
+Atalanta, 4
+
 Getafe, 2
 Atlético Madrid, 1
 
@@ -21,15 +30,6 @@ Las Palmas, 0
 
 Real Sociedad, 0
 Sevilla, 1
-
-Napoli, 2
-Fiorentina, 1
-
-Empoli, 0
-Roma, 1
-
-Juventus, 0
-Atalanta, 4
 
 Eintracht Frankfurt, 1
 1. FC Union Berlin, 2
@@ -66,9 +66,6 @@ Go Ahead Eagles, 3
 
 PEC Zwolle, 0
 AFC Ajax, 1
-
-AZ Alkmaar, 0
-RKC Waalwijk, 0
 
 FC Twente, 1
 Almere City FC, 0
@@ -432,6 +429,9 @@ Nõmme Kalju, 0
 
 FC Torpedo Kutaisi, 1
 FC Telavi, 2
+
+FC Kolkheti-1913 Poti, 0
+Dinamo Tbilisi, 0
 
 TSV 1860 München, 1
 Borussia Dortmund II U23, 0

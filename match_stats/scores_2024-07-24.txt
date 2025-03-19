@@ -31,15 +31,6 @@ Independiente Del Valle, 0
 Red Bull Bragantino, 3
 Barcelona SC, 2
 
-Criciúma, 0
-Red Bull Bragantino, 0
-
-Internacional, 0
-Fortaleza, 0
-
-Vasco da Gama, 0
-Cuiabá, 0
-
 Criciúma, 1
 Fortaleza, 1
 
@@ -111,6 +102,9 @@ Charleston Battery, 2
 
 Forward Madison FC, 2
 Central Valley Fuego, 1
+
+AA Aparecidense, 0
+Ypiranga FC, 0
 
 Boca Juniors de Cali, 0
 Llaneros FC, 0

@@ -7,6 +7,9 @@ Real Valladolid, 3
 Borussia Dortmund, 2
 FC St. Pauli, 1
 
+AS Monaco, 0
+Lille, 0
+
 Atlético Goianiense, 0
 Cuiabá, 0
 
@@ -436,9 +439,6 @@ Shanghai Jiading Huilong, 1
 Shijiazhuang Gongfu, 3
 Yunnan Yukun, 2
 
-1. SK Prostějov, 0
-MFK Chrudim, 0
-
 FC Sellier & Bellot Vlašim, 1
 FC Silon Táborsko, 2
 
@@ -565,9 +565,6 @@ Madura United FC, 0
 Arema FC, 3
 Malut United FC, 1
 
-Gol Gohar Sirjan, 0
-Tractor FC, 0
-
 Esteghlal FC, 0
 Zob Ahan, 3
 
@@ -621,9 +618,6 @@ Zhetysu Taldykorgan, 0
 
 Kairat Almaty, 5
 FC Turan, 1
-
-FK Auda, 0
-FS Jelgava, 0
 
 BFC Daugava Daugavpils, 0
 Riga FC, 5
@@ -729,9 +723,6 @@ CS Afumați, 0
 
 CSM Focșani 2007, 1
 CSM Slatina, 0
-
-Viitorul Pandurii Târgu Jiu, 0
-CS Unirea Ungheni 2018, 0
 
 CSM Reşiţa, 1
 FC Corvinul Hunedoara, 0

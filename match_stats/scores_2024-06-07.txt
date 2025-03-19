@@ -31,9 +31,6 @@ Ituano, 2
 Novorizontino, 3
 Santos, 1
 
-Everton de Viña del Mar, 0
-Universidad de Chile, 0
-
 Unión Española, 0
 Unión La Calera, 1
 
@@ -45,9 +42,6 @@ Dundalk FC, 0
 
 Waterford FC, 4
 Sligo Rovers, 1
-
-Shamrock Rovers, 0
-Bohemian FC, 0
 
 Czechia, 7
 Malta, 1

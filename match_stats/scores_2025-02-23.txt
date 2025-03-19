@@ -4,6 +4,15 @@ Nottingham Forest, 3
 Manchester City, 0
 Liverpool, 2
 
+Hellas Verona, 1
+Fiorentina, 0
+
+Empoli, 0
+Atalanta, 5
+
+Cagliari, 0
+Juventus, 1
+
 Athletic Club, 7
 Real Valladolid, 1
 
@@ -15,15 +24,6 @@ Real Betis, 2
 
 Real Sociedad, 3
 Leganés, 0
-
-Hellas Verona, 1
-Fiorentina, 0
-
-Empoli, 0
-Atalanta, 5
-
-Cagliari, 0
-Juventus, 1
 
 RB Leipzig, 2
 1. FC Heidenheim, 2
@@ -211,12 +211,6 @@ Deportes La Serena, 1
 Alianza Valledupar FC, 3
 Atlético Nacional, 2
 
-Deportivo Pasto, 0
-Unión Magdalena, 0
-
-Independiente Medellín, 0
-Llaneros FC, 0
-
 Deportivo Cali, 3
 Millonarios, 1
 
@@ -225,9 +219,6 @@ América de Cali, 0
 
 Bohemians Praha 1905, 0
 FC Slovan Liberec, 0
-
-1. FC Slovácko, 0
-FC Hradec Králové, 0
 
 FK Jablonec, 5
 MFK Karviná, 0
@@ -274,14 +265,8 @@ Tala'ea El-Gaish, 1
 Mohun Bagan Super Giant, 1
 Odisha FC, 0
 
-Shamrock Rovers, 0
-Cork City, 0
-
 Alianza Universidad, 2
 Asociación Deportiva Tarma, 3
-
-Club Atlético Grau, 0
-Universitario, 0
 
 Melgar, 2
 Alianza Atlético de Sullana, 1
@@ -355,9 +340,6 @@ Dukla Banská Bystrica, 0
 Paradou AC, 1
 MC Alger, 3
 
-JS Saoura, 0
-Olympique Akbou, 0
-
 Huracán, 2
 San Lorenzo, 0
 
@@ -366,9 +348,6 @@ Gimnasia y Esgrima, 1
 
 Belgrano, 2
 Defensa y Justicia, 0
-
-Club Atlético Unión de Santa Fe, 0
-Racing Club, 0
 
 Club Ferro Carril Oeste, 0
 Tristán Suárez, 0
@@ -439,6 +418,9 @@ Atlético Cali, 1
 Deportivo Saprissa, 2
 Sporting FC, 0
 
+Santos de Guápiles, 0
+LD Alajuelense, 0
+
 Municipal Pérez Zeledón, 0
 CS Cartaginés, 1
 
@@ -469,23 +451,11 @@ SV Wehen Wiesbaden, 1
 FC Teutonia 05 Ottensen, 1
 Hamburger SV II U23, 1
 
-1.FC Phönix Lübeck, 0
-FC St Pauli II U23, 0
-
 Eintracht Norderstedt, 4
 Holstein Kiel II U23, 2
 
 TSV Havelse, 2
 SC Weiche Flensburg 08, 1
-
-FC Rot-Weiß Erfurt, 0
-FC Carl Zeiss Jena, 0
-
-Greifswalder FC, 0
-BSG Chemie Leipzig, 0
-
-VSG Altglienicke, 0
-FSV Zwickau, 0
 
 Chemnitzer FC, 4
 ZFC Meuselwitz, 0

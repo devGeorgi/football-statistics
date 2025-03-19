@@ -154,12 +154,6 @@ LDU, 0
 Baladiyet El Mahallah, 2
 Al-Mokawloon, 0
 
-Al-Masry, 0
-Al Ahly FC, 0
-
-Zamalek SC, 0
-Pyramids FC, 0
-
 Odisha FC, 2
 Kerala Blasters, 1
 
@@ -187,9 +181,6 @@ Albirex Niigata, 1
 Sagan Tosu, 4
 Kashima Antlers, 2
 
-Yokohama F. Marinos, 0
-Kashiwa Reysol, 0
-
 Avispa Fukuoka, 2
 Jubilo Iwata, 2
 
@@ -213,9 +204,6 @@ Al-Fayha, 1
 
 Al-Riyadh, 1
 Al-Tai, 2
-
-Al-Ahli, 0
-Al-Hilal, 0
 
 FC Farul Constanța, 5
 CFR 1907 Cluj, 1
@@ -385,14 +373,11 @@ Jiangxi Dingnan United, 0
 Shanghai Jiading Huilong, 1
 Qingdao Red Lions, 1
 
-Guangxi Pingguo Haliao, 0
-Yunnan Yukun, 0
-
 Jiangsu Landhouse Dong Victory, 4
-Langfang Glory City FC, 5
+Hangzhou Linping Wuyue FC, 5
 
 Shanghai Mitsubishi Heavy Industries Fly, 2
-Jiangxi Dark Horse Junior FC, 0
+Wenzhou Professional FC, 0
 
 Shanghai Segenda, 3
 Ganzhou Ruishi FC, 4
@@ -526,9 +511,6 @@ Dijon, 2
 Sas Épinal, 0
 FC Versailles 78, 1
 
-Sochaux, 0
-Chamois Niortais, 0
-
 US Orléans, 0
 Nîmes Olympique, 1
 
@@ -589,17 +571,8 @@ Memmingen, 2
 Stjarnan Garðabær, 1
 Valur Reykjavík, 0
 
-Arema FC, 0
-PSM Makassar, 0
-
-Persib Bandung, 0
-Borneo FC Samarinda, 0
-
 Persib Bandung, 3
 Persebaya Surabaya, 1
-
-Persik Kediri, 0
-PSS Sleman, 0
 
 Persik Kediri, 1
 Persita Tangerang, 1
@@ -618,9 +591,6 @@ Treaty United FC, 1
 
 Cobh Ramblers FC, 2
 Finn Harps, 0
-
-Cork City, 0
-Longford Town, 0
 
 Kerry FC, 1
 Athlone Town, 2
@@ -651,9 +621,6 @@ FC Turan, 0
 
 FC Ordabasy, 1
 FC Kyzylzhar, 1
-
-RS Berkane, 0
-Moghreb Atlético Tetuán, 0
 
 CA Youssoufia Berrechid, 0
 Olympic Safi, 1

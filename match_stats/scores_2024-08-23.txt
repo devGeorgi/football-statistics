@@ -19,9 +19,6 @@ Sporting, 5
 Alanyaspor, 1
 Göztepe, 1
 
-RSC Anderlecht, 0
-KRC Genk, 0
-
 Independiente Rivadavia, 0
 Platense, 2
 
@@ -114,6 +111,9 @@ FC Volendam, 1
 
 FC Den Bosch, 1
 MVV Maastricht, 1
+
+FC Emmen, 0
+Helmond Sport, 0
 
 TOP Oss, 1
 SC Cambuur, 0
@@ -265,9 +265,6 @@ Debreceni VSC, 0
 Rukinzo FC, 2
 Horseed, 0
 
-Rahimo FC, 0
-Hafia FC, 0
-
 Étoile Filante de Ouagadougou, 0
 Hafia FC, 0
 
@@ -313,9 +310,6 @@ Kəpəz PFK, 0
 SFK Slutsk, 2
 Vitebsk, 0
 
-Dinamo Minsk, 0
-FK Gomel, 0
-
 FK Arsenal Dzerzhinsk, 3
 FC Isloch Minsk Region, 1
 
@@ -352,9 +346,6 @@ Anorthosis Famagusta, 0
 1. SK Prostějov, 2
 Vysočina Jihlava, 1
 
-FC Zlín, 0
-SK Slavia Praha B, 0
-
 MFK Chrudim, 4
 Sparta Praha B U21, 1
 
@@ -384,9 +375,6 @@ Yeovil Town, 1
 
 Pärnu JK Vaprus, 0
 Flora Tallinn, 1
-
-SJK, 0
-IF Gnistan, 0
 
 Aubagne FC, 2
 FC Rouen, 1
@@ -595,9 +583,6 @@ CSM Focșani 2007, 0
 CS Unirea Ungheni 2018, 0
 Chindia Târgoviște, 1
 
-FC Argeș Pitești, 0
-FK Csíkszereda Miercurea Ciuc, 0
-
 SKA-Khabarovsk, 2
 Sokol Saratov, 2
 
@@ -624,9 +609,6 @@ Flint Town United, 0
 
 Briton Ferry Llansawel AFC, 1
 Cardiff Met FC, 5
-
-Connah's Quay Nomads, 0
-The New Saints, 0
 
 Haverfordwest County AFC, 0
 Penybont, 0

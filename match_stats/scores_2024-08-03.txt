@@ -109,9 +109,6 @@ Shanghai Shenhua, 1
 Everton de Viña del Mar, 1
 O'Higgins, 1
 
-Huachipato, 0
-Colo Colo, 0
-
 Universidad Católica, 1
 Palestino, 1
 
@@ -177,9 +174,6 @@ Deportivo Garcilaso, 2
 
 FC Farul Constanța, 2
 ACSM Politehnica Iași, 0
-
-FC Botoșani, 0
-FCSB, 0
 
 GAIS Göteborg, 0
 IFK Norrköping, 1
@@ -295,20 +289,8 @@ Nueva Chicago, 2
 Deportivo Madryn, 0
 Deportivo Morón, 0
 
-Atlético de Rafaela, 0
-Temperley, 0
-
 Chaco For Ever, 1
 Almagro, 1
-
-Club Atletico Colón, 0
-Mitre, 0
-
-Club Ferro Carril Oeste, 0
-Agropecuario Argentino, 0
-
-Quilmes Atlético Club, 0
-San Martín de San Juan, 0
 
 Almirante Brown, 0
 Gimnasia y Tiro de Salta, 0
@@ -400,9 +382,6 @@ AD Guanacasteca, 2
 Municipal Santa Ana, 1
 Herediano, 1
 
-FC Zlín, 0
-SK Sigma Olomouc B, 0
-
 FC Zbrojovka Brno, 1
 FK Varnsdorf, 6
 
@@ -433,23 +412,11 @@ Narva Trans, 1
 FC Lahti, 2
 HJK, 1
 
-FC Gagra, 0
-Dinamo Batumi, 0
-
-FC Samgurali Tskhaltubo, 0
-FC Dila Gori, 0
-
-FC Samtredia, 0
-FC Kolkheti-1913 Poti, 0
-
-FC Telavi, 0
-Dinamo Tbilisi, 0
-
-FC Torpedo Kutaisi, 0
-FC Iberia 1999, 0
-
 Dinamo Tbilisi, 0
 FC Samgurali Tskhaltubo, 1
+
+FC Dila Gori, 0
+FC Gagra, 0
 
 Borussia Dortmund II U23, 3
 SpVgg Unterhaching, 0
@@ -568,9 +535,6 @@ Leones Negros, 1
 FC Floreşti, 0
 CSF Spartanii Selemet, 0
 
-FC Milsami Orhei, 0
-FC Petrocub Hîncesti, 0
-
 Egersund, 0
 Sogndal IL, 2
 
@@ -682,9 +646,6 @@ The Spartans FC, 2
 Albirex Niigata Singapore, 2
 Young Lions, 1
 
-NK Olimpija Ljubljana, 0
-NK Nafta Lendava 1903, 0
-
 ND Primorje, 0
 FC Koper, 2
 
@@ -786,9 +747,6 @@ Leicester City, 0
 
 RC Strasbourg, 2
 SC Freiburg, 2
-
-Alfreton Town, 0
-Matlock Town, 0
 
 Barnet, 2
 AFC Wimbledon, 0

@@ -151,9 +151,6 @@ NK Osijek, 2
 HNK Rijeka, 4
 NK Istra 1961, 0
 
-FK Partizan, 0
-FK Radnički Niš, 0
-
 FK Železničar Pančevo, 2
 FK IMT Beograd, 1
 
@@ -259,11 +256,11 @@ Universidad Católica, 1
 Cobresal, 2
 Deportes Iquique, 1
 
-Deportivo Cali, 0
-Independiente Santa Fe, 0
-
 Atlético Bucaramanga, 1
 América de Cali, 2
+
+Boyacá Chicó FC, 0
+Envigado FC, 0
 
 SK Sigma Olomouc, 3
 Mladá Boleslav, 2
@@ -334,9 +331,6 @@ Odds BK, 0
 KFUM Oslo, 0
 Tromsø IL, 1
 
-Kristiansund BK, 0
-Molde FK, 0
-
 Sarpsborg 08, 2
 Haugesund, 2
 
@@ -372,9 +366,6 @@ Lokomotiv Moscow, 1
 
 FC Spartak Moscow, 3
 Fakel Voronezh, 0
-
-Fakel Voronezh, 0
-FC Spartak Moscow, 0
 
 FK Krasnodar, 2
 Pari Nizhny Novgorod, 1
@@ -463,14 +454,8 @@ Almagro, 3
 Club Atletico Colón, 1
 Gimnasia y Esgrima Mendoza, 0
 
-Zirə FK, 0
-Araz Naxçıvan PFK, 0
-
 Neftçi Baku PFK, 0
 Sabah FK, 2
-
-FC Minsk, 0
-FK Smorgon, 0
 
 FK Smorgon, 1
 FC Minsk, 1
@@ -529,9 +514,6 @@ Puntarenas FC, 0
 Sporting FC, 1
 Municipal Liberia, 0
 
-FK Varnsdorf, 0
-MFK Chrudim, 0
-
 FC Zbrojovka Brno, 0
 Sparta Praha B U21, 0
 
@@ -565,23 +547,17 @@ FF Jaro, 2
 Dinamo Tbilisi, 1
 FC Torpedo Kutaisi, 2
 
+Dinamo Batumi, 0
+FC Samgurali Tskhaltubo, 0
+
 FC St Pauli II U23, 1
 Eintracht Norderstedt, 1
-
-SV Todesfelde, 0
-FC Teutonia 05 Ottensen, 0
-
-SV Drochtersen/Assel, 0
-Bremer SV, 0
 
 1. FC Köln II U23, 1
 SC Fortuna Köln, 2
 
 Wuppertaler SV, 1
 SC Paderborn 07 II, 4
-
-Comunicaciones FC, 0
-Juventud Pinulteca FC, 0
 
 Cobán Imperial, 3
 Antigua GFC, 3
@@ -682,9 +658,6 @@ FK Rabotnički Skopje, 1
 FK Vardar Skopje, 1
 FK Pelister Bitola, 0
 
-Crusaders FC, 0
-Larne FC, 0
-
 Levanger, 1
 Vålerenga IF, 4
 
@@ -775,9 +748,6 @@ Rukh Lviv, 1
 FC Livyi Bereh Kyiv, 0
 Shakhtar Donetsk, 1
 
-Shakhtar Donetsk, 0
-FC Livyi Bereh Kyiv, 0
-
 Al-Ittihad Kalba, 2
 Al-Ain, 3
 
@@ -789,6 +759,9 @@ Ajman, 0
 
 Danubio, 1
 Fénix, 0
+
+Progreso, 0
+Miramar Misiones, 0
 
 River Plate UY, 3
 Nacional, 3

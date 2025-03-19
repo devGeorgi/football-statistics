@@ -13,18 +13,6 @@ Brighton & Hove Albion, 1
 Crystal Palace, 1
 Arsenal, 5
 
-Getafe, 0
-Mallorca, 1
-
-Celta Vigo, 2
-Real Sociedad, 0
-
-Osasuna, 1
-Athletic Club, 2
-
-Barcelona, 1
-Atlético Madrid, 2
-
 Torino, 0
 Bologna, 2
 
@@ -36,6 +24,18 @@ Lazio, 2
 
 Roma, 5
 Parma, 0
+
+Getafe, 0
+Mallorca, 1
+
+Celta Vigo, 2
+Real Sociedad, 0
+
+Osasuna, 1
+Athletic Club, 2
+
+Barcelona, 1
+Atlético Madrid, 2
 
 Eintracht Frankfurt, 1
 1. FSV Mainz 05, 3
@@ -274,9 +274,6 @@ Stevenage, 0
 Burton Albion, 1
 Exeter City, 2
 
-Crawley Town, 0
-Birmingham City, 0
-
 Mansfield Town, 1
 Rotherham United, 0
 
@@ -343,9 +340,6 @@ Western United, 3
 KAS Eupen, 0
 RFC Liège, 1
 
-KMSK Deinze, 0
-RSCA Futures U23, 0
-
 RAAL La Louvière, 0
 RWD Molenbeek, 0
 
@@ -363,9 +357,6 @@ USM Alger, 1
 
 JS Kabylie, 2
 ES Mostaganem, 1
-
-MC Oran, 0
-CR Belouizdad, 0
 
 Vélez Sarsfield, 0
 Estudiantes de La Plata, 3
@@ -427,9 +418,6 @@ Aldershot Town, 1
 Hartlepool United, 2
 Yeovil Town, 1
 
-Rochdale, 0
-Boston United, 0
-
 Solihull Moors, 4
 AFC Fylde, 1
 
@@ -480,9 +468,6 @@ Legon Cities, 0
 
 Young Apostles FC, 1
 Vision FC, 1
-
-Medeama, 0
-Karela United, 0
 
 AO Kavala, 1
 AS Makedonikos Neapolis, 0
@@ -579,9 +564,6 @@ Moghreb Atlético Tetuán, 0
 
 Cliftonville FC, 1
 Glentoran FC, 2
-
-Dungannon Swifts, 0
-Larne FC, 0
 
 Linfield FC, 1
 Glenavon, 0

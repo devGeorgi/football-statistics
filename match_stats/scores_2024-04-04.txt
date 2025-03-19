@@ -37,6 +37,12 @@ Metropolitanos, 2
 Sportivo Luqueño, 0
 Racing Club, 2
 
+FC Volendam, 0
+Feyenoord, 0
+
+RKC Waalwijk, 0
+Almere City FC, 0
+
 AFC Ajax, 1
 Go Ahead Eagles, 1
 
@@ -91,9 +97,6 @@ Grasshopper Club Zürich, 0
 Nakhon Pathom United, 1
 Lamphun Warrior, 0
 
-MC Oran, 0
-USM Alger, 0
-
 CR Belouizdad, 2
 ES Sétif, 1
 
@@ -144,15 +147,6 @@ Kecskemét TE, 1
 
 Rajasthan United FC, 3
 Delhi FC, 6
-
-Borneo FC Samarinda, 0
-Madura United FC, 0
-
-Persija Jakarta, 0
-Persis Solo, 0
-
-Persikabo 1973, 0
-Bali United FC, 0
 
 FK Tukums 2000, 2
 Grobiņas SC, 0

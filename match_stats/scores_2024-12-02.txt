@@ -1,8 +1,8 @@
-Sevilla, 1
-Osasuna, 1
-
 Roma, 0
 Atalanta, 2
+
+Sevilla, 1
+Osasuna, 1
 
 Vitória SC, 4
 Gil Vicente, 0
@@ -76,9 +76,6 @@ JS Kabylie, 1
 US Biskra, 1
 CS Constantine, 1
 
-USM Alger, 0
-Paradou AC, 0
-
 Central Coast Mariners, 0
 Yokohama F. Marinos, 4
 
@@ -114,9 +111,6 @@ Hillerød, 5
 
 FC Telavi, 5
 FC Samtredia, 2
-
-Ethnikos Neou Keramidiou, 0
-AO Kavala, 0
 
 PAOK B, 0
 Niki Volou, 4

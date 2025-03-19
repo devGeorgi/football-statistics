@@ -64,9 +64,6 @@ Bolivia, 0
 Costa Rica, 0
 Uruguay, 0
 
-Ulsan HD, 1
-Jeonbuk Hyundai Motors, 0
-
 Gimcheon Sangmu FC, 3
 Pohang Steelers, 1
 
@@ -135,9 +132,6 @@ El Gouna FC, 6
 
 National Bank of Egypt, 4
 Petrojet, 1
-
-Pyramids FC, 0
-Al Nasr Cairo, 0
 
 FC Nõmme United, 2
 Pärnu JK Vaprus, 1
@@ -310,9 +304,6 @@ Falkenbergs FF, 1
 Torslanda IK, 1
 Tvååkers IF, 2
 
-True Bangkok United, 0
-Kanchanaburi Power FC, 0
-
 US Monastir, 1
 CS Sfaxien, 0
 
@@ -327,9 +318,6 @@ South Sudan, 5
 
 Japan, 2
 New Zealand, 0
-
-Ecuador, 0
-Haiti, 0
 
 Tanzania, 2
 Mali, 2

@@ -67,6 +67,9 @@ Qingdao Hainiu, 0
 Peterborough United, 3
 Port Vale, 0
 
+Wycombe Wanderers, 0
+Derby County, 0
+
 Punjab FC, 4
 East Bengal FC, 1
 
@@ -82,9 +85,6 @@ Diósgyőri VTK, 1
 Barracas Central, 4
 San Miguel, 2
 
-Club Atletico Colón, 0
-Los Andes, 0
-
 Sergipe, 1
 Confiança, 1
 
@@ -99,9 +99,6 @@ Apollon Limassol, 1
 
 Aris Limassol, 0
 Omonia Nicosia, 3
-
-FC Halifax Town, 0
-Oldham Athletic, 0
 
 1. FC Saarbrücken, 2
 SpVgg Unterhaching, 1
@@ -189,15 +186,3 @@ NK Rogaška, 1
 
 NK Olimpija Ljubljana, 2
 Kalcer Radomlje, 2
-
-CS Sfaxien, 0
-Etoile Sportive Du Sahel, 0
-
-Club Africain, 0
-Stade Tunisien, 0
-
-US Monastir, 0
-Espérance Tunis, 0
-
-Zorya Luhansk, 0
-Shakhtar Donetsk, 0

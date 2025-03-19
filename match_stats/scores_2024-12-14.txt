@@ -13,18 +13,6 @@ Ipswich Town, 2
 Nottingham Forest, 2
 Aston Villa, 1
 
-Espanyol, 0
-Osasuna, 0
-
-Mallorca, 2
-Girona FC, 1
-
-Sevilla, 1
-Celta Vigo, 0
-
-Rayo Vallecano, 3
-Real Madrid, 3
-
 Cagliari, 0
 Atalanta, 1
 
@@ -36,6 +24,18 @@ Venezia, 2
 
 Lecce, 2
 Monza, 1
+
+Espanyol, 0
+Osasuna, 0
+
+Mallorca, 2
+Girona FC, 1
+
+Sevilla, 1
+Celta Vigo, 0
+
+Rayo Vallecano, 3
+Real Madrid, 3
 
 CF Pachuca, 6
 Al Ahly FC, 5
@@ -111,9 +111,6 @@ OFI Crete, 0
 
 NPS Volos, 2
 Asteras Aktor, 1
-
-Dundee FC, 0
-Celtic, 0
 
 Hibernian, 3
 Ross County, 1
@@ -238,9 +235,6 @@ Paris FC, 0
 Red Star FC, 3
 Grenoble Foot 38, 1
 
-USL Dunkerque, 0
-Caen, 0
-
 Annecy FC, 0
 Metz, 0
 
@@ -348,9 +342,6 @@ Morecambe, 0
 
 Colchester United, 0
 Newport County, 0
-
-Fleetwood Town, 0
-Accrington Stanley, 0
 
 Grimsby Town, 0
 Crewe Alexandra, 2
@@ -490,15 +481,6 @@ MFK Ružomberok, 0
 ŠK Slovan Bratislava, 2
 DAC 1904, 1
 
-CR Belouizdad, 0
-CS Constantine, 0
-
-ES Mostaganem, 0
-MC Alger, 0
-
-USM Alger, 0
-USM Khenchela, 0
-
 US Biskra, 0
 Olympique Akbou, 1
 
@@ -604,17 +586,11 @@ Eintracht Norderstedt, 1
 VfB Lübeck, 2
 FC St Pauli II U23, 0
 
-Chemnitzer FC, 0
-Hertha BSC II U23, 0
-
 Greifswalder FC, 2
 FSV Zwickau, 1
 
 FSV Luckenwalde, 2
 1. FC Lokomotive Leipzig, 2
-
-VFC Plauen, 0
-Hallescher FC, 0
 
 Accra Lions FC, 1
 Nations FC, 0
@@ -748,9 +724,6 @@ Dungannon Swifts, 1
 Carrick Rangers, 0
 Loughgall, 0
 
-Larne FC, 0
-Glenavon, 0
-
 Linfield FC, 3
 Coleraine FC, 0
 
@@ -847,7 +820,7 @@ Karpaty Lviv, 0
 Zorya Luhansk, 2
 Chornomorets Odesa, 1
 
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 Kolos Kovalivka, 2
 
 Caernarfon Town, 3

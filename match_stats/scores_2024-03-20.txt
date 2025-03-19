@@ -31,9 +31,6 @@ Macará, 1
 Aucas, 3
 El Nacional, 4
 
-Universidad Católica del Ecuador, 0
-Barcelona SC, 0
-
 San Marino, 1
 Saint Kitts and Nevis, 3
 
@@ -127,9 +124,6 @@ Aduana Stars FC, 0
 Neroca FC, 1
 TRAU FC, 0
 
-TRAU FC, 0
-Neroca FC, 0
-
 CD Tapatío, 2
 Correcaminos UAT, 2
 
@@ -153,9 +147,6 @@ One Knoxville SC, 2
 
 South Carolina United FC, 0
 Greenville Triumph SC, 1
-
-Apotheos FC, 0
-Georgia FC, 0
 
 New York Red Bulls II, 5
 Hudson Valley Hammers, 1

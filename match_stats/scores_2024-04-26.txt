@@ -85,9 +85,6 @@ Chapecoense, 1
 De Graafschap, 3
 MVV Maastricht, 0
 
-FC Emmen, 0
-Helmond Sport, 0
-
 Jong Ajax, 1
 Roda JC Kerkrade, 1
 
@@ -334,12 +331,6 @@ Naftan Novopolotsk, 2
 FK Sloga Doboj, 2
 FK Zvijezda 09, 0
 
-Bahia, 0
-CRB, 0
-
-Sport Recife, 0
-Fortaleza, 0
-
 Pirin 22 Blagoevgrad, 1
 Botev Vratsa, 2
 
@@ -363,9 +354,6 @@ Boca Juniors de Cali, 2
 
 Barranquilla FC, 1
 Real Cundinamarca, 1
-
-CS Cartaginés, 0
-Municipal Pérez Zeledón, 0
 
 MFK Chrudim, 6
 1.FK Příbram, 3
@@ -436,6 +424,9 @@ Le Mans, 6
 FC Kolkheti-1913 Poti, 2
 FC Samtredia, 0
 
+Dinamo Tbilisi, 0
+FC Telavi, 0
+
 Arminia Bielefeld, 0
 VfB Lübeck, 0
 
@@ -504,9 +495,6 @@ Cobh Ramblers FC, 1
 
 Bray Wanderers, 2
 Kerry FC, 0
-
-Cork City, 0
-Finn Harps, 0
 
 Treaty United FC, 0
 University College Dublin, 2

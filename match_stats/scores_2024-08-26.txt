@@ -1,17 +1,14 @@
-Villarreal, 4
-Celta Vigo, 3
-
 Cagliari, 1
 Como, 1
 
 Hellas Verona, 0
 Juventus, 3
 
+Villarreal, 4
+Celta Vigo, 3
+
 Vasco da Gama, 2
 Athletico, 1
-
-Trabzonspor, 0
-Kayserispor, 0
 
 Olympiacos FC, 2
 Athens Kallithea FC, 1
@@ -97,6 +94,9 @@ Nongbua Pitchaya, 3
 Nueva Chicago, 1
 Club Atletico Colón, 0
 
+All Boys, 0
+Quilmes Atlético Club, 0
+
 Hume City FC, 1
 FC Melbourne Srbija, 0
 
@@ -120,9 +120,6 @@ Santiago Wanderers, 1
 
 Atlético Cali, 1
 Real Cundinamarca, 0
-
-Real Santander, 0
-Orsomarso, 0
 
 Deportes Quindío, 2
 Bogotá FC, 2
@@ -168,9 +165,6 @@ Boston United, 2
 
 SJK, 0
 IF Gnistan, 1
-
-KR Reykjavík, 0
-Víkingur Reykjavík, 0
 
 Stjarnan Garðabær, 2
 HK Kópavogur, 0
@@ -274,9 +268,6 @@ Veres Rivne, 1
 LNZ Cherkasy, 2
 Karpaty Lviv, 1
 
-Nacional, 0
-Liverpool UY, 0
-
 Angostura FC, 0
 Rayo Zuliano, 1
 
@@ -297,6 +288,3 @@ Connah's Quay Nomads, 1
 
 Penybont, 5
 Aberystwyth Town, 1
-
-The New Saints, 0
-Briton Ferry Llansawel AFC, 0

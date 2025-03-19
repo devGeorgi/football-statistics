@@ -1,8 +1,8 @@
-Barcelona, 1
-Rayo Vallecano, 0
-
 Genoa, 2
 Venezia, 0
+
+Barcelona, 1
+Rayo Vallecano, 0
 
 Gil Vicente, 0
 Famalicão, 2
@@ -27,12 +27,6 @@ Mirassol, 1
 
 Annecy FC, 1
 Caen, 0
-
-Jong AZ Alkmaar, 0
-Jong PSV Eindhoven, 0
-
-Jong FC Utrecht Youth, 0
-VVV-Venlo, 0
 
 Adanaspor, 1
 Ümraniyespor, 1

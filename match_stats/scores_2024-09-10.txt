@@ -127,8 +127,8 @@ Salford City, 1
 Cambodia, 4
 Sri Lanka, 6
 
-Hume City, 2
-South Melbourne, 3
+Hume City FC, 2
+South Melbourne FC, 3
 
 Municipal Liberia, 3
 CS Cartaginés, 0

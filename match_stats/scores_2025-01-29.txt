@@ -64,6 +64,9 @@ Santos Laguna, 0
 Pumas UNAM, 1
 CD Toluca, 1
 
+CD Tenerife, 0
+Deportivo La Coruña, 0
+
 Mirassol, 3
 Guarani, 2
 

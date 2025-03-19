@@ -79,41 +79,14 @@ Fortaleza CEIF, 1
 América de Cali, 3
 Boyacá Chicó FC, 2
 
-Blackpool, 0
-Fleetwood Town, 0
-
-Bolton Wanderers, 0
-Shrewsbury Town, 0
-
-Bristol Rovers, 0
-Reading, 0
-
 Burton Albion, 0
 Port Vale, 1
-
-Cambridge United, 0
-Wycombe Wanderers, 0
 
 Carlisle United, 2
 Stevenage, 2
 
-Charlton Athletic, 0
-Wigan Athletic, 0
-
-Cheltenham Town, 0
-Peterborough United, 0
-
-Leyton Orient, 0
-Exeter City, 0
-
 Northampton Town, 1
 Derby County, 0
-
-Oxford United, 0
-Lincoln City, 0
-
-Portsmouth, 0
-Barnsley, 0
 
 Mansfield Town, 1
 Colchester United, 1
@@ -145,14 +118,8 @@ Accrington Stanley, 1
 Tranmere Rovers, 1
 Crawley Town, 3
 
-Walsall, 0
-Swindon Town, 0
-
 Stockport County, 5
 Milton Keynes Dons, 0
-
-Mushuc Runa, 0
-Universidad Católica del Ecuador, 0
 
 Imbabura Sporting Club, 0
 Cumbayá FC, 0
@@ -298,9 +265,6 @@ MC El Bayadh, 5
 Boca Juniors, 3
 Central Norte de Salta, 0
 
-Club Atletico Colón, 0
-Gimnasia y Tiro de Salta, 0
-
 Defensores Unidos, 2
 Deportivo Morón, 0
 
@@ -316,26 +280,11 @@ Alvarado, 0
 Deportivo Madryn, 0
 Temperley, 1
 
-Güemes, 0
-Racing de Córdoba, 0
-
 San Telmo, 4
 Almagro, 1
 
-Atlético de Rafaela, 0
-Brown de Adrogué, 0
-
-Chaco For Ever, 0
-Defensores de Belgrano, 0
-
-Club Ferro Carril Oeste, 0
-All Boys, 0
-
 Deportivo Maipú, 1
 Tristán Suárez, 0
-
-Estudiantes de Río Cuarto, 0
-Mitre, 0
 
 Quilmes Atlético Club, 1
 Guillermo Brown, 0
@@ -424,9 +373,6 @@ Oldham Athletic, 0
 Eastleigh, 1
 Hartlepool United, 1
 
-FC Halifax Town, 0
-Ebbsfleet United, 0
-
 Rochdale, 1
 Maidenhead United, 0
 
@@ -508,9 +454,6 @@ Eintracht Frankfurt II, 3
 TSG Balingen, 2
 VfR Aalen, 2
 
-TSV Steinbach Haiger, 0
-TSG Hoffenheim II U23, 0
-
 TuS Koblenz, 0
 Bahlinger SC, 2
 
@@ -520,17 +463,11 @@ Türkgücü München, 1
 FV Illertissen, 3
 Memmingen, 1
 
-SV Viktoria Aschaffenburg, 0
-SpVgg Bayreuth, 0
-
 SV Wacker Burghausen, 2
 1. FC Schweinfurt 05, 0
 
 SpVgg Ansbach, 1
 SV Schalding-Heining, 2
-
-SpVgg Greuther Fürth II, 0
-FC Würzburger Kickers, 0
 
 TSV Aubstadt, 0
 DJK Vilzing, 2
@@ -543,9 +480,6 @@ CSD Zacapa, 0
 
 Xinabajul Huehue, 3
 Deportivo Guastatoya, 1
-
-CSD Xelajú MC, 0
-Deportivo Achuapa, 0
 
 Gokulam Kerala FC, 0
 Delhi FC, 2
@@ -658,26 +592,11 @@ Arna-Bjørnar, 0
 Lyn, 0
 Rosenborg Kvinner, 1
 
-SK Brann Kvinner, 0
-Vålerenga, 0
-
 Stabæk Fotball, 2
 Kolbotn, 0
 
 Røa, 1
 LSK Kvinner FK, 0
-
-Leningradets, 0
-Arsenal Tula, 0
-
-KAMAZ Naberezhnye Chelny, 0
-Enisey Krasnoyarsk, 0
-
-FC Tyumen, 0
-SKA-Khabarovsk, 0
-
-Sokol Saratov, 0
-Chernomorets Novorossijsk, 0
 
 Arbroath, 0
 Partick Thistle, 1
@@ -690,9 +609,6 @@ Inverness Caledonian Thistle, 1
 
 Greenock Morton, 0
 Dunfermline Athletic, 1
-
-Raith Rovers, 0
-Airdrieonians, 0
 
 Alloa Athletic, 0
 Queen of The South, 2
@@ -751,17 +667,8 @@ Chuncheon Citizen, 1
 LNZ Cherkasy, 1
 FC Minaj, 2
 
-Cerro Largo, 0
-Racing de Montevideo, 0
-
-Liverpool UY, 0
-River Plate UY, 0
-
 Rampla Juniors, 1
 Miramar Misiones, 1
-
-Miramar Misiones, 0
-Cerro, 0
 
 Nacional, 0
 Progreso, 0

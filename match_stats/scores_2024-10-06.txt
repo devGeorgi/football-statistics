@@ -7,18 +7,6 @@ Nottingham Forest, 1
 Brighton & Hove Albion, 3
 Tottenham Hotspur, 2
 
-Girona FC, 2
-Athletic Club, 1
-
-Deportivo Alavés, 0
-Barcelona, 3
-
-Sevilla, 1
-Real Betis, 0
-
-Real Sociedad, 1
-Atlético Madrid, 1
-
 Bologna, 0
 Parma, 0
 
@@ -30,6 +18,18 @@ Roma, 1
 
 Fiorentina, 2
 Milan, 1
+
+Girona FC, 2
+Athletic Club, 1
+
+Deportivo Alavés, 0
+Barcelona, 3
+
+Sevilla, 1
+Real Betis, 0
+
+Real Sociedad, 1
+Atlético Madrid, 1
 
 1. FC Heidenheim, 0
 RB Leipzig, 1
@@ -120,9 +120,6 @@ River Plate, 0
 
 Boca Juniors, 1
 Argentinos Juniors, 0
-
-Instituto De Córdoba, 0
-River Plate, 0
 
 Santos Laguna, 0
 FC Juárez, 2
@@ -535,12 +532,6 @@ Kickers Offenbach, 0
 1. FC Nürnberg II, 0
 SpVgg Greuther Fürth II, 2
 
-Bayern München II, 0
-1. FC Schweinfurt 05, 0
-
-DJK Vilzing, 0
-SpVgg Hankofen-Hailing, 0
-
 FC Augsburg II, 0
 TSV Aubstadt, 3
 
@@ -555,9 +546,6 @@ FV Illertissen, 0
 
 SpVgg Bayreuth, 3
 TSV Schwaben Augsburg, 2
-
-SV Viktoria Aschaffenburg, 0
-Eintracht Bamberg 2010, 0
 
 Asante Kotoko SC, 1
 Accra Lions FC, 0
@@ -588,12 +576,6 @@ AEK B, 2
 
 AO Egaleo, 1
 Kalamata FC, 1
-
-CSD Xelajú MC, 0
-Juventud Pinulteca FC, 0
-
-Deportivo Achuapa, 0
-Antigua GFC, 0
 
 ÍA Akranes, 4
 FH Hafnarfjörður, 1

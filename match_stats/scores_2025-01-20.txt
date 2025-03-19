@@ -1,11 +1,11 @@
 Chelsea, 3
 Wolverhampton, 1
 
-Villarreal, 4
-Mallorca, 0
-
 Como, 4
 Udinese, 1
+
+Villarreal, 4
+Mallorca, 0
 
 Boavista, 2
 Casa Pia, 3

@@ -190,6 +190,9 @@ Ukraine, 1
 Ireland, 1
 Wales, 2
 
+1. FC Köln II U23, 0
+Borussia Mönchengladbach II U23, 0
+
 FC 08 Villingen, 1
 SG Barockstadt Fulda-Lehnerz, 3
 
@@ -312,9 +315,6 @@ Kırklarelispor, 2
 
 İstanbulspor, 4
 Alanya 1221 FK, 1
-
-Barry Town, 0
-Cardiff Met FC, 0
 
 Briton Ferry Llansawel AFC, 2
 Newtown AFC, 1

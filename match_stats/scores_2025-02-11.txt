@@ -67,11 +67,11 @@ Adanaspor, 0
 Llaneros FC, 2
 Millonarios, 2
 
-Rionegro Águilas Doradas, 0
-América de Cali, 0
-
 Birmingham City, 4
 Cambridge United, 0
+
+Blackpool, 0
+Rotherham United, 0
 
 Bristol Rovers, 1
 Stockport County, 1
@@ -100,6 +100,9 @@ Accrington Stanley, 0
 Newport County, 1
 Carlisle United, 0
 
+Tranmere Rovers, 0
+Fleetwood Town, 0
+
 Walsall, 1
 Gillingham, 1
 
@@ -126,6 +129,9 @@ Bolton Wanderers, 0
 
 NK Bjelovar, 2
 GNK Dinamo Zagreb, 3
+
+SGS Essen, 0
+1. FC Köln, 0
 
 ASO Chlef, 2
 Paradou AC, 0
@@ -193,9 +199,6 @@ Antofagasta, 0
 Dagenham & Redbridge, 1
 Woking, 2
 
-Gateshead, 0
-Braintree Town, 0
-
 Hartlepool United, 2
 Tamworth, 2
 
@@ -207,9 +210,6 @@ FC Halifax Town, 1
 
 Aizawl FC, 0
 Inter Kashi FC, 3
-
-Shillong Lajong FC, 0
-Sreenidi Deccan FC, 0
 
 Rimini, 3
 Trapani, 0

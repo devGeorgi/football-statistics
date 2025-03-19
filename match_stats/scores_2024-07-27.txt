@@ -34,12 +34,6 @@ Newell's Old Boys, 1
 Rosario Central, 0
 Huracán, 1
 
-FK IMT Beograd, 0
-FK Radnički 1923, 0
-
-OFK Beograd, 0
-FK Tekstilac Odžaci, 0
-
 FK Crvena zvezda, 2
 FK Mladost Lučani, 2
 
@@ -150,9 +144,6 @@ Cienciano, 1
 
 Asociación Deportiva Tarma, 2
 Los Chankas CYC, 1
-
-FC Petrolul Ploieşti, 0
-FC Rapid București, 0
 
 ACSM Politehnica Iași, 1
 FC Gloria Buzău, 2

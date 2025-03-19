@@ -97,6 +97,9 @@ FC Torpedo Kutaisi, 3
 FC Gagra, 4
 FC Iberia 1999, 0
 
+FC Telavi, 0
+FC Samtredia, 0
+
 Eintracht Bamberg 2010, 5
 TSV Buchbach, 4
 

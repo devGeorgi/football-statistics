@@ -1,8 +1,8 @@
-Real Sociedad, 1
-Villarreal, 0
-
 Monza, 2
 Fiorentina, 1
+
+Real Sociedad, 1
+Villarreal, 0
 
 Göztepe, 5
 Kasımpaşa, 0

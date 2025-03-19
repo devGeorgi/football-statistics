@@ -157,9 +157,6 @@ Lyngby, 0
 El Dakhlya, 0
 El Gouna FC, 0
 
-Al Ahly FC, 0
-Al-Mokawloon, 0
-
 Pharco FC, 1
 Baladiyet El Mahallah, 0
 
@@ -220,21 +217,6 @@ Santiago Morning, 2
 LD Alajuelense, 1
 Herediano, 0
 
-Dinamo Batumi, 0
-FC Iberia 1999, 0
-
-FC Dila Gori, 0
-Dinamo Tbilisi, 0
-
-FC Gagra, 0
-FC Telavi, 0
-
-FC Kolkheti-1913 Poti, 0
-FC Torpedo Kutaisi, 0
-
-FC Samgurali Tskhaltubo, 0
-FC Samtredia, 0
-
 FC Telavi, 1
 FC Kolkheti-1913 Poti, 1
 
@@ -258,6 +240,9 @@ AS Makedonikos Neapolis, 1
 
 Chania F.C., 6
 GS Ilioupolis, 2
+
+Kalamata FC, 0
+Ionikos, 0
 
 Paksi FC, 2
 Ferencváros TC, 0

@@ -1,8 +1,8 @@
-Sevilla, 1
-Mallorca, 1
-
 Roma, 4
 Monza, 0
+
+Sevilla, 1
+Mallorca, 1
 
 FC Porto, 1
 Vitória SC, 1

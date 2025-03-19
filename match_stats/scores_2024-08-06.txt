@@ -91,9 +91,6 @@ Glenorchy Knights, 0
 Olympic FC, 1
 APIA Leichhardt Tigers, 0
 
-San Antonio Bulo-Bulo, 0
-Club Always Ready, 0
-
 Vasco da Gama, 1
 Atlético Goianiense, 0
 
@@ -111,6 +108,9 @@ Valur Reykjavík, 0
 
 CSM Reşiţa, 2
 FCU 1948 Craiova, 0
+
+Steaua București, 0
+FC Argeș Pitești, 0
 
 Rayo Zuliano, 0
 Deportivo Táchira, 1

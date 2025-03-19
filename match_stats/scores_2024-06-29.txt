@@ -163,9 +163,6 @@ Patronato, 0
 Gimnasia y Esgrima Mendoza, 1
 Chaco For Ever, 0
 
-Talleres Remedios de Escalada, 0
-Quilmes Atlético Club, 0
-
 Temperley, 1
 Brown de Adrogué, 0
 
@@ -274,9 +271,6 @@ Jerv, 1
 Arna-Bjørnar, 1
 LSK Kvinner FK, 1
 
-Avaldsnes, 0
-LSK Kvinner FK, 0
-
 Kolbotn, 1
 Stabæk Fotball, 1
 
@@ -376,9 +370,6 @@ Nam Định, 3
 Thể Công - Viettel, 0
 Sông Lam Nghệ An, 2
 
-SC Sopron, 6
-Gyirmót FC Győr II, 1
-
 Brøndby IF, 0
 Vejle, 2
 
@@ -429,9 +420,6 @@ FK Pohronie, 1
 
 FC Aarau, 3
 SC Kriens, 3
-
-SC Stadtwerke Bruck/Mur, 0
-DSV Leoben, 0
 
 CSKA Sofia, 2
 ACSM Politehnica Iași, 1

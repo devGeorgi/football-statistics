@@ -25,9 +25,6 @@ MGS Panserraikos, 2
 NK Istra 1961, 2
 NK Slaven Belupo, 3
 
-FK IMT Beograd, 0
-FK TSC Bačka Topola, 0
-
 Plymouth Argyle, 2
 Watford, 2
 
@@ -193,11 +190,11 @@ Port FC, 1
 Al-Sharjah, 3
 Al-Nasr Dubai, 0
 
+Shabab Al-Ahli Dubai, 0
+Al-Ittihad Kalba, 0
+
 Al-Wahda FC, 2
 Al Wasl, 2
-
-SV Zulte Waregem, 0
-RFC Seraing, 0
 
 Club NXT U23, 0
 KAS Eupen, 4
@@ -249,9 +246,6 @@ Independiente Petrolero, 1
 
 Igman Konjic, 0
 FK Željezničar, 2
-
-FK Radnik Bijeljina, 0
-HŠK Zrinjski Mostar, 0
 
 FK Spartak Varna, 4
 FK Hebar Pazardzhik, 0
@@ -306,9 +300,6 @@ SV Meppen, 1
 
 Berliner FC Dynamo, 3
 Hertha BSC II U23, 2
-
-Greifswalder FC, 0
-Viktoria Berlin, 0
 
 VFC Plauen, 0
 1. FC Lokomotive Leipzig, 1
@@ -427,9 +418,6 @@ CS Unirea Ungheni 2018, 2
 CSM Slatina, 1
 Concordia Chiajna, 2
 
-FCU 1948 Craiova, 0
-Viitorul Pandurii Târgu Jiu, 0
-
 FK Csíkszereda Miercurea Ciuc, 1
 CS Mioveni, 0
 
@@ -448,12 +436,6 @@ Falkirk FC, 1
 Young Lions, 0
 Albirex Niigata Singapore, 1
 
-NK Bravo, 0
-Kalcer Radomlje, 0
-
-Schaffhausen, 0
-FC Stade-Lausanne-Ouchy, 0
-
 Neuchâtel Xamax, 2
 FC Thun, 3
 
@@ -468,6 +450,3 @@ Kolos Kovalivka, 0
 
 Vorskla Poltava, 2
 LNZ Cherkasy, 0
-
-Newtown AFC, 0
-Connah's Quay Nomads, 0

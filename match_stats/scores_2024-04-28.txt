@@ -7,18 +7,6 @@ Arsenal, 3
 Nottingham Forest, 0
 Manchester City, 2
 
-Cádiz, 1
-Mallorca, 1
-
-Granada, 3
-Osasuna, 0
-
-Villarreal, 3
-Rayo Vallecano, 0
-
-Real Betis, 1
-Sevilla, 1
-
 Bologna, 1
 Udinese, 1
 
@@ -30,6 +18,18 @@ Roma, 2
 
 Fiorentina, 5
 Sassuolo, 1
+
+Cádiz, 1
+Mallorca, 1
+
+Granada, 3
+Osasuna, 0
+
+Villarreal, 3
+Rayo Vallecano, 0
+
+Real Betis, 1
+Sevilla, 1
 
 Borussia M'gladbach, 0
 1. FC Union Berlin, 0
@@ -442,12 +442,6 @@ Ferencváros TC, 2
 Dreams, 0
 Zamalek SC, 3
 
-RS Berkane, 0
-USM Alger, 0
-
-CS Constantine, 0
-USM Alger, 0
-
 MC Oran, 1
 CR Belouizdad, 0
 
@@ -550,9 +544,6 @@ Lokomotiv Sofia, 2
 Deportes Recoleta, 0
 Deportes Magallanes, 1
 
-Santiago Wanderers, 0
-San Luis de Quillota, 0
-
 Unión San Felipe, 1
 Rangers de Talca, 2
 
@@ -603,18 +594,6 @@ FF Jaro, 0
 
 KäPa, 3
 JäPS, 3
-
-FC Gagra, 0
-FC Kolkheti-1913 Poti, 0
-
-FC Samgurali Tskhaltubo, 0
-Dinamo Batumi, 0
-
-FC Samtredia, 0
-FC Iberia 1999, 0
-
-FC Telavi, 0
-FC Dila Gori, 0
 
 SC Freiburg II U23, 1
 SSV Ulm 1846, 2
@@ -894,6 +873,9 @@ Eskilsminne IF, 0
 
 FC Winterthur, 0
 Servette FC, 1
+
+Etoile Sportive Du Sahel, 0
+Club Africain, 0
 
 Avenir Sportif De La Marsa, 3
 US Tataouine, 1

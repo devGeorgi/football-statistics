@@ -55,27 +55,6 @@ Ansan Greeners FC, 0
 Al-Nasr Dubai, 1
 Ajman, 1
 
-Ajman, 0
-Al-Sharjah, 0
-
-Al-Ain, 0
-Al Bataeh, 0
-
-Al-Ittihad Kalba, 0
-Baniyas, 0
-
-Al-Wahda FC, 0
-Khor Fakkan, 0
-
-Al Wasl, 0
-Shabab Al-Ahli Dubai, 0
-
-Emirates Club, 0
-Al-Nasr Dubai, 0
-
-Hatta, 0
-Al-Jazira, 0
-
 Al-Ittihad Kalba, 2
 Al Wasl, 4
 
@@ -96,9 +75,6 @@ FC Minsk, 0
 
 SFK Slutsk, 2
 Neman Grodno, 0
-
-CD Real Santa Cruz, 0
-San José, 0
 
 Independiente Petrolero, 3
 Oriente Petrolero, 2
@@ -148,6 +124,9 @@ England U17, 4
 VfB Eichstätt, 4
 Eintracht Bamberg 2010, 5
 
+AO Giouchtas Archanon, 0
+GS Diagoras Rodou, 0
+
 Breidablik Kópavogur, 2
 Stjarnan Garðabær, 1
 
@@ -156,30 +135,6 @@ Fram Reykjavík, 1
 
 HK Kópavogur, 1
 Valur Reykjavík, 2
-
-Foolad Khuzestan, 0
-Zob Ahan, 0
-
-Gol Gohar Sirjan, 0
-Aluminium Arak, 0
-
-Malavan Bandar Anzali FC, 0
-Mes Rafsanjan FC, 0
-
-Nassaji Mazandaran FC, 0
-Esteghlal FC, 0
-
-Paykan, 0
-Tractor FC, 0
-
-Persepolis FC, 0
-Esteghlal Khuzestan, 0
-
-Sanat Naft Abadan, 0
-Shams Azar Qazvin, 0
-
-Sepahan S.C., 0
-Havadar Tehran, 0
 
 Hapoel Be'er Sheva, 1
 Maccabi Haifa, 4

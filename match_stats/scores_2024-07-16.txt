@@ -265,9 +265,6 @@ SC Krems, 6
 SV Todesfelde, 2
 TuS Dassendorf, 0
 
-Excelsior Maassluis, 0
-SC Telstar, 0
-
 Swansea University FC, 1
 Llanelli AFC, 2
 
@@ -312,9 +309,6 @@ Hampton & Richmond Borough, 2
 
 Macclesfield FC, 2
 Stalybridge Celtic, 1
-
-St Albans City, 0
-Leyton Orient, 0
 
 Swindon Supermarine, 1
 Hereford FC, 2

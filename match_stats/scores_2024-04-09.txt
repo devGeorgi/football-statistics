@@ -82,9 +82,6 @@ Exeter City, 2
 Stevenage, 2
 Barnsley, 1
 
-Barrow, 0
-Bradford City, 0
-
 Colchester United, 1
 Stockport County, 2
 
@@ -157,14 +154,8 @@ Beroe Stara Zagora, 0
 Barnet, 1
 Bromley, 1
 
-Gateshead, 0
-Aldershot Town, 0
-
 Maidenhead United, 3
 Hartlepool United, 1
-
-Rochdale, 0
-Boreham Wood, 0
 
 Solihull Moors, 3
 Ebbsfleet United, 0

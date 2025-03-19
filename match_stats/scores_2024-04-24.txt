@@ -199,9 +199,6 @@ Nea Salamina Famagusta, 4
 Viktoria Plzeň, 3
 FC Zlín, 0
 
-Altrincham, 0
-FC Halifax Town, 0
-
 Solihull Moors, 4
 FC Halifax Town, 2
 
@@ -223,21 +220,6 @@ JIPPO Joensuu, 1
 PK-35, 1
 TPS, 1
 
-Dinamo Batumi, 0
-FC Gagra, 0
-
-Dinamo Tbilisi, 0
-FC Telavi, 0
-
-FC Dila Gori, 0
-FC Samgurali Tskhaltubo, 0
-
-FC Iberia 1999, 0
-FC Torpedo Kutaisi, 0
-
-FC Kolkheti-1913 Poti, 0
-FC Samtredia, 0
-
 1. FC Saarbrücken, 1
 Rot-Weiss Essen, 1
 
@@ -249,9 +231,6 @@ SSV Jeddeloh, 0
 
 Bayern München II, 0
 TSV Buchbach, 0
-
-Dreams, 0
-Bechem United, 0
 
 Deportivo Achuapa, 0
 Deportivo Mixco, 2
@@ -270,9 +249,6 @@ Madura United FC, 2
 
 PS Barito Putera, 1
 Bhayangkara Presisi Indonesia FC, 5
-
-FK Panevėžys, 0
-Džiugas Telšiai, 0
 
 FK Transinvest, 1
 FC Hegelmann, 2

@@ -106,9 +106,6 @@ Panathinaikos, 2
 FK Spartak Subotica, 2
 FK Partizan, 1
 
-Al Ahly FC, 0
-CR Belouizdad, 0
-
 FC Bayern München, 4
 Juventus, 0
 
@@ -129,21 +126,6 @@ Odisha FC, 2
 
 Melbourne Victory, 1
 Wellington Phoenix, 1
-
-Jong KRC Genk U23, 0
-Patro Eisden Maasmechelen, 0
-
-KAS Eupen, 0
-KMSK Deinze, 0
-
-RFC Liège, 0
-KSC Lokeren-Temse, 0
-
-RSCA Futures U23, 0
-Royal Francs Borains, 0
-
-RWD Molenbeek, 0
-Club NXT U23, 0
 
 Indonesia, 3
 Laos, 3

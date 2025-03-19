@@ -133,9 +133,6 @@ Seattle Sounders FC, 1
 Tigres UANL, 3
 FC Cincinnati, 1
 
-Banfield, 0
-Villa Mitre, 0
-
 Atlanta, 1
 Colegiales, 0
 
@@ -169,9 +166,6 @@ Internacional de Palmira, 2
 FC Hlučín, 1
 FK Teplice, 2
 
-Ceramica Cleopatra, 0
-El Gouna FC, 0
-
 Forest Green Rovers, 2
 Sutton United, 1
 
@@ -201,6 +195,12 @@ SC Verl, 2
 
 VfB Stuttgart II U21, 1
 VfL Osnabrück, 2
+
+Berliner FC Dynamo, 0
+FSV Luckenwalde, 0
+
+SV Babelsberg 03, 0
+Chemnitzer FC, 0
 
 Bali United FC, 0
 PSBS Biak, 2
@@ -309,9 +309,6 @@ Polissya Zhytomyr, 1
 
 Karpaty Lviv, 0
 Shakhtar Donetsk, 0
-
-Penybont, 0
-Cardiff Met FC, 0
 
 The New Saints, 2
 Caernarfon Town, 0

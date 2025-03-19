@@ -55,9 +55,6 @@ MVV Maastricht, 0
 Huachipato, 1
 O'Higgins, 0
 
-Independiente Santa Fe, 0
-Boyacá Chicó FC, 0
-
 Once Caldas, 1
 Millonarios, 1
 
@@ -184,9 +181,6 @@ TSV Havelse, 2
 SV Drochtersen/Assel, 2
 Eintracht Norderstedt, 1
 
-1. FSV Mainz 05 II U23, 0
-1. Göppinger SV, 0
-
 Eintracht Trier, 0
 Kickers Offenbach, 3
 
@@ -210,9 +204,6 @@ Young Apostles FC, 0
 
 Medeama, 1
 Accra Lions FC, 0
-
-Deportivo Achuapa, 0
-Juventud Pinulteca FC, 0
 
 Deportivo Achuapa, 2
 CSD Zacapa, 2
@@ -240,9 +231,6 @@ Sestri Levante, 1
 
 SPAL, 2
 Lucchese, 3
-
-Torres, 0
-Milan Futuro, 0
 
 Sorrento, 2
 Team Altamura, 1

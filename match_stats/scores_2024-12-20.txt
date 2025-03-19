@@ -1,8 +1,8 @@
-Girona FC, 3
-Real Valladolid, 0
-
 Hellas Verona, 0
 Milan, 1
+
+Girona FC, 3
+Real Valladolid, 0
 
 FC Bayern München, 5
 RB Leipzig, 1
@@ -129,9 +129,6 @@ Melbourne Victory, 2
 
 Newcastle Jets, 1
 Brisbane Roar, 6
-
-Koninklijke Lierse Sportkring, 0
-Lommel SK, 0
 
 Club NXT U23, 0
 SV Zulte Waregem, 3

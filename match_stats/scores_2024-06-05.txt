@@ -25,6 +25,9 @@ Chad, 0
 Juventude, 1
 Atlético Goianiense, 0
 
+Cuiabá, 0
+Vitória, 0
+
 Richards Bay FC, 1
 University of Pretoria FC, 0
 
@@ -75,6 +78,9 @@ Portugal U17, 0
 
 TuS Bersenbrück, 2
 SC Weiche Flensburg 08, 2
+
+Accra Great Olympics, 0
+Dreams, 0
 
 L.R. Vicenza, 0
 Carrarese, 0

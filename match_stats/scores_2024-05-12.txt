@@ -1,18 +1,6 @@
 Manchester United, 0
 Arsenal, 1
 
-Cádiz, 1
-Getafe, 0
-
-Atlético Madrid, 1
-Celta Vigo, 0
-
-Valencia, 0
-Rayo Vallecano, 0
-
-Real Betis, 3
-Almería, 2
-
 Genoa, 2
 Sassuolo, 1
 
@@ -24,6 +12,18 @@ Salernitana, 1
 
 Atalanta, 2
 Roma, 1
+
+Cádiz, 1
+Getafe, 0
+
+Atlético Madrid, 1
+Celta Vigo, 0
+
+Valencia, 0
+Rayo Vallecano, 0
+
+Real Betis, 3
+Almería, 2
 
 Darmstadt 98, 0
 TSG Hoffenheim, 6
@@ -792,9 +792,6 @@ Metalist 1925, 0
 
 FC Kryvbas Kryvyi Rih, 0
 Polissya Zhytomyr, 1
-
-Cerro Largo, 0
-Liverpool UY, 0
 
 Liverpool UY, 2
 Cerro Largo, 1

@@ -1,15 +1,3 @@
-Leganés, 1
-Getafe, 0
-
-Barcelona, 4
-Real Sociedad, 0
-
-Mallorca, 1
-Deportivo Alavés, 1
-
-Osasuna, 3
-Valencia, 3
-
 Bologna, 2
 Cagliari, 1
 
@@ -21,6 +9,18 @@ Como, 1
 
 Milan, 1
 Lazio, 2
+
+Leganés, 1
+Getafe, 0
+
+Barcelona, 4
+Real Sociedad, 0
+
+Mallorca, 1
+Deportivo Alavés, 1
+
+Osasuna, 3
+Valencia, 3
 
 1. FC Union Berlin, 0
 Holstein Kiel, 1
@@ -259,9 +259,6 @@ Bengaluru FC, 1
 Ayacucho, 1
 Sport Huancayo, 1
 
-ADC Juan Pablo II, 0
-Melgar, 0
-
 Universitario, 4
 Alianza Universidad, 0
 
@@ -291,9 +288,6 @@ FC Luzern, 2
 
 AmaZulu FC, 2
 Cape Town City FC, 0
-
-Sekhukhune United, 0
-Royal AM, 0
 
 FC Spartak Moscow, 2
 Orenburg, 0
@@ -472,14 +466,8 @@ Sparta Praha B U21, 1
 Odense BK, 1
 Hobro, 1
 
-FC Dila Gori, 0
-Gareji, 0
-
 SV Waldhof Mannheim, 2
 Alemannia Aachen, 1
-
-SpVgg Unterhaching, 0
-F.C. Hansa Rostock, 0
 
 Arminia Bielefeld, 4
 VfB Stuttgart II U21, 1
@@ -516,33 +504,6 @@ Bahlinger SC, 0
 
 1. FC Nürnberg II, 1
 DJK Vilzing, 1
-
-Accra Lions FC, 0
-Asante Kotoko SC, 0
-
-Aduana Stars FC, 0
-Accra Hearts of Oak, 0
-
-Basake Holy Stars FC, 0
-Vision FC, 0
-
-Bechem United, 0
-Bibiani Gold Stars FC, 0
-
-Heart of Lions, 0
-Medeama, 0
-
-Legon Cities, 0
-Nsoatreman FC, 0
-
-Nations FC, 0
-Dreams, 0
-
-Samartex, 0
-Karela United, 0
-
-Young Apostles FC, 0
-Berekum Chelsea, 0
 
 AEK B, 0
 Chania F.C., 1
@@ -690,9 +651,6 @@ FC Tyumen, 1
 
 Balestier Khalsa, 1
 BG Pathum United, 2
-
-Geylang International, 0
-Lion City Sailors, 0
 
 NK Olimpija Ljubljana, 2
 NK Celje, 0

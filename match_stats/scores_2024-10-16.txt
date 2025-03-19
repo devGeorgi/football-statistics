@@ -67,6 +67,9 @@ Herediano, 2
 Eintracht Norderstedt, 0
 Hamburger SV II U23, 1
 
+Viktoria Berlin, 0
+FSV Zwickau, 0
+
 Dewa United FC, 2
 Persik Kediri, 3
 

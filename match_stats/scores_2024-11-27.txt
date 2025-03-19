@@ -100,6 +100,9 @@ Millwall, 0
 Derby County, 1
 Swansea City, 2
 
+CD Castellón, 0
+Racing de Ferrol, 0
+
 Levante UD, 4
 Málaga, 2
 
@@ -115,17 +118,11 @@ SK Sigma Olomouc, 2
 Mohammedan SC, 1
 Bengaluru FC, 2
 
-AmaZulu FC, 0
-Mamelodi Sundowns, 0
-
 Cape Town City FC, 1
 Polokwane City, 0
 
 Kaizer Chiefs, 2
 Richards Bay FC, 1
-
-Magesi FC, 0
-Stellenbosch, 0
 
 NK Dugopolje, 0
 NK Lokomotiva Zagreb, 1
@@ -159,9 +156,6 @@ Associação Black Bulls, 0
 
 Boca Juniors, 3
 Vélez Sarsfield, 4
-
-Ravshan, 0
-Mohun Bagan Super Giant, 0
 
 Tractor FC, 3
 Al-Wakrah, 3
@@ -208,6 +202,9 @@ FC Halifax Town, 1
 Yeovil Town, 1
 Barnet, 2
 
+FC Telavi, 0
+FC Samgurali Tskhaltubo, 0
+
 FC Iberia 1999, 1
 FC Kolkheti-1913 Poti, 1
 
@@ -222,6 +219,9 @@ Ethnikos Neou Keramidiou, 1
 
 Xinabajul Huehue, 2
 Deportivo Malacateco, 0
+
+Juventus Next Gen U23, 0
+Turris, 0
 
 Padova, 1
 Caldiero Terme, 2

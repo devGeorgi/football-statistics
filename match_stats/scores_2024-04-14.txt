@@ -7,6 +7,12 @@ Fulham, 2
 Arsenal, 0
 Aston Villa, 2
 
+Sassuolo, 3
+Milan, 3
+
+Inter, 2
+Cagliari, 2
+
 Las Palmas, 0
 Sevilla, 2
 
@@ -19,29 +25,14 @@ Villarreal, 1
 Real Sociedad, 2
 Almería, 2
 
-Sassuolo, 3
-Milan, 3
-
-Inter, 2
-Cagliari, 2
-
 Darmstadt 98, 0
 SC Freiburg, 1
 
 Bayer 04 Leverkusen, 5
 SV Werder Bremen, 0
 
-AS Monaco, 0
-Lille, 0
-
 Clermont Foot, 1
 Montpellier, 1
-
-Lorient, 0
-Paris Saint-Germain, 0
-
-Olympique de Marseille, 0
-Nice, 0
 
 Olympique Lyonnais, 4
 Stade Brestois, 3
@@ -109,9 +100,6 @@ RC Sporting Charleroi, 2
 Panathinaikos, 3
 PAS Lamia 1964, 1
 
-PAOK, 0
-Olympiacos FC, 0
-
 AEK Athens, 2
 Aris Thessaloniki, 0
 
@@ -124,14 +112,8 @@ Banfield, 2
 Central Córdoba, 0
 San Lorenzo, 0
 
-Atlas FC, 0
-Club León, 0
-
 Atlas FC, 2
 Atlético San Luis, 1
-
-Pumas UNAM, 0
-Atlético San Luis, 0
 
 Pumas UNAM, 1
 Club León, 0
@@ -346,9 +328,6 @@ Kansas City Current, 1
 Bay FC, 3
 Seattle Reign FC, 2
 
-Qatar SC, 0
-Al Shamal SC, 0
-
 Arsenal Women, 5
 Bristol City WFC, 0
 
@@ -484,15 +463,6 @@ Fremad Amager, 2
 Nõmme Kalju, 2
 Paide Linnameeskond, 1
 
-Dinamo Batumi, 0
-FC Samtredia, 0
-
-FC Gagra, 0
-Dinamo Tbilisi, 0
-
-FC Kolkheti-1913 Poti, 0
-FC Dila Gori, 0
-
 Arminia Bielefeld, 1
 Rot-Weiss Essen, 1
 
@@ -565,9 +535,6 @@ HK Kópavogur, 0
 Fylkir Reykjavík, 0
 Valur Reykjavík, 0
 
-Madura United FC, 0
-PSM Makassar, 0
-
 PSS Sleman, 4
 Arema FC, 1
 
@@ -633,9 +600,6 @@ FK Liepaja, 1
 
 FK Panevėžys, 1
 FK Žalgiris, 2
-
-Dainava Alytus, 0
-FK Kauno Žalgiris, 0
 
 FK Kauno Žalgiris, 1
 Dainava Alytus, 0

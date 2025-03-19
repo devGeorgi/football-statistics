@@ -148,9 +148,6 @@ SC Krems, 3
 SC Neusiedl 1919, 1
 FCM Traiskirchen, 0
 
-TWL Elektra, 0
-Young Violets Austria Wien, 0
-
 Deportes Limache, 0
 Deportes Santa Cruz, 1
 
@@ -231,9 +228,6 @@ Kickers Emden, 1
 
 SC Weiche Flensburg 08, 5
 SV Todesfelde, 0
-
-1. FC Köln II U23, 0
-Borussia Mönchengladbach II U23, 0
 
 FC Schalke 04 II U23, 1
 FC Gütersloh, 1

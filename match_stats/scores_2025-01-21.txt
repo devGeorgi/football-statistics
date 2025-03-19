@@ -97,9 +97,6 @@ Al-Taawoun, 0
 Al-Hilal, 4
 Al-Wehda, 1
 
-AmaZulu FC, 0
-Stellenbosch, 0
-
 Leyton Orient, 0
 Stevenage, 1
 
@@ -117,9 +114,6 @@ JS Kabylie, 1
 
 CSA, 2
 Confiança, 1
-
-Santos de Guápiles, 0
-Herediano, 0
 
 Omonia Aradippou, 1
 ALS Omonia, 0

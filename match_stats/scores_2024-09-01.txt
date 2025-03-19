@@ -4,6 +4,18 @@ Crystal Palace, 1
 Newcastle United, 2
 Tottenham Hotspur, 1
 
+Fiorentina, 2
+Monza, 2
+
+Genoa, 0
+Hellas Verona, 2
+
+Juventus, 0
+Roma, 0
+
+Udinese, 1
+Como, 0
+
 Deportivo Alavés, 2
 Las Palmas, 0
 
@@ -18,18 +30,6 @@ Real Sociedad, 0
 
 Real Madrid, 2
 Real Betis, 0
-
-Fiorentina, 2
-Monza, 2
-
-Genoa, 0
-Hellas Verona, 2
-
-Juventus, 0
-Roma, 0
-
-Udinese, 1
-Como, 0
 
 1. FC Heidenheim, 4
 FC Augsburg, 0
@@ -60,9 +60,6 @@ Sporting Braga, 0
 
 Vitória SC, 2
 Famalicão, 1
-
-Feyenoord, 0
-AFC Ajax, 0
 
 PEC Zwolle, 3
 Heracles Almelo, 0
@@ -220,9 +217,6 @@ Wolfsberger AC, 5
 SK Rapid Wien, 3
 Red Bull Salzburg, 2
 
-Hapoel Be'er Sheva, 0
-Bnei Sakhnin, 0
-
 Maccabi Petach Tikva, 0
 Maccabi Tel Aviv, 3
 
@@ -237,15 +231,6 @@ Audax Italiano, 1
 
 Atlético Bucaramanga, 0
 Deportes Tolima, 2
-
-Deportivo La Equidad, 0
-América de Cali, 0
-
-Envigado FC, 0
-Rionegro Águilas Doradas, 0
-
-Independiente Medellín, 0
-Alianza Valledupar FC, 0
 
 Millonarios, 3
 Patriotas Boyacá, 0
@@ -457,9 +442,6 @@ SFK Slutsk, 0
 Dnepr Mogilev, 1
 BATE Borisov, 1
 
-Torpedo-BelAZ Zhodino, 0
-Dinamo Minsk, 0
-
 CD Real Santa Cruz, 1
 Royal Pari Sion, 1
 
@@ -589,9 +571,6 @@ FC Augsburg II, 1
 Antigua GFC, 3
 CSD Zacapa, 0
 
-Antigua GFC, 0
-Juventud Pinulteca FC, 0
-
 Comunicaciones FC, 1
 Xinabajul Huehue, 2
 
@@ -675,9 +654,6 @@ Tepatitlán FC, 0
 
 FC Floreşti, 0
 FC Bălți, 4
-
-CSF Spartanii Selemet, 0
-FC Petrocub Hîncesti, 0
 
 FC Petrocub Hîncesti, 2
 CSF Spartanii Selemet, 2
@@ -804,15 +780,6 @@ LNZ Cherkasy, 0
 
 FC Kryvbas Kryvyi Rih, 0
 Shakhtar Donetsk, 1
-
-Progreso, 0
-Cerro, 0
-
-Cerro Largo, 0
-Miramar Misiones, 0
-
-Peñarol, 0
-Rampla Juniors, 0
 
 Asante Kotoko SC, 2
 Vision FC, 1

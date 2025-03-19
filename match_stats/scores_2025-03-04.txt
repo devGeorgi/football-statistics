@@ -244,6 +244,9 @@ Wealdstone, 1
 York City, 1
 Altrincham, 2
 
+VSG Altglienicke, 0
+FSV Luckenwalde, 0
+
 Viktoria Berlin, 0
 FC Eilenburg, 3
 

@@ -16,18 +16,6 @@ Manchester City, 1
 Liverpool, 2
 Aston Villa, 0
 
-Real Madrid, 4
-Osasuna, 0
-
-Villarreal, 3
-Deportivo Alavés, 0
-
-Espanyol, 0
-Valencia, 0
-
-Leganés, 1
-Sevilla, 0
-
 Venezia, 1
 Parma, 2
 
@@ -39,6 +27,15 @@ Torino, 0
 
 Atalanta, 2
 Udinese, 1
+
+Real Madrid, 4
+Osasuna, 0
+
+Villarreal, 3
+Deportivo Alavés, 0
+
+Leganés, 1
+Sevilla, 0
 
 1. FSV Mainz 05, 3
 Borussia Dortmund, 1
@@ -343,9 +340,6 @@ Dukla Praha, 0
 FK Pardubice, 2
 FK Jablonec, 0
 
-SK Sigma Olomouc, 0
-1. FC Slovácko, 0
-
 Cracovia, 3
 GKS Katowice, 4
 
@@ -541,15 +535,6 @@ Uthai Thani FC, 1
 Rayong FC, 1
 Buriram United, 1
 
-Al-Jazira, 0
-Ajman, 0
-
-Dibba Al-Hisn, 0
-Baniyas, 0
-
-Al-Wahda FC, 0
-Al Wasl, 0
-
 Jong KRC Genk U23, 1
 Club NXT U23, 2
 
@@ -672,9 +657,6 @@ Torpedo-BelAZ Zhodino, 1
 
 FK Sarajevo, 2
 FK Sloga Doboj, 0
-
-FK Sloboda Tuzla, 0
-FK Borac Banja Luka, 0
 
 Beroe Stara Zagora, 0
 Cherno More Varna, 1
@@ -1158,6 +1140,9 @@ Benfica U23, 1
 
 CSM Slatina, 1
 FCU 1948 Craiova, 2
+
+Alania Vladikavkaz, 0
+Arsenal Tula, 0
 
 KAMAZ Naberezhnye Chelny, 3
 Sokol Saratov, 1

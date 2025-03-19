@@ -49,9 +49,6 @@ Deportivo Pereira, 1
 Hyderabad FC, 0
 Mumbai City FC, 0
 
-Lamontville Golden Arrows, 0
-Orlando Pirates, 0
-
 Marumo Gallants FC, 1
 Mamelodi Sundowns, 3
 
@@ -70,8 +67,14 @@ Inter Miami CF, 1
 FC Motagua, 1
 FC Cincinnati, 4
 
+Olympique Akbou, 0
+JS Kabylie, 0
+
 MC Oran, 1
 ES Mostaganem, 0
+
+US Biskra, 0
+MC El Bayadh, 0
 
 Defensa y Justicia, 3
 Racing de Córdoba, 1
@@ -109,9 +112,6 @@ CSA, 2
 São Raimundo-RR, 2
 Grêmio, 5
 
-CSE, 0
-Tombense, 0
-
 Capital CF, 5
 Portuguesa-RJ, 3
 
@@ -144,9 +144,6 @@ Moto Club, 0
 
 Fortaleza, 1
 Vitória, 2
-
-Bahia, 0
-Ceará, 0
 
 Braintree Town, 1
 Wealdstone, 2

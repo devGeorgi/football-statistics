@@ -196,9 +196,6 @@ Orlando Pirates, 2
 Accrington Stanley, 2
 Everton U21, 1
 
-Barrow, 0
-Aston Villa U21, 0
-
 Barnsley, 1
 Doncaster Rovers, 3
 
@@ -265,9 +262,6 @@ TSV Hartberg, 3
 Floridsdorfer AC, 0
 FC Liefering, 1
 
-Al-Shabab Manama, 0
-Al Najma Manama, 0
-
 Dinamo Minsk, 2
 FK Arsenal Dzerzhinsk, 0
 
@@ -291,6 +285,9 @@ Cherno More Varna, 4
 
 FC Oborishte Panagyurishte, 0
 FK Krumovgrad, 1
+
+Colo Colo, 0
+Deportes Magallanes, 0
 
 Ñublense, 5
 Deportes Puerto Montt, 3
@@ -429,9 +426,6 @@ Queen's Park FC, 1
 
 Raith Rovers, 1
 Airdrieonians, 0
-
-Lion City Sailors, 0
-Young Lions, 0
 
 Fatih Karagümrük, 1
 Tokat Belediye Plevne Spor, 0

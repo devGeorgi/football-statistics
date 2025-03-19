@@ -4,9 +4,6 @@ Arsenal, 0
 Manchester City, 4
 Real Madrid, 5
 
-Cuiabá, 0
-Vitória, 0
-
 Grêmio, 2
 Athletico, 0
 
@@ -28,6 +25,9 @@ Internacional, 1
 Flamengo, 2
 São Paulo, 1
 
+Dundee FC, 0
+Rangers, 0
+
 Al-Ain, 4
 Al-Hilal, 2
 
@@ -36,9 +36,6 @@ Deportivo Riestra, 1
 
 GNK Dinamo Zagreb, 2
 NK Varaždin, 1
-
-Angers, 0
-USL Dunkerque, 0
 
 Palestino, 2
 Huachipato, 0
@@ -90,9 +87,6 @@ Al-Sadd, 9
 
 Qatar SC, 0
 Al-Rayyan, 3
-
-Baniyas, 0
-Al-Sharjah, 0
 
 Al-Nasr Dubai, 3
 Shabab Al-Ahli Dubai, 2
@@ -204,9 +198,6 @@ CSD Municipal, 0
 
 Persija Jakarta, 1
 Persis Solo, 0
-
-Persis Solo, 0
-Persikabo 1973, 0
 
 RANS Nusantara FC, 1
 PS Barito Putera, 1

@@ -1,8 +1,8 @@
-Girona FC, 7
-Granada, 0
-
 Genoa, 2
 Bologna, 0
+
+Girona FC, 7
+Granada, 0
 
 Saint-Étienne, 2
 Rodez AF, 0
@@ -96,9 +96,6 @@ Avispa Fukuoka, 2
 
 Kawasaki Frontale, 1
 Kashiwa Reysol, 1
-
-Yokohama F. Marinos, 0
-Sagan Tosu, 0
 
 Bodø/Glimt, 2
 KFUM Oslo, 2
@@ -264,6 +261,12 @@ Aluminium Arak, 3
 
 Malavan Bandar Anzali FC, 0
 Mes Rafsanjan FC, 1
+
+Nassaji Mazandaran FC, 0
+Esteghlal FC, 0
+
+Paykan, 0
+Tractor FC, 0
 
 Persepolis FC, 4
 Esteghlal Khuzestan, 3

@@ -31,9 +31,6 @@ Nepal, 0
 Talleres Remedios de Escalada, 2
 Atlético de Rafaela, 1
 
-Botev Plovdiv, 0
-Ludogorets, 0
-
 FC Fratria Varna, 5
 Beroe Stara Zagora, 7
 
@@ -63,6 +60,9 @@ Miramar Misiones, 0
 
 Fénix, 0
 Nacional, 6
+
+Cerro Largo, 0
+Liverpool UY, 0
 
 Defensor Sporting, 3
 Progreso, 0

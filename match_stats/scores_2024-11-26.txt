@@ -184,9 +184,6 @@ Punjab FC, 3
 Chippa United, 0
 Supersport United, 0
 
-Marumo Gallants FC, 0
-Orlando Pirates, 0
-
 Sekhukhune United, 1
 TS Galaxy, 3
 
@@ -258,9 +255,6 @@ Boston United, 0
 
 Sutton United, 1
 Solihull Moors, 0
-
-Wealdstone, 0
-Tamworth, 0
 
 Woking, 0
 Southend United, 0

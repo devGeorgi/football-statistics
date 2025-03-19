@@ -10,6 +10,15 @@ Nottingham Forest, 3
 Manchester City, 5
 Wolverhampton, 1
 
+Monza, 2
+Lazio, 2
+
+Sassuolo, 1
+Inter, 0
+
+Cagliari, 1
+Lecce, 1
+
 Real Sociedad, 2
 Las Palmas, 0
 
@@ -21,15 +30,6 @@ Barcelona, 2
 
 Mallorca, 0
 Atlético Madrid, 1
-
-Monza, 2
-Lazio, 2
-
-Sassuolo, 1
-Inter, 0
-
-Cagliari, 1
-Lecce, 1
 
 Borussia Dortmund, 5
 FC Augsburg, 1
@@ -69,9 +69,6 @@ Portimonense, 0
 
 Chaves, 0
 FC Porto, 3
-
-Excelsior, 0
-NEC Nijmegen, 0
 
 Heracles Almelo, 0
 RKC Waalwijk, 5
@@ -469,9 +466,6 @@ Deportivo Morón, 0
 San Martín de San Juan, 1
 Guillermo Brown, 0
 
-Talleres Remedios de Escalada, 0
-Racing de Córdoba, 0
-
 Aldosivi, 1
 Temperley, 1
 
@@ -513,12 +507,6 @@ GOŠK Gabela, 1
 
 Confiança, 0
 Tombense, 2
-
-Náutico, 0
-Ypiranga FC, 0
-
-EC São José, 0
-Volta Redonda, 0
 
 Floresta, 1
 Ferroviária, 4
@@ -694,9 +682,6 @@ FC Augsburg II, 1
 Eintracht Bamberg 2010, 2
 Memmingen, 3
 
-Berekum Chelsea, 0
-Accra Hearts of Oak, 0
-
 Karela United, 1
 Nations FC, 0
 
@@ -717,9 +702,6 @@ Hapoel Tel Aviv, 1
 
 Hapoel Petach Tikva, 1
 Hapoel Jerusalem, 0
-
-Aksu, 0
-FC Ordabasy, 0
 
 FK Aktobe, 1
 Astana, 1

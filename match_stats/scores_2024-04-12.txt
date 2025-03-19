@@ -1,11 +1,11 @@
 Newcastle United, 4
 Tottenham Hotspur, 0
 
-Real Betis, 2
-Celta Vigo, 1
-
 Lazio, 4
 Salernitana, 1
+
+Real Betis, 2
+Celta Vigo, 1
 
 FC Augsburg, 2
 1. FC Union Berlin, 0
@@ -426,9 +426,6 @@ Eintracht Bamberg 2010, 1
 
 Stjarnan Garðabær, 1
 KR Reykjavík, 3
-
-Aizawl FC, 0
-Neroca FC, 0
 
 Real Kashmir, 1
 Namdhari Football Club, 4

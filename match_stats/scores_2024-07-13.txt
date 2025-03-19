@@ -67,9 +67,6 @@ Sporting Kansas City, 2
 Novorizontino, 1
 Guarani, 1
 
-Operário-PR, 0
-Goiás, 0
-
 Sport Recife, 1
 América Mineiro, 1
 
@@ -361,9 +358,6 @@ Zhetysu Taldykorgan, 0
 FC Kaysar, 2
 Yelimay Semey, 1
 
-FC Ordabasy, 0
-FC Turan, 0
-
 Sabah FC, 1
 Johor Darul Ta'zim, 3
 
@@ -618,9 +612,6 @@ Olimpia Grudziądz, 2
 
 VfB Lübeck, 2
 Hamburger SV, 5
-
-GNK Dinamo Zagreb, 0
-Beşiktaş, 0
 
 SC Rheindorf Altach, 1
 Grasshopper Club Zürich, 0

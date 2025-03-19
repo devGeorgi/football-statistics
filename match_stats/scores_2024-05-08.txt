@@ -70,9 +70,6 @@ Richards Bay FC, 0
 Stellenbosch, 0
 AmaZulu FC, 0
 
-One Knoxville SC, 0
-Forward Madison FC, 0
-
 Houston Dash, 0
 NJ/NY Gotham FC, 1
 
@@ -139,21 +136,6 @@ Toronto FC, 3
 San Luis de Quillota, 2
 Universidad de Concepción, 0
 
-Puntarenas FC, 0
-CS Cartaginés, 0
-
-Deportivo Saprissa, 0
-Santos de Guápiles, 0
-
-LD Alajuelense, 0
-AD Guanacasteca, 0
-
-Municipal Grecia, 0
-San Carlos, 0
-
-Sporting FC, 0
-Herediano, 0
-
 AD Guanacasteca, 4
 Municipal Pérez Zeledón, 0
 
@@ -208,9 +190,6 @@ PAOK B, 1
 Iraklis 1908, 0
 AS Anagennisi Karditsas 1904, 0
 
-APO Levadiakos, 0
-AE Larisa, 0
-
 AO Egaleo, 1
 Olympiacos B, 1
 
@@ -243,6 +222,9 @@ Viking FK, 2
 
 Alania Vladikavkaz, 1
 Rodina Moscow, 2
+
+Sokol Saratov, 0
+Chernomorets Novorossijsk, 0
 
 KAMAZ Naberezhnye Chelny, 1
 Enisey Krasnoyarsk, 1

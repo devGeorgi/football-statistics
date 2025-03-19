@@ -1,9 +1,6 @@
 Pisa, 3
 Sassuolo, 1
 
-Al-Ittihad Alexandria, 0
-Modern Sport FC, 0
-
 Ismaily, 2
 Haras El Hedoud, 2
 
@@ -15,9 +12,6 @@ Saudi Arabia, 3
 
 Bahrain, 2
 Iraq, 0
-
-Accra Lions FC, 0
-Accra Hearts of Oak, 0
 
 SC Chabab Mohammédia, 0
 RS Berkane, 2

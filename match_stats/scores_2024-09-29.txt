@@ -4,18 +4,6 @@ Aston Villa, 2
 Manchester United, 0
 Tottenham Hotspur, 3
 
-Celta Vigo, 1
-Girona FC, 1
-
-Athletic Club, 1
-Sevilla, 1
-
-Real Betis, 1
-Espanyol, 0
-
-Atlético Madrid, 1
-Real Madrid, 1
-
 Como, 3
 Hellas Verona, 2
 
@@ -27,6 +15,18 @@ Fiorentina, 0
 
 Napoli, 2
 Monza, 0
+
+Celta Vigo, 1
+Girona FC, 1
+
+Athletic Club, 1
+Sevilla, 1
+
+Real Betis, 1
+Espanyol, 0
+
+Atlético Madrid, 1
+Real Madrid, 1
 
 Holstein Kiel, 2
 Eintracht Frankfurt, 4
@@ -123,12 +123,6 @@ Panathinaikos, 0
 
 Central Córdoba, 2
 Barracas Central, 1
-
-Rosario Central, 0
-Vélez Sarsfield, 0
-
-Tigre, 0
-CA Independiente, 0
 
 River Plate, 0
 Talleres, 1
@@ -397,9 +391,6 @@ Bucheon FC 1995, 1
 Seoul E-Land FC, 0
 Gimpo FC, 2
 
-Port FC, 0
-Nakhon Pathom United, 0
-
 Uthai Thani FC, 3
 Chiangrai United, 0
 
@@ -495,12 +486,6 @@ Dnepr Mogilev, 2
 
 Neman Grodno, 1
 Slavia Mozyr, 0
-
-CD Real Tomayapo, 0
-Bolívar, 0
-
-The Strongest, 0
-Jorge Wilstermann, 0
 
 Club Aurora, 2
 Guabirá, 1
@@ -637,14 +622,8 @@ Asteras B Aktor, 0
 AO Egaleo, 0
 AE Kifisia, 0
 
-Antigua GFC, 0
-Deportivo Mixco, 0
-
 Deportivo Guastatoya, 1
 Deportivo Achuapa, 1
-
-Juventud Pinulteca FC, 0
-Deportivo Malacateco, 0
 
 Xinabajul Huehue, 3
 CD Marquense, 0
@@ -720,9 +699,6 @@ Astana, 1
 
 Riga FC, 1
 FK Liepaja, 0
-
-Terengganu, 0
-PDRM FC, 0
 
 Mosta FC, 0
 Birkirkara FC, 1

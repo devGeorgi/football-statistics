@@ -172,9 +172,6 @@ Carabobo, 4
 Angostura FC, 1
 Estudiantes de Mérida, 1
 
-Willem II Tilburg, 0
-Roda JC Kerkrade, 0
-
 Cardiff City, 1
 Mamelodi Sundowns, 1
 
@@ -297,9 +294,6 @@ FC Helsingør, 2
 
 Kashima Antlers, 1
 Brighton & Hove Albion, 5
-
-NK Slaven Belupo, 0
-FC St. Pauli, 0
 
 Cerezo Osaka, 2
 Borussia Dortmund, 3

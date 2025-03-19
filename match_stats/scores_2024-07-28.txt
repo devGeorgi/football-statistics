@@ -37,9 +37,6 @@ Sarmiento, 0
 Instituto De Córdoba, 0
 Boca Juniors, 0
 
-FK Vojvodina, 0
-FK Novi Pazar, 0
-
 FK Radnički Niš, 1
 FK TSC Bačka Topola, 0
 
@@ -70,14 +67,8 @@ Universidad de Chile, 0
 Unión La Calera, 2
 Huachipato, 1
 
-América de Cali, 0
-Deportes Tolima, 0
-
 Atlético Bucaramanga, 0
 Jaguares de Córdoba, 0
-
-Boyacá Chicó FC, 0
-Envigado FC, 0
 
 Alianza Valledupar FC, 2
 Millonarios, 1
@@ -307,9 +298,6 @@ KuPS, 2
 VPS, 2
 IFK Mariehamn, 1
 
-1.FC Phönix Lübeck, 0
-Kickers Emden, 0
-
 Eintracht Norderstedt, 2
 VfB Oldenburg, 0
 
@@ -334,20 +322,11 @@ Stjarnan Garðabær, 3
 Fram Reykjavík, 4
 Valur Reykjavík, 1
 
-Valur Reykjavík, 0
-Breidablik Kópavogur, 0
-
 Víkingur Reykjavík, 5
 HK Kópavogur, 1
 
 Zhetysu Taldykorgan, 1
 FC Ordabasy, 1
-
-FC Kaysar, 0
-Astana, 0
-
-FC Turan, 0
-FC Tobol, 0
 
 FK Aktobe, 2
 FC Kyzylzhar, 0
@@ -360,9 +339,6 @@ BFC Daugava Daugavpils, 0
 
 FK Sūduva Marijampolė, 0
 Šiauliai FA, 0
-
-Celaya FC, 0
-Atlante FC, 0
 
 Alta IF, 3
 Follo, 1
@@ -387,9 +363,6 @@ Neftekhimik Nizhnekamsk, 0
 
 Motherwell, 1
 Partick Thistle, 3
-
-NK Celje, 0
-NK Maribor, 0
 
 FC Koper, 0
 NK Olimpija Ljubljana, 1

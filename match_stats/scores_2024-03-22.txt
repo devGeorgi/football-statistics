@@ -154,9 +154,6 @@ Avranches, 0
 FC Rouen, 0
 Le Mans, 1
 
-FC Versailles 78, 0
-Chamois Niortais, 0
-
 GOAL FC, 1
 FC Villefranche Beaujolais, 0
 
@@ -214,9 +211,6 @@ Gubbio, 1
 Club Atletico La Paz, 2
 Alebrijes de Oaxaca, 1
 
-Torpedo Moscow, 0
-PFC Kuban Krasnodar, 0
-
 Seoul Gwanak Byeoksan Players FC, 1
 Gimpo FC, 3
 
@@ -243,9 +237,6 @@ Gimhae City FC, 5
 
 Gyeongju KHNP, 0
 Ansan Greeners FC, 1
-
-Montevideo Wanderers, 0
-Boston River, 0
 
 Universidad Central, 1
 Portuguesa FC, 0

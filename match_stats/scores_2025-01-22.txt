@@ -160,9 +160,6 @@ Ceará, 0
 Municipal Liberia, 4
 Municipal Santa Ana, 0
 
-Deportivo Saprissa, 0
-Puntarenas FC, 0
-
 Mladá Boleslav B, 0
 FK Varnsdorf, 5
 
@@ -204,6 +201,9 @@ Inter U20, 4
 
 Libertad, 2
 Olimpia, 1
+
+SC Lusitânia, 0
+Oliveira Hospital, 0
 
 CA Bizertin, 1
 CS Sfaxien, 1

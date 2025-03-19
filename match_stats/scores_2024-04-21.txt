@@ -10,6 +10,15 @@ West Ham United, 2
 Fulham, 1
 Liverpool, 3
 
+Torino, 0
+Frosinone, 0
+
+Salernitana, 0
+Fiorentina, 2
+
+Monza, 1
+Atalanta, 2
+
 Getafe, 1
 Real Sociedad, 1
 
@@ -21,15 +30,6 @@ Atlético Madrid, 0
 
 Real Madrid, 3
 Barcelona, 2
-
-Torino, 0
-Frosinone, 0
-
-Salernitana, 0
-Fiorentina, 2
-
-Monza, 1
-Atalanta, 2
 
 SV Werder Bremen, 2
 VfB Stuttgart, 1
@@ -556,9 +556,6 @@ Deportivo Achuapa, 3
 Xinabajul Huehue, 2
 Antigua GFC, 0
 
-IF Vestri, 0
-KA Akureyri, 0
-
 KA Akureyri, 0
 IF Vestri, 1
 
@@ -573,9 +570,6 @@ Arema FC, 2
 
 PS Barito Putera, 2
 Persija Jakarta, 2
-
-RANS Nusantara FC, 0
-Persija Jakarta, 0
 
 Persis Solo, 2
 Persikabo 1973, 1

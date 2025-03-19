@@ -67,12 +67,6 @@ Khor Fakkan, 3
 Al-Orooba, 2
 Al-Ain, 4
 
-JS Kabylie, 0
-MC El Bayadh, 0
-
-Paradou AC, 0
-US Biskra, 0
-
 CS Constantine, 1
 USM Alger, 0
 
@@ -84,9 +78,6 @@ Bolívar, 2
 
 The Strongest, 2
 Jorge Wilstermann, 1
-
-Municipal Liberia, 0
-Herediano, 0
 
 Sreenidi Deccan FC, 2
 Gokulam Kerala FC, 3

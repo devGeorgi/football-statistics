@@ -103,6 +103,9 @@ FC Tyumen, 1
 Al-Ittihad, 1
 Al-Hilal, 2
 
+Skövde AIK, 0
+IK Oddevold, 0
+
 Chornomorets Odesa, 1
 Shakhtar Donetsk, 4
 

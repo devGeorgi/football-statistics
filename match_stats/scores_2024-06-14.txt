@@ -130,9 +130,6 @@ Torpedo-BelAZ Zhodino, 1
 Barretos U23, 1
 Comercial-SP, 1
 
-San Luis de Quillota, 0
-Everton de Viña del Mar, 0
-
 Dalian Yingbo FC, 0
 Yunnan Yukun, 3
 
@@ -195,9 +192,6 @@ Grorud, 2
 
 Arna-Bjørnar, 0
 Røa, 1
-
-Avaldsnes, 0
-Røa, 0
 
 Kolbotn, 1
 Åsane, 0

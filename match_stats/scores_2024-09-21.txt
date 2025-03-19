@@ -19,18 +19,6 @@ Brentford, 1
 Crystal Palace, 0
 Manchester United, 0
 
-Real Valladolid, 0
-Real Sociedad, 0
-
-Osasuna, 2
-Las Palmas, 1
-
-Valencia, 2
-Girona FC, 0
-
-Real Madrid, 4
-Espanyol, 1
-
 Venezia, 2
 Genoa, 0
 
@@ -42,6 +30,18 @@ Parma, 2
 
 Fiorentina, 2
 Lazio, 1
+
+Real Valladolid, 0
+Real Sociedad, 0
+
+Osasuna, 2
+Las Palmas, 1
+
+Valencia, 2
+Girona FC, 0
+
+Real Madrid, 4
+Espanyol, 1
 
 1. FC Heidenheim, 0
 SC Freiburg, 3
@@ -432,9 +432,6 @@ Tranmere Rovers, 0
 
 Crewe Alexandra, 3
 Harrogate Town, 0
-
-Fleetwood Town, 0
-Morecambe, 0
 
 Grimsby Town, 1
 Bromley, 0
@@ -832,9 +829,6 @@ Foshan Nanshi, 1
 Unión Magdalena, 1
 Internacional de Palmira, 0
 
-Municipal Liberia, 0
-Deportivo Saprissa, 0
-
 Herediano, 2
 Municipal Santa Ana, 1
 
@@ -903,15 +897,6 @@ Tallinna Kalev, 1
 
 Inter Turku, 1
 KuPS, 2
-
-FC Iberia 1999, 0
-FC Gagra, 0
-
-FC Samtredia, 0
-FC Telavi, 0
-
-FC Torpedo Kutaisi, 0
-FC Samgurali Tskhaltubo, 0
 
 Energie Cottbus, 4
 VfB Stuttgart II U21, 0
@@ -1135,9 +1120,6 @@ FK Transinvest, 2
 Perak FC, 1
 Kuala Lumpur City FC, 0
 
-Terengganu, 0
-Selangor Football Club, 0
-
 Penang, 2
 Negeri Sembilan, 2
 
@@ -1149,9 +1131,6 @@ Balzan F.C., 1
 
 Tlaxcala FC, 2
 CD Tapatío, 3
-
-Dorados de Sinaloa, 0
-Cancún FC, 0
 
 Dacia Buiucani, 2
 FC Floreşti, 0
@@ -1179,9 +1158,6 @@ Carrick Rangers, 0
 
 Kongsvinger, 1
 Aalesunds FK, 5
-
-Lyn FK, 0
-Egersund, 0
 
 Bryne FK, 1
 Vålerenga IF, 1
@@ -1228,9 +1204,6 @@ LSK Kvinner FK, 5
 SK Brann Kvinner, 4
 Røa, 0
 
-OKS Odra Opole, 0
-Znicz Pruszków, 0
-
 Warta Poznań, 0
 MZKS Arka Gdynia, 1
 
@@ -1242,9 +1215,6 @@ Górnik Łęczna, 1
 
 Miedź Legnica, 3
 Ruch Chorzów, 0
-
-Ruch Chorzów, 0
-Miedź Legnica, 0
 
 Shinnik Yaroslavl, 1
 Torpedo Moscow, 1
@@ -1260,9 +1230,6 @@ Alania Vladikavkaz, 0
 
 Baltika Kaliningrad, 0
 Arsenal Tula, 0
-
-Falkirk FC, 0
-Livingston, 0
 
 Greenock Morton, 2
 Airdrieonians, 0
@@ -1297,9 +1264,6 @@ Elgin City, 0
 East Fife, 2
 Peterhead, 0
 
-Edinburgh City F.C., 0
-The Spartans FC, 0
-
 Forfar Athletic, 2
 Stranraer, 1
 
@@ -1314,9 +1278,6 @@ Dundee FC, 0
 
 Lion City Sailors, 3
 Balestier Khalsa, 1
-
-ND Primorje, 0
-Kalcer Radomlje, 0
 
 NK Olimpija Ljubljana, 1
 NK Bravo, 1
@@ -1354,11 +1315,8 @@ FC Livyi Bereh Kyiv, 0
 Dynamo Kyiv, 0
 Rukh Lviv, 0
 
-Inhulets Petrove, 0
-Veres Rivne, 0
-
 Veres Rivne, 2
-Inhulets Petrove, 2
+Ingulets Petrove, 2
 
 Rampla Juniors, 2
 Cerro Largo, 0

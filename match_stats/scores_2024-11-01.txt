@@ -256,9 +256,6 @@ Bayer Leverkusen, 2
 SV Werder Bremen, 1
 SGS Essen, 0
 
-Valencia, 0
-Deportivo Abanca, 0
-
 MTK Budapest, 1
 Zalaegerszegi TE, 1
 
@@ -313,12 +310,6 @@ Araz Naxçıvan PFK, 1
 Şamaxı FK, 0
 Zirə FK, 2
 
-Al-Muharraq, 0
-Al Khalidiyah, 0
-
-Al Riffa, 0
-A'Ali FC, 0
-
 Dnepr Mogilev, 0
 Dynamo Brest, 3
 
@@ -351,9 +342,6 @@ FC Silon Táborsko, 3
 
 FC Sellier & Bellot Vlašim, 2
 Sparta Praha B U21, 4
-
-FC Zlín, 0
-MFK Chrudim, 0
 
 AC Horsens, 3
 Boldklubben af 1893, 0
@@ -528,12 +516,6 @@ Chindia Târgoviște, 1
 
 FC Argeș Pitești, 2
 CS Unirea Ungheni 2018, 0
-
-FK Csíkszereda Miercurea Ciuc, 0
-CSM Slatina, 0
-
-Viitorul Pandurii Târgu Jiu, 0
-FC Voluntari, 0
 
 FCU 1948 Craiova, 2
 CSM Ceahlăul Piatra Neamţ, 4

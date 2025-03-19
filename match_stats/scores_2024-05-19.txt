@@ -271,9 +271,6 @@ Barcelona SC, 1
 Ismaily, 0
 Pyramids FC, 2
 
-Smouha, 0
-Al Ahly FC, 0
-
 Asociación Deportiva Tarma, 2
 Comerciantes Unidos, 0
 
@@ -330,9 +327,6 @@ Ferencváros TC, 2
 
 Zamalek SC, 1
 RS Berkane, 0
-
-Nueva Chicago, 0
-Club Ferro Carril Oeste, 0
 
 Atlanta, 2
 Atlético de Rafaela, 0
@@ -403,9 +397,6 @@ Tombense, 0
 Ferroviário, 0
 ABC, 4
 
-Ypiranga FC, 0
-Caxias, 0
-
 Cherno More Varna, 4
 Ludogorets, 0
 
@@ -468,21 +459,6 @@ PK-35, 1
 
 MP, 0
 JäPS, 3
-
-Dinamo Tbilisi, 0
-Dinamo Batumi, 0
-
-FC Iberia 1999, 0
-FC Kolkheti-1913 Poti, 0
-
-FC Samtredia, 0
-FC Dila Gori, 0
-
-FC Telavi, 0
-FC Samgurali Tskhaltubo, 0
-
-FC Torpedo Kutaisi, 0
-FC Gagra, 0
 
 FC Gagra, 2
 FC Telavi, 0

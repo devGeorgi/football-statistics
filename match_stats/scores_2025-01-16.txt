@@ -79,14 +79,14 @@ Central SC, 0
 Santa Cruz, 2
 Petrolina SFC, 0
 
-AA Guarany, 0
-AO Itabaiana, 0
-
 Falcon-SE FC, 1
 Confiança, 3
 
 Sporting FC, 1
 CS Cartaginés, 1
+
+Deportivo Saprissa, 0
+Municipal Pérez Zeledón, 0
 
 Delhi FC, 1
 Churchill Brothers SC, 2

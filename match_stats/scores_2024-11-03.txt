@@ -4,6 +4,15 @@ Aston Villa, 1
 Manchester United, 1
 Chelsea, 1
 
+Torino, 0
+Fiorentina, 1
+
+Hellas Verona, 3
+Roma, 2
+
+Inter, 1
+Venezia, 0
+
 Atlético Madrid, 2
 Las Palmas, 0
 
@@ -15,15 +24,6 @@ Real Sociedad, 2
 
 Athletic Club, 1
 Real Betis, 1
-
-Torino, 0
-Fiorentina, 1
-
-Hellas Verona, 3
-Roma, 2
-
-Inter, 1
-Venezia, 0
 
 SC Freiburg, 0
 1. FSV Mainz 05, 0
@@ -157,17 +157,8 @@ Burnley, 0
 Real Oviedo, 3
 Burgos Club de Fútbol, 1
 
-Almería, 0
-Córdoba, 0
-
-CD Castellón, 0
-Racing de Ferrol, 0
-
 CD Tenerife, 1
 Mirandés, 0
-
-CD Eldense, 0
-Huesca, 0
 
 1. FC Kaiserslautern, 2
 1. FC Magdeburg, 2
@@ -424,9 +415,6 @@ TSG Hoffenheim, 1
 VfL Wolfsburg, 3
 SC Freiburg, 0
 
-Real Madrid, 0
-Levante UD, 0
-
 Ferencváros TC, 2
 Debreceni VSC, 2
 
@@ -463,23 +451,11 @@ Səbail FK, 0
 Sumqayıt FK, 1
 Sabah FK, 0
 
-Malkiya Club, 0
-Bahrain SC, 0
-
 FK Smorgon, 1
 FK Arsenal Dzerzhinsk, 0
 
 FK Gomel, 0
 FC Isloch Minsk Region, 0
-
-Independiente Petrolero, 0
-Blooming, 0
-
-San José, 0
-Guabirá, 0
-
-Club Aurora, 0
-The Strongest, 0
 
 Igman Konjic, 0
 HŠK Posušje, 3
@@ -606,9 +582,6 @@ GE Panachaiki, 0
 
 Deportivo Guastatoya, 5
 Xinabajul Huehue, 1
-
-Juventud Pinulteca FC, 0
-Comunicaciones FC, 0
 
 Persis Solo, 0
 PSS Sleman, 2
@@ -742,9 +715,6 @@ Torreense, 1
 União Leiria, 1
 Leixões SC, 0
 
-SC Braga B, 0
-CD Trofense, 0
-
 1º Dezembro, 2
 Atletico CP, 1
 
@@ -830,7 +800,7 @@ Oleksandria, 1
 Polissya Zhytomyr, 0
 
 Dynamo Kyiv, 5
-Inhulets Petrove, 2
+Ingulets Petrove, 2
 
 Obolon Kyiv, 0
 Veres Rivne, 0

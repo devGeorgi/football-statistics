@@ -76,9 +76,6 @@ Smouha, 2
 Tala'ea El-Gaish, 1
 Ismaily, 1
 
-ZED FC, 0
-Zamalek SC, 0
-
 Albirex Niigata, 3
 Yokohama F. Marinos, 1
 
@@ -159,6 +156,9 @@ Yanbian Longding, 5
 
 FC Samgurali Tskhaltubo, 2
 FC Gagra, 0
+
+FC Samtredia, 0
+Dinamo Tbilisi, 0
 
 FC Iberia 1999, 1
 FC Dila Gori, 4

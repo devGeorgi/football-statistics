@@ -16,18 +16,6 @@ Aston Villa, 1
 Wolverhampton, 1
 Everton, 1
 
-Celta Vigo, 2
-Leganés, 1
-
-Deportivo Alavés, 1
-Villarreal, 0
-
-Valencia, 2
-Real Valladolid, 1
-
-Barcelona, 0
-Osasuna, 0
-
 Como, 1
 Venezia, 1
 
@@ -42,6 +30,15 @@ Monza, 2
 
 Hellas Verona, 1
 Bologna, 2
+
+Celta Vigo, 2
+Leganés, 1
+
+Deportivo Alavés, 1
+Villarreal, 0
+
+Valencia, 2
+Real Valladolid, 1
 
 Bayer 04 Leverkusen, 0
 SV Werder Bremen, 2
@@ -84,9 +81,6 @@ FC Porto, 0
 
 Fortuna Sittard, 1
 Heracles Almelo, 0
-
-Feyenoord, 0
-FC Groningen, 0
 
 PSV Eindhoven, 2
 SC Heerenveen, 1
@@ -442,9 +436,6 @@ Western Sydney Wanderers, 1
 Melbourne Victory, 2
 Canberra United, 0
 
-Brisbane Roar, 0
-Melbourne City, 0
-
 Lexington SC, 2
 Hartford Athletic, 0
 
@@ -493,9 +484,6 @@ Dinamo Makhachkala, 0
 Ulsan HD, 2
 Jeju SK, 0
 
-Gwangju FC, 0
-Pohang Steelers, 0
-
 Jeonbuk Hyundai Motors, 0
 Gangwon FC, 1
 
@@ -537,9 +525,6 @@ Royal Francs Borains, 1
 
 SV Zulte Waregem, 0
 Lommel SK, 1
-
-FC Como, 0
-Sassuolo, 0
 
 AS Roma, 2
 Inter, 1
@@ -678,9 +663,6 @@ Rangers de Talca, 0
 
 Deportes Temuco, 2
 Unión San Felipe, 1
-
-Real Cundinamarca, 0
-Atlético Cali, 0
 
 Orsomarso, 3
 Barranquilla FC, 0
@@ -889,9 +871,6 @@ Gokulam Kerala FC, 3
 PS Barito Putera, 1
 Malut United FC, 1
 
-PSIS Semarang, 0
-Madura United FC, 0
-
 Atalanta U23, 2
 L.R. Vicenza, 2
 
@@ -924,9 +903,6 @@ Team Altamura, 2
 
 Potenza Calcio, 2
 Cavese, 2
-
-Turris, 0
-Taranto, 0
 
 Cagliari U20, 2
 Roma U20, 1
@@ -1048,9 +1024,6 @@ MZKS Arka Gdynia, 1
 Polonia Warszawa, 2
 Kotwica Kołobrzeg, 2
 
-Penafiel, 3
-FC Alverca, 2
-
 Felgueiras, 2
 União Leiria, 2
 
@@ -1084,9 +1057,6 @@ CS Afumați, 1
 Alania Vladikavkaz, 0
 FC Tyumen, 0
 
-Baltika Kaliningrad, 0
-Rotor Volgograd, 0
-
 KAMAZ Naberezhnye Chelny, 3
 Chayka Peschanokopskoye, 1
 
@@ -1101,9 +1071,6 @@ Dunfermline Athletic, 0
 
 Greenock Morton, 2
 Ayr United, 1
-
-Queen's Park FC, 0
-Partick Thistle, 0
 
 Alloa Athletic, 2
 Arbroath, 3
@@ -1180,7 +1147,7 @@ US Ben Guerdane, 1
 US Tataouine, 0
 CS Sfaxien, 0
 
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 Rukh Lviv, 1
 
 Cerro, 2

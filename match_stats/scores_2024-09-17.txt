@@ -37,12 +37,6 @@ KRC Genk, 2
 Stoke City, 3
 Fleetwood Town, 2
 
-AFC Wimbledon, 0
-Newcastle United, 0
-
-Arsenal, 0
-Bolton Wanderers, 0
-
 Blackpool, 0
 Sheffield Wednesday, 1
 
@@ -52,23 +46,11 @@ Leyton Orient, 1
 Everton, 6
 Southampton, 7
 
-Liverpool, 0
-West Ham United, 0
-
-Manchester City, 0
-Watford, 0
-
 Preston North End, 17
 Fulham, 16
 
 Queens Park Rangers, 1
 Crystal Palace, 2
-
-Walsall, 0
-Leicester City, 0
-
-Wycombe Wanderers, 0
-Aston Villa, 0
 
 Manchester United, 7
 Barnsley, 0
@@ -202,9 +184,6 @@ Sepahan S.C., 1
 FC Istiklol, 0
 Al-Sharjah, 1
 
-Sportunion Mauer, 0
-LASK, 0
-
 Admira Wacker, 3
 Rapid Wien II, 1
 
@@ -243,6 +222,9 @@ Persita Tangerang, 0
 
 Semen Padang FC, 1
 PS Barito Putera, 2
+
+Wexford FC, 0
+Bray Wanderers, 0
 
 Tokushima Vortis, 1
 Shimizu S-Pulse, 2

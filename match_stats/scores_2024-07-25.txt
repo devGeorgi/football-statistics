@@ -220,9 +220,6 @@ SpVgg Bayreuth, 3
 Sabah FC, 2
 Negeri Sembilan, 0
 
-Correcaminos UAT, 0
-Cancún FC, 0
-
 Canada, 2
 New Zealand, 1
 

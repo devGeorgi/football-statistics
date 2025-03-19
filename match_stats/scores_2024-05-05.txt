@@ -7,6 +7,18 @@ West Ham United, 0
 Liverpool, 4
 Tottenham Hotspur, 2
 
+Empoli, 0
+Frosinone, 0
+
+Hellas Verona, 2
+Fiorentina, 1
+
+Milan, 3
+Genoa, 3
+
+Roma, 1
+Juventus, 1
+
 Osasuna, 0
 Real Betis, 2
 
@@ -21,18 +33,6 @@ Almería, 1
 
 Sevilla, 3
 Granada, 0
-
-Empoli, 0
-Frosinone, 0
-
-Hellas Verona, 2
-Fiorentina, 1
-
-Milan, 3
-Genoa, 3
-
-Roma, 1
-Juventus, 1
 
 1. FC Union Berlin, 3
 VfL Bochum 1848, 4
@@ -457,9 +457,6 @@ AA Aparecidense, 0
 Athletic Club, 1
 ABC, 0
 
-Sampaio Corrêa, 0
-Caxias, 0
-
 Antofagasta, 1
 Deportes Limache, 2
 
@@ -480,21 +477,6 @@ Tigres FC, 0
 
 CS Cartaginés, 1
 Santos de Guápiles, 1
-
-AD Guanacasteca, 0
-Municipal Pérez Zeledón, 0
-
-CS Cartaginés, 0
-Sporting FC, 0
-
-Herediano, 0
-Puntarenas FC, 0
-
-San Carlos, 0
-Deportivo Saprissa, 0
-
-Santos de Guápiles, 0
-LD Alajuelense, 0
 
 Puntarenas FC, 0
 Deportivo Saprissa, 2
@@ -711,9 +693,6 @@ FC Stockholm Internazionale, 1
 
 Ariana FC, 3
 Lunds BK, 1
-
-Lunds BK, 0
-Ariana FC, 0
 
 BK Häcken FF, 2
 IF Brommapojkarna, 0

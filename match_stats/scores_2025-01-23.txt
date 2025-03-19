@@ -70,9 +70,6 @@ Jamshedpur FC, 2
 AmaZulu FC, 0
 Stellenbosch, 5
 
-Royal AM, 0
-Orlando Pirates, 0
-
 Al-Sadd, 0
 Qatar SC, 1
 
@@ -117,9 +114,6 @@ Caxias, 1
 
 América Mineiro, 7
 Pouso Alegre, 0
-
-AA Guarany, 0
-AD Barra, 0
 
 AD Barra, 0
 Lagarto FC, 5

@@ -235,6 +235,9 @@ Rochdale, 3
 Aldershot Town, 2
 Woking, 2
 
+Altrincham, 0
+FC Halifax Town, 0
+
 Barnet, 3
 Sutton United, 3
 
@@ -258,9 +261,6 @@ Forest Green Rovers, 1
 
 Yeovil Town, 2
 Eastleigh, 2
-
-Oldham Athletic, 0
-York City, 0
 
 Basake Holy Stars FC, 3
 Bechem United, 0

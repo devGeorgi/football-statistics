@@ -16,14 +16,8 @@ América Mineiro, 1
 Novorizontino, 1
 Mirassol, 1
 
-National Bank of Egypt, 0
-Smouha, 0
-
 ENPPI, 2
 Al-Mokawloon, 2
-
-Pyramids FC, 0
-ZED FC, 0
 
 Smouha, 2
 Pyramids FC, 3
@@ -33,6 +27,9 @@ Sagan Tosu, 1
 
 VOCEM U23, 1
 Mirassol, 1
+
+Barretos U23, 0
+Botafogo-SP, 0
 
 Valmiera FC, 2
 Riga FC, 2

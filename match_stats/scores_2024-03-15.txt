@@ -1,8 +1,8 @@
-Real Sociedad, 2
-Cádiz, 0
-
 Empoli, 0
 Bologna, 1
+
+Real Sociedad, 2
+Cádiz, 0
 
 1. FC Köln, 1
 RB Leipzig, 5
@@ -292,9 +292,6 @@ Dynamo Brest, 1
 Slavia Mozyr, 2
 Dnepr Mogilev, 0
 
-BATE Borisov, 0
-FC Minsk, 0
-
 FC Minsk, 0
 BATE Borisov, 1
 
@@ -513,9 +510,6 @@ FK Liepaja, 0
 
 Union Touarga Sport, 1
 MAS de Fès, 0
-
-Vålerenga, 0
-Stabæk Fotball, 0
 
 Sportivo Luqueño, 0
 Cerro Porteño, 1

@@ -19,6 +19,15 @@ Crystal Palace, 3
 Nottingham Forest, 2
 Chelsea, 3
 
+Napoli, 0
+Bologna, 2
+
+Milan, 5
+Cagliari, 1
+
+Lazio, 2
+Empoli, 0
+
 Mallorca, 1
 Las Palmas, 0
 
@@ -30,15 +39,6 @@ Real Madrid, 4
 
 Athletic Club, 2
 Osasuna, 2
-
-Napoli, 0
-Bologna, 2
-
-Milan, 5
-Cagliari, 1
-
-Lazio, 2
-Empoli, 0
 
 1. FC Köln, 3
 1. FC Union Berlin, 2
@@ -117,9 +117,6 @@ Talleres, 3
 
 River Plate, 3
 Central Córdoba, 0
-
-River Plate, 0
-Belgrano, 0
 
 CD Toluca, 0
 CD Guadalajara, 0
@@ -493,12 +490,6 @@ San Martín de Tucumán, 0
 Chaco For Ever, 0
 Almirante Brown, 0
 
-All Boys, 0
-Arsenal de Sarandí, 0
-
-Defensores de Belgrano, 0
-Club Atletico Colón, 0
-
 Agropecuario Argentino, 0
 San Martín de San Juan, 1
 
@@ -553,17 +544,11 @@ Nacional Potosí, 1
 NK Široki Brijeg, 0
 FK Velež Mostar, 1
 
-Caxias, 0
-Confiança, 0
-
 Tombense, 1
 Sampaio Corrêa, 0
 
 ABC, 0
 Londrina, 2
-
-Ferroviário, 0
-EC São José, 0
 
 Ludogorets, 3
 CSKA Sofia, 1
@@ -657,18 +642,6 @@ OLS Oulu, 3
 
 Paris Saint-Germain, 7
 Paris FC, 6
-
-FC Iberia 1999, 0
-FC Dila Gori, 0
-
-FC Samgurali Tskhaltubo, 0
-FC Gagra, 0
-
-FC Telavi, 0
-FC Kolkheti-1913 Poti, 0
-
-FC Torpedo Kutaisi, 0
-Dinamo Batumi, 0
 
 Dinamo Batumi, 1
 FC Telavi, 1
@@ -799,18 +772,6 @@ SV Viktoria Aschaffenburg, 0
 APO Levadiakos, 1
 AE Larisa, 2
 
-AEK B, 0
-Niki Volou, 0
-
-AE Larisa, 0
-AS Makedonikos Neapolis, 0
-
-Chania F.C., 0
-GS Ilioupolis, 0
-
-Kalamata FC, 0
-Ionikos, 0
-
 Deportivo Mixco, 0
 CSD Municipal, 0
 
@@ -897,9 +858,6 @@ JEF United Chiba, 2
 
 FC Turan, 2
 Zhetysu Taldykorgan, 3
-
-Atyrau, 0
-Aksu, 0
 
 FK Metta, 3
 FS Jelgava, 0
@@ -1119,12 +1077,6 @@ Schaffhausen, 0
 
 Neuchâtel Xamax, 1
 FC Vaduz, 1
-
-ES Métlaoui, 0
-AS Soliman, 0
-
-US Tataouine, 0
-CA Bizertin, 0
 
 Charlotte Independence, 1
 Forward Madison FC, 2

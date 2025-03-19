@@ -43,6 +43,9 @@ Gyeongnam FC, 1
 Seongnam FC, 1
 Jeonnam Dragons, 2
 
+Atlanta, 0
+Mitre, 0
+
 Quilmes Atlético Club, 1
 San Martín de Tucumán, 2
 
@@ -93,9 +96,6 @@ FH Hafnarfjörður, 1
 
 FK Metta, 0
 FK Tukums 2000, 0
-
-FK Žalgiris, 0
-Šiauliai FA, 0
 
 Jamaica U20, 0
 Costa Rica U20, 3

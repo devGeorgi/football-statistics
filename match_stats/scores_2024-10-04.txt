@@ -1,14 +1,14 @@
 Crystal Palace, 0
 Liverpool, 1
 
-Leganés, 0
-Valencia, 0
-
 Napoli, 3
 Como, 1
 
 Hellas Verona, 2
 Venezia, 1
+
+Leganés, 0
+Valencia, 0
 
 FC Augsburg, 2
 Borussia M'gladbach, 1
@@ -91,9 +91,6 @@ Red Star FC, 0
 Paris FC, 1
 Stade Lavallois, 0
 
-Pau FC, 0
-Bastia, 0
-
 Rodez AF, 2
 Grenoble Foot 38, 1
 
@@ -111,9 +108,6 @@ Novorizontino, 0
 
 Avaí, 0
 Brusque, 0
-
-Sport Recife, 0
-Ceará, 0
 
 FC Den Bosch, 2
 De Graafschap, 2
@@ -268,20 +262,11 @@ Jeonnam Dragons, 1
 Chiangrai United, 2
 Lamphun Warrior, 0
 
-Ratchaburi, 0
-Chiangrai United, 0
-
-Lamphun Warrior, 0
-Khon Kaen United, 0
-
 PT Prachuap FC, 2
 BG Pathum United, 2
 
 Sukhothai, 1
 Nakhon Ratchasima Mazda FC, 0
-
-Rayong FC, 0
-Nongbua Pitchaya, 0
 
 Brighton, 4
 Aston Villa WFC, 2
@@ -343,9 +328,6 @@ Kapfenberger SV, 0
 SC Neusiedl 1919, 3
 ASV Siegendorf, 3
 
-SC Krems, 0
-Sportunion Mauer, 0
-
 SV Oberwart, 1
 TWL Elektra, 1
 
@@ -357,9 +339,6 @@ Neftçi Baku PFK, 3
 
 Dynamo Brest, 1
 SFK Slutsk, 2
-
-Shakhtyor Soligorsk, 0
-Dinamo Minsk, 0
 
 Vitebsk, 2
 FC Minsk, 1
@@ -391,8 +370,8 @@ Shijiazhuang Gongfu, 1
 Suzhou Dongwu, 2
 Qingdao Red Lions, 1
 
-Llaneros FC, 0
-Real Cundinamarca, 0
+Deportes Quindío, 0
+Atlético Huila, 0
 
 Municipal Liberia, 2
 Municipal Santa Ana, 3
@@ -508,9 +487,6 @@ Al Karkh, 2
 Cobh Ramblers FC, 2
 Kerry FC, 1
 
-Finn Harps, 0
-Wexford FC, 0
-
 University College Dublin, 1
 Bray Wanderers, 1
 
@@ -610,9 +586,6 @@ Académico Viseu FC, 1
 CS Afumați, 0
 FC Voluntari, 1
 
-CSC 1599 Șelimbăr, 0
-Viitorul Pandurii Târgu Jiu, 0
-
 CSM Slatina, 1
 Steaua București, 1
 
@@ -633,9 +606,6 @@ AFC Metalul Buzău, 1
 
 FC Metaloglobus București, 1
 FC Argeș Pitești, 2
-
-FK Csíkszereda Miercurea Ciuc, 0
-CSM Focșani 2007, 0
 
 FC Ufa, 3
 SKA-Khabarovsk, 3
@@ -686,7 +656,7 @@ Chornomorets Odesa, 1
 Obolon Kyiv, 0
 
 Karpaty Lviv, 0
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 
 Veres Rivne, 2
 Zorya Luhansk, 1

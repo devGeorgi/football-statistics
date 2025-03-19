@@ -133,15 +133,6 @@ Sekhukhune United, 1
 Club América, 1
 CF Pachuca, 1
 
-Seoul E-Land FC, 0
-Chungnam Asan FC, 0
-
-Busan I Park, 0
-Ansan Greeners FC, 0
-
-Cheonan City FC, 0
-Gimpo FC, 0
-
 Club Ferro Carril Oeste, 3
 Alvarado, 0
 
@@ -183,9 +174,6 @@ Apollon Limassol, 3
 
 AEZ Zakakiou, 2
 Doxa Katokopias, 3
-
-Solihull Moors, 0
-Gateshead, 0
 
 Paksi FC, 2
 Kisvárda FC, 1

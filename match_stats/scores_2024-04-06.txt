@@ -295,9 +295,6 @@ Stade Lavallois, 1
 Annecy FC, 2
 Valenciennes, 1
 
-Auxerre, 0
-Troyes, 0
-
 Bastia, 1
 USL Dunkerque, 1
 
@@ -409,9 +406,6 @@ Cheltenham Town, 1
 Northampton Town, 2
 Carlisle United, 0
 
-Peterborough United, 0
-Fleetwood Town, 0
-
 Portsmouth, 3
 Shrewsbury Town, 1
 
@@ -420,9 +414,6 @@ Lincoln City, 1
 
 Wigan Athletic, 0
 Port Vale, 0
-
-Wycombe Wanderers, 0
-Derby County, 0
 
 AFC Wimbledon, 1
 Salford City, 0
@@ -471,9 +462,6 @@ Deportivo Cuenca, 0
 
 NorthEast United, 2
 Kerala Blasters, 0
-
-Sligo Rovers, 0
-Galway United, 0
 
 Tokyo Verdy, 1
 Kashiwa Reysol, 1
@@ -559,9 +547,6 @@ Sekhukhune United, 0
 Orlando Pirates, 7
 Lamontville Golden Arrows, 1
 
-Cape Town Spurs FC, 0
-Mamelodi Sundowns, 0
-
 Supersport United, 0
 TS Galaxy, 1
 
@@ -600,9 +585,6 @@ Central Valley Fuego, 2
 
 Greenville Triumph SC, 3
 Northern Colorado Hailstorm FC, 1
-
-Chattanooga Red Wolves SC, 0
-Charlotte Independence, 0
 
 South Georgia Tormenta FC, 3
 Lexington SC, 0
@@ -702,9 +684,6 @@ Brown de Adrogué, 1
 
 San Telmo, 2
 Chaco For Ever, 0
-
-Atlanta, 0
-Temperley, 0
 
 Club Ferro Carril Oeste, 1
 Patronato, 1
@@ -856,20 +835,11 @@ Altrincham, 0
 Ebbsfleet United, 2
 AFC Fylde, 1
 
-Gateshead, 0
-Chesterfield, 0
-
 Hartlepool United, 2
 Aldershot Town, 0
 
 Maidenhead United, 2
 Barnet, 2
-
-Oxford City, 0
-Bromley, 0
-
-Solihull Moors, 0
-Southend United, 0
 
 Woking, 3
 Dagenham & Redbridge, 2
@@ -936,9 +906,6 @@ SC Spelle-Venhaus, 0
 
 FC Kilia Kiel, 0
 SV Meppen, 5
-
-SSV Jeddeloh, 0
-SV Drochtersen/Assel, 0
 
 VfB Oldenburg, 4
 Bremer SV, 1
@@ -1102,9 +1069,6 @@ Fagiano Okayama, 2
 Kairat Almaty, 0
 Zhetysu Taldykorgan, 0
 
-FC Tobol, 0
-Aksu, 0
-
 FK Aktobe, 1
 Atyrau, 1
 
@@ -1137,9 +1101,6 @@ FC Milsami Orhei, 0
 
 FK Sileks Kratovo, 0
 KF Gostivar, 0
-
-Egersund, 0
-Åsane, 0
 
 IK Start, 1
 Aalesunds FK, 3

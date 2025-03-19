@@ -1,11 +1,11 @@
 Leicester City, 0
 Brentford, 4
 
-Celta Vigo, 1
-Osasuna, 0
-
 Lecce, 0
 Udinese, 1
+
+Celta Vigo, 1
+Osasuna, 0
 
 SC Freiburg, 5
 SV Werder Bremen, 0
@@ -208,9 +208,6 @@ FC Gloria Buzău, 1
 SC Oțelul Galați, 0
 FC Universitatea Cluj, 1
 
-Royal AM, 0
-Kaizer Chiefs, 0
-
 Stellenbosch, 1
 Richards Bay FC, 1
 
@@ -238,12 +235,6 @@ Ratchaburi, 4
 Uthai Thani FC, 0
 Khon Kaen United, 0
 
-RFC Liège, 0
-Koninklijke Lierse Sportkring, 0
-
-RFC Seraing, 0
-KMSK Deinze, 0
-
 RWD Molenbeek, 1
 Royal Francs Borains, 0
 
@@ -267,9 +258,6 @@ China U20, 0
 
 Australia U20, 3
 Iraq U20, 2
-
-ASK Voitsberg, 0
-Schwarz-Weiß Bregenz, 0
 
 Floridsdorfer AC, 1
 Kapfenberger SV, 1
@@ -436,12 +424,6 @@ Bremer SV, 2
 VfB Lübeck, 0
 SV Drochtersen/Assel, 1
 
-FC Eilenburg, 0
-Hallescher FC, 0
-
-Hertha Zehlendorf, 0
-Berliner FC Dynamo, 0
-
 SC Fortuna Köln, 1
 Wuppertaler SV, 0
 
@@ -469,9 +451,6 @@ Kerry FC, 0
 Finn Harps, 0
 Dundalk FC, 1
 
-Wexford FC, 0
-Longford Town, 0
-
 Trento, 1
 Pergolettese, 1
 
@@ -498,9 +477,6 @@ Kuala Lumpur City FC, 1
 
 Gżira United FC, 0
 Marsaxlokk FC, 1
-
-Venados, 2
-Alebrijes de Oaxaca, 1
 
 Jeunesse Sportive Soualem, 0
 RS Berkane, 4
@@ -538,9 +514,6 @@ Portimonense, 0
 Felgueiras, 1
 FC Porto B, 0
 
-SC Lusitânia, 0
-UD Santarém, 0
-
 AFC Metalul Buzău, 0
 AFC Câmpulung Muscel, 1
 
@@ -550,23 +523,14 @@ CSM Ceahlăul Piatra Neamţ, 2
 CSM Focșani 2007, 0
 CS Afumați, 0
 
-CSM Reşiţa, 0
-Viitorul Pandurii Târgu Jiu, 0
-
 CSM Slatina, 0
 Chindia Târgoviște, 0
-
-CS Mioveni, 0
-FC Corvinul Hunedoara, 0
 
 Concordia Chiajna, 2
 FC Metaloglobus București, 3
 
 FC Bihor Oradea, 0
 CS Unirea Ungheni 2018, 2
-
-FK Csíkszereda Miercurea Ciuc, 0
-CSC 1599 Șelimbăr, 0
 
 Steaua București, 2
 FC Voluntari, 1

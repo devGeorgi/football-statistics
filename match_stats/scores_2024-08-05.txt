@@ -94,7 +94,7 @@ Modbury Jets, 2
 Lambton Jaffas, 1
 Melbourne Victory, 4
 
-South Melbourne, 1
+South Melbourne FC, 1
 Wellington Phoenix, 0
 
 Olympic Kingsway, 4
@@ -105,9 +105,6 @@ Club Aurora, 2
 
 Blooming, 4
 Nacional Potosí, 1
-
-HŠK Zrinjski Mostar, 0
-FK Sloga Doboj, 0
 
 Ferroviário, 1
 Sampaio Corrêa, 1
@@ -139,30 +136,6 @@ Antofagasta, 1
 Atlético Cali, 3
 Bogotá FC, 0
 
-Barranquilla FC, 0
-Unión Magdalena, 0
-
-Boca Juniors de Cali, 0
-Cúcuta Deportivo, 0
-
-Bogotá FC, 0
-Real Cartagena, 0
-
-Leones FC, 0
-Internacional de Palmira, 0
-
-Llaneros FC, 0
-Atlético Cali, 0
-
-Orsomarso, 0
-Tigres FC, 0
-
-Real Cundinamarca, 0
-Atlético Huila, 0
-
-Real Santander, 0
-Deportes Quindío, 0
-
 Real Cundinamarca, 2
 Deportes Quindío, 1
 
@@ -174,9 +147,6 @@ FC Samtredia, 1
 
 FH Hafnarfjörður, 2
 Víkingur Reykjavík, 3
-
-FK Žalgiris, 0
-FK Transinvest, 0
 
 ŁKS Łódź, 1
 Górnik Łęczna, 1

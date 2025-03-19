@@ -16,6 +16,18 @@ Ipswich Town, 1
 Everton, 0
 Newcastle United, 0
 
+Udinese, 1
+Lecce, 0
+
+Atalanta, 5
+Genoa, 1
+
+Inter, 3
+Torino, 2
+
+Juventus, 1
+Cagliari, 1
+
 Espanyol, 2
 Mallorca, 1
 
@@ -30,18 +42,6 @@ Rayo Vallecano, 2
 
 Real Madrid, 2
 Villarreal, 0
-
-Udinese, 1
-Lecce, 0
-
-Atalanta, 5
-Genoa, 1
-
-Inter, 3
-Torino, 2
-
-Juventus, 1
-Cagliari, 1
 
 1. FC Union Berlin, 2
 Borussia Dortmund, 1
@@ -429,9 +429,6 @@ Morecambe, 1
 
 Barrow, 2
 Cheltenham Town, 1
-
-Bradford City, 0
-Newport County, 0
 
 Chesterfield, 2
 Walsall, 2
@@ -1105,9 +1102,6 @@ Cancún FC, 1
 Tlaxcala FC, 2
 Alebrijes de Oaxaca, 1
 
-CDS Tampico Madero, 0
-Dorados de Sinaloa, 0
-
 CSF Spartanii Selemet, 0
 Sheriff Tiraspol, 1
 
@@ -1221,9 +1215,6 @@ Torpedo Moscow, 1
 
 FC Tyumen, 1
 KAMAZ Naberezhnye Chelny, 1
-
-Sokol Saratov, 0
-Rotor Volgograd, 0
 
 Airdrieonians, 1
 Dunfermline Athletic, 1

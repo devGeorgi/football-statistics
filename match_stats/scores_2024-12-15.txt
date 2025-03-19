@@ -7,6 +7,18 @@ Brentford, 1
 Southampton, 0
 Tottenham Hotspur, 5
 
+Bologna, 1
+Fiorentina, 0
+
+Parma, 2
+Hellas Verona, 3
+
+Como, 2
+Roma, 0
+
+Milan, 0
+Genoa, 0
+
 Atlético Madrid, 1
 Getafe, 0
 
@@ -21,18 +33,6 @@ Real Betis, 2
 
 Barcelona, 0
 Leganés, 1
-
-Bologna, 1
-Fiorentina, 0
-
-Parma, 2
-Hellas Verona, 3
-
-Como, 2
-Roma, 0
-
-Milan, 0
-Genoa, 0
 
 1. FC Heidenheim, 1
 VfB Stuttgart, 3
@@ -159,9 +159,6 @@ Málaga, 0
 
 Racing de Santander, 0
 Huesca, 1
-
-CD Tenerife, 0
-Deportivo La Coruña, 0
 
 1. FC Köln, 3
 1. FC Nürnberg, 1
@@ -375,12 +372,6 @@ Alemannia Aachen, 1
 
 Berliner FC Dynamo, 3
 SV Babelsberg 03, 0
-
-Hertha Zehlendorf, 0
-FC Carl Zeiss Jena, 0
-
-VSG Altglienicke, 0
-FC Eilenburg, 0
 
 Asante Kotoko SC, 1
 Accra Hearts of Oak, 0

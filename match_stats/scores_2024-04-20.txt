@@ -7,6 +7,15 @@ Burnley, 4
 Wolverhampton, 0
 Arsenal, 2
 
+Empoli, 1
+Napoli, 0
+
+Hellas Verona, 1
+Udinese, 0
+
+Sassuolo, 0
+Lecce, 3
+
 Celta Vigo, 4
 Las Palmas, 1
 
@@ -18,15 +27,6 @@ Real Betis, 2
 
 Girona FC, 4
 Cádiz, 1
-
-Empoli, 1
-Napoli, 0
-
-Hellas Verona, 1
-Udinese, 0
-
-Sassuolo, 0
-Lecce, 3
 
 1. FC Heidenheim, 1
 RB Leipzig, 2
@@ -193,14 +193,8 @@ Vancouver Whitecaps, 2
 Cardiff City, 2
 Southampton, 1
 
-Coventry City, 0
-Ipswich Town, 0
-
 Huddersfield Town, 0
 Swansea City, 4
-
-Middlesbrough, 0
-Leeds United, 0
 
 Norwich City, 1
 Bristol City, 1
@@ -351,9 +345,6 @@ Shanghai Shenhua, 2
 
 Henan Songshan Longmen, 1
 Qingdao Hainiu, 0
-
-Meizhou Hakka, 0
-Shanghai Port, 0
 
 Cobresal, 2
 Ñublense, 2
@@ -691,12 +682,6 @@ All Boys, 1
 Defensores Unidos, 3
 Defensores de Belgrano, 2
 
-Club Ferro Carril Oeste, 0
-Alvarado, 0
-
-Quilmes Atlético Club, 0
-Patronato, 0
-
 Club Atletico Colón, 0
 Temperley, 0
 
@@ -844,9 +829,6 @@ IFK Mariehamn, 1
 FC Lahti, 1
 FC Haka, 1
 
-KuPS, 0
-Inter Turku, 0
-
 VPS, 3
 IF Gnistan, 2
 
@@ -931,9 +913,6 @@ SC Wiedenbrück, 3
 SC Paderborn 07 II, 0
 Alemannia Aachen, 1
 
-Wuppertaler SV, 0
-Fortuna Düsseldorf II U23, 0
-
 Bahlinger SC, 2
 VfR Aalen, 1
 
@@ -967,9 +946,6 @@ FV Illertissen, 2
 Türkgücü München, 0
 1. FC Nürnberg II, 2
 
-Accra Great Olympics, 0
-Dreams, 0
-
 Karela United, 1
 Accra Lions FC, 1
 
@@ -985,9 +961,6 @@ AS Makedonikos Neapolis, 0
 Olympiacos B, 1
 GS Diagoras Rodou, 1
 
-FH Hafnarfjörður, 0
-HK Kópavogur, 0
-
 HK Kópavogur, 0
 FH Hafnarfjörður, 2
 
@@ -997,23 +970,11 @@ Fram Reykjavík, 1
 Bali United FC, 2
 Bhayangkara Presisi Indonesia FC, 1
 
-PS Barito Putera, 0
-Bhayangkara Presisi Indonesia FC, 0
-
 PSS Sleman, 2
 Dewa United FC, 3
 
-Persebaya Surabaya, 0
-Bali United FC, 0
-
 Madura United FC, 2
 PSM Makassar, 0
-
-PSIS Semarang, 0
-Persikabo 1973, 0
-
-Persis Solo, 0
-Persita Tangerang, 0
 
 Longford Town, 1
 Cork City, 4
@@ -1081,9 +1042,6 @@ Yokohama FC, 0
 Kairat Almaty, 1
 FK Aktobe, 3
 
-Aksu, 0
-Yelimay Semey, 0
-
 Astana, 2
 FC Tobol, 2
 
@@ -1149,9 +1107,6 @@ Bryne FK, 1
 
 Sogndal IL, 1
 Moss FK, 0
-
-Stabæk Fotball, 0
-Mjøndalen, 0
 
 Lyn FK, 1
 Vålerenga IF, 1

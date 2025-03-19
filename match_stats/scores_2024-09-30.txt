@@ -1,11 +1,11 @@
 Bournemouth, 3
 Southampton, 1
 
-Villarreal, 3
-Las Palmas, 1
-
 Parma, 2
 Cagliari, 3
+
+Villarreal, 3
+Las Palmas, 1
 
 AVS - Futebol SAD, 0
 SC Farense, 0
@@ -136,9 +136,6 @@ Al-Rayyan, 1
 San Antonio Bulo-Bulo, 0
 Blooming, 1
 
-Club Always Ready, 0
-Royal Pari Sion, 0
-
 NK Široki Brijeg, 3
 FK Sarajevo, 3
 
@@ -156,9 +153,6 @@ FC Lahti, 1
 
 FC Telavi, 1
 FC Torpedo Kutaisi, 2
-
-Accra Lions FC, 0
-Nsoatreman FC, 0
 
 Niki Volou, 1
 PAOK B, 1
@@ -216,6 +210,9 @@ Wisła Płock, 1
 
 Vizela, 3
 CD Mafra, 0
+
+Steaua București, 0
+FK Csíkszereda Miercurea Ciuc, 0
 
 Rotor Volgograd, 0
 Alania Vladikavkaz, 0

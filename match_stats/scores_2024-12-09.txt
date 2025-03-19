@@ -1,11 +1,11 @@
 West Ham United, 2
 Wolverhampton, 1
 
-Getafe, 1
-Espanyol, 0
-
 Monza, 1
 Udinese, 2
+
+Getafe, 1
+Espanyol, 0
 
 CF Estrela Amadora, 2
 FC Arouca, 1

@@ -109,12 +109,6 @@ MC Oran, 1
 USM Khenchela, 1
 CS Constantine, 0
 
-CR Belouizdad, 0
-JS Kabylie, 0
-
-ES Sétif, 0
-Paradou AC, 0
-
 Fremad Amager, 2
 Nykøbing FC, 1
 

@@ -94,9 +94,6 @@ Ansan Greeners FC, 1
 Belshina Bobruisk, 3
 FC Minsk, 1
 
-CD Real Santa Cruz, 0
-Royal Pari Sion, 0
-
 Independiente Petrolero, 0
 Guabirá, 0
 
@@ -289,9 +286,6 @@ Zagłębie Sosnowiec, 1
 NK Odranci, 1
 Budaörsi SC, 1
 
-SV Tillmitsch, 0
-Kapfenberger SV, 0
-
 Slavia Sofia, 4
 FK Sportist Svoge, 1
 
@@ -381,9 +375,6 @@ Cercle Brugge, 1
 
 FK VIAGEM Ústí nad Labem, 1
 FK Varnsdorf, 4
-
-Hallwang, 0
-UFC Hallein, 0
 
 SV Lafnitz, 2
 FK Csíkszereda Miercurea Ciuc, 2

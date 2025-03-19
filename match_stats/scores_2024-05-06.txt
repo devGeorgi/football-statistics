@@ -97,9 +97,6 @@ Emirates Club, 2
 Khor Fakkan, 0
 Al-Ain, 1
 
-Emirates Club, 0
-Al-Ain, 0
-
 Al Bataeh, 1
 Al Wasl, 4
 
@@ -135,9 +132,6 @@ Arda Kardzhali, 0
 
 Deportes La Serena, 2
 San Marcos de Arica, 1
-
-AC Barnechea, 0
-Deportes Magallanes, 0
 
 Atlético Cali, 0
 Boca Juniors de Cali, 4

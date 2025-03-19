@@ -19,18 +19,6 @@ Brighton & Hove Albion, 4
 Aston Villa, 2
 Chelsea, 1
 
-Deportivo Alavés, 0
-Espanyol, 1
-
-Rayo Vallecano, 0
-Villarreal, 1
-
-Valencia, 0
-Atlético Madrid, 3
-
-Las Palmas, 0
-Barcelona, 2
-
 Parma, 2
 Bologna, 0
 
@@ -45,6 +33,18 @@ Genoa, 0
 
 Como, 2
 Napoli, 1
+
+Deportivo Alavés, 0
+Espanyol, 1
+
+Rayo Vallecano, 0
+Villarreal, 1
+
+Valencia, 0
+Atlético Madrid, 3
+
+Las Palmas, 0
+Barcelona, 2
 
 1. FSV Mainz 05, 2
 FC St. Pauli, 0
@@ -334,9 +334,6 @@ Universidad Católica, 0
 Ñublense, 1
 Deportes Limache, 1
 
-Independiente Santa Fe, 0
-Atlético Bucaramanga, 0
-
 Rionegro Águilas Doradas, 0
 Once Caldas, 1
 
@@ -531,9 +528,6 @@ Al Duhail, 0
 
 BG Pathum United, 1
 PT Prachuap FC, 0
-
-Nakhon Pathom United, 0
-Port FC, 0
 
 True Bangkok United, 1
 Nongbua Pitchaya, 0
@@ -730,20 +724,8 @@ San Carlos, 1
 Karmiotissa Polemidion, 0
 AEK Larnaca, 3
 
-AEK Larnaca, 0
-ALS Omonia, 0
-
 ALS Omonia, 2
 Nea Salamina Famagusta, 1
-
-Aris Limassol, 0
-APOEL Nicosia, 0
-
-Ethnikos Achnas, 0
-Apollon Limassol, 0
-
-Omonia Nicosia, 0
-Pafos FC, 0
 
 Esbjerg, 0
 Kolding IF, 1
@@ -819,12 +801,6 @@ VfB Oldenburg, 2
 
 Kickers Emden, 1
 SV Todesfelde, 0
-
-FSV Luckenwalde, 0
-Viktoria Berlin, 0
-
-VFC Plauen, 0
-SV Babelsberg 03, 0
 
 1. FC Lokomotive Leipzig, 4
 Hertha BSC II U23, 1
@@ -1138,7 +1114,7 @@ ES Métlaoui, 1
 US Ben Guerdane, 0
 AS Soliman, 1
 
-Inhulets Petrove, 0
+Ingulets Petrove, 0
 Polissya Zhytomyr, 1
 
 Rukh Lviv, 0

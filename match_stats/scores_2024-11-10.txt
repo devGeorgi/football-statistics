@@ -10,6 +10,15 @@ Ipswich Town, 2
 Chelsea, 1
 Arsenal, 1
 
+Fiorentina, 3
+Hellas Verona, 1
+
+Roma, 2
+Bologna, 3
+
+Monza, 0
+Lazio, 1
+
 Real Betis, 2
 Celta Vigo, 2
 
@@ -21,15 +30,6 @@ Athletic Club, 1
 
 Real Sociedad, 1
 Barcelona, 0
-
-Fiorentina, 3
-Hellas Verona, 1
-
-Roma, 2
-Bologna, 3
-
-Monza, 0
-Lazio, 1
 
 FC Augsburg, 0
 TSG Hoffenheim, 0
@@ -174,9 +174,6 @@ Racing de Santander, 2
 
 Albacete Balompié, 2
 Real Oviedo, 2
-
-CD Tenerife, 0
-Levante UD, 0
 
 FC Schalke 04, 2
 SSV Jahn Regensburg, 0
@@ -394,15 +391,6 @@ Portland Thorns FC, 1
 Khon Kaen United, 2
 True Bangkok United, 3
 
-Al-Orooba, 0
-Al-Ain, 0
-
-Shabab Al-Ahli Dubai, 0
-Al-Ittihad Kalba, 0
-
-Al-Sharjah, 0
-Al-Nasr Dubai, 0
-
 Liverpool FC Women, 0
 Chelsea FC Women, 3
 
@@ -435,9 +423,6 @@ SV Werder Bremen, 1
 
 Athletic Bilbao, 3
 Real Betis, 0
-
-Levante UD, 0
-Valencia, 0
 
 Espanyol, 1
 Granada, 0
@@ -585,9 +570,6 @@ CSD Xelajú MC, 1
 
 Cobán Imperial, 3
 CSD Zacapa, 1
-
-Cobán Imperial, 0
-Juventud Pinulteca FC, 0
 
 CD Marquense, 0
 Deportivo Achuapa, 0

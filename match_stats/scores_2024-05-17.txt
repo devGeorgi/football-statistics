@@ -46,6 +46,9 @@ Elche, 1
 Palermo, 2
 U.C Sampdoria, 0
 
+Angers, 0
+USL Dunkerque, 0
+
 Auxerre, 4
 US Concarneau, 1
 
@@ -190,27 +193,6 @@ Chiangrai United, 0
 Trat FC, 2
 Lamphun Warrior, 2
 
-Al-Ittihad Kalba, 0
-Al Wasl, 0
-
-Al-Jazira, 0
-Emirates Club, 0
-
-Al-Nasr Dubai, 0
-Ajman, 0
-
-Al-Wahda FC, 0
-Al-Ain, 0
-
-Al Bataeh, 0
-Hatta, 0
-
-Khor Fakkan, 0
-Al-Sharjah, 0
-
-Shabab Al-Ahli Dubai, 0
-Baniyas, 0
-
 Mezőkövesd Zsóry, 1
 MTK Budapest, 1
 
@@ -271,9 +253,6 @@ Turan Tovuz, 3
 SFK Slutsk, 1
 Dynamo Brest, 4
 
-Dinamo Minsk, 0
-Shakhtyor Soligorsk, 0
-
 BATE Borisov, 1
 Slavia Mozyr, 0
 
@@ -289,7 +268,7 @@ Botev Vratsa, 1
 FK Hebar Pazardzhik, 0
 Beroe Stara Zagora, 1
 
-Langfang Glory City FC, 5
+Hangzhou Linping Wuyue FC, 5
 Jiangxi Dingnan United, 3
 
 Shenzhen Donson, 0
@@ -387,24 +366,6 @@ Memmingen, 1
 
 Nations FC, 1
 Accra Lions FC, 0
-
-AS Anagennisi Karditsas 1904, 0
-PAOK B, 0
-
-FS Kozani, 0
-AEPS Aiolikos Mytilene, 0
-
-Iraklis 1908, 0
-Kampaniakos, 0
-
-AO Egaleo, 0
-GE Panachaiki, 0
-
-AO Giouchtas Archanon, 0
-GS Diagoras Rodou, 0
-
-Panathinaikos B, 0
-Olympiacos B, 0
 
 Bray Wanderers, 1
 Cork City, 3

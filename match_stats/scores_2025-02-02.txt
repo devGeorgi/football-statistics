@@ -7,6 +7,12 @@ Crystal Palace, 2
 Arsenal, 5
 Manchester City, 1
 
+Fiorentina, 2
+Genoa, 1
+
+Roma, 1
+Napoli, 1
+
 Barcelona, 1
 Deportivo Alavés, 0
 
@@ -18,12 +24,6 @@ Real Sociedad, 1
 
 Real Betis, 2
 Athletic Club, 2
-
-Fiorentina, 2
-Genoa, 1
-
-Roma, 1
-Napoli, 1
 
 Eintracht Frankfurt, 1
 VfL Wolfsburg, 1

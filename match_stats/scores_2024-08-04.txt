@@ -97,12 +97,6 @@ Cobreloa, 2
 Universidad de Chile, 1
 Deportes Copiapó, 0
 
-Atlético Bucaramanga, 0
-Independiente Santa Fe, 0
-
-Deportivo Pereira, 0
-Boyacá Chicó FC, 0
-
 Patriotas Boyacá, 1
 América de Cali, 1
 
@@ -280,17 +274,11 @@ Club Atlético Chacarita Juniors, 2
 Sabah FK, 2
 Şamaxı FK, 2
 
-Şamaxı FK, 0
-Sabah FK, 0
-
 Zirə FK, 4
 Səbail FK, 1
 
 Dynamo Brest, 3
 FC Isloch Minsk Region, 2
-
-Naftan Novopolotsk, 0
-Neman Grodno, 0
 
 Torpedo-BelAZ Zhodino, 1
 FK Arsenal Dzerzhinsk, 1
@@ -385,14 +373,14 @@ SJK, 1
 FC Iberia 1999, 1
 FC Telavi, 1
 
+Dinamo Batumi, 0
+FC Kolkheti-1913 Poti, 0
+
 Energie Cottbus, 1
 Arminia Bielefeld, 2
 
 FC Ingolstadt 04, 2
 SV Waldhof Mannheim, 1
-
-FC St Pauli II U23, 0
-VfB Lübeck, 0
 
 Holstein Kiel II U23, 1
 Bremer SV, 1
@@ -506,7 +494,7 @@ Vorskla Poltava, 0
 Shakhtar Donetsk, 5
 
 Zorya Luhansk, 2
-Inhulets Petrove, 1
+Ingulets Petrove, 1
 
 Nacional, 9
 Peñarol, 8

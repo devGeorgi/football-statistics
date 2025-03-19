@@ -4,18 +4,6 @@ Manchester City, 2
 Liverpool, 2
 Chelsea, 1
 
-Mallorca, 1
-Rayo Vallecano, 0
-
-Atlético Madrid, 3
-Leganés, 1
-
-Villarreal, 1
-Getafe, 1
-
-Barcelona, 5
-Sevilla, 1
-
 Lecce, 0
 Fiorentina, 6
 
@@ -27,6 +15,18 @@ Torino, 2
 
 Roma, 0
 Inter, 1
+
+Mallorca, 1
+Rayo Vallecano, 0
+
+Atlético Madrid, 3
+Leganés, 1
+
+Villarreal, 1
+Getafe, 1
+
+Barcelona, 5
+Sevilla, 1
 
 Holstein Kiel, 0
 1. FC Union Berlin, 2
@@ -192,27 +192,6 @@ Cobreloa, 1
 
 Unión La Calera, 0
 Unión Española, 2
-
-América de Cali, 0
-Deportivo Cali, 0
-
-Atlético Bucaramanga, 0
-Independiente Medellín, 0
-
-Envigado FC, 0
-Junior Barranquilla, 0
-
-Jaguares de Córdoba, 0
-Deportivo Pereira, 0
-
-Millonarios, 0
-Deportivo Pasto, 0
-
-Once Caldas, 0
-Fortaleza CEIF, 0
-
-Patriotas Boyacá, 0
-Boyacá Chicó FC, 0
 
 Deportivo La Equidad, 2
 América de Cali, 2
@@ -421,9 +400,6 @@ Turan Tovuz, 4
 Al-Muharraq, 7
 Bahrain SC, 2
 
-Al Najma Manama, 0
-Al-Muharraq, 0
-
 FC Minsk, 3
 FC Isloch Minsk Region, 2
 
@@ -438,9 +414,6 @@ The Strongest, 0
 
 Nacional Potosí, 1
 Club Always Ready, 2
-
-Oriente Petrolero, 0
-Independiente Petrolero, 0
 
 FK Radnik Bijeljina, 2
 FK Sloga Doboj, 1
@@ -561,9 +534,6 @@ Xinabajul Huehue, 0
 
 Deportivo Achuapa, 0
 Deportivo Malacateco, 2
-
-Juventud Pinulteca FC, 0
-Deportivo Guastatoya, 0
 
 Fylkir Reykjavík, 0
 KR Reykjavík, 1

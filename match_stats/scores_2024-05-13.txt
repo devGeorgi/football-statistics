@@ -1,14 +1,14 @@
 Aston Villa, 3
 Liverpool, 3
 
-Barcelona, 2
-Real Sociedad, 0
-
 Lecce, 0
 Udinese, 2
 
 Fiorentina, 2
 Monza, 1
+
+Barcelona, 2
+Real Sociedad, 0
 
 São Paulo, 2
 Fluminense, 1
@@ -55,9 +55,6 @@ Universitatea Craiova, 3
 IFK Göteborg, 0
 Malmö FF, 3
 
-Malmö FF, 0
-GAIS Göteborg, 0
-
 Al-Nasr Dubai, 2
 Khor Fakkan, 1
 
@@ -76,9 +73,6 @@ SC Freiburg, 2
 Almagro, 0
 Estudiantes de Río Cuarto, 1
 
-Racing de Córdoba, 0
-Estudiantes de Buenos Aires, 0
-
 All Boys, 1
 Arsenal de Sarandí, 0
 
@@ -96,9 +90,6 @@ HŠK Zrinjski Mostar, 4
 
 AA Aparecidense, 1
 São Bernardo, 1
-
-Ypiranga FC, 0
-Figueirense, 0
 
 FK Etar Veliko Tarnovo, 1
 Lokomotiv Sofia, 1

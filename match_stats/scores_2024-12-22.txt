@@ -13,6 +13,15 @@ Bournemouth, 3
 Tottenham Hotspur, 3
 Liverpool, 6
 
+Venezia, 2
+Cagliari, 1
+
+Atalanta, 3
+Empoli, 2
+
+Monza, 1
+Juventus, 2
+
 Valencia, 2
 Deportivo Alavés, 2
 
@@ -27,15 +36,6 @@ Villarreal, 5
 
 Real Betis, 1
 Rayo Vallecano, 1
-
-Venezia, 2
-Cagliari, 1
-
-Atalanta, 3
-Empoli, 2
-
-Monza, 1
-Juventus, 2
 
 VfL Bochum 1848, 2
 1. FC Heidenheim, 0
@@ -213,9 +213,6 @@ Ashdod SC, 2
 
 Atlético Nacional, 2
 Deportes Tolima, 0
-
-Al Ahly FC, 0
-Smouha, 0
 
 Kerala Blasters, 3
 Mohammedan SC, 0

@@ -100,9 +100,6 @@ Guabirá, 1
 Bolívar, 4
 San José, 0
 
-Nacional Potosí, 0
-Royal Pari Sion, 0
-
 Caxias, 1
 Confiança, 0
 
@@ -243,9 +240,6 @@ US Livorno 1915, 1
 
 Sokol Hostouň, 2
 Mladá Boleslav B, 3
-
-Valenciennes, 0
-RAAL La Louvière, 0
 
 NK Dubrava Tim Kabel, 2
 NK Kustošija, 2

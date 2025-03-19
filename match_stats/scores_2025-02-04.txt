@@ -61,9 +61,6 @@ AmaZulu FC, 2
 Richards Bay FC, 2
 Marumo Gallants FC, 1
 
-Royal AM, 0
-Stellenbosch, 0
-
 Magesi FC, 1
 Chippa United, 4
 
@@ -142,14 +139,11 @@ Tamworth, 1
 Carrick Rangers, 1
 Larne FC, 2
 
+Coleraine FC, 0
+Cliftonville FC, 0
+
 Benfica U23, 1
 Torreense U23, 3
-
-Estoril Praia U23, 0
-Benfica U23, 0
-
-Vizela U23, 0
-Torreense U23, 0
 
 Académico Viseu U23, 1
 Rio Ave U23, 0

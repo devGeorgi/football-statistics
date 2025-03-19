@@ -175,9 +175,6 @@ Ansan Greeners FC, 0
 Valencia, 0
 Barcelona, 3
 
-Rosario Central, 0
-Barracas Central, 0
-
 SFK Slutsk, 0
 Dinamo Minsk, 5
 
@@ -238,17 +235,8 @@ Deportes Temuco, 7
 Real San Joaquín, 4
 Santiago Morning, 3
 
-San Antonio Unido, 0
-Unión La Calera, 0
-
 Vicente Perez, 0
 Universidad de Concepción, 3
-
-Juvenil Seminario, 0
-Deportes Magallanes, 0
-
-CD Concón National, 0
-Santiago Wanderers, 0
 
 CD 11 de Septiembre, 0
 San Marcos de Arica, 4
@@ -331,6 +319,9 @@ Džiugas Telšiai, 3
 FK Banga Gargždai, 2
 FK Transinvest, 0
 
+Dainava Alytus, 0
+FK Kauno Žalgiris, 0
+
 Notodden FK, 0
 Hødd IL, 4
 
@@ -366,9 +357,6 @@ Manila Digger FC, 0
 
 United City FC, 0
 Davao Aguilas, 0
-
-Brunei DPMM FC, 0
-Lion City Sailors, 0
 
 Tampines Rovers, 3
 Tanjong Pagar United, 0

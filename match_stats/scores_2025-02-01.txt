@@ -16,18 +16,6 @@ Fulham, 2
 Wolverhampton, 2
 Aston Villa, 0
 
-Getafe, 0
-Sevilla, 0
-
-Villarreal, 5
-Real Valladolid, 1
-
-Atlético Madrid, 2
-Mallorca, 0
-
-Espanyol, 1
-Real Madrid, 0
-
 Monza, 0
 Hellas Verona, 1
 
@@ -42,6 +30,18 @@ Como, 0
 
 Juventus, 4
 Empoli, 1
+
+Getafe, 0
+Sevilla, 0
+
+Villarreal, 5
+Real Valladolid, 1
+
+Atlético Madrid, 2
+Mallorca, 0
+
+Espanyol, 1
+Real Madrid, 0
 
 1. FC Heidenheim, 1
 Borussia Dortmund, 2
@@ -424,9 +424,6 @@ FC Sion, 2
 Servette FC, 1
 Grasshopper Club Zürich, 1
 
-Marumo Gallants FC, 0
-Royal AM, 0
-
 Orlando Pirates, 1
 Kaizer Chiefs, 0
 
@@ -510,6 +507,9 @@ Diósgyőri VTK, 1
 
 Debreceni VSC, 3
 Nyiregyháza Spartacus, 1
+
+Olympique Akbou, 0
+USM Alger, 0
 
 Barracas Central, 1
 Banfield, 0
@@ -613,32 +613,14 @@ Hartlepool United, 1
 FC Halifax Town, 2
 Ebbsfleet United, 0
 
-Forest Green Rovers, 0
-Sutton United, 0
-
-Maidenhead United, 0
-Aldershot Town, 0
-
-Oldham Athletic, 0
-Altrincham, 0
-
 Tamworth, 0
 Barnet, 1
 
 Wealdstone, 1
 Solihull Moors, 1
 
-Woking, 0
-Rochdale, 0
-
-Yeovil Town, 0
-Boston United, 0
-
 York City, 2
 Dagenham & Redbridge, 1
-
-Eastleigh, 0
-Gateshead, 0
 
 IF Gnistan, 3
 KTP, 0
@@ -699,6 +681,9 @@ Eintracht Hohkeppel, 1
 
 AO Kavala, 0
 GS Diagoras Rodou, 0
+
+AS Makedonikos Neapolis, 0
+Niki Volou, 0
 
 Ethnikos Neou Keramidiou, 2
 PAOK B, 3

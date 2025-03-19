@@ -52,6 +52,9 @@ Leyton Orient, 2
 Wycombe Wanderers, 2
 Bristol Rovers, 0
 
+Fleetwood Town, 0
+AFC Wimbledon, 0
+
 Morecambe, 0
 Doncaster Rovers, 1
 
@@ -72,9 +75,6 @@ Supersport United, 4
 
 Polokwane City, 0
 Magesi FC, 1
-
-Richards Bay FC, 0
-Royal AM, 0
 
 TS Galaxy, 2
 Stellenbosch, 3
@@ -99,9 +99,6 @@ Pohang Steelers, 2
 
 Shanghai Shenhua, 4
 Vissel Kobe, 2
-
-Ulsan HD, 0
-Shandong Taishan, 0
 
 Al-Rayyan, 0
 Esteghlal FC, 2

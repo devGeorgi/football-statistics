@@ -31,9 +31,6 @@ Deportivo Cuenca, 1
 Técnico Universitario, 1
 Macará, 1
 
-Barcelona SC, 0
-LDU, 0
-
 Independiente Del Valle, 1
 Aucas, 1
 
@@ -136,17 +133,8 @@ Real Cundinamarca, 3
 Cúcuta Deportivo, 2
 Real Santander, 1
 
-Deportivo Saprissa, 0
-Municipal Pérez Zeledón, 0
-
-Municipal Liberia, 0
-LD Alajuelense, 0
-
 Esbjerg, 2
 Aarhus Fremad, 2
-
-Hamburger SV II U23, 0
-FC St Pauli II U23, 0
 
 Eintracht Norderstedt, 1
 Eimsbütteler TV, 0
@@ -156,9 +144,6 @@ SSV Jeddeloh, 1
 
 Holstein Kiel II U23, 1
 VfB Oldenburg, 3
-
-TSV Havelse, 0
-FC Kilia Kiel, 0
 
 SC Spelle-Venhaus, 2
 Bremer SV, 2
@@ -217,20 +202,11 @@ Padova, 0
 Renate, 0
 Arzignano Valchiampo, 3
 
-Triestina, 0
-Atalanta U23, 0
-
 Arezzo, 2
 Fermana, 0
 
 Lucchese, 0
 Cesena, 1
-
-Rimini, 0
-Olbia, 0
-
-Juventus Next Gen U23, 0
-Virtus Entella, 0
 
 Turris, 2
 Catania, 1
@@ -253,35 +229,14 @@ Panama, 0
 USA, 2
 Mexico, 0
 
-Volgar Astrakhan, 0
-Neftekhimik Nizhnekamsk, 0
-
-Alania Vladikavkaz, 0
-Rodina Moscow, 0
-
-Shinnik Yaroslavl, 0
-Akron Togliatti, 0
-
-Dinamo Makhachkala, 0
-FC Khimki, 0
-
 The New Saints, 1
 Airdrieonians, 2
 
 Cerro, 1
 Cerro Largo, 1
 
-Progreso, 0
-Deportivo Maldonado, 0
-
-Rampla Juniors, 0
-Fénix, 0
-
 Danubio, 0
 Montevideo Wanderers, 2
-
-Peñarol, 0
-Nacional, 0
 
 Deportivo La Guaira, 2
 Zamora, 1

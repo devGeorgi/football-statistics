@@ -1,8 +1,8 @@
-Rayo Vallecano, 1
-Real Valladolid, 0
-
 Como, 1
 Juventus, 2
+
+Rayo Vallecano, 1
+Real Valladolid, 0
 
 Nantes, 0
 Stade Brestois, 2
@@ -172,9 +172,6 @@ Chiangrai United, 1
 Al-Orooba, 4
 Al-Jazira, 5
 
-SV Zulte Waregem, 0
-KMSK Deinze, 0
-
 Lommel SK, 0
 Club NXT U23, 2
 
@@ -195,30 +192,6 @@ Madrid CFF, 2
 
 MTK Budapest, 0
 Debreceni VSC, 2
-
-CS Constantine, 0
-ASO Chlef, 0
-
-ES Sétif, 0
-CR Belouizdad, 0
-
-MC Oran, 0
-ES Mostaganem, 0
-
-Olympique Akbou, 0
-JS Kabylie, 0
-
-Paradou AC, 0
-MC Alger, 0
-
-US Biskra, 0
-MC El Bayadh, 0
-
-USM Alger, 0
-NC Magra, 0
-
-USM Khenchela, 0
-JS Saoura, 0
 
 Central Córdoba, 2
 Newell's Old Boys, 0
@@ -282,9 +255,6 @@ Arminia Bielefeld, 0
 
 Berliner FC Dynamo, 2
 BSG Chemie Leipzig, 0
-
-FC Rot-Weiß Erfurt, 0
-Hertha BSC II U23, 0
 
 FSV Luckenwalde, 0
 FC Eilenburg, 2
@@ -378,9 +348,6 @@ Famalicão, 2
 
 Marítimo, 0
 Benfica, 1
-
-Sporting U23, 0
-Vizela U23, 0
 
 Ayr United, 0
 Hibernian, 1

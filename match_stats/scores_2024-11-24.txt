@@ -4,18 +4,6 @@ Liverpool, 3
 Ipswich Town, 1
 Manchester United, 1
 
-Osasuna, 2
-Villarreal, 2
-
-Sevilla, 1
-Rayo Vallecano, 0
-
-Leganés, 0
-Real Madrid, 3
-
-Athletic Club, 1
-Real Sociedad, 0
-
 Como, 0
 Fiorentina, 2
 
@@ -27,6 +15,18 @@ Roma, 0
 
 Lazio, 3
 Bologna, 0
+
+Osasuna, 2
+Villarreal, 2
+
+Sevilla, 1
+Rayo Vallecano, 0
+
+Leganés, 0
+Real Madrid, 3
+
+Athletic Club, 1
+Real Sociedad, 0
 
 Holstein Kiel, 0
 1. FSV Mainz 05, 3
@@ -325,9 +325,6 @@ AS Roma, 1
 FC Como, 1
 Juventus, 4
 
-Real Sociedad, 0
-Real Madrid, 0
-
 Atlético Madrid, 1
 SD Eibar, 1
 
@@ -385,24 +382,6 @@ Ludogorets, 2
 CS Cartaginés, 2
 Municipal Pérez Zeledón, 0
 
-AD Guanacasteca, 0
-LD Alajuelense, 0
-
-Deportivo Saprissa, 0
-Municipal Santa Ana, 0
-
-Herediano, 0
-Santos de Guápiles, 0
-
-Municipal Pérez Zeledón, 0
-Municipal Liberia, 0
-
-Puntarenas FC, 0
-San Carlos, 0
-
-Sporting FC, 0
-CS Cartaginés, 0
-
 Municipal Liberia, 1
 Herediano, 1
 
@@ -421,9 +400,6 @@ HB Køge, 0
 FC Fredericia, 1
 Kolding IF, 0
 
-Hobro, 0
-Boldklubben af 1893, 0
-
 Hillerød, 1
 Esbjerg, 2
 
@@ -435,12 +411,6 @@ VfL Osnabrück, 2
 
 Borussia Dortmund II U23, 3
 Erzgebirge Aue, 1
-
-SV Todesfelde, 0
-Eintracht Norderstedt, 0
-
-FC St Pauli II U23, 0
-TSV Havelse, 0
 
 BSG Chemie Leipzig, 0
 FSV Zwickau, 2
@@ -507,9 +477,6 @@ Cobán Imperial, 0
 
 Deportivo Malacateco, 4
 CD Marquense, 0
-
-Juventud Pinulteca FC, 0
-Antigua GFC, 0
 
 Xinabajul Huehue, 1
 Comunicaciones FC, 2

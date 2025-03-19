@@ -85,9 +85,6 @@ San Martín de Tucumán, 0
 Racing de Córdoba, 0
 San Martín de San Juan, 0
 
-San Telmo, 0
-Aldosivi, 0
-
 Deportivo Madryn, 0
 Club Atletico Colón, 0
 
@@ -175,14 +172,8 @@ Lyn FK, 4
 Mjøndalen, 3
 Ranheim IL, 3
 
-Raufoss, 0
-Levanger, 0
-
 Sogndal IL, 2
 Egersund, 2
-
-Stabæk Fotball, 0
-Sandnes Ulf, 0
 
 Vålerenga IF, 5
 Moss FK, 1
@@ -234,9 +225,6 @@ Greenville Triumph SC, 3
 
 Progreso, 1
 River Plate UY, 0
-
-Rampla Juniors, 0
-Boston River, 0
 
 Cerro Largo, 2
 Danubio, 2

@@ -16,18 +16,6 @@ Brentford, 0
 Aston Villa, 2
 Chelsea, 2
 
-Las Palmas, 0
-Girona FC, 2
-
-Almería, 1
-Getafe, 3
-
-Deportivo Alavés, 3
-Celta Vigo, 0
-
-Atlético Madrid, 3
-Athletic Club, 1
-
 Lecce, 1
 Monza, 1
 
@@ -39,6 +27,18 @@ Hellas Verona, 0
 
 Inter, 2
 Torino, 0
+
+Las Palmas, 0
+Girona FC, 2
+
+Almería, 1
+Getafe, 3
+
+Deportivo Alavés, 3
+Celta Vigo, 0
+
+Atlético Madrid, 3
+Athletic Club, 1
 
 FC Augsburg, 0
 SV Werder Bremen, 3
@@ -238,9 +238,6 @@ Plymouth Argyle, 0
 Norwich City, 2
 Swansea City, 2
 
-Preston North End, 0
-Leicester City, 0
-
 Sheffield Wednesday, 3
 West Bromwich Albion, 0
 
@@ -321,9 +318,6 @@ Bordeaux, 0
 
 US Concarneau, 1
 Rodez AF, 2
-
-USL Dunkerque, 0
-Auxerre, 0
 
 Valenciennes, 2
 Grenoble Foot 38, 0
@@ -444,9 +438,6 @@ Bodø/Glimt, 3
 
 Sport Boys, 0
 Unión Comercio, 0
-
-Universidad César Vallejo, 0
-Club Sporting Cristal, 0
 
 Universidad Técnica de Cajamarca, 3
 Club Atlético Grau, 2
@@ -691,9 +682,6 @@ Remo, 1
 CSKA Sofia, 3
 Levski Sofia, 1
 
-Beroe Stara Zagora, 0
-FK Etar Veliko Tarnovo, 0
-
 Botev Plovdiv, 0
 Slavia Sofia, 1
 
@@ -780,9 +768,6 @@ KTP, 5
 
 FC Iberia 1999, 3
 FC Torpedo Kutaisi, 3
-
-FC Torpedo Kutaisi, 0
-Dinamo Tbilisi, 0
 
 FC Dila Gori, 1
 FC Samgurali Tskhaltubo, 1
@@ -880,9 +865,6 @@ Karela United, 2
 Bechem United, 1
 Heart of Lions, 1
 
-Dreams, 0
-Real Tamale United, 0
-
 Medeama, 1
 Asante Kotoko SC, 1
 
@@ -891,9 +873,6 @@ Bibiani Gold Stars FC, 0
 
 Samartex, 1
 Accra Great Olympics, 0
-
-Accra Hearts of Oak, 0
-Accra Lions FC, 0
 
 AE Larisa, 3
 AEK B, 0
@@ -984,9 +963,6 @@ Kairat Almaty, 0
 
 Yelimay Semey, 1
 FC Ordabasy, 1
-
-Shakhter Karagandy, 0
-Aksu, 0
 
 Zhetysu Taldykorgan, 2
 FK Aktobe, 1
@@ -1195,9 +1171,6 @@ Sandvikens IF, 2
 Landskrona BoIS, 1
 Utsiktens BK, 0
 
-Skövde AIK, 0
-IK Oddevold, 0
-
 Örgryte IS, 2
 Östers IF, 2
 
@@ -1254,6 +1227,9 @@ FC Thun, 0
 
 FC Sion, 0
 FC Lugano, 2
+
+Stade Tunisien, 0
+US Monastir, 0
 
 ES Métlaoui, 2
 CA Bizertin, 2

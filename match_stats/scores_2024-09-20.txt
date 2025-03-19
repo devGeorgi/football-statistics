@@ -1,14 +1,14 @@
 West Ham United, 0
 Chelsea, 3
 
-Deportivo Alavés, 2
-Sevilla, 1
-
 Cagliari, 0
 Empoli, 2
 
 Hellas Verona, 2
 Torino, 3
+
+Deportivo Alavés, 2
+Sevilla, 1
 
 FC Augsburg, 2
 1. FSV Mainz 05, 3
@@ -207,9 +207,6 @@ FC Gloria Buzău, 3
 
 SC Oțelul Galați, 1
 FC Dinamo București, 1
-
-TS Galaxy, 0
-Mamelodi Sundowns, 0
 
 York United FC, 0
 Cavalry FC, 2
@@ -451,9 +448,6 @@ Hertha BSC II U23, 1
 VFC Plauen, 1
 Berliner FC Dynamo, 3
 
-Viktoria Berlin, 0
-FSV Zwickau, 0
-
 Chemnitzer FC, 0
 Hertha Zehlendorf, 0
 
@@ -484,14 +478,14 @@ SV Wacker Burghausen, 2
 FV Illertissen, 2
 Türkgücü München, 1
 
-Medeama, 0
-Samartex, 0
-
 GE Panachaiki, 0
 AEK B, 1
 
 Deportivo Malacateco, 1
 Cobán Imperial, 0
+
+PSM Makassar, 0
+PSIS Semarang, 0
 
 Dewa United FC, 3
 Madura United FC, 3
@@ -522,9 +516,6 @@ Athlone Town, 2
 
 University College Dublin, 2
 Cobh Ramblers FC, 0
-
-Aurora Pro Patria, 0
-Novara, 0
 
 Giana Erminio, 0
 AlbinoLeffe, 2
@@ -606,9 +597,6 @@ CSM Ceahlăul Piatra Neamţ, 1
 
 CSC 1599 Șelimbăr, 0
 FC Voluntari, 0
-
-CSM Slatina, 0
-CSM Reşiţa, 0
 
 CS Mioveni, 1
 FC Argeș Pitești, 1

@@ -19,9 +19,6 @@ Stade de Reims, 1
 Chaves, 0
 Famalicão, 1
 
-Standard Liège, 0
-KVC Westerlo, 0
-
 Celtic, 2
 Rangers, 1
 
@@ -457,9 +454,6 @@ FC Samgurali Tskhaltubo, 3
 Dinamo Tbilisi, 1
 FC Iberia 1999, 0
 
-FC Samtredia, 0
-Dinamo Tbilisi, 0
-
 Rot-Weiss Essen, 0
 TSV 1860 München, 1
 
@@ -484,29 +478,11 @@ SV Wacker Burghausen, 3
 SpVgg Bayreuth, 0
 1. FC Nürnberg II, 0
 
-AS Anagennisi Karditsas 1904, 0
-AEPS Aiolikos Mytilene, 0
-
-Kampaniakos, 0
-FS Kozani, 0
-
-PAOK B, 0
-Iraklis 1908, 0
-
 AS Makedonikos Neapolis, 1
 AEK B, 2
 
 GE Panachaiki, 1
 GS Diagoras Rodou, 0
-
-GS Diagoras Rodou, 0
-AO Egaleo, 0
-
-Olympiacos B, 0
-AO Giouchtas Archanon, 0
-
-Panathinaikos B, 0
-GE Panachaiki, 0
 
 Stjarnan Garðabær, 1
 Fram Reykjavík, 1

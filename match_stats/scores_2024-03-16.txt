@@ -7,18 +7,6 @@ Nottingham Forest, 1
 Fulham, 3
 Tottenham Hotspur, 0
 
-Mallorca, 1
-Granada, 0
-
-Osasuna, 2
-Real Madrid, 4
-
-Getafe, 1
-Girona FC, 0
-
-Athletic Club, 2
-Deportivo Alavés, 0
-
 Monza, 1
 Cagliari, 0
 
@@ -33,6 +21,18 @@ Lazio, 3
 
 Juventus, 0
 Genoa, 0
+
+Mallorca, 1
+Granada, 0
+
+Osasuna, 2
+Real Madrid, 4
+
+Getafe, 1
+Girona FC, 0
+
+Athletic Club, 2
+Deportivo Alavés, 0
 
 1. FC Heidenheim, 1
 Borussia M'gladbach, 1
@@ -685,17 +685,8 @@ Defensores de Belgrano, 4
 Tristán Suárez, 2
 Gimnasia Jujuy, 1
 
-Agropecuario Argentino, 0
-Club Ferro Carril Oeste, 0
-
-Gimnasia y Tiro de Salta, 0
-Almirante Brown, 0
-
 All Boys, 3
 Deportivo Maipú, 2
-
-Nueva Chicago, 0
-Defensores Unidos, 0
 
 Aldosivi, 1
 Estudiantes de Río Cuarto, 1
@@ -822,18 +813,6 @@ Unión Magdalena, 0
 
 Cúcuta Deportivo, 6
 Bogotá FC, 0
-
-Municipal Grecia, 0
-AD Guanacasteca, 0
-
-Puntarenas FC, 0
-Deportivo Saprissa, 0
-
-Municipal Pérez Zeledón, 0
-Herediano, 0
-
-Municipal Liberia, 0
-San Carlos, 0
 
 APOEL Nicosia, 0
 Omonia Nicosia, 1
@@ -1021,17 +1000,8 @@ Bayern München II, 4
 SV Schalding-Heining, 0
 TSV Aubstadt, 1
 
-SpVgg Bayreuth, 0
-SpVgg Ansbach, 0
-
-CSD Municipal, 0
-Deportivo Malacateco, 0
-
 Deportivo Mixco, 2
 Xinabajul Huehue, 0
-
-CSD Zacapa, 0
-Comunicaciones FC, 0
 
 Real Kashmir, 1
 Delhi FC, 1
@@ -1044,9 +1014,6 @@ Dewa United FC, 3
 
 Persija Jakarta, 2
 Persik Kediri, 0
-
-Longford Town, 0
-Treaty United FC, 0
 
 Atalanta U23, 0
 Pergolettese, 2

@@ -223,9 +223,6 @@ Molde FK, 1
 Haugesund, 0
 Lillestrøm SK, 2
 
-Sandefjord Fotball, 0
-Tromsø IL, 0
-
 Sarpsborg 08, 0
 Odds BK, 1
 
@@ -480,9 +477,6 @@ Türkgücü München, 3
 
 Aduana Stars FC, 3
 Real Tamale United, 1
-
-Dreams, 0
-Legon Cities, 0
 
 Karela United, 1
 Heart of Lions, 0

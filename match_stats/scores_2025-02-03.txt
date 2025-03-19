@@ -1,11 +1,11 @@
 Chelsea, 2
 West Ham United, 1
 
-Girona FC, 2
-Las Palmas, 1
-
 Cagliari, 1
 Lazio, 2
+
+Girona FC, 2
+Las Palmas, 1
 
 Moreirense, 1
 Sporting Braga, 2
@@ -39,6 +39,9 @@ VVV-Venlo, 0
 
 Maccabi Tel Aviv, 1
 Beitar Jerusalem, 1
+
+Deportivo Pereira, 0
+Alianza Valledupar FC, 0
 
 Llaneros FC, 2
 Unión Magdalena, 0
