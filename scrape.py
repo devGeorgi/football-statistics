@@ -5,7 +5,7 @@ from datetime import datetime, timedelta
 from match_logger import get_logger
 
 # Configuration - Edit these dates as needed
-start_date = datetime.now() - timedelta(days=2)
+start_date = datetime.now() - timedelta(days=10)
 end_date = datetime.now() - timedelta(days=1)
 DATES = [(start_date + timedelta(days=i)).strftime("%Y-%m-%d") for i in range((end_date - start_date).days + 1)]
 

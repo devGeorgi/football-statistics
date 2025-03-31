@@ -70,10 +70,10 @@
         ]
     },
     "Barcelona": {
-        "winstreak": 8,
+        "winstreak": 9,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 16,
+        "games_without_loss": 17,
         "match_history": [
             [
                 "2025-02-02",
@@ -170,13 +170,19 @@
                 "Atlético Madrid",
                 "w",
                 "4-2"
+            ],
+            [
+                "2025-03-19",
+                "VfL Wolfsburg",
+                "w",
+                "4-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
-            "Atlético Madrid",
+            "2025-03-19",
+            "VfL Wolfsburg",
             "w",
-            "4-2"
+            "4-1"
         ]
     },
     "Napoli": {
@@ -1721,23 +1727,23 @@
         ]
     },
     "ADO Den Haag": {
-        "winstreak": 1,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 1,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-14",
-                "Vitesse",
-                "w",
-                "1-0"
+                "2025-03-19",
+                "Sparta Rotterdam",
+                "l",
+                "0-2"
             ]
         ],
         "last_streak_match": [
-            "2025-03-14",
-            "Vitesse",
-            "w",
-            "1-0"
+            "2025-03-19",
+            "Sparta Rotterdam",
+            "l",
+            "0-2"
         ]
     },
     "FC Dordrecht": {
@@ -2031,47 +2037,23 @@
         ]
     },
     "FC Groningen": {
-        "winstreak": 2,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 5,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-02-08",
-                "NEC Nijmegen",
-                "w",
-                "2-1"
-            ],
-            [
-                "2025-02-15",
-                "Willem II Tilburg",
-                "w",
-                "3-1"
-            ],
-            [
-                "2025-03-01",
-                "FC Twente",
-                "d",
-                "1-1"
-            ],
-            [
-                "2025-03-16",
-                "Fortuna Sittard",
-                "w",
-                "1-0"
-            ],
-            [
-                "2025-03-17",
-                "Fortuna Sittard",
-                "w",
-                "1-0"
+                "2025-03-19",
+                "FC Schalke 04",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
-            "Fortuna Sittard",
-            "w",
-            "1-0"
+            "2025-03-19",
+            "FC Schalke 04",
+            "l",
+            "0-1"
         ]
     },
     "Manisa FK": {
@@ -3111,20 +3093,26 @@
         ]
     },
     "Wycombe Wanderers": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "Rotherham United",
                 "w",
                 "3-2"
+            ],
+            [
+                "2025-03-19",
+                "Rotherham United",
+                "w",
+                "3-2"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Rotherham United",
             "w",
             "3-2"
@@ -3373,20 +3361,26 @@
         ]
     },
     "Sutton United": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "AFC Fylde",
                 "w",
                 "2-1"
+            ],
+            [
+                "2025-03-19",
+                "AFC Fylde",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "AFC Fylde",
             "w",
             "2-1"
@@ -4676,8 +4670,8 @@
     },
     "VfL Wolfsburg": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -4691,6 +4685,12 @@
                 "FC Augsburg",
                 "l",
                 "0-1"
+            ],
+            [
+                "2025-03-19",
+                "Barcelona",
+                "l",
+                "1-4"
             ]
         ],
         "last_streak_match": [
@@ -4829,35 +4829,23 @@
         ]
     },
     "Gimnasia y Tiro de Salta": {
-        "winstreak": 2,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 3,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-09",
-                "Patronato",
-                "d",
-                "0-0"
-            ],
-            [
-                "2025-03-16",
-                "Güemes",
-                "w",
-                "1-0"
-            ],
-            [
-                "2025-03-17",
-                "Güemes",
-                "w",
-                "1-0"
+                "2025-03-19",
+                "Aldosivi",
+                "l",
+                "6-7"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
-            "Güemes",
-            "w",
-            "1-0"
+            "2025-03-19",
+            "Aldosivi",
+            "l",
+            "6-7"
         ]
     },
     "Taichung Futuro FC": {
@@ -5444,10 +5432,10 @@
         ]
     },
     "Bahia": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 8,
+        "games_without_loss": 9,
         "match_history": [
             [
                 "2024-12-08",
@@ -5496,13 +5484,19 @@
                 "Boston River",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "CSA",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-13",
-            "Boston River",
+            "2025-03-19",
+            "CSA",
             "w",
-            "1-0"
+            "2-1"
         ]
     },
     "Ipatinga": {
@@ -5836,8 +5830,8 @@
     "Real Cartagena": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 5,
+        "games_without_win": 2,
+        "games_without_loss": 6,
         "match_history": [
             [
                 "2025-02-09",
@@ -5865,6 +5859,12 @@
             ],
             [
                 "2025-03-18",
+                "Tigres FC",
+                "d",
+                "0-0"
+            ],
+            [
+                "2025-03-19",
                 "Tigres FC",
                 "d",
                 "0-0"
@@ -6205,10 +6205,10 @@
         ]
     },
     "Aldershot Town": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 6,
+        "games_without_loss": 7,
         "match_history": [
             [
                 "2025-02-22",
@@ -6245,10 +6245,16 @@
                 "Maidenhead United",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Maidenhead United",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Maidenhead United",
             "w",
             "1-0"
@@ -6276,8 +6282,8 @@
     },
     "Altrincham": {
         "winstreak": 0,
-        "losestreak": 4,
-        "games_without_win": 4,
+        "losestreak": 5,
+        "games_without_win": 5,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -6300,6 +6306,12 @@
             ],
             [
                 "2025-03-18",
+                "Wealdstone",
+                "l",
+                "0-1"
+            ],
+            [
+                "2025-03-19",
                 "Wealdstone",
                 "l",
                 "0-1"
@@ -6392,8 +6404,8 @@
     },
     "Gateshead": {
         "winstreak": 0,
-        "losestreak": 4,
-        "games_without_win": 6,
+        "losestreak": 5,
+        "games_without_win": 7,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -6419,6 +6431,12 @@
                 "Braintree Town",
                 "l",
                 "1-3"
+            ],
+            [
+                "2025-03-19",
+                "Braintree Town",
+                "l",
+                "1-3"
             ]
         ],
         "last_streak_match": [
@@ -6429,20 +6447,26 @@
         ]
     },
     "Dagenham & Redbridge": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "FC Halifax Town",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "FC Halifax Town",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "FC Halifax Town",
             "w",
             "1-0"
@@ -6470,8 +6494,8 @@
     },
     "AFC Fylde": {
         "winstreak": 0,
-        "losestreak": 3,
-        "games_without_win": 3,
+        "losestreak": 4,
+        "games_without_win": 4,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -6491,6 +6515,12 @@
                 "Sutton United",
                 "l",
                 "1-2"
+            ],
+            [
+                "2025-03-19",
+                "Sutton United",
+                "l",
+                "1-2"
             ]
         ],
         "last_streak_match": [
@@ -6502,12 +6532,18 @@
     },
     "Rochdale": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Boston United",
+                "l",
+                "2-3"
+            ],
+            [
+                "2025-03-19",
                 "Boston United",
                 "l",
                 "2-3"
@@ -7124,13 +7160,19 @@
     },
     "Accra Hearts of Oak": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-15",
                 "Dreams",
+                "l",
+                "0-1"
+            ],
+            [
+                "2025-03-19",
+                "Bechem United",
                 "l",
                 "0-1"
             ]
@@ -7746,10 +7788,10 @@
         ]
     },
     "Churchill Brothers SC": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 4,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2025-02-23",
@@ -7774,10 +7816,16 @@
                 "Dempo SC",
                 "w",
                 "3-1"
+            ],
+            [
+                "2025-03-19",
+                "Dempo SC",
+                "w",
+                "3-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Dempo SC",
             "w",
             "3-1"
@@ -7810,16 +7858,22 @@
         ]
     },
     "Inter Kashi FC": {
-        "winstreak": 1,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_win": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-06",
                 "Namdhari Football Club",
                 "w",
                 "3-2"
+            ],
+            [
+                "2025-03-19",
+                "Sreenidi Deccan FC",
+                "d",
+                "2-2"
             ]
         ],
         "last_streak_match": [
@@ -8866,16 +8920,22 @@
         ]
     },
     "CD Tapatío": {
-        "winstreak": 1,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_win": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-09",
                 "Tlaxcala FC",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Atlante FC",
+                "d",
+                "0-0"
             ]
         ],
         "last_streak_match": [
@@ -11582,10 +11642,10 @@
         ]
     },
     "El Paso Locomotive FC": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 3,
-        "games_without_loss": 2,
+        "games_without_win": 0,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-08",
@@ -11598,13 +11658,19 @@
                 "Phoenix Rising FC",
                 "d",
                 "4-4"
+            ],
+            [
+                "2025-03-19",
+                "FC Boulder Harpos",
+                "w",
+                "3-0"
             ]
         ],
         "last_streak_match": [
-            "2024-10-26",
-            "Pittsburgh Riverhounds",
-            "l",
-            "0-2"
+            "2025-03-19",
+            "FC Boulder Harpos",
+            "w",
+            "3-0"
         ]
     },
     "Monterey Bay FC": {
@@ -11796,10 +11862,10 @@
         ]
     },
     "River Plate": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 2,
+        "games_without_win": 0,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-09",
@@ -11812,13 +11878,19 @@
                 "Deportivo Riestra",
                 "d",
                 "0-0"
+            ],
+            [
+                "2025-03-19",
+                "Ciudad de Bolivar",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-09",
-            "Atlético Tucumán",
+            "2025-03-19",
+            "Ciudad de Bolivar",
             "w",
-            "1-0"
+            "2-0"
         ]
     },
     "Estudiantes de La Plata": {
@@ -12233,41 +12305,23 @@
         ]
     },
     "Sport Recife": {
-        "winstreak": 4,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 4,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-02",
-                "Decisão Sertânia",
-                "w",
-                "3-0"
-            ],
-            [
-                "2025-03-05",
-                "CRB",
-                "w",
-                "2-1"
-            ],
-            [
-                "2025-03-08",
-                "Santa Cruz",
-                "w",
-                "2-0"
-            ],
-            [
-                "2025-03-15",
-                "Santa Cruz",
-                "w",
-                "1-0"
+                "2025-03-19",
+                "Vitória",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-15",
-            "Santa Cruz",
-            "w",
-            "1-0"
+            "2025-03-19",
+            "Vitória",
+            "l",
+            "0-1"
         ]
     },
     "Murici": {
@@ -12463,8 +12517,8 @@
     },
     "América-RN": {
         "winstreak": 0,
-        "losestreak": 3,
-        "games_without_win": 3,
+        "losestreak": 4,
+        "games_without_win": 4,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -12481,6 +12535,12 @@
             ],
             [
                 "2025-03-18",
+                "Náutico",
+                "l",
+                "0-1"
+            ],
+            [
+                "2025-03-19",
                 "Náutico",
                 "l",
                 "0-1"
@@ -12579,8 +12639,8 @@
     },
     "Sampaio Corrêa": {
         "winstreak": 0,
-        "losestreak": 3,
-        "games_without_win": 5,
+        "losestreak": 4,
+        "games_without_win": 6,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -12600,6 +12660,12 @@
                 "Juazeirense",
                 "l",
                 "0-1"
+            ],
+            [
+                "2025-03-19",
+                "Confiança",
+                "l",
+                "0-2"
             ]
         ],
         "last_streak_match": [
@@ -12636,10 +12702,10 @@
         ]
     },
     "Sousa EC": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-03-09",
@@ -12658,13 +12724,19 @@
                 "Serra Branca EC",
                 "w",
                 "5-4"
+            ],
+            [
+                "2025-03-19",
+                "Fortaleza",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
-            "Serra Branca EC",
+            "2025-03-19",
+            "Fortaleza",
             "w",
-            "5-4"
+            "2-1"
         ]
     },
     "São Paulo Crystal": {
@@ -12891,23 +12963,29 @@
         ]
     },
     "Confiança": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-15",
                 "Falcon-SE FC",
                 "w",
                 "3-0"
+            ],
+            [
+                "2025-03-19",
+                "Sampaio Corrêa",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-15",
-            "Falcon-SE FC",
+            "2025-03-19",
+            "Sampaio Corrêa",
             "w",
-            "3-0"
+            "2-0"
         ]
     },
     "Olímpico EC": {
@@ -13053,10 +13131,10 @@
         ]
     },
     "Aduana Stars FC": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 4,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2025-02-02",
@@ -13081,20 +13159,26 @@
                 "Bibiani Gold Stars FC",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "Nations FC",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
-            "Bibiani Gold Stars FC",
+            "2025-03-19",
+            "Nations FC",
             "w",
-            "2-0"
+            "1-0"
         ]
     },
     "Samartex": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 7,
+        "games_without_win": 0,
+        "games_without_loss": 8,
         "match_history": [
             [
                 "2024-12-29",
@@ -13137,13 +13221,19 @@
                 "Asante Kotoko SC",
                 "d",
                 "1-1"
+            ],
+            [
+                "2025-03-19",
+                "Medeama",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-10",
-            "Nsoatreman FC",
+            "2025-03-19",
+            "Medeama",
             "w",
-            "1-0"
+            "2-1"
         ]
     },
     "Nsoatreman FC": {
@@ -13175,14 +13265,20 @@
     "Asante Kotoko SC": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 1,
+        "games_without_win": 3,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-15",
                 "Samartex",
                 "d",
                 "1-1"
+            ],
+            [
+                "2025-03-19",
+                "Young Apostles FC",
+                "d",
+                "0-0"
             ]
         ],
         "last_streak_match": [
@@ -13328,12 +13424,18 @@
     },
     "Real Kashmir": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-17",
+                "SC Bengaluru",
+                "l",
+                "2-3"
+            ],
+            [
+                "2025-03-19",
                 "SC Bengaluru",
                 "l",
                 "2-3"
@@ -14221,10 +14323,10 @@
         ]
     },
     "Atlante FC": {
-        "winstreak": 3,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_win": 1,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-02-22",
@@ -14243,6 +14345,12 @@
                 "Leones Negros",
                 "w",
                 "2-1"
+            ],
+            [
+                "2025-03-19",
+                "CD Tapatío",
+                "d",
+                "0-0"
             ]
         ],
         "last_streak_match": [
@@ -16668,12 +16776,18 @@
     },
     "Al-Sharjah": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Shabab Al-Ahli Dubai",
+                "l",
+                "1-3"
+            ],
+            [
+                "2025-03-19",
                 "Shabab Al-Ahli Dubai",
                 "l",
                 "1-3"
@@ -16719,20 +16833,26 @@
         ]
     },
     "Shabab Al-Ahli Dubai": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "Al-Sharjah",
                 "w",
                 "3-1"
+            ],
+            [
+                "2025-03-19",
+                "Al-Sharjah",
+                "w",
+                "3-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Al-Sharjah",
             "w",
             "3-1"
@@ -16890,34 +17010,22 @@
     },
     "Talleres": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 3,
+        "losestreak": 1,
+        "games_without_win": 3,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-05",
-                "River Plate",
-                "w",
-                "3-2"
-            ],
-            [
-                "2025-03-10",
-                "Rosario Central",
-                "d",
-                "0-0"
-            ],
-            [
-                "2025-03-15",
-                "Sarmiento",
-                "d",
-                "0-0"
+                "2025-03-19",
+                "Deportivo Armenio",
+                "l",
+                "7-8"
             ]
         ],
         "last_streak_match": [
-            "2025-03-05",
-            "River Plate",
-            "w",
-            "3-2"
+            "2025-03-19",
+            "Deportivo Armenio",
+            "l",
+            "7-8"
         ]
     },
     "Agropecuario Argentino": {
@@ -17329,23 +17437,23 @@
         "last_streak_match": null
     },
     "Fortaleza": {
-        "winstreak": 1,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 1,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-05",
-                "Ferroviário",
-                "w",
-                "4-0"
+                "2025-03-19",
+                "Sousa EC",
+                "l",
+                "1-2"
             ]
         ],
         "last_streak_match": [
-            "2025-03-05",
-            "Ferroviário",
-            "w",
-            "4-0"
+            "2025-03-19",
+            "Sousa EC",
+            "l",
+            "1-2"
         ]
     },
     "Retrô": {
@@ -17620,42 +17728,30 @@
         "last_streak_match": null
     },
     "Heart of Lions": {
-        "winstreak": 2,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 3,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-09",
-                "Vision FC",
-                "d",
-                "1-1"
-            ],
-            [
-                "2025-03-16",
-                "Karela United",
-                "w",
-                "1-0"
-            ],
-            [
-                "2025-03-17",
-                "Karela United",
-                "w",
-                "1-0"
+                "2025-03-19",
+                "Dreams",
+                "l",
+                "1-2"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
-            "Karela United",
-            "w",
-            "1-0"
+            "2025-03-19",
+            "Dreams",
+            "l",
+            "1-2"
         ]
     },
     "Legon Cities": {
-        "winstreak": 4,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 4,
+        "games_without_win": 1,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2025-01-19",
@@ -17680,6 +17776,12 @@
                 "Berekum Chelsea",
                 "w",
                 "2-1"
+            ],
+            [
+                "2025-03-19",
+                "Vision FC",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -17690,35 +17792,29 @@
         ]
     },
     "Nations FC": {
-        "winstreak": 2,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 2,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-16",
-                "Medeama",
-                "w",
-                "2-1"
-            ],
-            [
-                "2025-03-17",
-                "Medeama",
-                "w",
-                "2-1"
+                "2025-03-19",
+                "Aduana Stars FC",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
-            "Medeama",
-            "w",
-            "2-1"
+            "2025-03-19",
+            "Aduana Stars FC",
+            "l",
+            "0-1"
         ]
     },
     "Medeama": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -17732,6 +17828,12 @@
                 "Nations FC",
                 "l",
                 "1-2"
+            ],
+            [
+                "2025-03-19",
+                "Samartex",
+                "l",
+                "1-2"
             ]
         ],
         "last_streak_match": [
@@ -17742,10 +17844,10 @@
         ]
     },
     "Bechem United": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-16",
@@ -17758,13 +17860,19 @@
                 "Vision FC",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "Accra Hearts of Oak",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
-            "Vision FC",
+            "2025-03-19",
+            "Accra Hearts of Oak",
             "w",
-            "2-0"
+            "1-0"
         ]
     },
     "Real Tamale United": {
@@ -17806,36 +17914,30 @@
         ]
     },
     "Bibiani Gold Stars FC": {
-        "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
-        "games_without_loss": 0,
-        "match_history": [
-            [
-                "2025-03-16",
-                "Aduana Stars FC",
-                "l",
-                "0-2"
-            ],
-            [
-                "2025-03-17",
-                "Aduana Stars FC",
-                "l",
-                "0-2"
-            ]
-        ],
-        "last_streak_match": [
-            "2025-03-16",
-            "Aduana Stars FC",
-            "l",
-            "0-2"
-        ]
-    },
-    "Dreams": {
         "winstreak": 1,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 4,
+        "games_without_loss": 1,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Basake Holy Stars FC",
+                "w",
+                "1-0"
+            ]
+        ],
+        "last_streak_match": [
+            "2025-03-19",
+            "Basake Holy Stars FC",
+            "w",
+            "1-0"
+        ]
+    },
+    "Dreams": {
+        "winstreak": 2,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2025-01-26",
@@ -17860,13 +17962,19 @@
                 "Accra Hearts of Oak",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Heart of Lions",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-15",
-            "Accra Hearts of Oak",
+            "2025-03-19",
+            "Heart of Lions",
             "w",
-            "1-0"
+            "2-1"
         ]
     },
     "Gokulam Kerala FC": {
@@ -18795,10 +18903,10 @@
         ]
     },
     "Olympique Lyonnais": {
-        "winstreak": 9,
+        "winstreak": 10,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 9,
+        "games_without_loss": 10,
         "match_history": [
             [
                 "2025-03-01",
@@ -18853,10 +18961,16 @@
                 "FC Bayern München",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "FC Bayern München",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "FC Bayern München",
             "w",
             "2-0"
@@ -21611,10 +21725,10 @@
         ]
     },
     "Lexington SC": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 4,
+        "games_without_win": 0,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2024-10-19",
@@ -21639,20 +21753,26 @@
                 "Orange County SC",
                 "d",
                 "2-2"
+            ],
+            [
+                "2025-03-19",
+                "Southern Indiana FC",
+                "w",
+                "5-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-08",
-            "Hartford Athletic",
+            "2025-03-19",
+            "Southern Indiana FC",
             "w",
-            "2-0"
+            "5-0"
         ]
     },
     "Chattanooga Red Wolves SC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-08",
@@ -21665,10 +21785,16 @@
                 "New Jersey Alliance FC",
                 "w",
                 "6-4"
+            ],
+            [
+                "2025-03-19",
+                "New Jersey Alliance FC",
+                "w",
+                "6-4"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "New Jersey Alliance FC",
             "w",
             "6-4"
@@ -22089,177 +22215,39 @@
         ]
     },
     "Chelsea FC Women": {
-        "winstreak": 1,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 25,
-        "match_history": [
-            [
-                "2024-05-05",
-                "Bristol City WFC",
-                "w",
-                "8-0"
-            ],
-            [
-                "2024-05-15",
-                "Tottenham FC Women",
-                "w",
-                "1-0"
-            ],
-            [
-                "2024-05-18",
-                "Manchester United Women",
-                "w",
-                "6-0"
-            ],
-            [
-                "2024-09-20",
-                "Aston Villa WFC",
-                "w",
-                "1-0"
-            ],
-            [
-                "2024-09-27",
-                "Crystal Palace Women",
-                "w",
-                "7-0"
-            ],
-            [
-                "2024-10-08",
-                "Real Madrid",
-                "w",
-                "3-2"
-            ],
-            [
-                "2024-10-12",
-                "Arsenal Women",
-                "w",
-                "2-1"
-            ],
-            [
-                "2024-10-17",
-                "FC Twente Vrouwen",
-                "w",
-                "3-1"
-            ],
-            [
-                "2024-10-20",
-                "Tottenham FC Women",
-                "w",
-                "5-2"
-            ],
-            [
-                "2024-11-03",
-                "Everton Women",
-                "w",
-                "5-0"
-            ],
-            [
-                "2024-11-10",
-                "Liverpool FC Women",
-                "w",
-                "3-0"
-            ],
-            [
-                "2024-11-13",
-                "Celtic LFC",
-                "w",
-                "2-1"
-            ],
-            [
-                "2024-11-16",
-                "Manchester City W.F.C.",
-                "w",
-                "2-0"
-            ],
-            [
-                "2024-11-20",
-                "Celtic LFC",
-                "w",
-                "3-0"
-            ],
-            [
-                "2024-11-24",
-                "Manchester United Women",
-                "w",
-                "1-0"
-            ],
-            [
-                "2024-12-08",
-                "Brighton",
-                "w",
-                "4-2"
-            ],
-            [
-                "2024-12-11",
-                "FC Twente Vrouwen",
-                "w",
-                "6-1"
-            ],
-            [
-                "2024-12-14",
-                "Leicester City WFC",
-                "d",
-                "1-1"
-            ],
-            [
-                "2024-12-17",
-                "Real Madrid",
-                "w",
-                "2-1"
-            ],
-            [
-                "2025-01-19",
-                "West Ham Women",
-                "w",
-                "5-0"
-            ],
-            [
-                "2025-01-26",
-                "Arsenal Women",
-                "w",
-                "1-0"
-            ],
-            [
-                "2025-02-02",
-                "Aston Villa WFC",
-                "w",
-                "1-0"
-            ],
-            [
-                "2025-02-16",
-                "Everton Women",
-                "w",
-                "2-1"
-            ],
-            [
-                "2025-03-02",
-                "Brighton",
-                "d",
-                "2-2"
-            ],
-            [
-                "2025-03-05",
-                "Leicester City WFC",
-                "w",
-                "3-1"
-            ]
-        ],
-        "last_streak_match": [
-            "2025-03-05",
-            "Leicester City WFC",
-            "w",
-            "3-1"
-        ]
-    },
-    "Arsenal Women": {
         "winstreak": 0,
         "losestreak": 1,
         "games_without_win": 1,
         "games_without_loss": 0,
         "match_history": [
             [
+                "2025-03-19",
+                "Manchester City W.F.C.",
+                "l",
+                "0-2"
+            ]
+        ],
+        "last_streak_match": [
+            "2025-03-19",
+            "Manchester City W.F.C.",
+            "l",
+            "0-2"
+        ]
+    },
+    "Arsenal Women": {
+        "winstreak": 0,
+        "losestreak": 2,
+        "games_without_win": 2,
+        "games_without_loss": 0,
+        "match_history": [
+            [
                 "2025-03-18",
+                "Real Madrid",
+                "l",
+                "0-2"
+            ],
+            [
+                "2025-03-19",
                 "Real Madrid",
                 "l",
                 "0-2"
@@ -22546,12 +22534,18 @@
     },
     "FC Bayern München": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 2,
+        "losestreak": 2,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Olympique Lyonnais",
+                "l",
+                "0-2"
+            ],
+            [
+                "2025-03-19",
                 "Olympique Lyonnais",
                 "l",
                 "0-2"
@@ -25468,10 +25462,10 @@
         ]
     },
     "FSV Zwickau": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 4,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2025-02-02",
@@ -25496,13 +25490,19 @@
                 "Viktoria Berlin",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "VFC Plauen",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-15",
-            "Viktoria Berlin",
+            "2025-03-19",
+            "VFC Plauen",
             "w",
-            "1-0"
+            "2-0"
         ]
     },
     "Berliner AK 07": {
@@ -29074,10 +29074,10 @@
         ]
     },
     "Real Madrid": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 8,
+        "games_without_loss": 9,
         "match_history": [
             [
                 "2025-03-01",
@@ -29126,10 +29126,16 @@
                 "Arsenal Women",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "Arsenal Women",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Arsenal Women",
             "w",
             "2-0"
@@ -32007,12 +32013,18 @@
     },
     "Rotherham United": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 3,
+        "losestreak": 2,
+        "games_without_win": 4,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Wycombe Wanderers",
+                "l",
+                "2-3"
+            ],
+            [
+                "2025-03-19",
                 "Wycombe Wanderers",
                 "l",
                 "2-3"
@@ -34662,10 +34674,10 @@
         ]
     },
     "Independiente Santa Fe": {
-        "winstreak": 2,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_win": 1,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-02-25",
@@ -34684,6 +34696,12 @@
                 "Fortaleza CEIF",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "Atlético Bucaramanga",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -34694,16 +34712,22 @@
         ]
     },
     "Deportes Tolima": {
-        "winstreak": 1,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_win": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-10",
                 "Once Caldas",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "Atlético Nacional",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -34715,15 +34739,15 @@
     },
     "Atlético Bucaramanga": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "losestreak": 0,
+        "games_without_win": 2,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2025-03-14",
-                "Deportivo Pereira",
-                "l",
-                "0-1"
+                "2025-03-19",
+                "Independiente Santa Fe",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -34800,8 +34824,8 @@
     "Atlético Nacional": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 3,
+        "games_without_win": 2,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-03-04",
@@ -34820,6 +34844,12 @@
                 "Envigado FC",
                 "d",
                 "0-0"
+            ],
+            [
+                "2025-03-19",
+                "Deportes Tolima",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -36324,10 +36354,10 @@
         ]
     },
     "Loudoun United FC": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-03-08",
@@ -36346,10 +36376,16 @@
                 "West Chester United",
                 "w",
                 "3-2"
+            ],
+            [
+                "2025-03-19",
+                "West Chester United",
+                "w",
+                "3-2"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "West Chester United",
             "w",
             "3-2"
@@ -36468,20 +36504,26 @@
         ]
     },
     "Miami FC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "Naples United FC",
                 "w",
                 "4-1"
+            ],
+            [
+                "2025-03-19",
+                "Naples United FC",
+                "w",
+                "4-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Naples United FC",
             "w",
             "4-1"
@@ -36708,10 +36750,10 @@
         ]
     },
     "FC Tulsa": {
-        "winstreak": 4,
+        "winstreak": 5,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 4,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2024-10-26",
@@ -36736,10 +36778,16 @@
                 "Tulsa Athletics",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Tulsa Athletics",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Tulsa Athletics",
             "w",
             "1-0"
@@ -36851,8 +36899,8 @@
     },
     "Richmond Kickers": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -36860,6 +36908,12 @@
                 "Charlotte Independence",
                 "l",
                 "0-1"
+            ],
+            [
+                "2025-03-19",
+                "Virginia Dream FC",
+                "l",
+                "1-3"
             ]
         ],
         "last_streak_match": [
@@ -36890,10 +36944,10 @@
         ]
     },
     "One Knoxville SC": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 5,
-        "games_without_loss": 2,
+        "games_without_win": 0,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-16",
@@ -36906,13 +36960,19 @@
                 "Spokane Velocity FC",
                 "d",
                 "2-2"
+            ],
+            [
+                "2025-03-19",
+                "Appalachian FC",
+                "w",
+                "3-0"
             ]
         ],
         "last_streak_match": [
-            "2024-11-02",
-            "Greenville Triumph SC",
-            "l",
-            "1-2"
+            "2025-03-19",
+            "Appalachian FC",
+            "w",
+            "3-0"
         ]
     },
     "South Georgia Tormenta FC": {
@@ -38669,23 +38729,29 @@
         ]
     },
     "Aldosivi": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-14",
                 "Argentinos Juniors",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "Gimnasia y Tiro de Salta",
+                "w",
+                "7-6"
             ]
         ],
         "last_streak_match": [
-            "2025-03-14",
-            "Argentinos Juniors",
+            "2025-03-19",
+            "Gimnasia y Tiro de Salta",
             "w",
-            "2-0"
+            "7-6"
         ]
     },
     "Estudiantes de Río Cuarto": {
@@ -41325,10 +41391,10 @@
         ]
     },
     "Wealdstone": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-15",
@@ -41341,10 +41407,16 @@
                 "Altrincham",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Altrincham",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Altrincham",
             "w",
             "1-0"
@@ -41372,12 +41444,18 @@
     },
     "Maidenhead United": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Aldershot Town",
+                "l",
+                "0-1"
+            ],
+            [
+                "2025-03-19",
                 "Aldershot Town",
                 "l",
                 "0-1"
@@ -42314,8 +42392,8 @@
     },
     "FC Teutonia 05 Ottensen": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -42323,6 +42401,12 @@
                 "SV Drochtersen/Assel",
                 "l",
                 "2-3"
+            ],
+            [
+                "2025-03-19",
+                "FC St Pauli II U23",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
@@ -42418,39 +42502,15 @@
     },
     "Holstein Kiel II U23": {
         "winstreak": 0,
-        "losestreak": 5,
-        "games_without_win": 12,
-        "games_without_loss": 0,
+        "losestreak": 0,
+        "games_without_win": 13,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2025-02-23",
-                "Eintracht Norderstedt",
-                "l",
-                "2-4"
-            ],
-            [
-                "2025-03-02",
-                "FC Teutonia 05 Ottensen",
-                "l",
-                "0-1"
-            ],
-            [
-                "2025-03-09",
-                "1.FC Phönix Lübeck",
-                "l",
-                "1-4"
-            ],
-            [
-                "2025-03-16",
-                "Kickers Emden",
-                "l",
-                "1-2"
-            ],
-            [
-                "2025-03-17",
-                "Kickers Emden",
-                "l",
-                "1-2"
+                "2025-03-19",
+                "SSV Jeddeloh",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -42462,15 +42522,15 @@
     },
     "SSV Jeddeloh": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 5,
-        "games_without_loss": 0,
+        "losestreak": 0,
+        "games_without_win": 6,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2025-03-15",
-                "TSV Havelse",
-                "l",
-                "1-3"
+                "2025-03-19",
+                "Holstein Kiel II U23",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -42950,28 +43010,22 @@
     },
     "SC Fortuna Köln": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 3,
-        "games_without_loss": 2,
+        "losestreak": 1,
+        "games_without_win": 4,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-08",
-                "Sportfreunde Lotte",
-                "d",
-                "1-1"
-            ],
-            [
-                "2025-03-15",
-                "FC Gütersloh",
-                "d",
-                "2-2"
+                "2025-03-19",
+                "SV Rödinghausen",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-01",
-            "MSV Duisburg",
+            "2025-03-19",
+            "SV Rödinghausen",
             "l",
-            "0-2"
+            "0-1"
         ]
     },
     "Fortuna Düsseldorf II U23": {
@@ -42995,10 +43049,10 @@
         ]
     },
     "SV Rödinghausen": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 4,
-        "games_without_loss": 2,
+        "games_without_win": 0,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-08",
@@ -43011,13 +43065,19 @@
                 "Wuppertaler SV",
                 "d",
                 "2-2"
+            ],
+            [
+                "2025-03-19",
+                "SC Fortuna Köln",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-02",
-            "1. FC Köln II U23",
-            "l",
-            "0-1"
+            "2025-03-19",
+            "SC Fortuna Köln",
+            "w",
+            "1-0"
         ]
     },
     "FC Wegberg-Beeck": {
@@ -43355,10 +43415,10 @@
         ]
     },
     "DJK Vilzing": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2024-11-23",
@@ -43377,13 +43437,19 @@
                 "Bayern München II",
                 "w",
                 "3-0"
+            ],
+            [
+                "2025-03-19",
+                "SV Viktoria Aschaffenburg",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-08",
-            "Bayern München II",
+            "2025-03-19",
+            "SV Viktoria Aschaffenburg",
             "w",
-            "3-0"
+            "2-0"
         ]
     },
     "FV Illertissen": {
@@ -48338,8 +48404,8 @@
     },
     "Eintracht Frankfurt": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -48347,6 +48413,12 @@
                 "SC Freiburg",
                 "l",
                 "2-3"
+            ],
+            [
+                "2025-03-19",
+                "SG Sonnenhof Großaspach",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
@@ -48827,10 +48899,10 @@
         ]
     },
     "Sparta Rotterdam": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 3,
+        "games_without_win": 0,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-03-02",
@@ -48849,13 +48921,19 @@
                 "PEC Zwolle",
                 "d",
                 "1-1"
+            ],
+            [
+                "2025-03-19",
+                "ADO Den Haag",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-02",
-            "Willem II Tilburg",
+            "2025-03-19",
+            "ADO Den Haag",
             "w",
-            "4-0"
+            "2-0"
         ]
     },
     "FC Twente": {
@@ -50191,23 +50269,23 @@
         ]
     },
     "FC Schalke 04": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2025-03-14",
-                "Hannover 96",
-                "l",
-                "1-2"
+                "2025-03-19",
+                "FC Groningen",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-14",
-            "Hannover 96",
-            "l",
-            "1-2"
+            "2025-03-19",
+            "FC Groningen",
+            "w",
+            "1-0"
         ]
     },
     "Karlsruher SC": {
@@ -52193,10 +52271,10 @@
         ]
     },
     "Manchester City W.F.C.": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 3,
+        "games_without_win": 0,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-02-16",
@@ -52215,13 +52293,19 @@
                 "West Ham Women",
                 "d",
                 "1-1"
+            ],
+            [
+                "2025-03-19",
+                "Chelsea FC Women",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-02",
-            "Tottenham FC Women",
+            "2025-03-19",
+            "Chelsea FC Women",
             "w",
-            "2-1"
+            "2-0"
         ]
     },
     "Tottenham FC Women": {
@@ -53477,10 +53561,10 @@
         ]
     },
     "Náutico": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-12",
@@ -53493,10 +53577,16 @@
                 "América-RN",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "América-RN",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "América-RN",
             "w",
             "1-0"
@@ -53980,12 +54070,18 @@
     },
     "FC Halifax Town": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Dagenham & Redbridge",
+                "l",
+                "0-1"
+            ],
+            [
+                "2025-03-19",
                 "Dagenham & Redbridge",
                 "l",
                 "0-1"
@@ -54227,10 +54323,10 @@
         ]
     },
     "FC St Pauli II U23": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 3,
+        "games_without_win": 0,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-03-02",
@@ -54249,11 +54345,17 @@
                 "VfB Oldenburg",
                 "d",
                 "2-2"
+            ],
+            [
+                "2025-03-19",
+                "FC Teutonia 05 Ottensen",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-02",
-            "Kickers Emden",
+            "2025-03-19",
+            "FC Teutonia 05 Ottensen",
             "w",
             "1-0"
         ]
@@ -54760,20 +54862,20 @@
     },
     "SV Viktoria Aschaffenburg": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 5,
-        "games_without_loss": 1,
+        "losestreak": 1,
+        "games_without_win": 6,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-08",
-                "FC Würzburger Kickers",
-                "d",
-                "0-0"
+                "2025-03-19",
+                "DJK Vilzing",
+                "l",
+                "0-2"
             ]
         ],
         "last_streak_match": [
-            "2024-11-30",
-            "Bayern München II",
+            "2025-03-19",
+            "DJK Vilzing",
             "l",
             "0-2"
         ]
@@ -54903,16 +55005,22 @@
         ]
     },
     "Sreenidi Deccan FC": {
-        "winstreak": 1,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_win": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-07",
                 "Delhi FC",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Inter Kashi FC",
+                "d",
+                "2-2"
             ]
         ],
         "last_streak_match": [
@@ -57215,11 +57323,17 @@
     "Tigres FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 5,
-        "games_without_loss": 1,
+        "games_without_win": 6,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
+                "Real Cartagena",
+                "d",
+                "0-0"
+            ],
+            [
+                "2025-03-19",
                 "Real Cartagena",
                 "d",
                 "0-0"
@@ -57861,36 +57975,30 @@
         ]
     },
     "Georgia U19": {
-        "winstreak": 1,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 2,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2024-06-08",
-                "North Macedonia U19",
-                "d",
-                "0-0"
-            ],
-            [
-                "2024-06-10",
-                "North Macedonia U19",
-                "w",
-                "2-0"
+                "2025-03-19",
+                "Poland U19",
+                "l",
+                "0-3"
             ]
         ],
         "last_streak_match": [
-            "2024-06-10",
-            "North Macedonia U19",
-            "w",
-            "2-0"
+            "2025-03-19",
+            "Poland U19",
+            "l",
+            "0-3"
         ]
     },
     "Czechia U19": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2024-03-26",
@@ -57909,23 +58017,35 @@
                 "Belgium U19",
                 "w",
                 "2-1"
+            ],
+            [
+                "2025-03-19",
+                "Luxembourg U19",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-02-20",
-            "Belgium U19",
+            "2025-03-19",
+            "Luxembourg U19",
             "w",
-            "2-1"
+            "2-0"
         ]
     },
     "Türkiye U19": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 5,
-        "games_without_loss": 1,
+        "games_without_win": 6,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
+                "Portugal U19",
+                "d",
+                "2-2"
+            ],
+            [
+                "2025-03-19",
                 "Portugal U19",
                 "d",
                 "2-2"
@@ -57965,24 +58085,29 @@
         ]
     },
     "Chattanooga FC": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-03-19",
-                "Miami United",
-                "l",
-                "0-1"
+                "2025-03-19",
+                "Corpus Christi FC",
+                "w",
+                "1-0"
             ]
         ],
-        "last_streak_match": null
+        "last_streak_match": [
+            "2025-03-19",
+            "Corpus Christi FC",
+            "w",
+            "1-0"
+        ]
     },
     "Miami United": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -57990,6 +58115,12 @@
                 "Memphis 901 FC",
                 "l",
                 "0-2"
+            ],
+            [
+                "2025-03-19",
+                "Inter Miami CF II",
+                "l",
+                "2-4"
             ]
         ],
         "last_streak_match": [
@@ -58086,8 +58217,8 @@
     },
     "West Chester United": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -58098,6 +58229,12 @@
             ],
             [
                 "2025-03-18",
+                "Loudoun United FC",
+                "l",
+                "2-3"
+            ],
+            [
+                "2025-03-19",
                 "Loudoun United FC",
                 "l",
                 "2-3"
@@ -58127,8 +58264,8 @@
     },
     "Tulsa Athletics": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -58139,6 +58276,12 @@
             ],
             [
                 "2025-03-18",
+                "FC Tulsa",
+                "l",
+                "0-1"
+            ],
+            [
+                "2025-03-19",
                 "FC Tulsa",
                 "l",
                 "0-1"
@@ -58182,20 +58325,26 @@
         "last_streak_match": null
     },
     "Foro SC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "Texoma FC",
                 "w",
                 "2-1"
+            ],
+            [
+                "2025-03-19",
+                "Texoma FC",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Texoma FC",
             "w",
             "2-1"
@@ -58217,23 +58366,23 @@
         "last_streak_match": null
     },
     "El Farolito": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-04-16",
-                "Oakland Roots SC",
-                "l",
-                "1-2"
+                "2025-03-19",
+                "Real Monarchs SLC",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2024-04-16",
-            "Oakland Roots SC",
-            "l",
-            "1-2"
+            "2025-03-19",
+            "Real Monarchs SLC",
+            "w",
+            "1-0"
         ]
     },
     "Japan": {
@@ -58757,15 +58906,15 @@
     },
     "Eswatini": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 9,
-        "games_without_loss": 0,
+        "losestreak": 0,
+        "games_without_win": 10,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-11-19",
-                "Mali",
-                "l",
-                "0-6"
+                "2025-03-19",
+                "Cameroon",
+                "d",
+                "0-0"
             ]
         ],
         "last_streak_match": [
@@ -58797,8 +58946,8 @@
     },
     "Liberia": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -58806,6 +58955,12 @@
                 "Algeria",
                 "l",
                 "1-5"
+            ],
+            [
+                "2025-03-19",
+                "Tunisia",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
@@ -58817,40 +58972,22 @@
     },
     "Juazeirense": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 4,
+        "losestreak": 1,
+        "games_without_win": 2,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-02-05",
-                "Bahia",
-                "d",
-                "0-0"
-            ],
-            [
-                "2025-02-12",
-                "Náutico",
-                "d",
-                "0-0"
-            ],
-            [
-                "2025-02-26",
-                "Sampaio Corrêa",
-                "w",
-                "1-0"
-            ],
-            [
-                "2025-03-06",
-                "CSA",
-                "d",
-                "2-2"
+                "2025-03-19",
+                "Ceará",
+                "l",
+                "0-2"
             ]
         ],
         "last_streak_match": [
-            "2025-02-26",
-            "Sampaio Corrêa",
-            "w",
-            "1-0"
+            "2025-03-19",
+            "Ceará",
+            "l",
+            "0-2"
         ]
     },
     "Ríver AC": {
@@ -58900,30 +59037,30 @@
         ]
     },
     "Vitória": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 2,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2025-03-12",
-                "Náutico",
-                "l",
-                "0-2"
+                "2025-03-19",
+                "Sport Recife",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-12",
-            "Náutico",
-            "l",
-            "0-2"
+            "2025-03-19",
+            "Sport Recife",
+            "w",
+            "1-0"
         ]
     },
     "Ceará": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 5,
+        "games_without_loss": 6,
         "match_history": [
             [
                 "2025-02-05",
@@ -58954,13 +59091,19 @@
                 "Confiança",
                 "w",
                 "5-2"
+            ],
+            [
+                "2025-03-19",
+                "Juazeirense",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-12",
-            "Confiança",
+            "2025-03-19",
+            "Juazeirense",
             "w",
-            "5-2"
+            "2-0"
         ]
     },
     "Kosovo U19": {
@@ -58990,30 +59133,30 @@
         ]
     },
     "Austria U19": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-03-25",
-                "Spain U19",
-                "l",
-                "1-2"
+                "2025-03-19",
+                "Hungary U19",
+                "w",
+                "3-1"
             ]
         ],
         "last_streak_match": [
-            "2024-03-25",
-            "Spain U19",
-            "l",
-            "1-2"
+            "2025-03-19",
+            "Hungary U19",
+            "w",
+            "3-1"
         ]
     },
     "Spain U19": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 2,
+        "games_without_win": 0,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2024-10-12",
@@ -59026,24 +59169,36 @@
                 "Romania U19",
                 "d",
                 "1-1"
+            ],
+            [
+                "2025-03-19",
+                "France U19",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2024-10-12",
-            "Norway U19",
+            "2025-03-19",
+            "France U19",
             "w",
-            "3-2"
+            "2-1"
         ]
     },
     "Slovenia U19": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 2,
+        "losestreak": 2,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2024-08-06",
                 "Italy U19",
+                "l",
+                "0-2"
+            ],
+            [
+                "2025-03-19",
+                "Germany U19",
                 "l",
                 "0-2"
             ]
@@ -59057,34 +59212,28 @@
     },
     "France U19": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 2,
+        "losestreak": 1,
+        "games_without_win": 2,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2024-09-09",
-                "Poland U19",
-                "w",
-                "2-1"
-            ],
-            [
-                "2024-10-09",
-                "Denmark U19",
-                "d",
-                "1-1"
+                "2025-03-19",
+                "Spain U19",
+                "l",
+                "1-2"
             ]
         ],
         "last_streak_match": [
-            "2024-09-09",
-            "Poland U19",
-            "w",
-            "2-1"
+            "2025-03-19",
+            "Spain U19",
+            "l",
+            "1-2"
         ]
     },
     "Belgium U19": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -59098,6 +59247,12 @@
                 "Norway U19",
                 "l",
                 "0-2"
+            ],
+            [
+                "2025-03-19",
+                "Norway U19",
+                "l",
+                "0-2"
             ]
         ],
         "last_streak_match": [
@@ -59108,23 +59263,23 @@
         ]
     },
     "Netherlands U19": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-07-27",
-                "Spain U19",
-                "l",
-                "1-2"
+                "2025-03-19",
+                "Croatia U19",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2024-07-27",
-            "Spain U19",
-            "l",
-            "1-2"
+            "2025-03-19",
+            "Croatia U19",
+            "w",
+            "2-1"
         ]
     },
     "Lithuania U19": {
@@ -59160,10 +59315,10 @@
         ]
     },
     "Norway U19": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-02-21",
@@ -59176,10 +59331,16 @@
                 "Belgium U19",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "Belgium U19",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Belgium U19",
             "w",
             "2-0"
@@ -59188,11 +59349,17 @@
     "Montenegro U19": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 3,
-        "games_without_loss": 1,
+        "games_without_win": 4,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
+                "Slovakia U19",
+                "d",
+                "1-1"
+            ],
+            [
+                "2025-03-19",
                 "Slovakia U19",
                 "d",
                 "1-1"
@@ -59239,8 +59406,8 @@
     },
     "Israel U19": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -59254,6 +59421,12 @@
                 "Norway U19",
                 "l",
                 "0-2"
+            ],
+            [
+                "2025-03-19",
+                "Serbia U19",
+                "l",
+                "2-3"
             ]
         ],
         "last_streak_match": [
@@ -59264,10 +59437,10 @@
         ]
     },
     "Serbia U19": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2024-07-16",
@@ -59280,40 +59453,46 @@
                 "Lithuania U19",
                 "w",
                 "4-1"
+            ],
+            [
+                "2025-03-19",
+                "Israel U19",
+                "w",
+                "3-2"
             ]
         ],
         "last_streak_match": [
-            "2024-07-20",
-            "Lithuania U19",
+            "2025-03-19",
+            "Israel U19",
             "w",
-            "4-1"
+            "3-2"
         ]
     },
     "Denmark U19": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 5,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2025-02-21",
-                "Norway U19",
-                "l",
-                "1-2"
+                "2025-03-19",
+                "Iceland U19",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2025-02-21",
-            "Norway U19",
-            "l",
-            "1-2"
+            "2025-03-19",
+            "Iceland U19",
+            "w",
+            "2-0"
         ]
     },
     "Portugal U19": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 5,
+        "games_without_win": 3,
+        "games_without_loss": 6,
         "match_history": [
             [
                 "2025-01-28",
@@ -59341,6 +59520,12 @@
             ],
             [
                 "2025-03-18",
+                "Türkiye U19",
+                "d",
+                "2-2"
+            ],
+            [
+                "2025-03-19",
                 "Türkiye U19",
                 "d",
                 "2-2"
@@ -59410,8 +59595,8 @@
     "Italy U19": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 1,
-        "games_without_loss": 2,
+        "games_without_win": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2024-08-06",
@@ -59424,6 +59609,12 @@
                 "Wales U19",
                 "d",
                 "3-3"
+            ],
+            [
+                "2025-03-19",
+                "Latvia U19",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -59435,40 +59626,46 @@
     },
     "Croatia U19": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 3,
-        "games_without_loss": 1,
+        "losestreak": 1,
+        "games_without_win": 4,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2024-10-14",
-                "Greece U19",
-                "d",
-                "1-1"
+                "2025-03-19",
+                "Netherlands U19",
+                "l",
+                "1-2"
             ]
         ],
         "last_streak_match": [
-            "2024-03-23",
-            "Türkiye U19",
+            "2025-03-19",
+            "Netherlands U19",
             "l",
             "1-2"
         ]
     },
     "Germany U19": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2024-10-15",
                 "Norway U19",
                 "w",
                 "2-0"
+            ],
+            [
+                "2025-03-19",
+                "Slovenia U19",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2024-10-15",
-            "Norway U19",
+            "2025-03-19",
+            "Slovenia U19",
             "w",
             "2-0"
         ]
@@ -59536,12 +59733,18 @@
     "Latvia U19": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 3,
-        "games_without_loss": 1,
+        "games_without_win": 4,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2024-03-26",
                 "North Macedonia U19",
+                "d",
+                "1-1"
+            ],
+            [
+                "2025-03-19",
+                "Italy U19",
                 "d",
                 "1-1"
             ]
@@ -59620,8 +59823,8 @@
     },
     "Asheville City SC": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -59632,6 +59835,12 @@
             ],
             [
                 "2025-03-18",
+                "Greenville Triumph SC",
+                "l",
+                "3-4"
+            ],
+            [
+                "2025-03-19",
                 "Greenville Triumph SC",
                 "l",
                 "3-4"
@@ -59655,10 +59864,10 @@
         "last_streak_match": null
     },
     "Greenville Triumph SC": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-03-08",
@@ -59677,10 +59886,16 @@
                 "Asheville City SC",
                 "w",
                 "4-3"
+            ],
+            [
+                "2025-03-19",
+                "Asheville City SC",
+                "w",
+                "4-3"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Asheville City SC",
             "w",
             "4-3"
@@ -59837,23 +60052,23 @@
         "last_streak_match": null
     },
     "Des Moines Menace": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-04-03",
-                "Union Omaha SC",
-                "l",
-                "1-3"
+                "2025-03-19",
+                "Sporting Kansas City II",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2024-04-03",
-            "Union Omaha SC",
-            "l",
-            "1-3"
+            "2025-03-19",
+            "Sporting Kansas City II",
+            "w",
+            "2-1"
         ]
     },
     "Irvine Zeta FC": {
@@ -60459,23 +60674,23 @@
         ]
     },
     "India": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 9,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2025-02-25",
-                "South Korea",
-                "l",
-                "0-3"
+                "2025-03-19",
+                "Maldives",
+                "w",
+                "3-0"
             ]
         ],
         "last_streak_match": [
-            "2025-02-25",
-            "South Korea",
-            "l",
-            "0-3"
+            "2025-03-19",
+            "Maldives",
+            "w",
+            "3-0"
         ]
     },
     "Singapore": {
@@ -60726,10 +60941,10 @@
         ]
     },
     "Vietnam": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 8,
+        "games_without_loss": 9,
         "match_history": [
             [
                 "2024-12-09",
@@ -60778,13 +60993,19 @@
                 "Thailand",
                 "w",
                 "3-2"
+            ],
+            [
+                "2025-03-19",
+                "Cambodia",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-01-05",
-            "Thailand",
+            "2025-03-19",
+            "Cambodia",
             "w",
-            "3-2"
+            "2-1"
         ]
     },
     "Iraq": {
@@ -61134,10 +61355,10 @@
         ]
     },
     "Russia": {
-        "winstreak": 5,
+        "winstreak": 6,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 6,
+        "games_without_loss": 7,
         "match_history": [
             [
                 "2024-07-15",
@@ -61174,13 +61395,19 @@
                 "Azerbaijan",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Grenada",
+                "w",
+                "5-0"
             ]
         ],
         "last_streak_match": [
-            "2024-11-28",
-            "Azerbaijan",
+            "2025-03-19",
+            "Grenada",
             "w",
-            "1-0"
+            "5-0"
         ]
     },
     "Serbia": {
@@ -62305,8 +62532,8 @@
     },
     "FC Motown": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -62317,6 +62544,12 @@
             ],
             [
                 "2025-03-18",
+                "Westchester SC",
+                "l",
+                "0-1"
+            ],
+            [
+                "2025-03-19",
                 "Westchester SC",
                 "l",
                 "0-1"
@@ -62445,20 +62678,26 @@
         "last_streak_match": null
     },
     "Ventura County FC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "Laguna United FC",
                 "w",
                 "7-0"
+            ],
+            [
+                "2025-03-19",
+                "Laguna United FC",
+                "w",
+                "7-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Laguna United FC",
             "w",
             "7-0"
@@ -62604,23 +62843,23 @@
         ]
     },
     "England U19": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-07-23",
-                "Spain U19",
-                "l",
-                "1-3"
+                "2025-03-19",
+                "Wales U19",
+                "w",
+                "2-0"
             ]
         ],
         "last_streak_match": [
-            "2024-07-23",
-            "Spain U19",
-            "l",
-            "1-3"
+            "2025-03-19",
+            "Wales U19",
+            "w",
+            "2-0"
         ]
     },
     "Czechia U21": {
@@ -65382,20 +65621,26 @@
         ]
     },
     "Hartford Athletic": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "New York Shockers",
                 "w",
                 "3-0"
+            ],
+            [
+                "2025-03-19",
+                "New York Shockers",
+                "w",
+                "3-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "New York Shockers",
             "w",
             "3-0"
@@ -65403,28 +65648,22 @@
     },
     "Birmingham Legion FC": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 3,
-        "games_without_loss": 2,
+        "losestreak": 1,
+        "games_without_win": 4,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-16",
-                "Louisville City FC",
-                "d",
-                "1-1"
-            ],
-            [
-                "2025-03-17",
-                "Louisville City FC",
-                "d",
-                "1-1"
+                "2025-03-19",
+                "Little Rock Rangers",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-08",
-            "Loudoun United FC",
+            "2025-03-19",
+            "Little Rock Rangers",
             "l",
-            "1-3"
+            "0-1"
         ]
     },
     "Zambia": {
@@ -65921,23 +66160,23 @@
         ]
     },
     "Tunisia": {
-        "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-11-18",
-                "Gambia",
-                "l",
-                "0-1"
+                "2025-03-19",
+                "Liberia",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2024-11-18",
-            "Gambia",
-            "l",
-            "0-1"
+            "2025-03-19",
+            "Liberia",
+            "w",
+            "1-0"
         ]
     },
     "Croatia": {
@@ -67327,8 +67566,8 @@
     },
     "Cambodia": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -67336,6 +67575,12 @@
                 "Thailand",
                 "l",
                 "2-3"
+            ],
+            [
+                "2025-03-19",
+                "Vietnam",
+                "l",
+                "1-2"
             ]
         ],
         "last_streak_match": [
@@ -72019,11 +72264,17 @@
     "Kongsvinger": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 1,
+        "games_without_win": 3,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
+                "HamKam",
+                "d",
+                "1-1"
+            ],
+            [
+                "2025-03-19",
                 "HamKam",
                 "d",
                 "1-1"
@@ -72313,11 +72564,17 @@
     "HamKam": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 1,
+        "games_without_win": 3,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
+                "Kongsvinger",
+                "d",
+                "1-1"
+            ],
+            [
+                "2025-03-19",
                 "Kongsvinger",
                 "d",
                 "1-1"
@@ -75693,8 +75950,8 @@
     },
     "Ciudad de Bolivar": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -75702,6 +75959,12 @@
                 "Banfield",
                 "l",
                 "0-6"
+            ],
+            [
+                "2025-03-19",
+                "River Plate",
+                "l",
+                "0-2"
             ]
         ],
         "last_streak_match": null
@@ -78161,47 +78424,23 @@
         ]
     },
     "CSA": {
-        "winstreak": 1,
-        "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 5,
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-02-13",
-                "Sampaio Corrêa",
-                "w",
-                "4-0"
-            ],
-            [
-                "2025-02-19",
-                "Boavista",
-                "w",
-                "2-0"
-            ],
-            [
-                "2025-02-26",
-                "Náutico",
-                "w",
-                "4-1"
-            ],
-            [
-                "2025-03-06",
-                "Juazeirense",
-                "d",
-                "2-2"
-            ],
-            [
-                "2025-03-13",
-                "Tuna Luso",
-                "w",
-                "5-0"
+                "2025-03-19",
+                "Bahia",
+                "l",
+                "1-2"
             ]
         ],
         "last_streak_match": [
-            "2025-03-13",
-            "Tuna Luso",
-            "w",
-            "5-0"
+            "2025-03-19",
+            "Bahia",
+            "l",
+            "1-2"
         ]
     },
     "Hunan Billows": {
@@ -81768,8 +82007,8 @@
     },
     "Central African Republic": {
         "winstreak": 0,
-        "losestreak": 5,
-        "games_without_win": 5,
+        "losestreak": 6,
+        "games_without_win": 6,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -81801,6 +82040,12 @@
                 "Gabon",
                 "l",
                 "0-1"
+            ],
+            [
+                "2025-03-19",
+                "Madagascar",
+                "l",
+                "1-4"
             ]
         ],
         "last_streak_match": [
@@ -81858,8 +82103,8 @@
     },
     "Grenada": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -81867,6 +82112,12 @@
                 "Saint Martin",
                 "l",
                 "0-3"
+            ],
+            [
+                "2025-03-19",
+                "Russia",
+                "l",
+                "0-5"
             ]
         ],
         "last_streak_match": [
@@ -82411,35 +82662,23 @@
         ]
     },
     "Madagascar": {
-        "winstreak": 0,
-        "losestreak": 3,
-        "games_without_win": 7,
-        "games_without_loss": 0,
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2024-10-14",
-                "Gambia",
-                "l",
-                "0-1"
-            ],
-            [
-                "2024-11-14",
-                "Tunisia",
-                "l",
-                "2-3"
-            ],
-            [
-                "2024-11-18",
-                "Comoros",
-                "l",
-                "0-1"
+                "2025-03-19",
+                "Central African Republic",
+                "w",
+                "4-1"
             ]
         ],
         "last_streak_match": [
-            "2024-10-14",
-            "Gambia",
-            "l",
-            "0-1"
+            "2025-03-19",
+            "Central African Republic",
+            "w",
+            "4-1"
         ]
     },
     "Comoros": {
@@ -82551,10 +82790,10 @@
         ]
     },
     "Cameroon": {
-        "winstreak": 1,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 8,
+        "games_without_win": 1,
+        "games_without_loss": 9,
         "match_history": [
             [
                 "2024-06-08",
@@ -82603,6 +82842,12 @@
                 "Zimbabwe",
                 "w",
                 "2-1"
+            ],
+            [
+                "2025-03-19",
+                "Eswatini",
+                "d",
+                "0-0"
             ]
         ],
         "last_streak_match": [
@@ -82910,8 +83155,8 @@
     "Slovakia U19": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 2,
+        "games_without_win": 3,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2024-06-10",
@@ -82921,6 +83166,12 @@
             ],
             [
                 "2025-03-18",
+                "Montenegro U19",
+                "d",
+                "1-1"
+            ],
+            [
+                "2025-03-19",
                 "Montenegro U19",
                 "d",
                 "1-1"
@@ -85674,11 +85925,17 @@
     "Cliftonville FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 3,
-        "games_without_loss": 1,
+        "games_without_win": 4,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
+                "Coleraine FC",
+                "d",
+                "2-2"
+            ],
+            [
+                "2025-03-19",
                 "Coleraine FC",
                 "d",
                 "2-2"
@@ -89176,8 +89433,8 @@
     "Larne FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 4,
+        "games_without_win": 3,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2025-03-08",
@@ -89199,6 +89456,12 @@
             ],
             [
                 "2025-03-18",
+                "Glentoran FC",
+                "d",
+                "2-2"
+            ],
+            [
+                "2025-03-19",
                 "Glentoran FC",
                 "d",
                 "2-2"
@@ -91548,12 +91811,18 @@
     },
     "Ireland U19": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 5,
+        "losestreak": 2,
+        "games_without_win": 6,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Finland U19",
+                "l",
+                "0-3"
+            ],
+            [
+                "2025-03-19",
                 "Finland U19",
                 "l",
                 "0-3"
@@ -91707,8 +91976,8 @@
     "Glentoran FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 3,
-        "games_without_loss": 4,
+        "games_without_win": 4,
+        "games_without_loss": 5,
         "match_history": [
             [
                 "2025-03-04",
@@ -91730,6 +91999,12 @@
             ],
             [
                 "2025-03-18",
+                "Larne FC",
+                "d",
+                "2-2"
+            ],
+            [
+                "2025-03-19",
                 "Larne FC",
                 "d",
                 "2-2"
@@ -94799,10 +95074,10 @@
         "last_streak_match": null
     },
     "Boston United": {
-        "winstreak": 3,
+        "winstreak": 4,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 6,
+        "games_without_loss": 7,
         "match_history": [
             [
                 "2025-03-01",
@@ -94839,10 +95114,16 @@
                 "Rochdale",
                 "w",
                 "3-2"
+            ],
+            [
+                "2025-03-19",
+                "Rochdale",
+                "w",
+                "3-2"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Rochdale",
             "w",
             "3-2"
@@ -94966,20 +95247,26 @@
         "last_streak_match": null
     },
     "Braintree Town": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "Gateshead",
                 "w",
                 "3-1"
+            ],
+            [
+                "2025-03-19",
+                "Gateshead",
+                "w",
+                "3-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Gateshead",
             "w",
             "3-1"
@@ -97384,8 +97671,8 @@
     },
     "VFC Plauen": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 9,
+        "losestreak": 3,
+        "games_without_win": 10,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -97399,6 +97686,12 @@
                 "Berliner FC Dynamo",
                 "l",
                 "1-3"
+            ],
+            [
+                "2025-03-19",
+                "FSV Zwickau",
+                "l",
+                "0-2"
             ]
         ],
         "last_streak_match": [
@@ -104740,8 +105033,8 @@
     "Coleraine FC": {
         "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 5,
+        "games_without_win": 3,
+        "games_without_loss": 6,
         "match_history": [
             [
                 "2025-02-22",
@@ -104769,6 +105062,12 @@
             ],
             [
                 "2025-03-18",
+                "Cliftonville FC",
+                "d",
+                "2-2"
+            ],
+            [
+                "2025-03-19",
                 "Cliftonville FC",
                 "d",
                 "2-2"
@@ -108586,21 +108885,15 @@
     },
     "Vision FC": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 3,
-        "games_without_loss": 0,
+        "losestreak": 0,
+        "games_without_win": 4,
+        "games_without_loss": 1,
         "match_history": [
             [
-                "2025-03-16",
-                "Bechem United",
-                "l",
-                "0-2"
-            ],
-            [
-                "2025-03-17",
-                "Bechem United",
-                "l",
-                "0-2"
+                "2025-03-19",
+                "Legon Cities",
+                "d",
+                "1-1"
             ]
         ],
         "last_streak_match": [
@@ -110083,24 +110376,23 @@
     },
     "Wales U19": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 2,
+        "losestreak": 1,
+        "games_without_win": 3,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2024-09-06",
-                "Turkmenistan U19",
-                "d",
-                "2-2"
-            ],
-            [
-                "2024-10-10",
-                "Italy U19",
-                "d",
-                "3-3"
+                "2025-03-19",
+                "England U19",
+                "l",
+                "0-2"
             ]
         ],
-        "last_streak_match": null
+        "last_streak_match": [
+            "2025-03-19",
+            "England U19",
+            "l",
+            "0-2"
+        ]
     },
     "Turkmenistan U19": {
         "winstreak": 0,
@@ -110434,47 +110726,41 @@
     },
     "Basake Holy Stars FC": {
         "winstreak": 0,
-        "losestreak": 0,
-        "games_without_win": 7,
-        "games_without_loss": 3,
+        "losestreak": 1,
+        "games_without_win": 8,
+        "games_without_loss": 0,
         "match_history": [
             [
-                "2025-03-09",
-                "Karela United",
-                "d",
-                "1-1"
-            ],
-            [
-                "2025-03-16",
-                "Nsoatreman FC",
-                "d",
-                "0-0"
-            ],
-            [
-                "2025-03-17",
-                "Nsoatreman FC",
-                "d",
-                "0-0"
+                "2025-03-19",
+                "Bibiani Gold Stars FC",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
-            "2025-02-02",
-            "Dreams",
+            "2025-03-19",
+            "Bibiani Gold Stars FC",
             "l",
-            "1-2"
+            "0-1"
         ]
     },
     "Young Apostles FC": {
-        "winstreak": 1,
+        "winstreak": 0,
         "losestreak": 0,
-        "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_win": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-15",
                 "Accra Lions FC",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Asante Kotoko SC",
+                "d",
+                "0-0"
             ]
         ],
         "last_streak_match": [
@@ -110500,19 +110786,30 @@
         "last_streak_match": null
     },
     "Poland U19": {
-        "winstreak": 0,
+        "winstreak": 1,
         "losestreak": 0,
-        "games_without_win": 2,
-        "games_without_loss": 1,
+        "games_without_win": 0,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-02-25",
                 "Portugal U19",
                 "d",
                 "0-0"
+            ],
+            [
+                "2025-03-19",
+                "Georgia U19",
+                "w",
+                "3-0"
             ]
         ],
-        "last_streak_match": null
+        "last_streak_match": [
+            "2025-03-19",
+            "Georgia U19",
+            "w",
+            "3-0"
+        ]
     },
     "Uzbekistan U21": {
         "winstreak": 0,
@@ -118216,8 +118513,8 @@
     },
     "Maldives": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -118225,6 +118522,12 @@
                 "Bangladesh",
                 "l",
                 "1-2"
+            ],
+            [
+                "2025-03-19",
+                "India",
+                "l",
+                "0-3"
             ]
         ],
         "last_streak_match": null
@@ -118345,20 +118648,26 @@
         "last_streak_match": null
     },
     "SC Bengaluru": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-17",
                 "Real Kashmir",
                 "w",
                 "3-2"
+            ],
+            [
+                "2025-03-19",
+                "Real Kashmir",
+                "w",
+                "3-2"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
+            "2025-03-19",
             "Real Kashmir",
             "w",
             "3-2"
@@ -118386,12 +118695,18 @@
     },
     "Dempo SC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Churchill Brothers SC",
+                "l",
+                "1-3"
+            ],
+            [
+                "2025-03-19",
                 "Churchill Brothers SC",
                 "l",
                 "1-3"
@@ -118542,10 +118857,10 @@
         ]
     },
     "Leixoes SC U23": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-03-03",
@@ -118564,10 +118879,16 @@
                 "CD Mafra U23",
                 "w",
                 "3-0"
+            ],
+            [
+                "2025-03-19",
+                "CD Mafra U23",
+                "w",
+                "3-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "CD Mafra U23",
             "w",
             "3-0"
@@ -118656,10 +118977,10 @@
         ]
     },
     "Académico Viseu U23": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-11",
@@ -118672,10 +118993,16 @@
                 "SC Farense U23",
                 "w",
                 "2-1"
+            ],
+            [
+                "2025-03-19",
+                "SC Farense U23",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-17",
+            "2025-03-19",
             "SC Farense U23",
             "w",
             "2-1"
@@ -118683,8 +119010,8 @@
     },
     "Vizela U23": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -118698,6 +119025,12 @@
                 "Torreense U23",
                 "l",
                 "0-1"
+            ],
+            [
+                "2025-03-19",
+                "Torreense U23",
+                "l",
+                "0-1"
             ]
         ],
         "last_streak_match": [
@@ -118708,10 +119041,10 @@
         ]
     },
     "Torreense U23": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-11",
@@ -118724,10 +119057,16 @@
                 "Vizela U23",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "Vizela U23",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Vizela U23",
             "w",
             "1-0"
@@ -118839,8 +119178,8 @@
     },
     "SC Farense U23": {
         "winstreak": 0,
-        "losestreak": 2,
-        "games_without_win": 2,
+        "losestreak": 3,
+        "games_without_win": 3,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -118851,6 +119190,12 @@
             ],
             [
                 "2025-03-17",
+                "Académico Viseu U23",
+                "l",
+                "1-2"
+            ],
+            [
+                "2025-03-19",
                 "Académico Viseu U23",
                 "l",
                 "1-2"
@@ -118865,12 +119210,18 @@
     },
     "CD Mafra U23": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Leixoes SC U23",
+                "l",
+                "0-3"
+            ],
+            [
+                "2025-03-19",
                 "Leixoes SC U23",
                 "l",
                 "0-3"
@@ -121834,20 +122185,26 @@
         ]
     },
     "Finland U19": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "Ireland U19",
                 "w",
                 "3-0"
+            ],
+            [
+                "2025-03-19",
+                "Ireland U19",
+                "w",
+                "3-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Ireland U19",
             "w",
             "3-0"
@@ -124534,10 +124891,10 @@
         ]
     },
     "Westchester SC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 2,
+        "games_without_loss": 3,
         "match_history": [
             [
                 "2025-03-08",
@@ -124550,20 +124907,26 @@
                 "FC Motown",
                 "w",
                 "1-0"
+            ],
+            [
+                "2025-03-19",
+                "FC Motown",
+                "w",
+                "1-0"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "FC Motown",
             "w",
             "1-0"
         ]
     },
     "FC Naples": {
-        "winstreak": 2,
+        "winstreak": 3,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 3,
+        "games_without_loss": 4,
         "match_history": [
             [
                 "2025-03-08",
@@ -124582,10 +124945,16 @@
                 "Sarasota Paradise",
                 "w",
                 "2-1"
+            ],
+            [
+                "2025-03-19",
+                "Sarasota Paradise",
+                "w",
+                "2-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Sarasota Paradise",
             "w",
             "2-1"
@@ -124862,20 +125231,26 @@
         "last_streak_match": null
     },
     "AV Alta FC": {
-        "winstreak": 1,
+        "winstreak": 2,
         "losestreak": 0,
         "games_without_win": 0,
-        "games_without_loss": 1,
+        "games_without_loss": 2,
         "match_history": [
             [
                 "2025-03-18",
                 "Ventura County Fusion",
                 "w",
                 "3-1"
+            ],
+            [
+                "2025-03-19",
+                "Ventura County Fusion",
+                "w",
+                "3-1"
             ]
         ],
         "last_streak_match": [
-            "2025-03-18",
+            "2025-03-19",
             "Ventura County Fusion",
             "w",
             "3-1"
@@ -124993,12 +125368,18 @@
     },
     "New York Shockers": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Hartford Athletic",
+                "l",
+                "0-3"
+            ],
+            [
+                "2025-03-19",
                 "Hartford Athletic",
                 "l",
                 "0-3"
@@ -125008,12 +125389,18 @@
     },
     "Naples United FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Miami FC",
+                "l",
+                "1-4"
+            ],
+            [
+                "2025-03-19",
                 "Miami FC",
                 "l",
                 "1-4"
@@ -125023,12 +125410,18 @@
     },
     "New Jersey Alliance FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Chattanooga Red Wolves SC",
+                "l",
+                "4-6"
+            ],
+            [
+                "2025-03-19",
                 "Chattanooga Red Wolves SC",
                 "l",
                 "4-6"
@@ -125038,12 +125431,18 @@
     },
     "Sarasota Paradise": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "FC Naples",
+                "l",
+                "1-2"
+            ],
+            [
+                "2025-03-19",
                 "FC Naples",
                 "l",
                 "1-2"
@@ -125053,12 +125452,18 @@
     },
     "Texoma FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "Foro SC",
+                "l",
+                "1-2"
+            ],
+            [
+                "2025-03-19",
                 "Foro SC",
                 "l",
                 "1-2"
@@ -125068,12 +125473,18 @@
     },
     "Ventura County Fusion": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
                 "2025-03-18",
+                "AV Alta FC",
+                "l",
+                "1-3"
+            ],
+            [
+                "2025-03-19",
                 "AV Alta FC",
                 "l",
                 "1-3"
@@ -125083,8 +125494,8 @@
     },
     "Laguna United FC": {
         "winstreak": 0,
-        "losestreak": 1,
-        "games_without_win": 1,
+        "losestreak": 2,
+        "games_without_win": 2,
         "games_without_loss": 0,
         "match_history": [
             [
@@ -125092,8 +125503,284 @@
                 "Ventura County FC",
                 "l",
                 "0-7"
+            ],
+            [
+                "2025-03-19",
+                "Ventura County FC",
+                "l",
+                "0-7"
             ]
         ],
         "last_streak_match": null
+    },
+    "Deportivo Armenio": {
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Talleres",
+                "w",
+                "8-7"
+            ]
+        ],
+        "last_streak_match": [
+            "2025-03-19",
+            "Talleres",
+            "w",
+            "8-7"
+        ]
+    },
+    "Iceland U19": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Denmark U19",
+                "l",
+                "0-2"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Hungary U19": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Austria U19",
+                "l",
+                "1-3"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Luxembourg U19": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Czechia U19",
+                "l",
+                "0-2"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Columbus Crew 2": {
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
+        "match_history": [
+            [
+                "2025-03-19",
+                "NY Renegades FC",
+                "w",
+                "4-1"
+            ]
+        ],
+        "last_streak_match": [
+            "2025-03-19",
+            "NY Renegades FC",
+            "w",
+            "4-1"
+        ]
+    },
+    "NY Renegades FC": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Columbus Crew 2",
+                "l",
+                "1-4"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Corpus Christi FC": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Chattanooga FC",
+                "l",
+                "0-1"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Appalachian FC": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "One Knoxville SC",
+                "l",
+                "0-3"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Inter Miami CF II": {
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Miami United",
+                "w",
+                "4-2"
+            ]
+        ],
+        "last_streak_match": [
+            "2025-03-19",
+            "Miami United",
+            "w",
+            "4-2"
+        ]
+    },
+    "Virginia Dream FC": {
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Richmond Kickers",
+                "w",
+                "3-1"
+            ]
+        ],
+        "last_streak_match": [
+            "2025-03-19",
+            "Richmond Kickers",
+            "w",
+            "3-1"
+        ]
+    },
+    "Southern Indiana FC": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Lexington SC",
+                "l",
+                "0-5"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Sporting Kansas City II": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Des Moines Menace",
+                "l",
+                "1-2"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Little Rock Rangers": {
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Birmingham Legion FC",
+                "w",
+                "1-0"
+            ]
+        ],
+        "last_streak_match": [
+            "2025-03-19",
+            "Birmingham Legion FC",
+            "w",
+            "1-0"
+        ]
+    },
+    "FC Boulder Harpos": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "El Paso Locomotive FC",
+                "l",
+                "0-3"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "Real Monarchs SLC": {
+        "winstreak": 0,
+        "losestreak": 1,
+        "games_without_win": 1,
+        "games_without_loss": 0,
+        "match_history": [
+            [
+                "2025-03-19",
+                "El Farolito",
+                "l",
+                "0-1"
+            ]
+        ],
+        "last_streak_match": null
+    },
+    "SG Sonnenhof Großaspach": {
+        "winstreak": 1,
+        "losestreak": 0,
+        "games_without_win": 0,
+        "games_without_loss": 1,
+        "match_history": [
+            [
+                "2025-03-19",
+                "Eintracht Frankfurt",
+                "w",
+                "1-0"
+            ]
+        ],
+        "last_streak_match": [
+            "2025-03-19",
+            "Eintracht Frankfurt",
+            "w",
+            "1-0"
+        ]
     }
 }

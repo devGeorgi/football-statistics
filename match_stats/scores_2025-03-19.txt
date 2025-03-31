@@ -1,0 +1,269 @@
+Eswatini, 0
+Cameroon, 0
+
+Liberia, 0
+Tunisia, 1
+
+Central African Republic, 1
+Madagascar, 4
+
+Real Madrid, 2
+Arsenal Women, 0
+
+FC Bayern München, 0
+Olympique Lyonnais, 2
+
+VfL Wolfsburg, 1
+Barcelona, 4
+
+Manchester City W.F.C., 2
+Chelsea FC Women, 0
+
+Independiente Santa Fe, 1
+Atlético Bucaramanga, 1
+
+Atlético Nacional, 1
+Deportes Tolima, 1
+
+Rotherham United, 2
+Wycombe Wanderers, 3
+
+Vietnam, 2
+Cambodia, 1
+
+India, 3
+Maldives, 0
+
+Russia, 5
+Grenada, 0
+
+Aldosivi, 7
+Gimnasia y Tiro de Salta, 6
+
+Talleres, 7
+Deportivo Armenio, 8
+
+River Plate, 2
+Ciudad de Bolivar, 0
+
+Sousa EC, 2
+Fortaleza, 1
+
+Vitória, 1
+Sport Recife, 0
+
+Náutico, 1
+América-RN, 0
+
+CSA, 1
+Bahia, 2
+
+Ceará, 2
+Juazeirense, 0
+
+Confiança, 2
+Sampaio Corrêa, 0
+
+Tigres FC, 0
+Real Cartagena, 0
+
+AFC Fylde, 1
+Sutton United, 2
+
+Altrincham, 0
+Wealdstone, 1
+
+FC Halifax Town, 0
+Dagenham & Redbridge, 1
+
+Gateshead, 1
+Braintree Town, 3
+
+Maidenhead United, 0
+Aldershot Town, 1
+
+Rochdale, 2
+Boston United, 3
+
+Denmark U19, 2
+Iceland U19, 0
+
+Hungary U19, 1
+Austria U19, 3
+
+Montenegro U19, 1
+Slovakia U19, 1
+
+Poland U19, 3
+Georgia U19, 0
+
+Netherlands U19, 2
+Croatia U19, 1
+
+Luxembourg U19, 0
+Czechia U19, 2
+
+Norway U19, 2
+Belgium U19, 0
+
+Israel U19, 2
+Serbia U19, 3
+
+Spain U19, 2
+France U19, 1
+
+Italy U19, 1
+Latvia U19, 1
+
+Finland U19, 3
+Ireland U19, 0
+
+Germany U19, 2
+Slovenia U19, 0
+
+Portugal U19, 2
+Türkiye U19, 2
+
+Wales U19, 0
+England U19, 2
+
+Holstein Kiel II U23, 1
+SSV Jeddeloh, 1
+
+FC St Pauli II U23, 1
+FC Teutonia 05 Ottensen, 0
+
+VFC Plauen, 0
+FSV Zwickau, 2
+
+SV Rödinghausen, 1
+SC Fortuna Köln, 0
+
+SV Viktoria Aschaffenburg, 0
+DJK Vilzing, 2
+
+Basake Holy Stars FC, 0
+Bibiani Gold Stars FC, 1
+
+Bechem United, 1
+Accra Hearts of Oak, 0
+
+Heart of Lions, 1
+Dreams, 2
+
+Nations FC, 0
+Aduana Stars FC, 1
+
+Samartex, 2
+Medeama, 1
+
+Young Apostles FC, 0
+Asante Kotoko SC, 0
+
+Legon Cities, 1
+Vision FC, 1
+
+SC Bengaluru, 3
+Real Kashmir, 2
+
+Dempo SC, 1
+Churchill Brothers SC, 3
+
+Sreenidi Deccan FC, 2
+Inter Kashi FC, 2
+
+CD Tapatío, 0
+Atlante FC, 0
+
+Coleraine FC, 2
+Cliftonville FC, 2
+
+Glentoran FC, 2
+Larne FC, 2
+
+Vizela U23, 0
+Torreense U23, 1
+
+SC Farense U23, 1
+Académico Viseu U23, 2
+
+Leixoes SC U23, 3
+CD Mafra U23, 0
+
+Hartford Athletic, 3
+New York Shockers, 0
+
+Miami FC, 4
+Naples United FC, 1
+
+New Jersey Alliance FC, 4
+Chattanooga Red Wolves SC, 6
+
+Sarasota Paradise, 1
+FC Naples, 2
+
+Asheville City SC, 3
+Greenville Triumph SC, 4
+
+FC Motown, 0
+Westchester SC, 1
+
+West Chester United, 2
+Loudoun United FC, 3
+
+Texoma FC, 1
+Foro SC, 2
+
+Tulsa Athletics, 0
+FC Tulsa, 1
+
+AV Alta FC, 3
+Ventura County Fusion, 1
+
+Ventura County FC, 7
+Laguna United FC, 0
+
+Columbus Crew 2, 4
+NY Renegades FC, 1
+
+Chattanooga FC, 1
+Corpus Christi FC, 0
+
+Appalachian FC, 0
+One Knoxville SC, 3
+
+Inter Miami CF II, 4
+Miami United, 2
+
+Richmond Kickers, 1
+Virginia Dream FC, 3
+
+Lexington SC, 5
+Southern Indiana FC, 0
+
+Sporting Kansas City II, 1
+Des Moines Menace, 2
+
+Little Rock Rangers, 1
+Birmingham Legion FC, 0
+
+El Paso Locomotive FC, 3
+FC Boulder Harpos, 0
+
+Real Monarchs SLC, 0
+El Farolito, 1
+
+Al-Sharjah, 1
+Shabab Al-Ahli Dubai, 3
+
+Kongsvinger, 1
+HamKam, 1
+
+ADO Den Haag, 0
+Sparta Rotterdam, 2
+
+FC Schalke 04, 1
+FC Groningen, 0
+
+Eintracht Frankfurt, 0
+SG Sonnenhof Großaspach, 1
